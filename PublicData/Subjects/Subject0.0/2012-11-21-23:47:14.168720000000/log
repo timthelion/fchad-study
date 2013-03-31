@@ -1,0 +1,5 @@
+2012-11-21@23:47:19.117 BRLTTY 4.4 rev Unversioned directory [http://mielke.cc/brltty/]
+2012-11-21@23:47:19.123 Linux Screen Driver:
+2012-11-21@23:47:19.123 BrlAPI Server: release 0.5.7
+2012-11-21@23:47:19.124 cannot open serial device: /dev/ttyUSB0: Adresář nebo soubor neexistuje
+2012-11-21@23:47:19.124 NoSpeech Speech Driver:

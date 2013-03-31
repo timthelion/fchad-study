@@ -1,0 +1,411 @@
+2013-01-22@17:31:56.858 BRLTTY 4.4 rev Unversioned directory [http://mielke.cc/brltty/]
+2013-01-22@17:31:56.859 Working Directory: /home/timothy/works/2012/braille/UOBP/brltty-4.4
+2013-01-22@17:31:56.859 Writable Directory: /var/run/brltty
+2013-01-22@17:31:56.859 Configuration File: /etc/brltty.conf
+2013-01-22@17:31:56.859 Preferences File: brltty.prefs
+2013-01-22@17:31:56.859 regions: text=0.0 status=0.0
+2013-01-22@17:31:56.859 shifts: full=1 half=0 vertical=5
+2013-01-22@17:31:56.859 Drivers Directory: /home/timothy/works/2012/braille/UOBP/brltty-4.4/Programs/../lib
+2013-01-22@17:31:56.859 Tables Directory: /home/timothy/works/2012/braille/UOBP/brltty-4.4/Programs/../Tables
+2013-01-22@17:31:56.860 checking for text table: /home/timothy/works/2012/braille/UOBP/brltty-4.4/Programs/../Tables/cs_CZ.ttb
+2013-01-22@17:31:56.860 checking for text table: /home/timothy/works/2012/braille/UOBP/brltty-4.4/Programs/../Tables/cs.ttb
+2013-01-22@17:31:56.860 compiling text table: /home/timothy/works/2012/braille/UOBP/brltty-4.4/Programs/../Tables/cs.ttb
+2013-01-22@17:31:56.860 file opened: /home/timothy/works/2012/braille/UOBP/brltty-4.4/Programs/../Tables/cs.ttb fd=4
+2013-01-22@17:31:56.860 including data file: /home/timothy/works/2012/braille/UOBP/brltty-4.4/Programs/../Tables/cs.ttb
+2013-01-22@17:31:56.868 file opened: /home/timothy/works/2012/braille/UOBP/brltty-4.4/Programs/../Tables/numbers-dot8.tti fd=5
+2013-01-22@17:31:56.868 including data file: /home/timothy/works/2012/braille/UOBP/brltty-4.4/Programs/../Tables/numbers-dot8.tti
+2013-01-22@17:31:56.870 file opened: /home/timothy/works/2012/braille/UOBP/brltty-4.4/Programs/../Tables/common.tti fd=5
+2013-01-22@17:31:56.870 including data file: /home/timothy/works/2012/braille/UOBP/brltty-4.4/Programs/../Tables/common.tti
+2013-01-22@17:31:56.870 file opened: /home/timothy/works/2012/braille/UOBP/brltty-4.4/Programs/../Tables/spaces.tti fd=6
+2013-01-22@17:31:56.870 including data file: /home/timothy/works/2012/braille/UOBP/brltty-4.4/Programs/../Tables/spaces.tti
+2013-01-22@17:31:56.871 file opened: /home/timothy/works/2012/braille/UOBP/brltty-4.4/Programs/../Tables/boxes.tti fd=6
+2013-01-22@17:31:56.871 including data file: /home/timothy/works/2012/braille/UOBP/brltty-4.4/Programs/../Tables/boxes.tti
+2013-01-22@17:31:56.872 file opened: /home/timothy/works/2012/braille/UOBP/brltty-4.4/Programs/../Tables/blocks.tti fd=6
+2013-01-22@17:31:56.872 including data file: /home/timothy/works/2012/braille/UOBP/brltty-4.4/Programs/../Tables/blocks.tti
+2013-01-22@17:31:56.872 Text Table: cs
+2013-01-22@17:31:56.873 Attributes Table: attributes
+2013-01-22@17:31:56.873 Contraction Table: none
+2013-01-22@17:31:56.873 Key Table: none
+2013-01-22@17:31:56.873 Keyboard Property: type=
+2013-01-22@17:31:56.873 Keyboard Property: vendor=
+2013-01-22@17:31:56.873 Keyboard Property: product=
+2013-01-22@17:31:56.873 checking for screen driver: no
+2013-01-22@17:31:56.873 initializing screen driver: no
+2013-01-22@17:31:56.873 Screen Driver: no [NoScreen]
+2013-01-22@17:31:56.873 NoScreen Screen Driver:
+2013-01-22@17:31:56.874 BrlAPI Server: release 0.5.7
+2013-01-22@17:31:56.874 API Parameter: auth=
+2013-01-22@17:31:56.874 API Parameter: host=
+2013-01-22@17:31:56.874 API Parameter: stacksize=
+2013-01-22@17:31:56.874 checking braille device: /dev/ttyUSB0
+2013-01-22@17:31:56.874 checking for braille driver: ob
+2013-01-22@17:31:56.874 initializing braille driver: ob -> /dev/ttyUSB0
+2013-01-22@17:31:56.875 Initializing serial.
+2013-01-22@17:31:56.875 device directory: /dev
+2013-01-22@17:31:56.875 socket 1 established (fd 5)
+2013-01-22@17:31:56.876 socket 0 established (fd 6)
+2013-01-22@17:31:56.884 serial device opened: /dev/ttyUSB0: fd=4
+2013-01-22@17:31:57.284 Serial initialized.
+2013-01-22@17:31:57.284 Initializing capability nodes.
+2013-01-22@17:31:57.284 ERROR: End of packet reached unexpectedly.  Malformed packet.
+2013-01-22@17:31:57.284 Sending initialization packet.
+2013-01-22@17:31:57.284 Sending start flag.
+2013-01-22@17:31:57.284 Start flag sent.
+2013-01-22@17:31:57.284 Initialization packet sent.
+2013-01-22@17:31:57.284 Waiting for initialization frame.
+2013-01-22@17:31:57.284 Waiting for initialization frame.
+2013-01-22@17:31:57.284 Waiting for initialization frame.
+2013-01-22@17:31:57.284 Waiting for initialization frame.
+2013-01-22@17:31:57.284 Waiting for initialization frame.
+2013-01-22@17:31:57.284 Waiting for initialization frame.
+2013-01-22@17:31:57.284 Waiting for initialization frame.
+2013-01-22@17:31:57.284 Waiting for initialization frame.
+2013-01-22@17:31:57.284 Waiting for initialization frame.
+2013-01-22@17:31:57.284 Waiting for initialization frame.
+2013-01-22@17:31:57.284 Waiting for initialization frame.
+2013-01-22@17:31:57.284 Waiting for initialization frame.
+2013-01-22@17:31:57.284 Waiting for initialization frame.
+2013-01-22@17:31:57.284 Waiting for initialization frame.
+2013-01-22@17:31:57.284 Waiting for initialization frame.
+2013-01-22@17:31:57.284 Waiting for initialization frame.
+2013-01-22@17:31:57.284 Waiting for initialization frame.
+2013-01-22@17:31:57.284 Waiting for initialization frame.
+2013-01-22@17:31:57.284 Waiting for initialization frame.
+2013-01-22@17:31:57.284 Waiting for initialization frame.
+2013-01-22@17:31:57.284 Waiting for initialization frame.
+2013-01-22@17:31:57.284 Waiting for initialization frame.
+2013-01-22@17:31:57.284 Waiting for initialization frame.
+2013-01-22@17:31:57.285 Waiting for initialization frame.
+2013-01-22@17:31:57.285 Waiting for initialization frame.
+2013-01-22@17:31:57.285 Waiting for initialization frame.
+2013-01-22@17:31:57.285 Waiting for initialization frame.
+2013-01-22@17:31:57.285 Waiting for initialization frame.
+2013-01-22@17:31:57.285 Waiting for initialization frame.
+2013-01-22@17:31:57.285 Waiting for initialization frame.
+2013-01-22@17:31:57.285 Waiting for initialization frame.
+2013-01-22@17:31:57.285 Waiting for initialization frame.
+2013-01-22@17:31:57.285 Waiting for initialization frame.
+2013-01-22@17:31:57.285 Waiting for initialization frame.
+2013-01-22@17:31:57.285 Waiting for initialization frame.
+2013-01-22@17:31:57.285 Waiting for initialization frame.
+2013-01-22@17:31:57.285 Waiting for initialization frame.
+2013-01-22@17:31:57.285 Waiting for initialization frame.
+2013-01-22@17:31:57.285 Waiting for initialization frame.
+2013-01-22@17:31:57.285 Waiting for initialization frame.
+2013-01-22@17:31:57.285 Waiting for initialization frame.
+2013-01-22@17:31:57.285 Waiting for initialization frame.
+2013-01-22@17:31:57.285 Waiting for initialization frame.
+2013-01-22@17:31:57.285 Waiting for initialization frame.
+2013-01-22@17:31:57.285 Waiting for initialization frame.
+2013-01-22@17:31:57.285 Waiting for initialization frame.
+2013-01-22@17:31:57.285 Waiting for initialization frame.
+2013-01-22@17:31:57.285 Waiting for initialization frame.
+2013-01-22@17:31:57.285 Waiting for initialization frame.
+2013-01-22@17:31:57.285 Waiting for initialization frame.
+2013-01-22@17:31:57.285 Waiting for initialization frame.
+2013-01-22@17:31:57.285 Waiting for initialization frame.
+2013-01-22@17:31:57.285 Waiting for initialization frame.
+2013-01-22@17:31:57.285 Waiting for initialization frame.
+2013-01-22@17:31:57.285 Waiting for initialization frame.
+2013-01-22@17:31:57.285 Waiting for initialization frame.
+2013-01-22@17:31:57.285 Waiting for initialization frame.
+2013-01-22@17:31:57.285 Waiting for initialization frame.
+2013-01-22@17:31:57.285 Waiting for initialization frame.
+2013-01-22@17:31:57.285 Waiting for initialization frame.
+2013-01-22@17:31:57.285 Waiting for initialization frame.
+2013-01-22@17:31:57.285 Waiting for initialization frame.
+2013-01-22@17:31:57.285 Waiting for initialization frame.
+2013-01-22@17:31:57.285 Waiting for initialization frame.
+2013-01-22@17:31:57.285 Waiting for initialization frame.
+2013-01-22@17:31:57.285 Waiting for initialization frame.
+2013-01-22@17:31:57.285 Waiting for initialization frame.
+2013-01-22@17:31:57.286 Waiting for initialization frame.
+2013-01-22@17:31:57.286 Waiting for initialization frame.
+2013-01-22@17:31:57.286 Waiting for initialization frame.
+2013-01-22@17:31:57.286 Waiting for initialization frame.
+2013-01-22@17:31:57.286 Waiting for initialization frame.
+2013-01-22@17:31:57.286 Waiting for initialization frame.
+2013-01-22@17:31:57.286 Waiting for initialization frame.
+2013-01-22@17:31:57.286 Waiting for initialization frame.
+2013-01-22@17:31:57.286 Waiting for initialization frame.
+2013-01-22@17:31:57.286 Waiting for initialization frame.
+2013-01-22@17:31:57.286 Waiting for initialization frame.
+2013-01-22@17:31:57.286 Waiting for initialization frame.
+2013-01-22@17:31:57.286 Waiting for initialization frame.
+2013-01-22@17:31:57.286 Waiting for initialization frame.
+2013-01-22@17:31:57.286 Waiting for initialization frame.
+2013-01-22@17:31:57.286 Waiting for initialization frame.
+2013-01-22@17:31:57.286 Waiting for initialization frame.
+2013-01-22@17:31:57.286 Waiting for initialization frame.
+2013-01-22@17:31:57.286 Waiting for initialization frame.
+2013-01-22@17:31:57.286 Waiting for initialization frame.
+2013-01-22@17:31:57.286 Waiting for initialization frame.
+2013-01-22@17:31:57.286 Waiting for initialization frame.
+2013-01-22@17:31:57.286 Waiting for initialization frame.
+2013-01-22@17:31:57.286 Waiting for initialization frame.
+2013-01-22@17:31:57.286 Waiting for initialization frame.
+2013-01-22@17:31:57.286 Waiting for initialization frame.
+2013-01-22@17:31:57.286 Waiting for initialization frame.
+2013-01-22@17:31:57.286 Waiting for initialization frame.
+2013-01-22@17:31:57.286 Waiting for initialization frame.
+2013-01-22@17:31:57.286 Waiting for initialization frame.
+2013-01-22@17:31:57.286 Waiting for initialization frame.
+2013-01-22@17:31:57.286 Waiting for initialization frame.
+2013-01-22@17:31:57.286 Waiting for initialization frame.
+2013-01-22@17:31:57.286 Waiting for initialization frame.
+2013-01-22@17:31:57.286 Waiting for initialization frame.
+2013-01-22@17:31:57.286 Waiting for initialization frame.
+2013-01-22@17:31:57.286 Waiting for initialization frame.
+2013-01-22@17:31:57.286 Waiting for initialization frame.
+2013-01-22@17:31:57.286 Waiting for initialization frame.
+2013-01-22@17:31:57.286 Waiting for initialization frame.
+2013-01-22@17:31:57.286 Waiting for initialization frame.
+2013-01-22@17:31:57.286 Waiting for initialization frame.
+2013-01-22@17:31:57.286 Waiting for initialization frame.
+2013-01-22@17:31:57.286 Waiting for initialization frame.
+2013-01-22@17:31:57.287 Waiting for initialization frame.
+2013-01-22@17:31:57.287 Waiting for initialization frame.
+2013-01-22@17:31:57.287 Waiting for initialization frame.
+2013-01-22@17:31:57.287 Waiting for initialization frame.
+2013-01-22@17:31:57.287 Waiting for initialization frame.
+2013-01-22@17:31:57.287 Waiting for initialization frame.
+2013-01-22@17:31:57.287 Waiting for initialization frame.
+2013-01-22@17:31:57.287 Waiting for initialization frame.
+2013-01-22@17:31:57.287 Waiting for initialization frame.
+2013-01-22@17:31:57.287 Waiting for initialization frame.
+2013-01-22@17:31:57.287 Waiting for initialization frame.
+2013-01-22@17:31:57.287 Waiting for initialization frame.
+2013-01-22@17:31:57.287 Waiting for initialization frame.
+2013-01-22@17:31:57.287 Waiting for initialization frame.
+2013-01-22@17:31:57.287 Waiting for initialization frame.
+2013-01-22@17:31:57.287 Waiting for initialization frame.
+2013-01-22@17:31:57.287 Waiting for initialization frame.
+2013-01-22@17:31:57.287 Waiting for initialization frame.
+2013-01-22@17:31:57.287 Waiting for initialization frame.
+2013-01-22@17:31:57.287 Waiting for initialization frame.
+2013-01-22@17:31:57.287 Waiting for initialization frame.
+2013-01-22@17:31:57.287 Waiting for initialization frame.
+2013-01-22@17:31:57.287 Waiting for initialization frame.
+2013-01-22@17:31:57.287 Waiting for initialization frame.
+2013-01-22@17:31:57.287 Waiting for initialization frame.
+2013-01-22@17:31:57.287 Waiting for initialization frame.
+2013-01-22@17:31:57.287 Waiting for initialization frame.
+2013-01-22@17:31:57.287 Waiting for initialization frame.
+2013-01-22@17:31:57.287 Waiting for initialization frame.
+2013-01-22@17:31:57.287 Waiting for initialization frame.
+2013-01-22@17:31:57.287 Waiting for initialization frame.
+2013-01-22@17:31:57.287 Waiting for initialization frame.
+2013-01-22@17:31:57.287 Waiting for initialization frame.
+2013-01-22@17:31:57.287 Waiting for initialization frame.
+2013-01-22@17:31:57.287 Waiting for initialization frame.
+2013-01-22@17:31:57.287 Waiting for initialization frame.
+2013-01-22@17:31:57.287 Waiting for initialization frame.
+2013-01-22@17:31:57.287 Waiting for initialization frame.
+2013-01-22@17:31:57.287 Waiting for initialization frame.
+2013-01-22@17:31:57.287 Waiting for initialization frame.
+2013-01-22@17:31:57.287 Waiting for initialization frame.
+2013-01-22@17:31:57.287 Waiting for initialization frame.
+2013-01-22@17:31:57.287 Waiting for initialization frame.
+2013-01-22@17:31:57.287 Waiting for initialization frame.
+2013-01-22@17:31:57.288 Waiting for initialization frame.
+2013-01-22@17:31:57.288 Waiting for initialization frame.
+2013-01-22@17:31:57.288 Waiting for initialization frame.
+2013-01-22@17:31:57.288 Waiting for initialization frame.
+2013-01-22@17:31:57.288 Waiting for initialization frame.
+2013-01-22@17:31:57.288 Waiting for initialization frame.
+2013-01-22@17:31:57.288 Waiting for initialization frame.
+2013-01-22@17:31:57.288 Waiting for initialization frame.
+2013-01-22@17:31:57.288 Waiting for initialization frame.
+2013-01-22@17:31:57.288 Waiting for initialization frame.
+2013-01-22@17:31:57.288 Waiting for initialization frame.
+2013-01-22@17:31:57.288 Waiting for initialization frame.
+2013-01-22@17:31:57.289 Waiting for initialization frame.
+2013-01-22@17:31:57.289 Waiting for initialization frame.
+2013-01-22@17:31:57.289 Waiting for initialization frame.
+2013-01-22@17:31:57.289 Waiting for initialization frame.
+2013-01-22@17:31:57.289 Waiting for initialization frame.
+2013-01-22@17:31:57.289 Waiting for initialization frame.
+2013-01-22@17:31:57.289 Waiting for initialization frame.
+2013-01-22@17:31:57.290 Waiting for initialization frame.
+2013-01-22@17:31:57.290 Waiting for initialization frame.
+2013-01-22@17:31:57.290 Waiting for initialization frame.
+2013-01-22@17:31:57.290 Waiting for initialization frame.
+2013-01-22@17:31:57.290 Waiting for initialization frame.
+2013-01-22@17:31:57.290 Waiting for initialization frame.
+2013-01-22@17:31:57.290 Waiting for initialization frame.
+2013-01-22@17:31:57.291 Waiting for initialization frame.
+2013-01-22@17:31:57.291 Waiting for initialization frame.
+2013-01-22@17:31:57.291 Waiting for initialization frame.
+2013-01-22@17:31:57.291 Waiting for initialization frame.
+2013-01-22@17:31:57.291 Waiting for initialization frame.
+2013-01-22@17:31:57.291 Waiting for initialization frame.
+2013-01-22@17:31:57.291 Waiting for initialization frame.
+2013-01-22@17:31:57.291 Waiting for initialization frame.
+2013-01-22@17:31:57.292 Waiting for initialization frame.
+2013-01-22@17:31:57.292 Waiting for initialization frame.
+2013-01-22@17:31:57.292 Waiting for initialization frame.
+2013-01-22@17:31:57.292 Waiting for initialization frame.
+2013-01-22@17:31:57.292 Waiting for initialization frame.
+2013-01-22@17:31:57.292 Waiting for initialization frame.
+2013-01-22@17:31:57.292 Waiting for initialization frame.
+2013-01-22@17:31:57.292 Waiting for initialization frame.
+2013-01-22@17:31:57.293 Waiting for initialization frame.
+2013-01-22@17:31:57.293 Waiting for initialization frame.
+2013-01-22@17:31:57.293 Waiting for initialization frame.
+2013-01-22@17:31:57.293 Waiting for initialization frame.
+2013-01-22@17:31:57.293 Waiting for initialization frame.
+2013-01-22@17:31:57.293 Waiting for initialization frame.
+2013-01-22@17:31:57.293 Waiting for initialization frame.
+2013-01-22@17:31:57.294 Waiting for initialization frame.
+2013-01-22@17:31:57.294 Waiting for initialization frame.
+2013-01-22@17:31:57.294 Waiting for initialization frame.
+2013-01-22@17:31:57.294 Waiting for initialization frame.
+2013-01-22@17:31:57.294 Waiting for initialization frame.
+2013-01-22@17:31:57.294 Waiting for initialization frame.
+2013-01-22@17:31:57.294 Waiting for initialization frame.
+2013-01-22@17:31:57.294 Waiting for initialization frame.
+2013-01-22@17:31:57.295 Waiting for initialization frame.
+2013-01-22@17:31:57.295 Waiting for initialization frame.
+2013-01-22@17:31:57.295 Waiting for initialization frame.
+2013-01-22@17:31:57.295 Waiting for initialization frame.
+2013-01-22@17:31:57.295 Waiting for initialization frame.
+2013-01-22@17:31:57.295 Waiting for initialization frame.
+2013-01-22@17:31:57.295 Waiting for initialization frame.
+2013-01-22@17:31:57.296 Waiting for initialization frame.
+2013-01-22@17:31:57.296 Waiting for initialization frame.
+2013-01-22@17:31:57.296 Waiting for initialization frame.
+2013-01-22@17:31:57.296 Waiting for initialization frame.
+2013-01-22@17:31:57.296 Waiting for initialization frame.
+2013-01-22@17:31:57.296 Waiting for initialization frame.
+2013-01-22@17:31:57.296 Waiting for initialization frame.
+2013-01-22@17:31:57.296 Waiting for initialization frame.
+2013-01-22@17:31:57.297 Waiting for initialization frame.
+2013-01-22@17:31:57.297 Waiting for initialization frame.
+2013-01-22@17:31:57.297 Waiting for initialization frame.
+2013-01-22@17:31:57.297 Waiting for initialization frame.
+2013-01-22@17:31:57.297 Waiting for initialization frame.
+2013-01-22@17:31:57.297 Waiting for initialization frame.
+2013-01-22@17:31:57.297 Reading packet...
+2013-01-22@17:31:57.299 length: 74
+2013-01-22@17:31:57.300 type: 0
+2013-01-22@17:31:57.301 subType: 1
+2013-01-22@17:31:57.302 Reading INFO section...
+2013-01-22@17:31:57.380 Packet read...
+2013-01-22@17:31:57.381 Calling frame handler. type:0,subType:1 First byte of information is 0
+2013-01-22@17:31:57.381 calling handler 0
+2013-01-22@17:31:57.381 Initializing capability nodes.
+2013-01-22@17:31:57.381 2 standard nodes to load.
+2013-01-22@17:31:57.381 Loading node of capability 3
+2013-01-22@17:31:57.382 Node # 0
+2013-01-22@17:31:57.382 Node info length: 13
+2013-01-22@17:31:57.382 Loading node of capability 4
+2013-01-22@17:31:57.382 Node # 0
+2013-01-22@17:31:57.382 Node info length: 16
+2013-01-22@17:31:57.382 Size of new node 1x12
+2013-01-22@17:31:57.383 Device initialized.
+2013-01-22@17:31:57.383 Braille Display Dimensions: 1 row, 12 columns
+2013-01-22@17:31:57.383 regions: text=0.12 status=0.0
+2013-01-22@17:31:57.383 shifts: full=12 half=6 vertical=5
+2013-01-22@17:31:57.383 Key Bindings: all
+2013-01-22@17:31:57.383 cannot open file: /home/timothy/works/2012/braille/UOBP/brltty-4.4/Programs/../Tables/brl-ob-all.txt: Adresář nebo soubor neexistuje
+2013-01-22@17:31:57.384 cannot open help file: /home/timothy/works/2012/braille/UOBP/brltty-4.4/Programs/../Tables/brl-ob-all.txt
+2013-01-22@17:31:57.384 api link
+2013-01-22@17:31:57.384 Braille Driver: ob [UOBP]
+2013-01-22@17:31:57.384 UOBP Braille Driver: version 0.0
+2013-01-22@17:31:57.385 Braille Device: /dev/ttyUSB0
+2013-01-22@17:31:57.385 Old Preferences File: /etc/brltty-ob.prefs
+2013-01-22@17:31:57.385 cannot open file: /etc/brltty-ob.prefs: Adresář nebo soubor neexistuje
+2013-01-22@17:31:57.385 regions: text=0.12 status=0.0
+2013-01-22@17:31:57.385 shifts: full=12 half=6 vertical=5
+2013-01-22@17:31:57.387 exit status: 0
+2013-01-22@17:31:57.387 console opened: fd=7
+2013-01-22@17:31:57.387 beeper enabled
+2013-01-22@17:31:57.388 tone: msec=60 note=64
+2013-01-22@17:31:57.448 tone: msec=100 note=69
+2013-01-22@17:31:57.549 api unlink
+2013-01-22@17:31:57.549 Resizing window from 0x0 to 1x12
+2013-01-22@17:31:58.031 Reading packet...
+2013-01-22@17:31:58.031 length: 5
+2013-01-22@17:31:58.031 type: 2
+2013-01-22@17:31:58.031 subType: 3
+2013-01-22@17:31:58.031 Reading INFO section...
+2013-01-22@17:31:58.031 Packet read...
+2013-01-22@17:31:58.031 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-01-22@17:31:58.031 calling handler 0
+2013-01-22@17:31:58.031 Sending start flag.
+2013-01-22@17:31:58.031 Start flag sent.
+2013-01-22@17:31:58.081 #EVENT_LOG# 2013122 1358872318.82 1 0 0 0 0 0 0 0 0 0 0 0 0 'B'
+2013-01-22@17:31:59.767 Reading packet...
+2013-01-22@17:31:59.767 length: 5
+2013-01-22@17:31:59.767 type: 2
+2013-01-22@17:31:59.767 subType: 3
+2013-01-22@17:31:59.767 Reading INFO section...
+2013-01-22@17:31:59.767 Packet read...
+2013-01-22@17:31:59.767 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-01-22@17:31:59.767 calling handler 0
+2013-01-22@17:31:59.768 Sending start flag.
+2013-01-22@17:31:59.768 Start flag sent.
+2013-01-22@17:31:59.818 #EVENT_LOG# 2013122 1358872319.818 1 1 0 0 0 0 0 0 0 0 0 0 0 'B'
+2013-01-22@17:31:59.898 Reading packet...
+2013-01-22@17:31:59.898 length: 5
+2013-01-22@17:31:59.898 type: 2
+2013-01-22@17:31:59.898 subType: 4
+2013-01-22@17:31:59.898 Reading INFO section...
+2013-01-22@17:31:59.898 Packet read...
+2013-01-22@17:31:59.898 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-01-22@17:31:59.898 calling handler 0
+2013-01-22@17:31:59.898 Sending start flag.
+2013-01-22@17:31:59.898 Start flag sent.
+2013-01-22@17:31:59.949 Sending start flag.
+2013-01-22@17:31:59.949 Start flag sent.
+2013-01-22@17:31:59.999 #EVENT_LOG# 2013122 1358872319.999 0 1 0 0 0 0 0 0 0 0 0 0 1 'R'
+2013-01-22@17:32:02.046 Reading packet...
+2013-01-22@17:32:02.047 length: 5
+2013-01-22@17:32:02.047 type: 2
+2013-01-22@17:32:02.047 subType: 3
+2013-01-22@17:32:02.047 Reading INFO section...
+2013-01-22@17:32:02.047 Packet read...
+2013-01-22@17:32:02.047 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-01-22@17:32:02.047 calling handler 0
+2013-01-22@17:32:02.047 Sending start flag.
+2013-01-22@17:32:02.047 Start flag sent.
+2013-01-22@17:32:02.097 #EVENT_LOG# 2013122 1358872322.97 0 1 1 0 0 0 0 0 0 0 0 0 1 'e'
+2013-01-22@17:32:02.137 Reading packet...
+2013-01-22@17:32:02.137 length: 5
+2013-01-22@17:32:02.137 type: 2
+2013-01-22@17:32:02.137 subType: 4
+2013-01-22@17:32:02.137 Reading INFO section...
+2013-01-22@17:32:02.137 Packet read...
+2013-01-22@17:32:02.137 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-01-22@17:32:02.137 calling handler 0
+2013-01-22@17:32:02.137 Sending start flag.
+2013-01-22@17:32:02.137 Start flag sent.
+2013-01-22@17:32:02.187 Sending start flag.
+2013-01-22@17:32:02.187 Start flag sent.
+2013-01-22@17:32:02.238 #EVENT_LOG# 2013122 1358872322.238 0 0 1 0 0 0 0 0 0 0 0 0 2 'v'
+2013-01-22@17:32:13.946 api link
+2013-01-22@17:32:13.946 no autodetectable speech drivers
+2013-01-22@17:32:13.946 checking for speech driver: no
+2013-01-22@17:32:13.946 initializing speech driver: no
+2013-01-22@17:32:13.946 Speech Driver: no [NoSpeech]
+2013-01-22@17:32:13.946 NoSpeech Speech Driver:
+2013-01-22@17:32:13.948 Speech Input: none
+2013-01-22@17:32:15.232 Reading packet...
+2013-01-22@17:32:15.232 length: 5
+2013-01-22@17:32:15.232 type: 2
+2013-01-22@17:32:15.232 subType: 4
+2013-01-22@17:32:15.232 Reading INFO section...
+2013-01-22@17:32:15.232 Packet read...
+2013-01-22@17:32:15.232 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-01-22@17:32:15.232 calling handler 0
+2013-01-22@17:32:15.232 Sending start flag.
+2013-01-22@17:32:15.232 Start flag sent.
+2013-01-22@17:32:15.964 beeper disabled
+2013-01-22@17:32:19.777 api unlink
+2013-01-22@17:32:19.777 api link
+2013-01-22@17:32:19.777 api unlink
+2013-01-22@17:32:19.779 Destructed.
+2013-01-22@17:32:19.780 beeper enabled
+2013-01-22@17:32:19.780 tone: msec=60 note=64
+2013-01-22@17:32:19.840 tone: msec=60 note=57
+2013-01-22@17:32:19.901 beeper disabled

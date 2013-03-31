@@ -1,0 +1,8 @@
+2012-11-22@00:51:21.320 BRLTTY 4.4 rev Unversioned directory [http://mielke.cc/brltty/]
+2012-11-22@00:51:21.327 NoScreen Screen Driver:
+2012-11-22@00:51:21.327 BrlAPI Server: release 0.5.7
+2012-11-22@00:51:21.734 ERROR: End of packet reached unexpectedly.  Malformed packet.
+2012-11-22@00:51:23.063 Received frame event for uninitialized node 0 of capability 4.
+2012-11-22@00:51:23.375 Received frame event for uninitialized node 0 of capability 4.
+2012-11-22@00:51:23.813 Received frame event for uninitialized node 0 of capability 4.
+2012-11-22@00:51:23.938 Received frame event for uninitialized node 0 of capability 4.

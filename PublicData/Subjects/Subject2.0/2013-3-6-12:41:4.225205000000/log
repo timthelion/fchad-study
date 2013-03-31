@@ -1,0 +1,1513 @@
+2013-03-06@12:41:12.620 BRLTTY 4.4 rev Unversioned directory [http://mielke.cc/brltty/]
+2013-03-06@12:41:12.621 Working Directory: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4
+2013-03-06@12:41:12.621 Writable Directory: /var/run/brltty
+2013-03-06@12:41:12.621 Configuration File: /etc/brltty.conf
+2013-03-06@12:41:12.621 Preferences File: brltty.prefs
+2013-03-06@12:41:12.621 regions: text=0.0 status=0.0
+2013-03-06@12:41:12.621 shifts: full=1 half=0 vertical=5
+2013-03-06@12:41:12.621 Drivers Directory: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../lib
+2013-03-06@12:41:12.621 Tables Directory: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables
+2013-03-06@12:41:12.621 checking for text table: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/cs_CZ.ttb
+2013-03-06@12:41:12.621 checking for text table: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/cs.ttb
+2013-03-06@12:41:12.621 compiling text table: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/cs.ttb
+2013-03-06@12:41:12.621 file opened: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/cs.ttb fd=4
+2013-03-06@12:41:12.621 including data file: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/cs.ttb
+2013-03-06@12:41:12.625 file opened: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/numbers-dot8.tti fd=5
+2013-03-06@12:41:12.625 including data file: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/numbers-dot8.tti
+2013-03-06@12:41:12.626 file opened: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/common.tti fd=5
+2013-03-06@12:41:12.626 including data file: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/common.tti
+2013-03-06@12:41:12.626 file opened: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/spaces.tti fd=6
+2013-03-06@12:41:12.626 including data file: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/spaces.tti
+2013-03-06@12:41:12.626 file opened: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/boxes.tti fd=6
+2013-03-06@12:41:12.626 including data file: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/boxes.tti
+2013-03-06@12:41:12.626 file opened: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/blocks.tti fd=6
+2013-03-06@12:41:12.626 including data file: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/blocks.tti
+2013-03-06@12:41:12.627 Text Table: cs
+2013-03-06@12:41:12.627 Attributes Table: attributes
+2013-03-06@12:41:12.627 Contraction Table: none
+2013-03-06@12:41:12.627 Key Table: none
+2013-03-06@12:41:12.627 Keyboard Property: type=
+2013-03-06@12:41:12.627 Keyboard Property: vendor=
+2013-03-06@12:41:12.627 Keyboard Property: product=
+2013-03-06@12:41:12.627 checking for screen driver: no
+2013-03-06@12:41:12.627 initializing screen driver: no
+2013-03-06@12:41:12.627 Screen Driver: no [NoScreen]
+2013-03-06@12:41:12.627 NoScreen Screen Driver:
+2013-03-06@12:41:12.627 BrlAPI Server: release 0.5.7
+2013-03-06@12:41:12.627 API Parameter: auth=
+2013-03-06@12:41:12.627 API Parameter: host=
+2013-03-06@12:41:12.627 API Parameter: stacksize=
+2013-03-06@12:41:12.627 checking braille device: /dev/ttyUSB1
+2013-03-06@12:41:12.627 checking for braille driver: ob
+2013-03-06@12:41:12.628 initializing braille driver: ob -> /dev/ttyUSB1
+2013-03-06@12:41:12.628 Initializing serial.
+2013-03-06@12:41:12.628 device directory: /dev
+2013-03-06@12:41:12.629 socket 1 established (fd 7)
+2013-03-06@12:41:12.629 linking local socket lock: Soubor již existuje
+2013-03-06@12:41:12.629 socket 0 established (fd 5)
+2013-03-06@12:41:12.635 serial device opened: /dev/ttyUSB1: fd=4
+2013-03-06@12:41:13.035 Serial initialized.
+2013-03-06@12:41:13.035 Initializing capability nodes.
+2013-03-06@12:41:13.035 ERROR: End of packet reached unexpectedly.  Malformed packet.
+2013-03-06@12:41:13.035 Sending initialization packet.
+2013-03-06@12:41:13.035 Sending start flag.
+2013-03-06@12:41:13.035 Start flag sent.
+2013-03-06@12:41:13.036 Initialization packet sent.
+2013-03-06@12:41:13.051 Initialization frame not recieved, asking for one again.
+2013-03-06@12:41:13.051 Sending start flag.
+2013-03-06@12:41:13.051 Start flag sent.
+2013-03-06@12:41:13.137 Reading packet...
+2013-03-06@12:41:13.139 length: 74
+2013-03-06@12:41:13.140 type: 0
+2013-03-06@12:41:13.141 subType: 1
+2013-03-06@12:41:13.141 Reading INFO section...
+2013-03-06@12:41:13.220 Packet read...
+2013-03-06@12:41:13.220 Calling frame handler. type:0,subType:1 First byte of information is 0
+2013-03-06@12:41:13.220 calling handler 0
+2013-03-06@12:41:13.220 Initializing capability nodes.
+2013-03-06@12:41:13.220 2 standard nodes to load.
+2013-03-06@12:41:13.220 Loading node of capability 3
+2013-03-06@12:41:13.220 Node # 0
+2013-03-06@12:41:13.220 Node info length: 13
+2013-03-06@12:41:13.220 Loading node of capability 4
+2013-03-06@12:41:13.220 Node # 0
+2013-03-06@12:41:13.220 Node info length: 16
+2013-03-06@12:41:13.220 Size of new node 1x12
+2013-03-06@12:41:13.220 Device initialized.
+2013-03-06@12:41:13.221 Braille Display Dimensions: 1 row, 12 columns
+2013-03-06@12:41:13.221 regions: text=0.12 status=0.0
+2013-03-06@12:41:13.221 shifts: full=12 half=6 vertical=5
+2013-03-06@12:41:13.221 Key Bindings: all
+2013-03-06@12:41:13.221 cannot open file: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/brl-ob-all.txt: Adresář nebo soubor neexistuje
+2013-03-06@12:41:13.221 cannot open help file: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/brl-ob-all.txt
+2013-03-06@12:41:13.221 api link
+2013-03-06@12:41:13.221 Braille Driver: ob [UOBP]
+2013-03-06@12:41:13.221 UOBP Braille Driver: version 0.0
+2013-03-06@12:41:13.221 Braille Device: /dev/ttyUSB1
+2013-03-06@12:41:13.221 Old Preferences File: /etc/brltty-ob.prefs
+2013-03-06@12:41:13.221 cannot open file: /etc/brltty-ob.prefs: Adresář nebo soubor neexistuje
+2013-03-06@12:41:13.221 regions: text=0.12 status=0.0
+2013-03-06@12:41:13.221 shifts: full=12 half=6 vertical=5
+2013-03-06@12:41:13.226 exit status: 0
+2013-03-06@12:41:13.226 console opened: fd=6
+2013-03-06@12:41:13.226 beeper enabled
+2013-03-06@12:41:13.226 tone: msec=60 note=64
+2013-03-06@12:41:13.286 tone: msec=100 note=69
+2013-03-06@12:41:13.387 api unlink
+2013-03-06@12:41:13.387 Resizing window from 0x0 to 1x12
+2013-03-06@12:41:16.234 Reading packet...
+2013-03-06@12:41:16.234 length: 5
+2013-03-06@12:41:16.234 type: 2
+2013-03-06@12:41:16.234 subType: 3
+2013-03-06@12:41:16.234 Reading INFO section...
+2013-03-06@12:41:16.235 Packet read...
+2013-03-06@12:41:16.235 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:16.235 calling handler 0
+2013-03-06@12:41:16.235 Sending start flag.
+2013-03-06@12:41:16.235 Start flag sent.
+2013-03-06@12:41:16.235 #EVENT_LOG# 201336 1362570076.236 1 0 0 0 0 0 0 0 0 0 0 0 0 'B'
+2013-03-06@12:41:16.717 Reading packet...
+2013-03-06@12:41:16.717 length: 5
+2013-03-06@12:41:16.717 type: 2
+2013-03-06@12:41:16.717 subType: 4
+2013-03-06@12:41:16.717 Reading INFO section...
+2013-03-06@12:41:16.717 Packet read...
+2013-03-06@12:41:16.717 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:16.717 calling handler 0
+2013-03-06@12:41:16.717 Sending start flag.
+2013-03-06@12:41:16.718 Start flag sent.
+2013-03-06@12:41:16.718 #EVENT_LOG# 201336 1362570076.718 0 0 0 0 0 0 0 0 0 0 0 0 11 ' '
+2013-03-06@12:41:16.758 Reading packet...
+2013-03-06@12:41:16.758 length: 5
+2013-03-06@12:41:16.758 type: 2
+2013-03-06@12:41:16.758 subType: 3
+2013-03-06@12:41:16.758 Reading INFO section...
+2013-03-06@12:41:16.758 Packet read...
+2013-03-06@12:41:16.759 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:16.759 calling handler 0
+2013-03-06@12:41:16.759 Sending start flag.
+2013-03-06@12:41:16.759 Start flag sent.
+2013-03-06@12:41:16.759 #EVENT_LOG# 201336 1362570076.760 0 1 0 0 0 0 0 0 0 0 0 0 1 'R'
+2013-03-06@12:41:17.120 Reading packet...
+2013-03-06@12:41:17.120 length: 5
+2013-03-06@12:41:17.120 type: 2
+2013-03-06@12:41:17.120 subType: 4
+2013-03-06@12:41:17.120 Reading INFO section...
+2013-03-06@12:41:17.120 Packet read...
+2013-03-06@12:41:17.120 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:17.121 calling handler 0
+2013-03-06@12:41:17.121 Sending start flag.
+2013-03-06@12:41:17.121 Start flag sent.
+2013-03-06@12:41:17.121 #EVENT_LOG# 201336 1362570077.121 0 0 0 0 0 0 0 0 0 0 0 0 11 ' '
+2013-03-06@12:41:17.201 Reading packet...
+2013-03-06@12:41:17.201 length: 5
+2013-03-06@12:41:17.201 type: 2
+2013-03-06@12:41:17.201 subType: 3
+2013-03-06@12:41:17.201 Reading INFO section...
+2013-03-06@12:41:17.201 Packet read...
+2013-03-06@12:41:17.201 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:17.201 calling handler 0
+2013-03-06@12:41:17.202 Sending start flag.
+2013-03-06@12:41:17.202 Start flag sent.
+2013-03-06@12:41:17.202 #EVENT_LOG# 201336 1362570077.202 0 0 1 0 0 0 0 0 0 0 0 0 2 'L'
+2013-03-06@12:41:17.844 Reading packet...
+2013-03-06@12:41:17.844 length: 5
+2013-03-06@12:41:17.844 type: 2
+2013-03-06@12:41:17.844 subType: 3
+2013-03-06@12:41:17.844 Reading INFO section...
+2013-03-06@12:41:17.844 Packet read...
+2013-03-06@12:41:17.844 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:17.844 calling handler 0
+2013-03-06@12:41:17.844 Sending start flag.
+2013-03-06@12:41:17.844 Start flag sent.
+2013-03-06@12:41:17.844 #EVENT_LOG# 201336 1362570077.845 0 0 1 0 0 0 0 0 0 0 0 1 2 'v'
+2013-03-06@12:41:17.885 Reading packet...
+2013-03-06@12:41:17.885 length: 5
+2013-03-06@12:41:17.885 type: 2
+2013-03-06@12:41:17.885 subType: 4
+2013-03-06@12:41:17.885 Reading INFO section...
+2013-03-06@12:41:17.885 Packet read...
+2013-03-06@12:41:17.885 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:17.885 calling handler 0
+2013-03-06@12:41:17.885 Sending start flag.
+2013-03-06@12:41:17.885 Start flag sent.
+2013-03-06@12:41:17.885 #EVENT_LOG# 201336 1362570077.886 0 0 1 0 0 0 0 0 0 0 0 0 2 'v'
+2013-03-06@12:41:17.925 Reading packet...
+2013-03-06@12:41:17.925 length: 5
+2013-03-06@12:41:17.925 type: 2
+2013-03-06@12:41:17.925 subType: 3
+2013-03-06@12:41:17.925 Reading INFO section...
+2013-03-06@12:41:17.926 Packet read...
+2013-03-06@12:41:17.926 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:17.926 calling handler 0
+2013-03-06@12:41:17.926 Sending start flag.
+2013-03-06@12:41:17.926 Start flag sent.
+2013-03-06@12:41:17.926 #EVENT_LOG# 201336 1362570077.926 1 0 1 0 0 0 0 0 0 0 0 0 0 'r'
+2013-03-06@12:41:17.966 Reading packet...
+2013-03-06@12:41:17.966 length: 5
+2013-03-06@12:41:17.966 type: 2
+2013-03-06@12:41:17.966 subType: 3
+2013-03-06@12:41:17.966 Reading INFO section...
+2013-03-06@12:41:17.966 Packet read...
+2013-03-06@12:41:17.966 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:17.966 calling handler 0
+2013-03-06@12:41:17.966 Sending start flag.
+2013-03-06@12:41:17.966 Start flag sent.
+2013-03-06@12:41:17.967 #EVENT_LOG# 201336 1362570077.967 1 1 1 0 0 0 0 0 0 0 0 0 0 'r'
+2013-03-06@12:41:18.007 Reading packet...
+2013-03-06@12:41:18.007 length: 5
+2013-03-06@12:41:18.007 type: 2
+2013-03-06@12:41:18.007 subType: 3
+2013-03-06@12:41:18.007 Reading INFO section...
+2013-03-06@12:41:18.007 Packet read...
+2013-03-06@12:41:18.007 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:18.007 calling handler 0
+2013-03-06@12:41:18.007 Sending start flag.
+2013-03-06@12:41:18.007 Start flag sent.
+2013-03-06@12:41:18.007 #EVENT_LOG# 201336 1362570078.8 1 1 1 0 0 1 0 0 0 0 0 0 0 'r'
+2013-03-06@12:41:18.047 Reading packet...
+2013-03-06@12:41:18.048 length: 5
+2013-03-06@12:41:18.048 type: 2
+2013-03-06@12:41:18.048 subType: 3
+2013-03-06@12:41:18.048 Reading INFO section...
+2013-03-06@12:41:18.048 Packet read...
+2013-03-06@12:41:18.048 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:18.048 calling handler 0
+2013-03-06@12:41:18.048 Sending start flag.
+2013-03-06@12:41:18.048 Start flag sent.
+2013-03-06@12:41:18.048 #EVENT_LOG# 201336 1362570078.49 1 1 1 0 0 1 1 0 0 0 0 0 0 'r'
+2013-03-06@12:41:18.088 Reading packet...
+2013-03-06@12:41:18.088 length: 5
+2013-03-06@12:41:18.088 type: 2
+2013-03-06@12:41:18.088 subType: 3
+2013-03-06@12:41:18.088 Reading INFO section...
+2013-03-06@12:41:18.088 Packet read...
+2013-03-06@12:41:18.089 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:18.089 calling handler 0
+2013-03-06@12:41:18.089 Sending start flag.
+2013-03-06@12:41:18.089 Start flag sent.
+2013-03-06@12:41:18.089 #EVENT_LOG# 201336 1362570078.89 1 1 1 0 0 1 1 1 0 0 0 0 0 'r'
+2013-03-06@12:41:18.129 Reading packet...
+2013-03-06@12:41:18.129 length: 5
+2013-03-06@12:41:18.129 type: 2
+2013-03-06@12:41:18.129 subType: 3
+2013-03-06@12:41:18.129 Reading INFO section...
+2013-03-06@12:41:18.129 Packet read...
+2013-03-06@12:41:18.129 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:18.129 calling handler 0
+2013-03-06@12:41:18.129 Sending start flag.
+2013-03-06@12:41:18.129 Start flag sent.
+2013-03-06@12:41:18.130 #EVENT_LOG# 201336 1362570078.130 1 1 1 0 0 1 1 1 1 0 0 0 0 'r'
+2013-03-06@12:41:18.170 Reading packet...
+2013-03-06@12:41:18.170 length: 5
+2013-03-06@12:41:18.170 type: 2
+2013-03-06@12:41:18.170 subType: 3
+2013-03-06@12:41:18.170 Reading INFO section...
+2013-03-06@12:41:18.170 Packet read...
+2013-03-06@12:41:18.170 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:18.170 calling handler 0
+2013-03-06@12:41:18.170 Sending start flag.
+2013-03-06@12:41:18.170 Start flag sent.
+2013-03-06@12:41:18.170 #EVENT_LOG# 201336 1362570078.171 1 1 1 0 0 1 1 1 1 1 0 0 0 'r'
+2013-03-06@12:41:18.211 Reading packet...
+2013-03-06@12:41:18.211 length: 5
+2013-03-06@12:41:18.211 type: 2
+2013-03-06@12:41:18.211 subType: 3
+2013-03-06@12:41:18.211 Reading INFO section...
+2013-03-06@12:41:18.211 Packet read...
+2013-03-06@12:41:18.211 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:18.211 calling handler 0
+2013-03-06@12:41:18.211 Sending start flag.
+2013-03-06@12:41:18.211 Start flag sent.
+2013-03-06@12:41:18.211 #EVENT_LOG# 201336 1362570078.212 1 1 1 0 0 1 1 1 1 1 1 0 0 'r'
+2013-03-06@12:41:18.251 Reading packet...
+2013-03-06@12:41:18.251 length: 5
+2013-03-06@12:41:18.251 type: 2
+2013-03-06@12:41:18.251 subType: 3
+2013-03-06@12:41:18.251 Reading INFO section...
+2013-03-06@12:41:18.251 Packet read...
+2013-03-06@12:41:18.252 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:18.252 calling handler 0
+2013-03-06@12:41:18.252 Sending start flag.
+2013-03-06@12:41:18.252 Start flag sent.
+2013-03-06@12:41:18.252 #EVENT_LOG# 201336 1362570078.252 1 1 1 0 0 1 1 1 1 1 1 1 0 'r'
+2013-03-06@12:41:18.292 Reading packet...
+2013-03-06@12:41:18.292 length: 5
+2013-03-06@12:41:18.292 type: 2
+2013-03-06@12:41:18.292 subType: 4
+2013-03-06@12:41:18.292 Reading INFO section...
+2013-03-06@12:41:18.292 Packet read...
+2013-03-06@12:41:18.292 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:18.292 calling handler 0
+2013-03-06@12:41:18.292 Sending start flag.
+2013-03-06@12:41:18.292 Start flag sent.
+2013-03-06@12:41:18.293 #EVENT_LOG# 201336 1362570078.293 0 1 1 0 0 1 1 1 1 1 1 1 1 'e'
+2013-03-06@12:41:18.333 Reading packet...
+2013-03-06@12:41:18.333 length: 5
+2013-03-06@12:41:18.333 type: 2
+2013-03-06@12:41:18.333 subType: 4
+2013-03-06@12:41:18.333 Reading INFO section...
+2013-03-06@12:41:18.333 Packet read...
+2013-03-06@12:41:18.333 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:18.333 calling handler 0
+2013-03-06@12:41:18.333 Sending start flag.
+2013-03-06@12:41:18.333 Start flag sent.
+2013-03-06@12:41:18.333 #EVENT_LOG# 201336 1362570078.334 0 0 1 0 0 1 1 1 1 1 1 1 2 'v'
+2013-03-06@12:41:18.373 Reading packet...
+2013-03-06@12:41:18.374 length: 5
+2013-03-06@12:41:18.374 type: 2
+2013-03-06@12:41:18.374 subType: 4
+2013-03-06@12:41:18.374 Reading INFO section...
+2013-03-06@12:41:18.374 Packet read...
+2013-03-06@12:41:18.374 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:18.374 calling handler 0
+2013-03-06@12:41:18.374 Sending start flag.
+2013-03-06@12:41:18.374 Start flag sent.
+2013-03-06@12:41:18.374 #EVENT_LOG# 201336 1362570078.375 0 0 1 0 0 0 1 1 1 1 1 1 2 'v'
+2013-03-06@12:41:18.414 Reading packet...
+2013-03-06@12:41:18.414 length: 5
+2013-03-06@12:41:18.414 type: 2
+2013-03-06@12:41:18.414 subType: 4
+2013-03-06@12:41:18.414 Reading INFO section...
+2013-03-06@12:41:18.414 Packet read...
+2013-03-06@12:41:18.414 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:18.415 calling handler 0
+2013-03-06@12:41:18.415 Sending start flag.
+2013-03-06@12:41:18.415 Start flag sent.
+2013-03-06@12:41:18.415 #EVENT_LOG# 201336 1362570078.415 0 0 1 0 0 0 0 1 1 1 1 1 2 'v'
+2013-03-06@12:41:18.455 Reading packet...
+2013-03-06@12:41:18.455 length: 5
+2013-03-06@12:41:18.455 type: 2
+2013-03-06@12:41:18.455 subType: 4
+2013-03-06@12:41:18.455 Reading INFO section...
+2013-03-06@12:41:18.455 Packet read...
+2013-03-06@12:41:18.455 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:18.455 calling handler 0
+2013-03-06@12:41:18.455 Sending start flag.
+2013-03-06@12:41:18.455 Start flag sent.
+2013-03-06@12:41:18.456 #EVENT_LOG# 201336 1362570078.456 0 0 1 0 0 0 0 0 1 1 1 1 2 'v'
+2013-03-06@12:41:18.496 Reading packet...
+2013-03-06@12:41:18.496 length: 5
+2013-03-06@12:41:18.496 type: 2
+2013-03-06@12:41:18.496 subType: 4
+2013-03-06@12:41:18.496 Reading INFO section...
+2013-03-06@12:41:18.496 Packet read...
+2013-03-06@12:41:18.496 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:18.496 calling handler 0
+2013-03-06@12:41:18.496 Sending start flag.
+2013-03-06@12:41:18.496 Start flag sent.
+2013-03-06@12:41:18.496 #EVENT_LOG# 201336 1362570078.497 0 0 1 0 0 0 0 0 0 1 1 1 2 'v'
+2013-03-06@12:41:18.536 Reading packet...
+2013-03-06@12:41:18.536 length: 5
+2013-03-06@12:41:18.537 type: 2
+2013-03-06@12:41:18.537 subType: 4
+2013-03-06@12:41:18.537 Reading INFO section...
+2013-03-06@12:41:18.537 Packet read...
+2013-03-06@12:41:18.537 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:18.537 calling handler 0
+2013-03-06@12:41:18.537 Sending start flag.
+2013-03-06@12:41:18.537 Start flag sent.
+2013-03-06@12:41:18.537 #EVENT_LOG# 201336 1362570078.537 0 0 1 0 0 0 0 0 0 0 1 1 2 'v'
+2013-03-06@12:41:18.577 Reading packet...
+2013-03-06@12:41:18.577 length: 5
+2013-03-06@12:41:18.577 type: 2
+2013-03-06@12:41:18.577 subType: 4
+2013-03-06@12:41:18.577 Reading INFO section...
+2013-03-06@12:41:18.577 Packet read...
+2013-03-06@12:41:18.577 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:18.577 calling handler 0
+2013-03-06@12:41:18.577 Sending start flag.
+2013-03-06@12:41:18.578 Start flag sent.
+2013-03-06@12:41:18.578 #EVENT_LOG# 201336 1362570078.578 0 0 1 0 0 0 0 0 0 0 0 1 2 'v'
+2013-03-06@12:41:18.618 Reading packet...
+2013-03-06@12:41:18.618 length: 5
+2013-03-06@12:41:18.618 type: 2
+2013-03-06@12:41:18.618 subType: 4
+2013-03-06@12:41:18.618 Reading INFO section...
+2013-03-06@12:41:18.618 Packet read...
+2013-03-06@12:41:18.618 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:18.618 calling handler 0
+2013-03-06@12:41:18.618 Sending start flag.
+2013-03-06@12:41:18.618 Start flag sent.
+2013-03-06@12:41:18.618 #EVENT_LOG# 201336 1362570078.619 0 0 1 0 0 0 0 0 0 0 0 0 2 'v'
+2013-03-06@12:41:18.659 Reading packet...
+2013-03-06@12:41:18.659 length: 5
+2013-03-06@12:41:18.659 type: 2
+2013-03-06@12:41:18.659 subType: 3
+2013-03-06@12:41:18.659 Reading INFO section...
+2013-03-06@12:41:18.659 Packet read...
+2013-03-06@12:41:18.659 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:18.659 calling handler 0
+2013-03-06@12:41:18.659 Sending start flag.
+2013-03-06@12:41:18.659 Start flag sent.
+2013-03-06@12:41:18.659 #EVENT_LOG# 201336 1362570078.660 1 0 1 0 0 0 0 0 0 0 0 0 0 'r'
+2013-03-06@12:41:18.699 Reading packet...
+2013-03-06@12:41:18.699 length: 5
+2013-03-06@12:41:18.699 type: 2
+2013-03-06@12:41:18.699 subType: 3
+2013-03-06@12:41:18.700 Reading INFO section...
+2013-03-06@12:41:18.700 Packet read...
+2013-03-06@12:41:18.700 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:18.700 calling handler 0
+2013-03-06@12:41:18.700 Sending start flag.
+2013-03-06@12:41:18.700 Start flag sent.
+2013-03-06@12:41:18.700 #EVENT_LOG# 201336 1362570078.700 1 1 1 0 0 0 0 0 0 0 0 0 0 'r'
+2013-03-06@12:41:18.740 Reading packet...
+2013-03-06@12:41:18.740 length: 5
+2013-03-06@12:41:18.740 type: 2
+2013-03-06@12:41:18.740 subType: 3
+2013-03-06@12:41:18.740 Reading INFO section...
+2013-03-06@12:41:18.740 Packet read...
+2013-03-06@12:41:18.740 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:18.740 calling handler 0
+2013-03-06@12:41:18.740 Sending start flag.
+2013-03-06@12:41:18.740 Start flag sent.
+2013-03-06@12:41:18.741 #EVENT_LOG# 201336 1362570078.741 1 1 1 0 0 0 1 0 0 0 0 0 0 'r'
+2013-03-06@12:41:18.781 Reading packet...
+2013-03-06@12:41:18.781 length: 5
+2013-03-06@12:41:18.781 type: 2
+2013-03-06@12:41:18.781 subType: 3
+2013-03-06@12:41:18.781 Reading INFO section...
+2013-03-06@12:41:18.781 Packet read...
+2013-03-06@12:41:18.781 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:18.781 calling handler 0
+2013-03-06@12:41:18.781 Sending start flag.
+2013-03-06@12:41:18.781 Start flag sent.
+2013-03-06@12:41:18.781 #EVENT_LOG# 201336 1362570078.782 1 1 1 0 0 0 1 1 0 0 0 0 0 'r'
+2013-03-06@12:41:18.822 Reading packet...
+2013-03-06@12:41:18.822 length: 5
+2013-03-06@12:41:18.822 type: 2
+2013-03-06@12:41:18.822 subType: 3
+2013-03-06@12:41:18.822 Reading INFO section...
+2013-03-06@12:41:18.822 Packet read...
+2013-03-06@12:41:18.822 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:18.822 calling handler 0
+2013-03-06@12:41:18.822 Sending start flag.
+2013-03-06@12:41:18.822 Start flag sent.
+2013-03-06@12:41:18.822 #EVENT_LOG# 201336 1362570078.823 1 1 1 0 0 0 1 1 1 0 0 0 0 'r'
+2013-03-06@12:41:18.862 Reading packet...
+2013-03-06@12:41:18.862 length: 5
+2013-03-06@12:41:18.862 type: 2
+2013-03-06@12:41:18.862 subType: 3
+2013-03-06@12:41:18.862 Reading INFO section...
+2013-03-06@12:41:18.863 Packet read...
+2013-03-06@12:41:18.863 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:18.863 calling handler 0
+2013-03-06@12:41:18.863 Sending start flag.
+2013-03-06@12:41:18.863 Start flag sent.
+2013-03-06@12:41:18.863 #EVENT_LOG# 201336 1362570078.863 1 1 1 0 0 0 1 1 1 0 1 0 0 'r'
+2013-03-06@12:41:18.903 Reading packet...
+2013-03-06@12:41:18.903 length: 5
+2013-03-06@12:41:18.903 type: 2
+2013-03-06@12:41:18.903 subType: 3
+2013-03-06@12:41:18.903 Reading INFO section...
+2013-03-06@12:41:18.903 Packet read...
+2013-03-06@12:41:18.903 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:18.903 calling handler 0
+2013-03-06@12:41:18.903 Sending start flag.
+2013-03-06@12:41:18.903 Start flag sent.
+2013-03-06@12:41:18.904 #EVENT_LOG# 201336 1362570078.904 1 1 1 0 0 0 1 1 1 0 1 1 0 'r'
+2013-03-06@12:41:18.944 Reading packet...
+2013-03-06@12:41:18.944 length: 5
+2013-03-06@12:41:18.944 type: 2
+2013-03-06@12:41:18.944 subType: 3
+2013-03-06@12:41:18.944 Reading INFO section...
+2013-03-06@12:41:18.944 Packet read...
+2013-03-06@12:41:18.944 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:18.944 calling handler 0
+2013-03-06@12:41:18.944 Sending start flag.
+2013-03-06@12:41:18.944 Start flag sent.
+2013-03-06@12:41:18.944 #EVENT_LOG# 201336 1362570078.945 1 1 1 0 1 0 1 1 1 0 1 1 0 'r'
+2013-03-06@12:41:18.984 Reading packet...
+2013-03-06@12:41:18.985 length: 5
+2013-03-06@12:41:18.985 type: 2
+2013-03-06@12:41:18.985 subType: 3
+2013-03-06@12:41:18.985 Reading INFO section...
+2013-03-06@12:41:18.985 Packet read...
+2013-03-06@12:41:18.985 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:18.985 calling handler 0
+2013-03-06@12:41:18.985 Sending start flag.
+2013-03-06@12:41:18.985 Start flag sent.
+2013-03-06@12:41:18.985 #EVENT_LOG# 201336 1362570078.986 1 1 1 0 1 1 1 1 1 0 1 1 0 'r'
+2013-03-06@12:41:19.025 Reading packet...
+2013-03-06@12:41:19.025 length: 5
+2013-03-06@12:41:19.025 type: 2
+2013-03-06@12:41:19.025 subType: 3
+2013-03-06@12:41:19.025 Reading INFO section...
+2013-03-06@12:41:19.025 Packet read...
+2013-03-06@12:41:19.025 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:19.026 calling handler 0
+2013-03-06@12:41:19.026 Sending start flag.
+2013-03-06@12:41:19.026 Start flag sent.
+2013-03-06@12:41:19.026 #EVENT_LOG# 201336 1362570079.26 1 1 1 0 1 1 1 1 1 1 1 1 0 'r'
+2013-03-06@12:41:19.066 Reading packet...
+2013-03-06@12:41:19.066 length: 5
+2013-03-06@12:41:19.066 type: 2
+2013-03-06@12:41:19.066 subType: 4
+2013-03-06@12:41:19.066 Reading INFO section...
+2013-03-06@12:41:19.067 Packet read...
+2013-03-06@12:41:19.067 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:19.067 calling handler 0
+2013-03-06@12:41:19.067 Sending start flag.
+2013-03-06@12:41:19.067 Start flag sent.
+2013-03-06@12:41:19.067 #EVENT_LOG# 201336 1362570079.68 1 1 1 0 0 1 1 1 1 1 1 1 0 'r'
+2013-03-06@12:41:19.107 Reading packet...
+2013-03-06@12:41:19.108 length: 5
+2013-03-06@12:41:19.108 type: 2
+2013-03-06@12:41:19.108 subType: 4
+2013-03-06@12:41:19.108 Reading INFO section...
+2013-03-06@12:41:19.108 Packet read...
+2013-03-06@12:41:19.108 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:19.108 calling handler 0
+2013-03-06@12:41:19.108 Sending start flag.
+2013-03-06@12:41:19.108 Start flag sent.
+2013-03-06@12:41:19.109 #EVENT_LOG# 201336 1362570079.109 1 1 1 0 0 0 1 1 1 1 1 1 0 'r'
+2013-03-06@12:41:19.149 Reading packet...
+2013-03-06@12:41:19.149 length: 5
+2013-03-06@12:41:19.149 type: 2
+2013-03-06@12:41:19.149 subType: 4
+2013-03-06@12:41:19.149 Reading INFO section...
+2013-03-06@12:41:19.149 Packet read...
+2013-03-06@12:41:19.149 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:19.149 calling handler 0
+2013-03-06@12:41:19.149 Sending start flag.
+2013-03-06@12:41:19.149 Start flag sent.
+2013-03-06@12:41:19.149 #EVENT_LOG# 201336 1362570079.150 1 1 1 0 0 0 0 1 1 1 1 1 0 'r'
+2013-03-06@12:41:19.190 Reading packet...
+2013-03-06@12:41:19.190 length: 5
+2013-03-06@12:41:19.190 type: 2
+2013-03-06@12:41:19.190 subType: 4
+2013-03-06@12:41:19.190 Reading INFO section...
+2013-03-06@12:41:19.190 Packet read...
+2013-03-06@12:41:19.190 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:19.190 calling handler 0
+2013-03-06@12:41:19.190 Sending start flag.
+2013-03-06@12:41:19.190 Start flag sent.
+2013-03-06@12:41:19.190 #EVENT_LOG# 201336 1362570079.191 1 1 1 0 0 0 0 0 1 1 1 1 0 'r'
+2013-03-06@12:41:19.230 Reading packet...
+2013-03-06@12:41:19.230 length: 5
+2013-03-06@12:41:19.230 type: 2
+2013-03-06@12:41:19.230 subType: 4
+2013-03-06@12:41:19.231 Reading INFO section...
+2013-03-06@12:41:19.231 Packet read...
+2013-03-06@12:41:19.231 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:19.231 calling handler 0
+2013-03-06@12:41:19.231 Sending start flag.
+2013-03-06@12:41:19.231 Start flag sent.
+2013-03-06@12:41:19.231 #EVENT_LOG# 201336 1362570079.231 1 1 1 0 0 0 0 0 0 1 1 1 0 'r'
+2013-03-06@12:41:19.271 Reading packet...
+2013-03-06@12:41:19.271 length: 5
+2013-03-06@12:41:19.271 type: 2
+2013-03-06@12:41:19.271 subType: 4
+2013-03-06@12:41:19.271 Reading INFO section...
+2013-03-06@12:41:19.271 Packet read...
+2013-03-06@12:41:19.271 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:19.271 calling handler 0
+2013-03-06@12:41:19.271 Sending start flag.
+2013-03-06@12:41:19.271 Start flag sent.
+2013-03-06@12:41:19.272 #EVENT_LOG# 201336 1362570079.272 1 1 1 0 0 0 0 0 0 0 1 1 0 'r'
+2013-03-06@12:41:19.312 Reading packet...
+2013-03-06@12:41:19.312 length: 5
+2013-03-06@12:41:19.312 type: 2
+2013-03-06@12:41:19.312 subType: 4
+2013-03-06@12:41:19.312 Reading INFO section...
+2013-03-06@12:41:19.312 Packet read...
+2013-03-06@12:41:19.312 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:19.312 calling handler 0
+2013-03-06@12:41:19.312 Sending start flag.
+2013-03-06@12:41:19.312 Start flag sent.
+2013-03-06@12:41:19.312 #EVENT_LOG# 201336 1362570079.313 1 1 1 0 0 0 0 0 0 0 0 1 0 'r'
+2013-03-06@12:41:19.353 Reading packet...
+2013-03-06@12:41:19.353 length: 5
+2013-03-06@12:41:19.353 type: 2
+2013-03-06@12:41:19.353 subType: 4
+2013-03-06@12:41:19.353 Reading INFO section...
+2013-03-06@12:41:19.353 Packet read...
+2013-03-06@12:41:19.353 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:19.353 calling handler 0
+2013-03-06@12:41:19.353 Sending start flag.
+2013-03-06@12:41:19.354 Start flag sent.
+2013-03-06@12:41:19.354 #EVENT_LOG# 201336 1362570079.354 1 1 1 0 0 0 0 0 0 0 0 0 0 'r'
+2013-03-06@12:41:19.394 Reading packet...
+2013-03-06@12:41:19.394 length: 5
+2013-03-06@12:41:19.394 type: 2
+2013-03-06@12:41:19.394 subType: 4
+2013-03-06@12:41:19.394 Reading INFO section...
+2013-03-06@12:41:19.394 Packet read...
+2013-03-06@12:41:19.394 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:19.394 calling handler 0
+2013-03-06@12:41:19.394 Sending start flag.
+2013-03-06@12:41:19.394 Start flag sent.
+2013-03-06@12:41:19.395 #EVENT_LOG# 201336 1362570079.395 0 1 1 0 0 0 0 0 0 0 0 0 1 'e'
+2013-03-06@12:41:19.435 Reading packet...
+2013-03-06@12:41:19.435 length: 5
+2013-03-06@12:41:19.435 type: 2
+2013-03-06@12:41:19.435 subType: 3
+2013-03-06@12:41:19.435 Reading INFO section...
+2013-03-06@12:41:19.435 Packet read...
+2013-03-06@12:41:19.435 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:19.435 calling handler 0
+2013-03-06@12:41:19.435 Sending start flag.
+2013-03-06@12:41:19.435 Start flag sent.
+2013-03-06@12:41:19.435 #EVENT_LOG# 201336 1362570079.436 0 1 1 0 1 0 0 0 0 0 0 0 1 'e'
+2013-03-06@12:41:19.475 Reading packet...
+2013-03-06@12:41:19.475 length: 5
+2013-03-06@12:41:19.476 type: 2
+2013-03-06@12:41:19.476 subType: 3
+2013-03-06@12:41:19.476 Reading INFO section...
+2013-03-06@12:41:19.476 Packet read...
+2013-03-06@12:41:19.476 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:19.476 calling handler 0
+2013-03-06@12:41:19.476 Sending start flag.
+2013-03-06@12:41:19.476 Start flag sent.
+2013-03-06@12:41:19.476 #EVENT_LOG# 201336 1362570079.477 0 1 1 0 1 1 0 0 0 0 0 0 1 'e'
+2013-03-06@12:41:19.516 Reading packet...
+2013-03-06@12:41:19.516 length: 5
+2013-03-06@12:41:19.516 type: 2
+2013-03-06@12:41:19.516 subType: 3
+2013-03-06@12:41:19.516 Reading INFO section...
+2013-03-06@12:41:19.516 Packet read...
+2013-03-06@12:41:19.516 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:19.517 calling handler 0
+2013-03-06@12:41:19.517 Sending start flag.
+2013-03-06@12:41:19.517 Start flag sent.
+2013-03-06@12:41:19.517 #EVENT_LOG# 201336 1362570079.517 0 1 1 0 1 1 1 0 0 0 0 0 1 'e'
+2013-03-06@12:41:19.557 Reading packet...
+2013-03-06@12:41:19.557 length: 5
+2013-03-06@12:41:19.557 type: 2
+2013-03-06@12:41:19.557 subType: 3
+2013-03-06@12:41:19.557 Reading INFO section...
+2013-03-06@12:41:19.557 Packet read...
+2013-03-06@12:41:19.557 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:19.557 calling handler 0
+2013-03-06@12:41:19.557 Sending start flag.
+2013-03-06@12:41:19.557 Start flag sent.
+2013-03-06@12:41:19.558 #EVENT_LOG# 201336 1362570079.558 0 1 1 0 1 1 1 1 0 0 0 0 1 'e'
+2013-03-06@12:41:19.598 Reading packet...
+2013-03-06@12:41:19.598 length: 5
+2013-03-06@12:41:19.598 type: 2
+2013-03-06@12:41:19.598 subType: 3
+2013-03-06@12:41:19.598 Reading INFO section...
+2013-03-06@12:41:19.598 Packet read...
+2013-03-06@12:41:19.598 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:19.598 calling handler 0
+2013-03-06@12:41:19.598 Sending start flag.
+2013-03-06@12:41:19.598 Start flag sent.
+2013-03-06@12:41:19.598 #EVENT_LOG# 201336 1362570079.599 0 1 1 0 1 1 1 1 1 0 0 0 1 'e'
+2013-03-06@12:41:19.638 Reading packet...
+2013-03-06@12:41:19.638 length: 5
+2013-03-06@12:41:19.639 type: 2
+2013-03-06@12:41:19.639 subType: 3
+2013-03-06@12:41:19.639 Reading INFO section...
+2013-03-06@12:41:19.639 Packet read...
+2013-03-06@12:41:19.639 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:19.639 calling handler 0
+2013-03-06@12:41:19.639 Sending start flag.
+2013-03-06@12:41:19.639 Start flag sent.
+2013-03-06@12:41:19.639 #EVENT_LOG# 201336 1362570079.640 0 1 1 0 1 1 1 1 1 1 0 0 1 'e'
+2013-03-06@12:41:19.679 Reading packet...
+2013-03-06@12:41:19.679 length: 5
+2013-03-06@12:41:19.679 type: 2
+2013-03-06@12:41:19.679 subType: 3
+2013-03-06@12:41:19.679 Reading INFO section...
+2013-03-06@12:41:19.679 Packet read...
+2013-03-06@12:41:19.679 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:19.679 calling handler 0
+2013-03-06@12:41:19.680 Sending start flag.
+2013-03-06@12:41:19.680 Start flag sent.
+2013-03-06@12:41:19.680 #EVENT_LOG# 201336 1362570079.680 0 1 1 0 1 1 1 1 1 1 1 0 1 'e'
+2013-03-06@12:41:19.720 Reading packet...
+2013-03-06@12:41:19.720 length: 5
+2013-03-06@12:41:19.720 type: 2
+2013-03-06@12:41:19.720 subType: 3
+2013-03-06@12:41:19.720 Reading INFO section...
+2013-03-06@12:41:19.720 Packet read...
+2013-03-06@12:41:19.720 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:19.720 calling handler 0
+2013-03-06@12:41:19.720 Sending start flag.
+2013-03-06@12:41:19.720 Start flag sent.
+2013-03-06@12:41:19.720 #EVENT_LOG# 201336 1362570079.721 0 1 1 0 1 1 1 1 1 1 1 1 1 'e'
+2013-03-06@12:41:19.761 Reading packet...
+2013-03-06@12:41:19.761 length: 5
+2013-03-06@12:41:19.761 type: 2
+2013-03-06@12:41:19.761 subType: 3
+2013-03-06@12:41:19.761 Reading INFO section...
+2013-03-06@12:41:19.761 Packet read...
+2013-03-06@12:41:19.761 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:19.761 calling handler 0
+2013-03-06@12:41:19.761 Sending start flag.
+2013-03-06@12:41:19.761 Start flag sent.
+2013-03-06@12:41:19.761 #EVENT_LOG# 201336 1362570079.762 1 1 1 0 1 1 1 1 1 1 1 1 0 'r'
+2013-03-06@12:41:19.801 Reading packet...
+2013-03-06@12:41:19.801 length: 5
+2013-03-06@12:41:19.801 type: 2
+2013-03-06@12:41:19.802 subType: 4
+2013-03-06@12:41:19.802 Reading INFO section...
+2013-03-06@12:41:19.802 Packet read...
+2013-03-06@12:41:19.802 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:19.802 calling handler 0
+2013-03-06@12:41:19.802 Sending start flag.
+2013-03-06@12:41:19.802 Start flag sent.
+2013-03-06@12:41:19.802 #EVENT_LOG# 201336 1362570079.802 1 1 1 0 0 1 1 1 1 1 1 1 0 'r'
+2013-03-06@12:41:19.842 Reading packet...
+2013-03-06@12:41:19.842 length: 5
+2013-03-06@12:41:19.842 type: 2
+2013-03-06@12:41:19.842 subType: 4
+2013-03-06@12:41:19.842 Reading INFO section...
+2013-03-06@12:41:19.842 Packet read...
+2013-03-06@12:41:19.842 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:19.842 calling handler 0
+2013-03-06@12:41:19.842 Sending start flag.
+2013-03-06@12:41:19.842 Start flag sent.
+2013-03-06@12:41:19.843 #EVENT_LOG# 201336 1362570079.843 1 1 1 0 0 0 1 1 1 1 1 1 0 'r'
+2013-03-06@12:41:19.883 Reading packet...
+2013-03-06@12:41:19.883 length: 5
+2013-03-06@12:41:19.883 type: 2
+2013-03-06@12:41:19.883 subType: 4
+2013-03-06@12:41:19.883 Reading INFO section...
+2013-03-06@12:41:19.883 Packet read...
+2013-03-06@12:41:19.883 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:19.883 calling handler 0
+2013-03-06@12:41:19.883 Sending start flag.
+2013-03-06@12:41:19.883 Start flag sent.
+2013-03-06@12:41:19.883 #EVENT_LOG# 201336 1362570079.884 1 0 1 0 0 0 1 1 1 1 1 1 0 'r'
+2013-03-06@12:41:19.924 Reading packet...
+2013-03-06@12:41:19.924 length: 5
+2013-03-06@12:41:19.924 type: 2
+2013-03-06@12:41:19.924 subType: 4
+2013-03-06@12:41:19.924 Reading INFO section...
+2013-03-06@12:41:19.924 Packet read...
+2013-03-06@12:41:19.924 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:19.924 calling handler 0
+2013-03-06@12:41:19.924 Sending start flag.
+2013-03-06@12:41:19.924 Start flag sent.
+2013-03-06@12:41:19.924 #EVENT_LOG# 201336 1362570079.925 1 0 1 0 0 0 0 1 1 1 1 1 0 'r'
+2013-03-06@12:41:19.964 Reading packet...
+2013-03-06@12:41:19.964 length: 5
+2013-03-06@12:41:19.964 type: 2
+2013-03-06@12:41:19.964 subType: 4
+2013-03-06@12:41:19.965 Reading INFO section...
+2013-03-06@12:41:19.965 Packet read...
+2013-03-06@12:41:19.965 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:19.965 calling handler 0
+2013-03-06@12:41:19.965 Sending start flag.
+2013-03-06@12:41:19.965 Start flag sent.
+2013-03-06@12:41:19.965 #EVENT_LOG# 201336 1362570079.965 1 0 1 0 0 0 0 0 1 1 1 1 0 'r'
+2013-03-06@12:41:20.005 Reading packet...
+2013-03-06@12:41:20.005 length: 5
+2013-03-06@12:41:20.005 type: 2
+2013-03-06@12:41:20.005 subType: 4
+2013-03-06@12:41:20.005 Reading INFO section...
+2013-03-06@12:41:20.005 Packet read...
+2013-03-06@12:41:20.005 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:20.005 calling handler 0
+2013-03-06@12:41:20.005 Sending start flag.
+2013-03-06@12:41:20.005 Start flag sent.
+2013-03-06@12:41:20.006 #EVENT_LOG# 201336 1362570080.6 1 0 1 0 0 0 0 0 0 1 1 1 0 'r'
+2013-03-06@12:41:20.046 Reading packet...
+2013-03-06@12:41:20.046 length: 5
+2013-03-06@12:41:20.046 type: 2
+2013-03-06@12:41:20.046 subType: 4
+2013-03-06@12:41:20.046 Reading INFO section...
+2013-03-06@12:41:20.046 Packet read...
+2013-03-06@12:41:20.046 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:20.046 calling handler 0
+2013-03-06@12:41:20.046 Sending start flag.
+2013-03-06@12:41:20.046 Start flag sent.
+2013-03-06@12:41:20.046 #EVENT_LOG# 201336 1362570080.47 1 0 1 0 0 0 0 0 0 0 1 1 0 'r'
+2013-03-06@12:41:20.087 Reading packet...
+2013-03-06@12:41:20.087 length: 5
+2013-03-06@12:41:20.087 type: 2
+2013-03-06@12:41:20.087 subType: 4
+2013-03-06@12:41:20.087 Reading INFO section...
+2013-03-06@12:41:20.087 Packet read...
+2013-03-06@12:41:20.087 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:20.087 calling handler 0
+2013-03-06@12:41:20.087 Sending start flag.
+2013-03-06@12:41:20.087 Start flag sent.
+2013-03-06@12:41:20.087 #EVENT_LOG# 201336 1362570080.88 1 0 1 0 0 0 0 0 0 0 0 1 0 'r'
+2013-03-06@12:41:20.127 Reading packet...
+2013-03-06@12:41:20.127 length: 5
+2013-03-06@12:41:20.127 type: 2
+2013-03-06@12:41:20.128 subType: 4
+2013-03-06@12:41:20.128 Reading INFO section...
+2013-03-06@12:41:20.128 Packet read...
+2013-03-06@12:41:20.128 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:20.128 calling handler 0
+2013-03-06@12:41:20.128 Sending start flag.
+2013-03-06@12:41:20.128 Start flag sent.
+2013-03-06@12:41:20.128 #EVENT_LOG# 201336 1362570080.128 1 0 1 0 0 0 0 0 0 0 0 0 0 'r'
+2013-03-06@12:41:20.168 Reading packet...
+2013-03-06@12:41:20.168 length: 5
+2013-03-06@12:41:20.168 type: 2
+2013-03-06@12:41:20.168 subType: 4
+2013-03-06@12:41:20.168 Reading INFO section...
+2013-03-06@12:41:20.168 Packet read...
+2013-03-06@12:41:20.168 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:20.168 calling handler 0
+2013-03-06@12:41:20.169 Sending start flag.
+2013-03-06@12:41:20.169 Start flag sent.
+2013-03-06@12:41:20.169 #EVENT_LOG# 201336 1362570080.169 0 0 1 0 0 0 0 0 0 0 0 0 2 'v'
+2013-03-06@12:41:20.209 Reading packet...
+2013-03-06@12:41:20.209 length: 5
+2013-03-06@12:41:20.209 type: 2
+2013-03-06@12:41:20.209 subType: 3
+2013-03-06@12:41:20.209 Reading INFO section...
+2013-03-06@12:41:20.209 Packet read...
+2013-03-06@12:41:20.209 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:20.209 calling handler 0
+2013-03-06@12:41:20.209 Sending start flag.
+2013-03-06@12:41:20.209 Start flag sent.
+2013-03-06@12:41:20.210 #EVENT_LOG# 201336 1362570080.210 1 0 1 0 0 0 0 0 0 0 0 0 0 'r'
+2013-03-06@12:41:20.250 Reading packet...
+2013-03-06@12:41:20.250 length: 5
+2013-03-06@12:41:20.250 type: 2
+2013-03-06@12:41:20.250 subType: 3
+2013-03-06@12:41:20.250 Reading INFO section...
+2013-03-06@12:41:20.250 Packet read...
+2013-03-06@12:41:20.250 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:20.250 calling handler 0
+2013-03-06@12:41:20.250 Sending start flag.
+2013-03-06@12:41:20.250 Start flag sent.
+2013-03-06@12:41:20.250 #EVENT_LOG# 201336 1362570080.251 1 1 1 0 0 0 0 0 0 0 0 0 0 'r'
+2013-03-06@12:41:20.290 Reading packet...
+2013-03-06@12:41:20.291 length: 5
+2013-03-06@12:41:20.291 type: 2
+2013-03-06@12:41:20.291 subType: 3
+2013-03-06@12:41:20.291 Reading INFO section...
+2013-03-06@12:41:20.291 Packet read...
+2013-03-06@12:41:20.291 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:20.291 calling handler 0
+2013-03-06@12:41:20.291 Sending start flag.
+2013-03-06@12:41:20.291 Start flag sent.
+2013-03-06@12:41:20.291 #EVENT_LOG# 201336 1362570080.292 1 1 1 0 0 0 0 0 0 1 0 0 0 'r'
+2013-03-06@12:41:20.331 Reading packet...
+2013-03-06@12:41:20.331 length: 5
+2013-03-06@12:41:20.331 type: 2
+2013-03-06@12:41:20.332 subType: 3
+2013-03-06@12:41:20.332 Reading INFO section...
+2013-03-06@12:41:20.332 Packet read...
+2013-03-06@12:41:20.332 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:20.332 calling handler 0
+2013-03-06@12:41:20.332 Sending start flag.
+2013-03-06@12:41:20.332 Start flag sent.
+2013-03-06@12:41:20.332 #EVENT_LOG# 201336 1362570080.333 1 1 1 0 0 0 0 0 0 1 0 1 0 'r'
+2013-03-06@12:41:20.373 Reading packet...
+2013-03-06@12:41:20.373 length: 5
+2013-03-06@12:41:20.373 type: 2
+2013-03-06@12:41:20.373 subType: 4
+2013-03-06@12:41:20.373 Reading INFO section...
+2013-03-06@12:41:20.373 Packet read...
+2013-03-06@12:41:20.373 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:20.373 calling handler 0
+2013-03-06@12:41:20.373 Sending start flag.
+2013-03-06@12:41:20.374 Start flag sent.
+2013-03-06@12:41:20.374 #EVENT_LOG# 201336 1362570080.374 0 1 1 0 0 0 0 0 0 1 0 1 1 'e'
+2013-03-06@12:41:20.414 Reading packet...
+2013-03-06@12:41:20.414 length: 5
+2013-03-06@12:41:20.414 type: 2
+2013-03-06@12:41:20.414 subType: 4
+2013-03-06@12:41:20.414 Reading INFO section...
+2013-03-06@12:41:20.415 Packet read...
+2013-03-06@12:41:20.415 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:20.415 calling handler 0
+2013-03-06@12:41:20.415 Sending start flag.
+2013-03-06@12:41:20.415 Start flag sent.
+2013-03-06@12:41:20.415 #EVENT_LOG# 201336 1362570080.416 0 0 1 0 0 0 0 0 0 1 0 1 2 'v'
+2013-03-06@12:41:20.455 Reading packet...
+2013-03-06@12:41:20.455 length: 5
+2013-03-06@12:41:20.455 type: 2
+2013-03-06@12:41:20.456 subType: 4
+2013-03-06@12:41:20.456 Reading INFO section...
+2013-03-06@12:41:20.456 Packet read...
+2013-03-06@12:41:20.456 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:20.456 calling handler 0
+2013-03-06@12:41:20.456 Sending start flag.
+2013-03-06@12:41:20.456 Start flag sent.
+2013-03-06@12:41:20.456 #EVENT_LOG# 201336 1362570080.456 0 0 1 0 0 0 0 0 0 0 0 1 2 'v'
+2013-03-06@12:41:20.496 Reading packet...
+2013-03-06@12:41:20.496 length: 5
+2013-03-06@12:41:20.496 type: 2
+2013-03-06@12:41:20.496 subType: 4
+2013-03-06@12:41:20.496 Reading INFO section...
+2013-03-06@12:41:20.496 Packet read...
+2013-03-06@12:41:20.496 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:20.496 calling handler 0
+2013-03-06@12:41:20.496 Sending start flag.
+2013-03-06@12:41:20.497 Start flag sent.
+2013-03-06@12:41:20.497 #EVENT_LOG# 201336 1362570080.497 0 0 1 0 0 0 0 0 0 0 0 0 2 'v'
+2013-03-06@12:41:20.537 Reading packet...
+2013-03-06@12:41:20.537 length: 5
+2013-03-06@12:41:20.537 type: 2
+2013-03-06@12:41:20.537 subType: 3
+2013-03-06@12:41:20.537 Reading INFO section...
+2013-03-06@12:41:20.537 Packet read...
+2013-03-06@12:41:20.537 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:20.537 calling handler 0
+2013-03-06@12:41:20.537 Sending start flag.
+2013-03-06@12:41:20.537 Start flag sent.
+2013-03-06@12:41:20.537 #EVENT_LOG# 201336 1362570080.538 0 1 1 0 0 0 0 0 0 0 0 0 1 'e'
+2013-03-06@12:41:20.578 Reading packet...
+2013-03-06@12:41:20.578 length: 5
+2013-03-06@12:41:20.578 type: 2
+2013-03-06@12:41:20.578 subType: 3
+2013-03-06@12:41:20.578 Reading INFO section...
+2013-03-06@12:41:20.578 Packet read...
+2013-03-06@12:41:20.578 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:20.578 calling handler 0
+2013-03-06@12:41:20.578 Sending start flag.
+2013-03-06@12:41:20.578 Start flag sent.
+2013-03-06@12:41:20.578 #EVENT_LOG# 201336 1362570080.579 1 1 1 0 0 0 0 0 0 0 0 0 0 'r'
+2013-03-06@12:41:20.618 Reading packet...
+2013-03-06@12:41:20.618 length: 5
+2013-03-06@12:41:20.618 type: 2
+2013-03-06@12:41:20.618 subType: 4
+2013-03-06@12:41:20.619 Reading INFO section...
+2013-03-06@12:41:20.619 Packet read...
+2013-03-06@12:41:20.619 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:20.619 calling handler 0
+2013-03-06@12:41:20.619 Sending start flag.
+2013-03-06@12:41:20.619 Start flag sent.
+2013-03-06@12:41:20.619 #EVENT_LOG# 201336 1362570080.619 0 1 1 0 0 0 0 0 0 0 0 0 1 'e'
+2013-03-06@12:41:20.659 Reading packet...
+2013-03-06@12:41:20.659 length: 5
+2013-03-06@12:41:20.659 type: 2
+2013-03-06@12:41:20.659 subType: 4
+2013-03-06@12:41:20.659 Reading INFO section...
+2013-03-06@12:41:20.659 Packet read...
+2013-03-06@12:41:20.659 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:20.659 calling handler 0
+2013-03-06@12:41:20.659 Sending start flag.
+2013-03-06@12:41:20.659 Start flag sent.
+2013-03-06@12:41:20.660 #EVENT_LOG# 201336 1362570080.660 0 0 1 0 0 0 0 0 0 0 0 0 2 'v'
+2013-03-06@12:41:20.700 Reading packet...
+2013-03-06@12:41:20.700 length: 5
+2013-03-06@12:41:20.700 type: 2
+2013-03-06@12:41:20.700 subType: 3
+2013-03-06@12:41:20.700 Reading INFO section...
+2013-03-06@12:41:20.700 Packet read...
+2013-03-06@12:41:20.700 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:20.700 calling handler 0
+2013-03-06@12:41:20.700 Sending start flag.
+2013-03-06@12:41:20.700 Start flag sent.
+2013-03-06@12:41:20.700 #EVENT_LOG# 201336 1362570080.701 1 0 1 0 0 0 0 0 0 0 0 0 0 'r'
+2013-03-06@12:41:20.741 Reading packet...
+2013-03-06@12:41:20.741 length: 5
+2013-03-06@12:41:20.741 type: 2
+2013-03-06@12:41:20.741 subType: 3
+2013-03-06@12:41:20.741 Reading INFO section...
+2013-03-06@12:41:20.741 Packet read...
+2013-03-06@12:41:20.741 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:20.741 calling handler 0
+2013-03-06@12:41:20.741 Sending start flag.
+2013-03-06@12:41:20.741 Start flag sent.
+2013-03-06@12:41:20.741 #EVENT_LOG# 201336 1362570080.742 1 1 1 0 0 0 0 0 0 0 0 0 0 'r'
+2013-03-06@12:41:20.781 Reading packet...
+2013-03-06@12:41:20.781 length: 5
+2013-03-06@12:41:20.781 type: 2
+2013-03-06@12:41:20.781 subType: 4
+2013-03-06@12:41:20.781 Reading INFO section...
+2013-03-06@12:41:20.781 Packet read...
+2013-03-06@12:41:20.782 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:20.782 calling handler 0
+2013-03-06@12:41:20.782 Sending start flag.
+2013-03-06@12:41:20.782 Start flag sent.
+2013-03-06@12:41:20.782 #EVENT_LOG# 201336 1362570080.782 0 1 1 0 0 0 0 0 0 0 0 0 1 'e'
+2013-03-06@12:41:20.822 Reading packet...
+2013-03-06@12:41:20.822 length: 5
+2013-03-06@12:41:20.822 type: 2
+2013-03-06@12:41:20.822 subType: 4
+2013-03-06@12:41:20.822 Reading INFO section...
+2013-03-06@12:41:20.822 Packet read...
+2013-03-06@12:41:20.822 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:20.822 calling handler 0
+2013-03-06@12:41:20.822 Sending start flag.
+2013-03-06@12:41:20.822 Start flag sent.
+2013-03-06@12:41:20.823 #EVENT_LOG# 201336 1362570080.823 0 0 1 0 0 0 0 0 0 0 0 0 2 'v'
+2013-03-06@12:41:20.863 Reading packet...
+2013-03-06@12:41:20.863 length: 5
+2013-03-06@12:41:20.863 type: 2
+2013-03-06@12:41:20.863 subType: 3
+2013-03-06@12:41:20.863 Reading INFO section...
+2013-03-06@12:41:20.863 Packet read...
+2013-03-06@12:41:20.863 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:20.863 calling handler 0
+2013-03-06@12:41:20.863 Sending start flag.
+2013-03-06@12:41:20.863 Start flag sent.
+2013-03-06@12:41:20.863 #EVENT_LOG# 201336 1362570080.864 0 1 1 0 0 0 0 0 0 0 0 0 1 'e'
+2013-03-06@12:41:20.903 Reading packet...
+2013-03-06@12:41:20.903 length: 5
+2013-03-06@12:41:20.904 type: 2
+2013-03-06@12:41:20.904 subType: 4
+2013-03-06@12:41:20.904 Reading INFO section...
+2013-03-06@12:41:20.904 Packet read...
+2013-03-06@12:41:20.904 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:20.904 calling handler 0
+2013-03-06@12:41:20.904 Sending start flag.
+2013-03-06@12:41:20.904 Start flag sent.
+2013-03-06@12:41:20.904 #EVENT_LOG# 201336 1362570080.904 0 0 1 0 0 0 0 0 0 0 0 0 2 'v'
+2013-03-06@12:41:20.944 Reading packet...
+2013-03-06@12:41:20.944 length: 5
+2013-03-06@12:41:20.944 type: 2
+2013-03-06@12:41:20.944 subType: 3
+2013-03-06@12:41:20.944 Reading INFO section...
+2013-03-06@12:41:20.944 Packet read...
+2013-03-06@12:41:20.944 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:20.944 calling handler 0
+2013-03-06@12:41:20.944 Sending start flag.
+2013-03-06@12:41:20.945 Start flag sent.
+2013-03-06@12:41:20.945 #EVENT_LOG# 201336 1362570080.945 1 0 1 0 0 0 0 0 0 0 0 0 0 'r'
+2013-03-06@12:41:20.985 Reading packet...
+2013-03-06@12:41:20.985 length: 5
+2013-03-06@12:41:20.985 type: 2
+2013-03-06@12:41:20.985 subType: 3
+2013-03-06@12:41:20.985 Reading INFO section...
+2013-03-06@12:41:20.985 Packet read...
+2013-03-06@12:41:20.985 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:20.985 calling handler 0
+2013-03-06@12:41:20.985 Sending start flag.
+2013-03-06@12:41:20.985 Start flag sent.
+2013-03-06@12:41:20.985 #EVENT_LOG# 201336 1362570080.986 1 1 1 0 0 0 0 0 0 0 0 0 0 'r'
+2013-03-06@12:41:21.026 Reading packet...
+2013-03-06@12:41:21.026 length: 5
+2013-03-06@12:41:21.026 type: 2
+2013-03-06@12:41:21.026 subType: 3
+2013-03-06@12:41:21.026 Reading INFO section...
+2013-03-06@12:41:21.026 Packet read...
+2013-03-06@12:41:21.026 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:21.026 calling handler 0
+2013-03-06@12:41:21.026 Sending start flag.
+2013-03-06@12:41:21.026 Start flag sent.
+2013-03-06@12:41:21.026 #EVENT_LOG# 201336 1362570081.27 1 1 1 0 0 0 0 0 0 0 0 1 0 'r'
+2013-03-06@12:41:21.066 Reading packet...
+2013-03-06@12:41:21.066 length: 5
+2013-03-06@12:41:21.066 type: 2
+2013-03-06@12:41:21.066 subType: 4
+2013-03-06@12:41:21.066 Reading INFO section...
+2013-03-06@12:41:21.067 Packet read...
+2013-03-06@12:41:21.067 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:21.067 calling handler 0
+2013-03-06@12:41:21.067 Sending start flag.
+2013-03-06@12:41:21.067 Start flag sent.
+2013-03-06@12:41:21.067 #EVENT_LOG# 201336 1362570081.67 0 1 1 0 0 0 0 0 0 0 0 1 1 'e'
+2013-03-06@12:41:21.107 Reading packet...
+2013-03-06@12:41:21.107 length: 5
+2013-03-06@12:41:21.107 type: 2
+2013-03-06@12:41:21.107 subType: 4
+2013-03-06@12:41:21.107 Reading INFO section...
+2013-03-06@12:41:21.107 Packet read...
+2013-03-06@12:41:21.107 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:21.107 calling handler 0
+2013-03-06@12:41:21.107 Sending start flag.
+2013-03-06@12:41:21.107 Start flag sent.
+2013-03-06@12:41:21.108 #EVENT_LOG# 201336 1362570081.108 0 0 1 0 0 0 0 0 0 0 0 1 2 'v'
+2013-03-06@12:41:21.148 Reading packet...
+2013-03-06@12:41:21.148 length: 5
+2013-03-06@12:41:21.148 type: 2
+2013-03-06@12:41:21.148 subType: 4
+2013-03-06@12:41:21.148 Reading INFO section...
+2013-03-06@12:41:21.148 Packet read...
+2013-03-06@12:41:21.148 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:21.148 calling handler 0
+2013-03-06@12:41:21.148 Sending start flag.
+2013-03-06@12:41:21.148 Start flag sent.
+2013-03-06@12:41:21.149 #EVENT_LOG# 201336 1362570081.149 0 0 1 0 0 0 0 0 0 0 0 0 2 'v'
+2013-03-06@12:41:21.189 Reading packet...
+2013-03-06@12:41:21.189 length: 5
+2013-03-06@12:41:21.189 type: 2
+2013-03-06@12:41:21.189 subType: 3
+2013-03-06@12:41:21.189 Reading INFO section...
+2013-03-06@12:41:21.189 Packet read...
+2013-03-06@12:41:21.189 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:21.189 calling handler 0
+2013-03-06@12:41:21.189 Sending start flag.
+2013-03-06@12:41:21.189 Start flag sent.
+2013-03-06@12:41:21.189 #EVENT_LOG# 201336 1362570081.190 1 0 1 0 0 0 0 0 0 0 0 0 0 'r'
+2013-03-06@12:41:21.229 Reading packet...
+2013-03-06@12:41:21.230 length: 5
+2013-03-06@12:41:21.230 type: 2
+2013-03-06@12:41:21.230 subType: 3
+2013-03-06@12:41:21.230 Reading INFO section...
+2013-03-06@12:41:21.230 Packet read...
+2013-03-06@12:41:21.230 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:21.230 calling handler 0
+2013-03-06@12:41:21.230 Sending start flag.
+2013-03-06@12:41:21.230 Start flag sent.
+2013-03-06@12:41:21.230 #EVENT_LOG# 201336 1362570081.231 1 1 1 0 0 0 0 0 0 0 0 0 0 'r'
+2013-03-06@12:41:21.270 Reading packet...
+2013-03-06@12:41:21.270 length: 5
+2013-03-06@12:41:21.270 type: 2
+2013-03-06@12:41:21.270 subType: 3
+2013-03-06@12:41:21.270 Reading INFO section...
+2013-03-06@12:41:21.270 Packet read...
+2013-03-06@12:41:21.270 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:21.270 calling handler 0
+2013-03-06@12:41:21.271 Sending start flag.
+2013-03-06@12:41:21.271 Start flag sent.
+2013-03-06@12:41:21.271 #EVENT_LOG# 201336 1362570081.271 1 1 1 0 0 1 0 0 0 0 0 0 0 'r'
+2013-03-06@12:41:21.311 Reading packet...
+2013-03-06@12:41:21.311 length: 5
+2013-03-06@12:41:21.311 type: 2
+2013-03-06@12:41:21.311 subType: 3
+2013-03-06@12:41:21.311 Reading INFO section...
+2013-03-06@12:41:21.311 Packet read...
+2013-03-06@12:41:21.312 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:21.312 calling handler 0
+2013-03-06@12:41:21.312 Sending start flag.
+2013-03-06@12:41:21.312 Start flag sent.
+2013-03-06@12:41:21.312 #EVENT_LOG# 201336 1362570081.313 1 1 1 0 0 1 1 0 0 0 0 0 0 'r'
+2013-03-06@12:41:21.352 Reading packet...
+2013-03-06@12:41:21.352 length: 5
+2013-03-06@12:41:21.353 type: 2
+2013-03-06@12:41:21.353 subType: 3
+2013-03-06@12:41:21.353 Reading INFO section...
+2013-03-06@12:41:21.353 Packet read...
+2013-03-06@12:41:21.353 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:21.353 calling handler 0
+2013-03-06@12:41:21.353 Sending start flag.
+2013-03-06@12:41:21.353 Start flag sent.
+2013-03-06@12:41:21.353 #EVENT_LOG# 201336 1362570081.354 1 1 1 0 0 1 1 1 0 0 0 0 0 'r'
+2013-03-06@12:41:21.394 Reading packet...
+2013-03-06@12:41:21.394 length: 5
+2013-03-06@12:41:21.394 type: 2
+2013-03-06@12:41:21.394 subType: 3
+2013-03-06@12:41:21.394 Reading INFO section...
+2013-03-06@12:41:21.394 Packet read...
+2013-03-06@12:41:21.394 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:21.394 calling handler 0
+2013-03-06@12:41:21.394 Sending start flag.
+2013-03-06@12:41:21.395 Start flag sent.
+2013-03-06@12:41:21.395 #EVENT_LOG# 201336 1362570081.395 1 1 1 0 0 1 1 1 1 0 0 0 0 'r'
+2013-03-06@12:41:21.435 Reading packet...
+2013-03-06@12:41:21.435 length: 5
+2013-03-06@12:41:21.435 type: 2
+2013-03-06@12:41:21.435 subType: 3
+2013-03-06@12:41:21.435 Reading INFO section...
+2013-03-06@12:41:21.436 Packet read...
+2013-03-06@12:41:21.436 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:21.436 calling handler 0
+2013-03-06@12:41:21.436 Sending start flag.
+2013-03-06@12:41:21.436 Start flag sent.
+2013-03-06@12:41:21.436 #EVENT_LOG# 201336 1362570081.437 1 1 1 0 0 1 1 1 1 1 0 0 0 'r'
+2013-03-06@12:41:21.476 Reading packet...
+2013-03-06@12:41:21.477 length: 5
+2013-03-06@12:41:21.477 type: 2
+2013-03-06@12:41:21.477 subType: 3
+2013-03-06@12:41:21.477 Reading INFO section...
+2013-03-06@12:41:21.477 Packet read...
+2013-03-06@12:41:21.477 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:21.477 calling handler 0
+2013-03-06@12:41:21.477 Sending start flag.
+2013-03-06@12:41:21.477 Start flag sent.
+2013-03-06@12:41:21.478 #EVENT_LOG# 201336 1362570081.478 1 1 1 0 0 1 1 1 1 1 1 0 0 'r'
+2013-03-06@12:41:21.518 Reading packet...
+2013-03-06@12:41:21.518 length: 5
+2013-03-06@12:41:21.518 type: 2
+2013-03-06@12:41:21.518 subType: 3
+2013-03-06@12:41:21.518 Reading INFO section...
+2013-03-06@12:41:21.518 Packet read...
+2013-03-06@12:41:21.518 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:21.519 calling handler 0
+2013-03-06@12:41:21.519 Sending start flag.
+2013-03-06@12:41:21.519 Start flag sent.
+2013-03-06@12:41:21.519 #EVENT_LOG# 201336 1362570081.519 1 1 1 0 0 1 1 1 1 1 1 1 0 'i'
+2013-03-06@12:41:21.559 Reading packet...
+2013-03-06@12:41:21.559 length: 5
+2013-03-06@12:41:21.559 type: 2
+2013-03-06@12:41:21.559 subType: 4
+2013-03-06@12:41:21.559 Reading INFO section...
+2013-03-06@12:41:21.559 Packet read...
+2013-03-06@12:41:21.559 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:21.559 calling handler 0
+2013-03-06@12:41:21.560 Sending start flag.
+2013-03-06@12:41:21.560 Start flag sent.
+2013-03-06@12:41:21.560 #EVENT_LOG# 201336 1362570081.560 0 1 1 0 0 1 1 1 1 1 1 1 1 'o'
+2013-03-06@12:41:21.600 Reading packet...
+2013-03-06@12:41:21.600 length: 5
+2013-03-06@12:41:21.600 type: 2
+2013-03-06@12:41:21.600 subType: 4
+2013-03-06@12:41:21.600 Reading INFO section...
+2013-03-06@12:41:21.600 Packet read...
+2013-03-06@12:41:21.600 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:21.600 calling handler 0
+2013-03-06@12:41:21.600 Sending start flag.
+2013-03-06@12:41:21.600 Start flag sent.
+2013-03-06@12:41:21.600 #EVENT_LOG# 201336 1362570081.601 0 0 1 0 0 1 1 1 1 1 1 1 2 'n'
+2013-03-06@12:41:21.641 Reading packet...
+2013-03-06@12:41:21.641 length: 5
+2013-03-06@12:41:21.641 type: 2
+2013-03-06@12:41:21.641 subType: 4
+2013-03-06@12:41:21.641 Reading INFO section...
+2013-03-06@12:41:21.641 Packet read...
+2013-03-06@12:41:21.641 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:21.641 calling handler 0
+2013-03-06@12:41:21.641 Sending start flag.
+2013-03-06@12:41:21.641 Start flag sent.
+2013-03-06@12:41:21.641 #EVENT_LOG# 201336 1362570081.642 0 0 0 0 0 1 1 1 1 1 1 1 5 ' '
+2013-03-06@12:41:21.681 Reading packet...
+2013-03-06@12:41:21.681 length: 5
+2013-03-06@12:41:21.681 type: 2
+2013-03-06@12:41:21.681 subType: 4
+2013-03-06@12:41:21.682 Reading INFO section...
+2013-03-06@12:41:21.682 Packet read...
+2013-03-06@12:41:21.682 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:21.682 calling handler 0
+2013-03-06@12:41:21.682 Sending start flag.
+2013-03-06@12:41:21.682 Start flag sent.
+2013-03-06@12:41:21.682 #EVENT_LOG# 201336 1362570081.682 0 0 0 0 0 0 1 1 1 1 1 1 6 'd'
+2013-03-06@12:41:21.722 Reading packet...
+2013-03-06@12:41:21.722 length: 5
+2013-03-06@12:41:21.722 type: 2
+2013-03-06@12:41:21.722 subType: 4
+2013-03-06@12:41:21.722 Reading INFO section...
+2013-03-06@12:41:21.722 Packet read...
+2013-03-06@12:41:21.722 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:21.722 calling handler 0
+2013-03-06@12:41:21.722 Sending start flag.
+2013-03-06@12:41:21.722 Start flag sent.
+2013-03-06@12:41:21.723 #EVENT_LOG# 201336 1362570081.723 0 0 0 0 0 0 0 1 1 1 1 1 7 'i'
+2013-03-06@12:41:21.763 Reading packet...
+2013-03-06@12:41:21.763 length: 5
+2013-03-06@12:41:21.763 type: 2
+2013-03-06@12:41:21.763 subType: 4
+2013-03-06@12:41:21.763 Reading INFO section...
+2013-03-06@12:41:21.763 Packet read...
+2013-03-06@12:41:21.763 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:21.763 calling handler 0
+2013-03-06@12:41:21.763 Sending start flag.
+2013-03-06@12:41:21.763 Start flag sent.
+2013-03-06@12:41:21.763 #EVENT_LOG# 201336 1362570081.764 0 0 0 0 0 0 0 0 1 1 1 1 8 'r'
+2013-03-06@12:41:21.804 Reading packet...
+2013-03-06@12:41:21.804 length: 5
+2013-03-06@12:41:21.804 type: 2
+2013-03-06@12:41:21.804 subType: 4
+2013-03-06@12:41:21.804 Reading INFO section...
+2013-03-06@12:41:21.804 Packet read...
+2013-03-06@12:41:21.804 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:21.804 calling handler 0
+2013-03-06@12:41:21.804 Sending start flag.
+2013-03-06@12:41:21.804 Start flag sent.
+2013-03-06@12:41:21.804 #EVENT_LOG# 201336 1362570081.805 0 0 0 0 0 0 0 0 0 1 1 1 9 'e'
+2013-03-06@12:41:21.844 Reading packet...
+2013-03-06@12:41:21.845 length: 5
+2013-03-06@12:41:21.845 type: 2
+2013-03-06@12:41:21.845 subType: 4
+2013-03-06@12:41:21.845 Reading INFO section...
+2013-03-06@12:41:21.845 Packet read...
+2013-03-06@12:41:21.845 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:21.845 calling handler 0
+2013-03-06@12:41:21.845 Sending start flag.
+2013-03-06@12:41:21.846 Start flag sent.
+2013-03-06@12:41:21.846 #EVENT_LOG# 201336 1362570081.846 0 0 0 0 0 0 0 0 0 0 1 1 10 '-'
+2013-03-06@12:41:21.886 Reading packet...
+2013-03-06@12:41:21.886 length: 5
+2013-03-06@12:41:21.886 type: 2
+2013-03-06@12:41:21.886 subType: 4
+2013-03-06@12:41:21.886 Reading INFO section...
+2013-03-06@12:41:21.887 Packet read...
+2013-03-06@12:41:21.887 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:21.887 calling handler 0
+2013-03-06@12:41:21.887 Sending start flag.
+2013-03-06@12:41:21.887 Start flag sent.
+2013-03-06@12:41:21.887 #EVENT_LOG# 201336 1362570081.888 0 0 0 0 0 0 0 0 0 0 0 1 11 '>'
+2013-03-06@12:41:21.927 Reading packet...
+2013-03-06@12:41:21.928 length: 5
+2013-03-06@12:41:21.928 type: 2
+2013-03-06@12:41:21.928 subType: 4
+2013-03-06@12:41:21.928 Reading INFO section...
+2013-03-06@12:41:21.928 Packet read...
+2013-03-06@12:41:21.928 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:21.928 calling handler 0
+2013-03-06@12:41:21.928 Sending start flag.
+2013-03-06@12:41:21.928 Start flag sent.
+2013-03-06@12:41:21.928 #EVENT_LOG# 201336 1362570081.929 0 0 0 0 0 0 0 0 0 0 0 0 11 ' '
+2013-03-06@12:41:21.969 Reading packet...
+2013-03-06@12:41:21.969 length: 5
+2013-03-06@12:41:21.969 type: 2
+2013-03-06@12:41:21.969 subType: 3
+2013-03-06@12:41:21.969 Reading INFO section...
+2013-03-06@12:41:21.969 Packet read...
+2013-03-06@12:41:21.969 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:21.969 calling handler 0
+2013-03-06@12:41:21.970 Sending start flag.
+2013-03-06@12:41:21.970 Start flag sent.
+2013-03-06@12:41:21.970 #EVENT_LOG# 201336 1362570081.970 1 0 0 0 0 0 0 0 0 0 0 0 0 'i'
+2013-03-06@12:41:22.010 Reading packet...
+2013-03-06@12:41:22.010 length: 5
+2013-03-06@12:41:22.010 type: 2
+2013-03-06@12:41:22.010 subType: 3
+2013-03-06@12:41:22.011 Reading INFO section...
+2013-03-06@12:41:22.011 Packet read...
+2013-03-06@12:41:22.011 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:22.011 calling handler 0
+2013-03-06@12:41:22.011 Sending start flag.
+2013-03-06@12:41:22.011 Start flag sent.
+2013-03-06@12:41:22.011 #EVENT_LOG# 201336 1362570082.12 1 1 0 0 0 0 0 0 0 0 0 0 0 'i'
+2013-03-06@12:41:22.051 Reading packet...
+2013-03-06@12:41:22.052 length: 5
+2013-03-06@12:41:22.052 type: 2
+2013-03-06@12:41:22.052 subType: 3
+2013-03-06@12:41:22.052 Reading INFO section...
+2013-03-06@12:41:22.052 Packet read...
+2013-03-06@12:41:22.052 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:22.052 calling handler 0
+2013-03-06@12:41:22.052 Sending start flag.
+2013-03-06@12:41:22.052 Start flag sent.
+2013-03-06@12:41:22.053 #EVENT_LOG# 201336 1362570082.53 1 1 1 0 0 0 0 0 0 0 0 0 0 'i'
+2013-03-06@12:41:22.093 Reading packet...
+2013-03-06@12:41:22.093 length: 5
+2013-03-06@12:41:22.093 type: 2
+2013-03-06@12:41:22.093 subType: 3
+2013-03-06@12:41:22.093 Reading INFO section...
+2013-03-06@12:41:22.093 Packet read...
+2013-03-06@12:41:22.094 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:22.094 calling handler 0
+2013-03-06@12:41:22.094 Sending start flag.
+2013-03-06@12:41:22.094 Start flag sent.
+2013-03-06@12:41:22.094 #EVENT_LOG# 201336 1362570082.95 1 1 1 0 0 0 1 0 0 0 0 0 0 'i'
+2013-03-06@12:41:22.134 Reading packet...
+2013-03-06@12:41:22.135 length: 5
+2013-03-06@12:41:22.135 type: 2
+2013-03-06@12:41:22.135 subType: 3
+2013-03-06@12:41:22.135 Reading INFO section...
+2013-03-06@12:41:22.135 Packet read...
+2013-03-06@12:41:22.135 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:22.135 calling handler 0
+2013-03-06@12:41:22.135 Sending start flag.
+2013-03-06@12:41:22.135 Start flag sent.
+2013-03-06@12:41:22.136 #EVENT_LOG# 201336 1362570082.136 1 1 1 0 0 0 1 1 0 0 0 0 0 'i'
+2013-03-06@12:41:22.176 Reading packet...
+2013-03-06@12:41:22.176 length: 5
+2013-03-06@12:41:22.176 type: 2
+2013-03-06@12:41:22.176 subType: 3
+2013-03-06@12:41:22.176 Reading INFO section...
+2013-03-06@12:41:22.176 Packet read...
+2013-03-06@12:41:22.176 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:22.177 calling handler 0
+2013-03-06@12:41:22.177 Sending start flag.
+2013-03-06@12:41:22.177 Start flag sent.
+2013-03-06@12:41:22.177 #EVENT_LOG# 201336 1362570082.177 1 1 1 0 0 0 1 1 1 0 0 0 0 'i'
+2013-03-06@12:41:22.217 Reading packet...
+2013-03-06@12:41:22.217 length: 5
+2013-03-06@12:41:22.217 type: 2
+2013-03-06@12:41:22.217 subType: 3
+2013-03-06@12:41:22.217 Reading INFO section...
+2013-03-06@12:41:22.217 Packet read...
+2013-03-06@12:41:22.217 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:22.217 calling handler 0
+2013-03-06@12:41:22.218 Sending start flag.
+2013-03-06@12:41:22.218 Start flag sent.
+2013-03-06@12:41:22.218 #EVENT_LOG# 201336 1362570082.218 1 1 1 0 0 0 1 1 1 1 0 0 0 'i'
+2013-03-06@12:41:22.258 Reading packet...
+2013-03-06@12:41:22.258 length: 5
+2013-03-06@12:41:22.258 type: 2
+2013-03-06@12:41:22.258 subType: 3
+2013-03-06@12:41:22.258 Reading INFO section...
+2013-03-06@12:41:22.258 Packet read...
+2013-03-06@12:41:22.258 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:22.258 calling handler 0
+2013-03-06@12:41:22.258 Sending start flag.
+2013-03-06@12:41:22.258 Start flag sent.
+2013-03-06@12:41:22.258 #EVENT_LOG# 201336 1362570082.259 1 1 1 0 0 0 1 1 1 1 1 0 0 'i'
+2013-03-06@12:41:22.299 Reading packet...
+2013-03-06@12:41:22.299 length: 5
+2013-03-06@12:41:22.299 type: 2
+2013-03-06@12:41:22.299 subType: 3
+2013-03-06@12:41:22.299 Reading INFO section...
+2013-03-06@12:41:22.299 Packet read...
+2013-03-06@12:41:22.299 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:22.299 calling handler 0
+2013-03-06@12:41:22.299 Sending start flag.
+2013-03-06@12:41:22.299 Start flag sent.
+2013-03-06@12:41:22.299 #EVENT_LOG# 201336 1362570082.300 1 1 1 0 0 0 1 1 1 1 1 1 0 'i'
+2013-03-06@12:41:22.339 Reading packet...
+2013-03-06@12:41:22.339 length: 5
+2013-03-06@12:41:22.340 type: 2
+2013-03-06@12:41:22.340 subType: 4
+2013-03-06@12:41:22.340 Reading INFO section...
+2013-03-06@12:41:22.340 Packet read...
+2013-03-06@12:41:22.340 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:22.340 calling handler 0
+2013-03-06@12:41:22.340 Sending start flag.
+2013-03-06@12:41:22.340 Start flag sent.
+2013-03-06@12:41:22.340 #EVENT_LOG# 201336 1362570082.340 1 1 1 0 0 0 0 1 1 1 1 1 0 'i'
+2013-03-06@12:41:22.380 Reading packet...
+2013-03-06@12:41:22.380 length: 5
+2013-03-06@12:41:22.380 type: 2
+2013-03-06@12:41:22.380 subType: 4
+2013-03-06@12:41:22.380 Reading INFO section...
+2013-03-06@12:41:22.380 Packet read...
+2013-03-06@12:41:22.380 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:22.380 calling handler 0
+2013-03-06@12:41:22.381 Sending start flag.
+2013-03-06@12:41:22.381 Start flag sent.
+2013-03-06@12:41:22.381 #EVENT_LOG# 201336 1362570082.381 1 1 1 0 0 0 0 0 1 1 1 1 0 'i'
+2013-03-06@12:41:22.421 Reading packet...
+2013-03-06@12:41:22.421 length: 5
+2013-03-06@12:41:22.421 type: 2
+2013-03-06@12:41:22.421 subType: 4
+2013-03-06@12:41:22.421 Reading INFO section...
+2013-03-06@12:41:22.421 Packet read...
+2013-03-06@12:41:22.421 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:22.421 calling handler 0
+2013-03-06@12:41:22.421 Sending start flag.
+2013-03-06@12:41:22.421 Start flag sent.
+2013-03-06@12:41:22.421 #EVENT_LOG# 201336 1362570082.422 1 1 1 0 0 0 0 0 0 1 1 1 0 'i'
+2013-03-06@12:41:22.462 Reading packet...
+2013-03-06@12:41:22.462 length: 5
+2013-03-06@12:41:22.462 type: 2
+2013-03-06@12:41:22.462 subType: 4
+2013-03-06@12:41:22.462 Reading INFO section...
+2013-03-06@12:41:22.462 Packet read...
+2013-03-06@12:41:22.462 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:22.462 calling handler 0
+2013-03-06@12:41:22.462 Sending start flag.
+2013-03-06@12:41:22.462 Start flag sent.
+2013-03-06@12:41:22.462 #EVENT_LOG# 201336 1362570082.463 1 1 1 0 0 0 0 0 0 0 1 1 0 'i'
+2013-03-06@12:41:22.502 Reading packet...
+2013-03-06@12:41:22.502 length: 5
+2013-03-06@12:41:22.503 type: 2
+2013-03-06@12:41:22.503 subType: 4
+2013-03-06@12:41:22.503 Reading INFO section...
+2013-03-06@12:41:22.503 Packet read...
+2013-03-06@12:41:22.503 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:22.503 calling handler 0
+2013-03-06@12:41:22.503 Sending start flag.
+2013-03-06@12:41:22.503 Start flag sent.
+2013-03-06@12:41:22.503 #EVENT_LOG# 201336 1362570082.503 1 1 1 0 0 0 0 0 0 0 0 1 0 'i'
+2013-03-06@12:41:22.543 Reading packet...
+2013-03-06@12:41:22.543 length: 5
+2013-03-06@12:41:22.543 type: 2
+2013-03-06@12:41:22.543 subType: 4
+2013-03-06@12:41:22.543 Reading INFO section...
+2013-03-06@12:41:22.543 Packet read...
+2013-03-06@12:41:22.543 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:22.543 calling handler 0
+2013-03-06@12:41:22.543 Sending start flag.
+2013-03-06@12:41:22.544 Start flag sent.
+2013-03-06@12:41:22.544 #EVENT_LOG# 201336 1362570082.544 1 1 1 0 0 0 0 0 0 0 0 0 0 'i'
+2013-03-06@12:41:22.584 Reading packet...
+2013-03-06@12:41:22.584 length: 5
+2013-03-06@12:41:22.584 type: 2
+2013-03-06@12:41:22.584 subType: 4
+2013-03-06@12:41:22.584 Reading INFO section...
+2013-03-06@12:41:22.584 Packet read...
+2013-03-06@12:41:22.584 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:22.584 calling handler 0
+2013-03-06@12:41:22.584 Sending start flag.
+2013-03-06@12:41:22.584 Start flag sent.
+2013-03-06@12:41:22.584 #EVENT_LOG# 201336 1362570082.585 0 1 1 0 0 0 0 0 0 0 0 0 1 'o'
+2013-03-06@12:41:22.625 Reading packet...
+2013-03-06@12:41:22.625 length: 5
+2013-03-06@12:41:22.625 type: 2
+2013-03-06@12:41:22.625 subType: 4
+2013-03-06@12:41:22.625 Reading INFO section...
+2013-03-06@12:41:22.625 Packet read...
+2013-03-06@12:41:22.625 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:22.625 calling handler 0
+2013-03-06@12:41:22.625 Sending start flag.
+2013-03-06@12:41:22.625 Start flag sent.
+2013-03-06@12:41:22.625 #EVENT_LOG# 201336 1362570082.626 0 0 1 0 0 0 0 0 0 0 0 0 2 'n'
+2013-03-06@12:41:22.665 Reading packet...
+2013-03-06@12:41:22.666 length: 5
+2013-03-06@12:41:22.666 type: 2
+2013-03-06@12:41:22.666 subType: 3
+2013-03-06@12:41:22.666 Reading INFO section...
+2013-03-06@12:41:22.666 Packet read...
+2013-03-06@12:41:22.666 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:22.666 calling handler 0
+2013-03-06@12:41:22.666 Sending start flag.
+2013-03-06@12:41:22.666 Start flag sent.
+2013-03-06@12:41:22.666 #EVENT_LOG# 201336 1362570082.667 1 0 1 0 0 0 0 0 0 0 0 0 0 'i'
+2013-03-06@12:41:22.706 Reading packet...
+2013-03-06@12:41:22.706 length: 5
+2013-03-06@12:41:22.706 type: 2
+2013-03-06@12:41:22.706 subType: 3
+2013-03-06@12:41:22.706 Reading INFO section...
+2013-03-06@12:41:22.706 Packet read...
+2013-03-06@12:41:22.706 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-06@12:41:22.707 calling handler 0
+2013-03-06@12:41:22.707 Sending start flag.
+2013-03-06@12:41:22.707 Start flag sent.
+2013-03-06@12:41:22.707 #EVENT_LOG# 201336 1362570082.707 1 1 1 0 0 0 0 0 0 0 0 0 0 'i'
+2013-03-06@12:41:22.747 Reading packet...
+2013-03-06@12:41:22.747 length: 5
+2013-03-06@12:41:22.747 type: 2
+2013-03-06@12:41:22.747 subType: 4
+2013-03-06@12:41:22.747 Reading INFO section...
+2013-03-06@12:41:22.747 Packet read...
+2013-03-06@12:41:22.747 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:22.747 calling handler 0
+2013-03-06@12:41:22.747 Sending start flag.
+2013-03-06@12:41:22.747 Start flag sent.
+2013-03-06@12:41:22.748 #EVENT_LOG# 201336 1362570082.748 0 1 1 0 0 0 0 0 0 0 0 0 1 'o'
+2013-03-06@12:41:22.788 Reading packet...
+2013-03-06@12:41:22.788 length: 5
+2013-03-06@12:41:22.788 type: 2
+2013-03-06@12:41:22.788 subType: 4
+2013-03-06@12:41:22.788 Reading INFO section...
+2013-03-06@12:41:22.788 Packet read...
+2013-03-06@12:41:22.788 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:22.788 calling handler 0
+2013-03-06@12:41:22.788 Sending start flag.
+2013-03-06@12:41:22.788 Start flag sent.
+2013-03-06@12:41:22.788 #EVENT_LOG# 201336 1362570082.789 0 0 1 0 0 0 0 0 0 0 0 0 2 'n'
+2013-03-06@12:41:22.828 Reading packet...
+2013-03-06@12:41:22.828 length: 5
+2013-03-06@12:41:22.829 type: 2
+2013-03-06@12:41:22.829 subType: 4
+2013-03-06@12:41:22.829 Reading INFO section...
+2013-03-06@12:41:22.829 Packet read...
+2013-03-06@12:41:22.829 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-06@12:41:22.829 calling handler 0
+2013-03-06@12:41:22.829 Sending start flag.
+2013-03-06@12:41:22.829 Start flag sent.
+2013-03-06@12:41:22.829 #EVENT_LOG# 201336 1362570082.829 0 0 0 0 0 0 0 0 0 0 0 0 11 ' '
+2013-03-06@12:41:29.527 api link
+2013-03-06@12:41:29.527 no autodetectable speech drivers
+2013-03-06@12:41:29.527 checking for speech driver: no
+2013-03-06@12:41:29.527 initializing speech driver: no
+2013-03-06@12:41:29.527 Speech Driver: no [NoSpeech]
+2013-03-06@12:41:29.527 NoSpeech Speech Driver:
+2013-03-06@12:41:29.530 Speech Input: none
+2013-03-06@12:41:31.496 beeper disabled

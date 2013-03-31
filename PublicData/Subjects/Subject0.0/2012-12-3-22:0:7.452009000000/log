@@ -1,0 +1,649 @@
+2012-12-03@22:00:10.870 BRLTTY 4.4 rev Unversioned directory [http://mielke.cc/brltty/]
+2012-12-03@22:00:10.876 NoScreen Screen Driver:
+2012-12-03@22:00:10.876 BrlAPI Server: release 0.5.7
+2012-12-03@22:00:11.283 ERROR: End of packet reached unexpectedly.  Malformed packet.
+2012-12-03@22:00:11.297 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.297 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.297 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.297 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.297 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.297 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.297 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.297 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.297 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.297 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.297 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.297 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.297 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.297 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.297 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.297 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.297 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.298 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.298 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.298 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.298 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.298 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.298 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.298 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.298 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.298 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.298 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.298 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.298 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.298 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.298 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.298 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.298 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.298 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.298 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.298 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.298 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.299 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.299 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.299 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.299 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.299 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.299 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.299 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.299 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.299 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.299 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.299 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.299 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.299 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.299 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.299 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.299 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.299 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.299 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.299 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.300 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.300 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.300 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.300 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.300 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.300 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.300 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.300 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.300 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.300 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.300 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.300 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.300 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.300 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.300 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.300 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.300 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.300 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.300 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.300 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.300 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.301 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.301 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.301 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.301 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.301 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.301 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.301 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.301 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.301 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.301 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.301 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.301 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.301 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.301 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.301 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.301 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.301 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.301 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.301 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.301 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.301 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.301 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.302 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.302 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.302 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.302 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.302 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.302 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.302 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.302 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.302 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.302 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.302 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.302 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.302 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.302 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.302 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.302 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.302 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.302 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.302 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.302 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.302 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.302 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.303 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.303 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.303 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.303 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.303 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.303 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.303 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.303 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.303 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.303 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.303 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.303 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.303 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.303 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.303 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.303 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.303 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.303 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.303 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.304 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.304 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.304 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.304 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.304 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.304 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.304 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.304 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.304 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.304 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.304 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.304 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.304 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.304 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.304 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.304 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.304 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.304 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.304 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.304 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.305 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.305 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.305 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.305 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.305 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.305 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.305 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.305 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.305 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.305 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.305 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.305 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.305 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.305 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.305 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.305 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.305 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.305 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.306 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.306 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.306 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.306 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.306 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.306 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.306 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.306 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.306 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.306 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.306 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.306 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.306 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.306 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.306 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.306 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.306 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.306 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.306 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.306 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.307 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.307 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.307 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.307 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.307 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.307 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.307 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.307 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.307 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.307 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.307 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.307 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.307 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.307 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.307 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.307 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.307 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.307 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.307 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.308 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.308 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.308 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.308 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.308 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.308 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.308 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.308 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.308 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.308 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.308 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.308 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.308 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.308 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.308 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.308 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.308 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.308 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.308 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.309 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.309 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.309 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.309 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.309 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.309 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.309 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.309 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.309 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.309 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.309 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.309 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.309 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.309 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.309 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.309 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.309 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.309 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.309 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.309 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.310 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.310 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.310 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.310 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.310 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.310 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.310 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.310 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.310 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.310 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.310 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.310 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.310 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.310 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.310 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.310 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.310 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.310 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.310 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.311 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.311 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.311 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.311 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.311 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.311 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.311 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.311 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.311 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.311 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.311 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.311 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.311 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.311 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.311 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.311 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.311 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.311 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.311 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.312 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.312 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.312 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.312 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.312 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.312 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.312 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.312 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.312 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.312 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.312 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.312 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.312 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.312 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.312 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.312 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.312 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.312 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.313 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.313 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.313 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.313 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.313 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.313 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.313 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.313 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.313 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.313 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.313 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.313 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.313 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.313 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.313 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.313 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.313 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.313 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.313 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.314 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.314 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.314 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.314 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.314 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.314 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.314 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.314 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.314 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.314 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.314 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.314 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.314 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.314 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.314 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.314 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.314 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.314 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.314 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.315 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.315 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.315 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.315 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.315 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.315 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.315 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.315 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.315 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.315 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.315 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.315 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.315 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.315 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.315 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.315 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.315 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.315 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.315 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.316 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.316 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.316 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.316 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.316 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.316 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.316 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.316 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.316 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.316 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.316 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.316 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.316 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.316 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.316 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.316 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.317 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.317 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.317 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.317 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.317 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.317 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.317 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.317 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.317 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.317 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.317 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.317 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.317 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.317 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.317 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.317 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.317 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.317 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.318 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.318 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.318 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.318 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.318 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.318 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.318 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.318 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.318 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.318 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.318 Unexpected byte that was not a frame start flag. The byte was:0
+2012-12-03@22:00:11.368 cannot open file: /home/timothy/works/2012/braille/UOBP/brltty-4.4/Programs/../Tables/brl-ob-all.txt: Adresář nebo soubor neexistuje
+2012-12-03@22:00:11.368 cannot open help file: /home/timothy/works/2012/braille/UOBP/brltty-4.4/Programs/../Tables/brl-ob-all.txt
+2012-12-03@22:00:11.368 UOBP Braille Driver: version 0.0
+2012-12-03@22:00:13.014 #EVENT_LOG# 2012123 1354568413.14 1 0 0 0 0 0 0 0 0 0 0 0 0 'B'
+2012-12-03@22:00:17.299 BrlAPI connection fd=8 accepted: local <unnamed>
+2012-12-03@22:00:27.581 NoSpeech Speech Driver:
+2012-12-03@22:00:28.575 #EVENT_LOG# 2012123 1354568428.575 1 0 0 0 0 0 0 0 0 0 0 0 0 'y'
+2012-12-03@22:00:32.206 #EVENT_LOG# 2012123 1354568432.206 1 1 0 0 0 0 0 0 0 0 0 0 0 'y'
+2012-12-03@22:00:32.289 #EVENT_LOG# 2012123 1354568432.289 0 1 0 0 0 0 0 0 0 0 0 0 1 ' '
+2012-12-03@22:00:32.832 #EVENT_LOG# 2012123 1354568432.832 0 1 0 0 0 0 0 0 0 0 0 0 1 ' '
+2012-12-03@22:00:33.207 #EVENT_LOG# 2012123 1354568433.207 0 1 0 0 0 0 0 0 0 0 0 0 1 ' '
+2012-12-03@22:00:33.583 #EVENT_LOG# 2012123 1354568433.583 0 0 1 0 0 0 0 0 0 0 0 0 2 '~'
+2012-12-03@22:00:34.532 #EVENT_LOG# 2012123 1354568434.532 0 0 1 1 0 0 0 0 0 0 0 0 2 '~'
+2012-12-03@22:00:34.585 #EVENT_LOG# 2012123 1354568434.585 0 0 0 1 0 0 0 0 0 0 0 0 3 ']'
+2012-12-03@22:00:36.028 #EVENT_LOG# 2012123 1354568436.28 0 0 0 0 1 0 0 0 0 0 0 0 4 '$'
+2012-12-03@22:00:36.275 #EVENT_LOG# 2012123 1354568436.276 0 0 0 0 0 1 0 0 0 0 0 0 5 ' '
+2012-12-03@22:00:36.317 #EVENT_LOG# 2012123 1354568436.317 0 0 0 0 0 1 1 0 0 0 0 0 5 ' '
+2012-12-03@22:00:36.482 #EVENT_LOG# 2012123 1354568436.482 0 0 0 0 0 0 1 0 0 0 0 0 6 'D'
+2012-12-03@22:00:36.565 #EVENT_LOG# 2012123 1354568436.565 0 0 0 0 0 1 0 0 0 0 0 0 5 ' '
+2012-12-03@22:00:37.107 #EVENT_LOG# 2012123 1354568437.108 0 0 0 0 0 1 0 0 0 0 0 0 5 ' '
+2012-12-03@22:00:37.359 #EVENT_LOG# 2012123 1354568437.360 0 0 0 0 0 1 0 0 0 0 0 0 5 ' '
+2012-12-03@22:00:37.777 #EVENT_LOG# 2012123 1354568437.777 0 0 0 0 0 0 1 0 0 0 0 0 6 'D'
+2012-12-03@22:00:38.028 #EVENT_LOG# 2012123 1354568438.28 0 0 0 0 0 0 1 0 0 0 0 0 6 'D'
+2012-12-03@22:00:39.760 #EVENT_LOG# 2012123 1354568439.761 0 0 0 0 0 0 0 1 0 0 0 0 7 'a'
+2012-12-03@22:00:40.997 #EVENT_LOG# 2012123 1354568440.998 0 0 0 0 0 0 0 1 1 0 0 0 7 'a'
+2012-12-03@22:00:41.039 #EVENT_LOG# 2012123 1354568441.39 0 0 0 0 0 0 0 0 1 0 0 0 8 'v'
+2012-12-03@22:00:42.357 #EVENT_LOG# 2012123 1354568442.358 0 0 0 0 0 0 0 0 1 1 0 0 8 'v'
+2012-12-03@22:00:42.481 #EVENT_LOG# 2012123 1354568442.482 0 0 0 0 0 0 0 0 0 1 0 0 9 'i'
+2012-12-03@22:00:43.553 #EVENT_LOG# 2012123 1354568443.553 0 0 0 0 0 0 0 0 0 1 1 0 9 'i'
+2012-12-03@22:00:43.599 #EVENT_LOG# 2012123 1354568443.599 0 0 0 0 0 0 0 0 0 0 1 0 10 'd'
+2012-12-03@22:00:44.424 #EVENT_LOG# 2012123 1354568444.424 0 0 0 0 0 0 0 0 0 0 1 1 10 'd'
+2012-12-03@22:00:44.475 #EVENT_LOG# 2012123 1354568444.475 0 0 0 0 0 0 0 0 0 0 0 1 11 ' '
+2012-12-03@22:00:46.125 #EVENT_LOG# 2012123 1354568446.125 0 0 0 0 0 1 0 0 0 0 0 0 5 ' '
+2012-12-03@22:00:46.620 #EVENT_LOG# 2012123 1354568446.621 0 0 0 0 1 0 0 0 0 0 0 0 4 '$'
+2012-12-03@22:01:03.445 #EVENT_LOG# 2012123 1354568463.446 1 0 0 0 0 0 0 0 0 0 0 0 0 'D'
+2012-12-03@22:01:05.054 #EVENT_LOG# 2012123 1354568465.54 0 1 0 0 0 0 0 0 0 0 0 0 1 'a'
+2012-12-03@22:01:05.677 #EVENT_LOG# 2012123 1354568465.678 0 0 1 0 0 0 0 0 0 0 0 0 2 'v'
+2012-12-03@22:01:06.636 #EVENT_LOG# 2012123 1354568466.636 0 0 1 1 0 0 0 0 0 0 0 0 2 'v'
+2012-12-03@22:01:06.719 #EVENT_LOG# 2012123 1354568466.719 0 0 0 1 0 0 0 0 0 0 0 0 3 'i'
+2012-12-03@22:01:07.429 #EVENT_LOG# 2012123 1354568467.430 0 0 0 0 1 0 0 0 0 0 0 0 4 'd'
+2012-12-03@22:03:13.020 #EVENT_LOG# 2012123 1354568593.20 1 0 0 0 0 0 0 0 0 0 0 0 0 'D'
+2012-12-03@22:03:29.809 #EVENT_LOG# 2012123 1354568609.810 0 1 0 0 0 0 0 0 0 0 0 0 1 'a'
+2012-12-03@22:03:38.840 #EVENT_LOG# 2012123 1354568618.841 0 0 1 0 0 0 0 0 0 0 0 0 2 'v'
+2012-12-03@22:03:46.467 #EVENT_LOG# 2012123 1354568626.468 0 0 0 1 0 0 0 0 0 0 0 0 3 'i'
+2012-12-03@22:03:49.355 #EVENT_LOG# 2012123 1354568629.356 0 0 0 0 1 0 0 0 0 0 0 0 4 'd'
+2012-12-03@22:03:53.771 #EVENT_LOG# 2012123 1354568633.771 0 0 0 0 0 1 0 0 0 0 0 0 5 ' '
+2012-12-03@22:03:54.648 #EVENT_LOG# 2012123 1354568634.648 0 0 0 0 0 0 1 0 0 0 0 0 6 '$'
+2012-12-03@22:03:59.353 #EVENT_LOG# 2012123 1354568639.353 0 0 0 0 0 1 0 0 0 0 0 0 5 ' '
+2012-12-03@22:04:00.845 #EVENT_LOG# 2012123 1354568640.845 1 0 0 0 0 0 0 0 0 0 0 0 0 'D'
+2012-12-03@22:04:01.425 #EVENT_LOG# 2012123 1354568641.425 0 1 0 0 0 0 0 0 0 0 0 0 1 'a'
+2012-12-03@22:04:02.096 #EVENT_LOG# 2012123 1354568642.96 0 0 1 0 0 0 0 0 0 0 0 0 2 'v'
+2012-12-03@22:04:03.292 #EVENT_LOG# 2012123 1354568643.293 0 0 1 0 0 0 0 0 0 0 0 0 2 'v'
+2012-12-03@22:05:03.322 #EVENT_LOG# 2012123 1354568703.323 1 0 0 0 0 0 0 0 0 0 0 0 0 'D'
+2012-12-03@22:05:04.024 #EVENT_LOG# 2012123 1354568704.24 0 1 0 0 0 0 0 0 0 0 0 0 1 'a'
+2012-12-03@22:05:04.648 #EVENT_LOG# 2012123 1354568704.648 0 0 1 0 0 0 0 0 0 0 0 0 2 'v'
+2012-12-03@22:05:05.399 #EVENT_LOG# 2012123 1354568705.399 0 0 0 1 0 0 0 0 0 0 0 0 3 'i'
+2012-12-03@22:05:06.150 #EVENT_LOG# 2012123 1354568706.150 0 0 0 0 1 0 0 0 0 0 0 0 4 'd'
+2012-12-03@22:05:07.016 #EVENT_LOG# 2012123 1354568707.17 0 0 0 0 0 1 0 0 0 0 0 0 5 ' '
+2012-12-03@22:05:08.263 #EVENT_LOG# 2012123 1354568708.263 0 0 0 0 0 1 0 0 0 0 0 0 5 ' '
+2012-12-03@22:05:09.466 #EVENT_LOG# 2012123 1354568709.467 0 0 0 0 0 1 0 0 0 0 0 0 5 ' '
+2012-12-03@22:05:10.468 #EVENT_LOG# 2012123 1354568710.469 0 0 0 0 0 1 0 0 0 0 0 0 5 ' '
+2012-12-03@22:05:12.046 #EVENT_LOG# 2012123 1354568712.46 0 0 0 0 0 1 0 0 0 0 0 0 5 ' '
+2012-12-03@22:05:14.397 #EVENT_LOG# 2012123 1354568714.397 0 0 0 0 0 1 0 0 0 0 0 0 5 ' '
+2012-12-03@22:05:15.274 #EVENT_LOG# 2012123 1354568715.274 0 0 0 0 0 0 1 0 0 0 0 0 6 '$'
+2012-12-03@22:05:15.899 #EVENT_LOG# 2012123 1354568715.899 0 0 0 0 0 0 0 1 0 0 0 0 7 'l'
+2012-12-03@22:05:16.525 #EVENT_LOG# 2012123 1354568716.525 0 0 0 0 0 0 0 0 1 0 0 0 8 ' '
+2012-12-03@22:05:17.151 #EVENT_LOG# 2012123 1354568717.151 0 0 0 0 0 0 0 0 1 0 0 0 8 ' '
+2012-12-03@22:05:17.608 #EVENT_LOG# 2012123 1354568717.609 0 0 0 0 0 0 0 0 0 1 0 0 9 ' '
+2012-12-03@22:05:17.983 #EVENT_LOG# 2012123 1354568717.984 0 0 0 0 0 0 0 0 1 0 0 0 8 ' '
+2012-12-03@22:05:18.278 #EVENT_LOG# 2012123 1354568718.278 0 0 0 0 0 0 0 1 0 0 0 0 7 'l'
+2012-12-03@22:05:18.608 #EVENT_LOG# 2012123 1354568718.609 0 0 0 0 0 0 1 0 0 0 0 0 6 '$'
+2012-12-03@22:05:19.557 #EVENT_LOG# 2012123 1354568719.557 0 0 0 0 0 0 1 0 0 0 0 0 6 '$'
+2012-12-03@22:05:19.846 #EVENT_LOG# 2012123 1354568719.846 0 0 0 0 0 0 0 1 0 0 0 0 7 'l'
+2012-12-03@22:05:20.300 #EVENT_LOG# 2012123 1354568720.300 0 0 0 0 0 0 1 0 0 0 0 0 6 '$'
+2012-12-03@22:05:20.919 #EVENT_LOG# 2012123 1354568720.919 0 0 0 0 0 0 1 0 0 0 0 0 6 '$'
+2012-12-03@22:05:21.991 #EVENT_LOG# 2012123 1354568721.992 0 0 0 0 0 0 0 1 0 0 0 0 7 'l'
+2012-12-03@22:05:22.865 #EVENT_LOG# 2012123 1354568722.865 0 0 0 0 0 0 1 0 0 0 0 0 6 '$'
+2012-12-03@22:05:26.165 #EVENT_LOG# 2012123 1354568726.165 1 0 0 0 0 0 0 0 0 0 0 0 0 'D'
+2012-12-03@22:05:26.707 #EVENT_LOG# 2012123 1354568726.708 0 1 0 0 0 0 0 0 0 0 0 0 1 'a'
+2012-12-03@22:05:27.738 #EVENT_LOG# 2012123 1354568727.739 0 1 1 0 0 0 0 0 0 0 0 0 1 'a'
+2012-12-03@22:05:27.821 #EVENT_LOG# 2012123 1354568727.822 0 0 1 0 0 0 0 0 0 0 0 0 2 'v'
+2012-12-03@22:05:28.481 #EVENT_LOG# 2012123 1354568728.482 0 0 1 1 0 0 0 0 0 0 0 0 2 'v'
+2012-12-03@22:05:28.564 #EVENT_LOG# 2012123 1354568728.565 0 0 0 1 0 0 0 0 0 0 0 0 3 'i'
+2012-12-03@22:05:29.059 #EVENT_LOG# 2012123 1354568729.59 0 0 0 1 1 0 0 0 0 0 0 0 3 'i'
+2012-12-03@22:05:29.107 #EVENT_LOG# 2012123 1354568729.107 0 0 0 0 1 0 0 0 0 0 0 0 4 'd'
+2012-12-03@22:05:29.649 #EVENT_LOG# 2012123 1354568729.650 0 0 0 0 0 1 0 0 0 0 0 0 5 ' '
+2012-12-03@22:05:29.938 #EVENT_LOG# 2012123 1354568729.939 0 0 0 0 0 1 1 0 0 0 0 0 5 ' '
+2012-12-03@22:05:35.555 #EVENT_LOG# 2012123 1354568735.555 0 0 0 0 0 1 0 0 0 0 0 0 5 ' '
+2012-12-03@22:05:35.638 #EVENT_LOG# 2012123 1354568735.638 0 0 0 0 0 1 1 0 0 0 0 0 5 ' '
+2012-12-03@22:05:35.886 #EVENT_LOG# 2012123 1354568735.886 0 0 0 0 0 1 0 0 0 0 0 0 5 ' '
+2012-12-03@22:05:36.999 #EVENT_LOG# 2012123 1354568736.999 0 0 0 0 0 1 1 0 0 0 0 0 5 ' '
+2012-12-03@22:05:37.082 #EVENT_LOG# 2012123 1354568737.82 0 0 0 0 0 1 0 0 0 0 0 0 5 ' '
+2012-12-03@22:05:37.123 #EVENT_LOG# 2012123 1354568737.124 0 0 0 0 0 1 1 0 0 0 0 0 5 ' '
+2012-12-03@22:05:37.948 #EVENT_LOG# 2012123 1354568737.948 0 0 0 0 0 0 1 0 0 0 0 0 6 '$'
+2012-12-03@22:05:45.286 #EVENT_LOG# 2012123 1354568745.286 0 0 0 0 0 0 0 1 0 0 0 0 7 'l'
+2012-12-03@22:05:45.781 #EVENT_LOG# 2012123 1354568745.781 0 0 0 0 0 0 0 1 0 0 0 0 7 'l'
+2012-12-03@22:05:46.524 #EVENT_LOG# 2012123 1354568746.524 0 0 0 0 0 0 0 1 0 0 0 0 7 'l'
+2012-12-03@22:05:46.606 #EVENT_LOG# 2012123 1354568746.607 0 0 0 0 0 0 0 1 0 0 0 0 7 'l'
+2012-12-03@22:05:49.411 #EVENT_LOG# 2012123 1354568749.411 0 0 0 0 0 0 0 1 1 0 0 0 7 'l'
+2012-12-03@22:05:49.452 #EVENT_LOG# 2012123 1354568749.453 0 0 0 0 0 0 0 0 1 0 0 0 8 ' '
+2012-12-03@22:05:50.525 #EVENT_LOG# 2012123 1354568750.526 0 0 0 0 0 0 0 0 0 1 0 0 9 ' '
+2012-12-03@22:05:50.897 #EVENT_LOG# 2012123 1354568750.897 0 0 0 0 0 0 0 0 0 0 1 0 10 ' '
+2012-12-03@22:05:51.268 #EVENT_LOG# 2012123 1354568751.269 0 0 0 0 0 0 0 0 0 0 0 1 11 ' '
+2012-12-03@22:05:51.768 #EVENT_LOG# 2012123 1354568751.768 0 0 0 0 0 0 0 0 0 0 1 0 10 ' '
+2012-12-03@22:05:52.098 #EVENT_LOG# 2012123 1354568752.99 0 0 0 0 0 0 0 0 1 0 0 0 8 ' '
+2012-12-03@22:05:52.352 #EVENT_LOG# 2012123 1354568752.352 0 0 0 0 0 0 0 1 0 0 0 0 7 'l'
+2012-12-03@22:05:59.235 #EVENT_LOG# 2012123 1354568759.235 0 0 0 0 0 0 1 0 0 0 0 0 6 '$'
+2012-12-03@22:05:59.530 #EVENT_LOG# 2012123 1354568759.530 0 0 0 0 0 1 0 0 0 0 0 0 5 ' '
+2012-12-03@22:05:59.571 #EVENT_LOG# 2012123 1354568759.572 0 0 0 0 0 1 1 0 0 0 0 0 5 ' '
+2012-12-03@22:05:59.655 #EVENT_LOG# 2012123 1354568759.655 0 0 0 0 0 1 0 0 0 0 0 0 5 ' '
+2012-12-03@22:05:59.905 #EVENT_LOG# 2012123 1354568759.905 0 0 0 0 1 0 0 0 0 0 0 0 4 'd'
+2012-12-03@22:06:01.311 #EVENT_LOG# 2012123 1354568761.311 1 0 0 0 0 0 0 0 0 0 0 0 0 'D'
+2012-12-03@22:06:03.043 #EVENT_LOG# 2012123 1354568763.43 0 1 0 0 0 0 0 0 0 0 0 0 1 'a'
+2012-12-03@22:06:04.816 #EVENT_LOG# 2012123 1354568764.817 0 1 0 0 0 0 0 0 0 0 0 0 1 'a'
+2012-12-03@22:06:07.668 #EVENT_LOG# 2012123 1354568767.668 1 0 0 0 0 0 0 0 0 0 0 0 0 'D'
+2012-12-03@22:06:08.920 #EVENT_LOG# 2012123 1354568768.920 1 0 0 0 0 0 0 0 0 0 0 0 0 'D'
+2012-12-03@22:06:09.745 #EVENT_LOG# 2012123 1354568769.745 1 0 0 0 0 0 0 0 0 0 0 0 0 'D'
+2012-12-03@22:06:10.364 #EVENT_LOG# 2012123 1354568770.364 1 0 0 0 0 0 0 0 0 0 0 0 0 'D'
+2012-12-03@22:06:10.942 #EVENT_LOG# 2012123 1354568770.943 1 0 0 0 0 0 0 0 0 0 0 0 0 'D'
+2012-12-03@22:06:13.252 #EVENT_LOG# 2012123 1354568773.252 0 0 0 0 0 1 0 0 0 0 0 0 5 ' '
+2012-12-03@22:06:13.803 #EVENT_LOG# 2012123 1354568773.803 1 0 0 0 0 0 0 0 0 0 0 0 0 'D'
+2012-12-03@22:06:15.370 #EVENT_LOG# 2012123 1354568775.370 0 1 0 0 0 0 0 0 0 0 0 0 1 'a'
+2012-12-03@22:06:16.319 #EVENT_LOG# 2012123 1354568776.319 0 0 1 0 0 0 0 0 0 0 0 0 2 'v'
+2012-12-03@22:06:17.185 #EVENT_LOG# 2012123 1354568777.185 0 0 0 1 0 0 0 0 0 0 0 0 3 'i'
+2012-12-03@22:06:17.226 #EVENT_LOG# 2012123 1354568777.227 0 0 0 1 1 0 0 0 0 0 0 0 3 'i'
+2012-12-03@22:06:17.435 #EVENT_LOG# 2012123 1354568777.435 0 0 0 1 0 0 0 0 0 0 0 0 3 'i'
+2012-12-03@22:06:18.755 #EVENT_LOG# 2012123 1354568778.756 0 0 0 0 1 0 0 0 0 0 0 0 4 'd'
+2012-12-03@22:06:19.704 #EVENT_LOG# 2012123 1354568779.705 0 0 0 0 1 0 0 0 0 0 0 0 4 'd'
+2012-12-03@22:06:21.023 #EVENT_LOG# 2012123 1354568781.24 0 0 0 0 1 0 0 0 0 0 0 0 4 'd'
+2012-12-03@22:06:22.467 #EVENT_LOG# 2012123 1354568782.467 0 0 0 0 0 1 0 0 0 0 0 0 5 ' '
+2012-12-03@22:06:23.457 #EVENT_LOG# 2012123 1354568783.458 0 0 0 0 0 1 0 0 0 0 0 0 5 ' '
+2012-12-03@22:06:24.076 #EVENT_LOG# 2012123 1354568784.77 0 0 0 0 0 1 0 0 0 0 0 0 5 ' '
+2012-12-03@22:06:24.823 #EVENT_LOG# 2012123 1354568784.823 0 0 0 0 0 1 0 0 0 0 0 0 5 ' '
+2012-12-03@22:06:25.896 #EVENT_LOG# 2012123 1354568785.896 1 0 0 0 0 0 0 0 0 0 0 0 0 'D'
+2012-12-03@22:06:26.226 #EVENT_LOG# 2012123 1354568786.226 1 1 0 0 0 0 0 0 0 0 0 0 0 'D'
+2012-12-03@22:06:26.349 #EVENT_LOG# 2012123 1354568786.350 0 1 0 0 0 0 0 0 0 0 0 0 1 'a'
+2012-12-03@22:06:26.968 #EVENT_LOG# 2012123 1354568786.968 0 0 1 0 0 0 0 0 0 0 0 0 2 'v'
+2012-12-03@22:06:27.009 #EVENT_LOG# 2012123 1354568787.10 0 0 1 1 0 0 0 0 0 0 0 0 2 'v'
+2012-12-03@22:06:27.051 #EVENT_LOG# 2012123 1354568787.51 0 0 0 1 0 0 0 0 0 0 0 0 3 'i'
+2012-12-03@22:06:27.390 #EVENT_LOG# 2012123 1354568787.390 0 0 0 1 1 0 0 0 0 0 0 0 3 'i'
+2012-12-03@22:06:27.473 #EVENT_LOG# 2012123 1354568787.473 0 0 0 0 1 0 0 0 0 0 0 0 4 'd'
+2012-12-03@22:06:27.807 #EVENT_LOG# 2012123 1354568787.808 0 0 0 0 0 1 0 0 0 0 0 0 5 ' '
+2012-12-03@22:06:29.787 #EVENT_LOG# 2012123 1354568789.788 1 0 0 0 0 0 0 0 0 0 0 0 0 'D'
+2012-12-03@22:06:30.248 #EVENT_LOG# 2012123 1354568790.249 0 1 0 0 0 0 0 0 0 0 0 0 1 'a'
+2012-12-03@22:06:30.826 #EVENT_LOG# 2012123 1354568790.827 0 0 1 0 0 0 0 0 0 0 0 0 2 'v'
+2012-12-03@22:06:31.156 #EVENT_LOG# 2012123 1354568791.157 0 0 0 1 0 0 0 0 0 0 0 0 3 'i'
+2012-12-03@22:06:31.404 #EVENT_LOG# 2012123 1354568791.405 0 0 0 0 1 0 0 0 0 0 0 0 4 'd'
+2012-12-03@22:06:32.274 #EVENT_LOG# 2012123 1354568792.274 1 0 0 0 0 0 0 0 0 0 0 0 0 'D'
+2012-12-03@22:06:32.975 #EVENT_LOG# 2012123 1354568792.976 0 1 0 0 0 0 0 0 0 0 0 0 1 'a'
+2012-12-03@22:06:33.223 #EVENT_LOG# 2012123 1354568793.224 0 0 1 0 0 0 0 0 0 0 0 0 2 'v'
+2012-12-03@22:06:33.265 #EVENT_LOG# 2012123 1354568793.265 0 0 1 1 0 0 0 0 0 0 0 0 2 'v'
+2012-12-03@22:06:33.307 #EVENT_LOG# 2012123 1354568793.307 0 0 0 1 0 0 0 0 0 0 0 0 3 'i'
+2012-12-03@22:06:33.843 #EVENT_LOG# 2012123 1354568793.844 0 0 0 0 1 0 0 0 0 0 0 0 4 'd'
+2012-12-03@22:06:34.091 #EVENT_LOG# 2012123 1354568794.91 0 0 0 0 0 1 0 0 0 0 0 0 5 ' '
+2012-12-03@22:06:34.174 #EVENT_LOG# 2012123 1354568794.174 0 0 0 0 0 0 1 0 0 0 0 0 6 '$'
+2012-12-03@22:06:35.287 #EVENT_LOG# 2012123 1354568795.288 1 0 0 0 0 0 0 0 0 0 0 0 0 'D'
+2012-12-03@22:06:35.659 #EVENT_LOG# 2012123 1354568795.660 0 1 0 0 0 0 0 0 0 0 0 0 1 'a'
+2012-12-03@22:06:35.948 #EVENT_LOG# 2012123 1354568795.949 0 0 1 0 0 0 0 0 0 0 0 0 2 'v'
+2012-12-03@22:06:36.402 #EVENT_LOG# 2012123 1354568796.403 0 0 0 1 0 0 0 0 0 0 0 0 3 'i'
+2012-12-03@22:06:38.097 #EVENT_LOG# 2012123 1354568798.97 1 0 0 0 0 0 0 0 0 0 0 0 0 'D'
+2012-12-03@22:06:39.663 #EVENT_LOG# 2012123 1354568799.664 0 1 0 0 0 0 0 0 0 0 0 0 1 'a'
+2012-12-03@22:06:44.447 #EVENT_LOG# 2012123 1354568804.447 1 0 0 0 0 0 0 0 0 0 0 0 0 'D'
+2012-12-03@22:06:45.561 #EVENT_LOG# 2012123 1354568805.561 0 1 0 0 0 0 0 0 0 0 0 0 1 'a'
+2012-12-03@22:06:46.139 #EVENT_LOG# 2012123 1354568806.139 1 0 0 0 0 0 0 0 0 0 0 0 0 'D'
+2012-12-03@22:06:54.589 #EVENT_LOG# 2012123 1354568814.590 1 0 0 0 0 0 0 0 0 0 0 0 0 'D'
+2012-12-03@22:06:55.002 #EVENT_LOG# 2012123 1354568815.2 1 1 0 0 0 0 0 0 0 0 0 0 0 'D'
+2012-12-03@22:06:55.084 #EVENT_LOG# 2012123 1354568815.85 0 1 0 0 0 0 0 0 0 0 0 0 1 'a'
+2012-12-03@22:06:55.917 #EVENT_LOG# 2012123 1354568815.918 0 0 1 0 0 0 0 0 0 0 0 0 2 'v'
+2012-12-03@22:06:56.949 #EVENT_LOG# 2012123 1354568816.949 0 0 1 1 0 0 0 0 0 0 0 0 2 'v'
+2012-12-03@22:06:57.031 #EVENT_LOG# 2012123 1354568817.32 0 0 1 0 0 0 0 0 0 0 0 0 2 'v'
+2012-12-03@22:06:57.155 #EVENT_LOG# 2012123 1354568817.156 0 0 1 0 0 0 0 0 0 0 0 0 2 'v'
+2012-12-03@22:06:57.733 #EVENT_LOG# 2012123 1354568817.734 0 0 0 1 0 0 0 0 0 0 0 0 3 'i'
+2012-12-03@22:06:58.650 #EVENT_LOG# 2012123 1354568818.650 0 0 0 0 1 0 0 0 0 0 0 0 4 'd'
+2012-12-03@22:06:59.647 #EVENT_LOG# 2012123 1354568819.647 1 0 0 0 0 0 0 0 0 0 0 0 0 'D'
+2012-12-03@22:06:59.944 #EVENT_LOG# 2012123 1354568819.944 1 1 0 0 0 0 0 0 0 0 0 0 0 'D'
+2012-12-03@22:07:00.027 #EVENT_LOG# 2012123 1354568820.27 0 1 0 0 0 0 0 0 0 0 0 0 1 'a'
+2012-12-03@22:07:00.934 #EVENT_LOG# 2012123 1354568820.935 0 0 1 0 0 0 0 0 0 0 0 0 2 'v'
+2012-12-03@22:07:01.965 #EVENT_LOG# 2012123 1354568821.965 0 0 0 1 0 0 0 0 0 0 0 0 3 'i'
+2012-12-03@22:07:02.047 #EVENT_LOG# 2012123 1354568822.48 0 0 1 0 0 0 0 0 0 0 0 0 2 'v'
+2012-12-03@22:07:04.201 #EVENT_LOG# 2012123 1354568824.201 1 0 0 0 0 0 0 0 0 0 0 0 0 'D'
+2012-12-03@22:07:04.779 #EVENT_LOG# 2012123 1354568824.779 0 1 0 0 0 0 0 0 0 0 0 0 1 'a'
+2012-12-03@22:07:05.357 #EVENT_LOG# 2012123 1354568825.357 0 0 1 0 0 0 0 0 0 0 0 0 2 'v'
+2012-12-03@22:07:05.976 #EVENT_LOG# 2012123 1354568825.976 0 0 0 1 0 0 0 0 0 0 0 0 3 'i'
+2012-12-03@22:07:06.595 #EVENT_LOG# 2012123 1354568826.595 0 0 0 0 1 0 0 0 0 0 0 0 4 'd'
+2012-12-03@22:07:08.532 #EVENT_LOG# 2012123 1354568828.533 1 0 0 0 0 0 0 0 0 0 0 0 0 'D'
+2012-12-03@22:07:09.398 #EVENT_LOG# 2012123 1354568829.398 1 1 0 0 0 0 0 0 0 0 0 0 0 'D'
+2012-12-03@22:07:09.481 #EVENT_LOG# 2012123 1354568829.481 0 1 0 0 0 0 0 0 0 0 0 0 1 'a'
+2012-12-03@22:07:11.339 #EVENT_LOG# 2012123 1354568831.339 0 1 0 0 0 0 0 0 0 0 0 0 1 'a'
+2012-12-03@22:07:12.091 #EVENT_LOG# 2012123 1354568832.91 0 0 1 0 0 0 0 0 0 0 0 0 2 'v'
+2012-12-03@22:07:16.174 #EVENT_LOG# 2012123 1354568836.175 1 0 0 0 0 0 0 0 0 0 0 0 0 'D'
+2012-12-03@22:07:16.473 #EVENT_LOG# 2012123 1354568836.473 1 1 0 0 0 0 0 0 0 0 0 0 0 'D'
+2012-12-03@22:07:16.679 #EVENT_LOG# 2012123 1354568836.680 0 1 0 0 0 0 0 0 0 0 0 0 1 'a'
+2012-12-03@22:07:18.782 #EVENT_LOG# 2012123 1354568838.782 0 0 1 0 0 0 0 0 0 0 0 0 2 'v'
+2012-12-03@22:07:18.823 #EVENT_LOG# 2012123 1354568838.824 0 1 1 0 0 0 0 0 0 0 0 0 1 'a'
+2012-12-03@22:07:19.112 #EVENT_LOG# 2012123 1354568839.112 0 0 1 0 0 0 0 0 0 0 0 0 2 'v'
+2012-12-03@22:07:19.195 #EVENT_LOG# 2012123 1354568839.195 0 1 0 0 0 0 0 0 0 0 0 0 1 'a'
+2012-12-03@22:07:20.309 #EVENT_LOG# 2012123 1354568840.309 1 0 0 0 0 0 0 0 0 0 0 0 0 'D'
+2012-12-03@22:07:20.928 #EVENT_LOG# 2012123 1354568840.928 1 1 0 0 0 0 0 0 0 0 0 0 0 'D'
+2012-12-03@22:07:21.010 #EVENT_LOG# 2012123 1354568841.11 0 1 0 0 0 0 0 0 0 0 0 0 1 'a'
+2012-12-03@22:07:22.536 #EVENT_LOG# 2012123 1354568842.537 0 0 1 0 0 0 0 0 0 0 0 0 2 'v'
+2012-12-03@22:07:22.578 #EVENT_LOG# 2012123 1354568842.578 0 0 1 1 0 0 0 0 0 0 0 0 2 'v'
+2012-12-03@22:07:22.619 #EVENT_LOG# 2012123 1354568842.620 0 0 0 1 0 0 0 0 0 0 0 0 3 'i'
+2012-12-03@22:07:23.691 #EVENT_LOG# 2012123 1354568843.692 0 0 0 1 1 0 0 0 0 0 0 0 3 'i'
+2012-12-03@22:07:23.736 #EVENT_LOG# 2012123 1354568843.736 0 0 0 0 1 0 0 0 0 0 0 0 4 'd'
+2012-12-03@22:07:24.528 #EVENT_LOG# 2012123 1354568844.529 0 0 0 0 0 1 0 0 0 0 0 0 5 ' '
+2012-12-03@22:07:25.363 #EVENT_LOG# 2012123 1354568845.363 0 0 0 0 0 1 1 0 0 0 0 0 5 ' '
+2012-12-03@22:07:25.446 #EVENT_LOG# 2012123 1354568845.446 0 0 0 0 0 1 0 0 0 0 0 0 5 ' '
+2012-12-03@22:07:25.864 #EVENT_LOG# 2012123 1354568845.864 1 0 0 0 0 0 0 0 0 0 0 0 0 'D'
+2012-12-03@22:07:26.616 #EVENT_LOG# 2012123 1354568846.616 1 0 0 0 0 0 0 0 0 0 0 0 0 'D'
+2012-12-03@22:07:27.242 #EVENT_LOG# 2012123 1354568847.242 1 0 0 0 0 0 0 0 0 0 0 0 0 'D'
+2012-12-03@22:07:27.325 #EVENT_LOG# 2012123 1354568847.325 1 1 0 0 0 0 0 0 0 0 0 0 0 'D'
+2012-12-03@22:07:27.367 #EVENT_LOG# 2012123 1354568847.367 0 1 0 0 0 0 0 0 0 0 0 0 1 'a'
+2012-12-03@22:07:32.563 #EVENT_LOG# 2012123 1354568852.564 1 0 0 0 0 0 0 0 0 0 0 0 0 'D'
+2012-12-03@22:07:32.771 #EVENT_LOG# 2012123 1354568852.771 1 0 0 0 0 0 0 0 0 0 0 0 0 'D'
+2012-12-03@22:07:33.018 #EVENT_LOG# 2012123 1354568853.19 1 0 0 0 0 0 0 0 0 0 0 0 0 'D'
+2012-12-03@22:07:33.189 #EVENT_LOG# 2012123 1354568853.189 1 0 0 0 0 0 0 0 0 0 0 0 0 'D'
+2012-12-03@22:07:44.236 #EVENT_LOG# 2012123 1354568864.237 1 0 0 0 0 0 0 0 0 0 0 0 0 'D'
+2012-12-03@22:07:45.022 #EVENT_LOG# 2012123 1354568865.23 0 1 0 0 0 0 0 0 0 0 0 0 1 'a'
+2012-12-03@22:07:45.523 #EVENT_LOG# 2012123 1354568865.523 1 0 0 0 0 0 0 0 0 0 0 0 0 'D'
+2012-12-03@22:07:47.422 #EVENT_LOG# 2012123 1354568867.423 1 0 0 0 0 0 0 0 0 0 0 0 0 'D'
+2012-12-03@22:07:49.854 #EVENT_LOG# 2012123 1354568869.855 0 1 0 0 0 0 0 0 0 0 0 0 1 'a'
+2012-12-03@22:07:51.669 #EVENT_LOG# 2012123 1354568871.670 0 0 1 0 0 0 0 0 0 0 0 0 2 'v'
+2012-12-03@22:08:08.653 #EVENT_LOG# 2012123 1354568888.654 0 0 0 0 0 0 0 0 1 0 0 0 8 ' '
+2012-12-03@22:08:08.695 #EVENT_LOG# 2012123 1354568888.695 0 0 0 0 0 0 0 0 1 1 0 0 8 ' '
+2012-12-03@22:08:09.571 #EVENT_LOG# 2012123 1354568889.572 0 0 0 0 0 0 0 0 0 1 0 0 9 ' '
+2012-12-03@22:09:13.811 #EVENT_LOG# 2012123 1354568953.812 1 0 0 0 0 0 0 0 0 0 0 0 0 'D'
+2012-12-03@22:09:14.018 #EVENT_LOG# 2012123 1354568954.18 1 1 0 0 0 0 0 0 0 0 0 0 0 'D'
+2012-12-03@22:09:14.062 #EVENT_LOG# 2012123 1354568954.63 0 1 0 0 0 0 0 0 0 0 0 0 1 'a'
+2012-12-03@22:09:14.437 #EVENT_LOG# 2012123 1354568954.438 0 0 1 0 0 0 0 0 0 0 0 0 2 'v'
+2012-12-03@22:09:14.769 #EVENT_LOG# 2012123 1354568954.770 0 1 0 0 0 0 0 0 0 0 0 0 1 'a'
+2012-12-03@22:09:15.189 #EVENT_LOG# 2012123 1354568955.190 1 0 0 0 0 0 0 0 0 0 0 0 0 'D'

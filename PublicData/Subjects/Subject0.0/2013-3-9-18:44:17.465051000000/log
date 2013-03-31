@@ -1,0 +1,418 @@
+2013-03-09@18:44:32.438 BRLTTY 4.4 rev Unversioned directory [http://mielke.cc/brltty/]
+2013-03-09@18:44:32.439 Working Directory: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4
+2013-03-09@18:44:32.439 Writable Directory: /var/run/brltty
+2013-03-09@18:44:32.439 Configuration File: /etc/brltty.conf
+2013-03-09@18:44:32.439 Preferences File: brltty.prefs
+2013-03-09@18:44:32.439 regions: text=0.0 status=0.0
+2013-03-09@18:44:32.439 shifts: full=1 half=0 vertical=5
+2013-03-09@18:44:32.439 Drivers Directory: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../lib
+2013-03-09@18:44:32.439 Tables Directory: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables
+2013-03-09@18:44:32.439 checking for text table: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/cs_CZ.ttb
+2013-03-09@18:44:32.439 checking for text table: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/cs.ttb
+2013-03-09@18:44:32.439 compiling text table: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/cs.ttb
+2013-03-09@18:44:32.439 file opened: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/cs.ttb fd=4
+2013-03-09@18:44:32.439 including data file: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/cs.ttb
+2013-03-09@18:44:32.443 file opened: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/numbers-dot8.tti fd=5
+2013-03-09@18:44:32.443 including data file: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/numbers-dot8.tti
+2013-03-09@18:44:32.444 file opened: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/common.tti fd=5
+2013-03-09@18:44:32.444 including data file: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/common.tti
+2013-03-09@18:44:32.444 file opened: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/spaces.tti fd=6
+2013-03-09@18:44:32.444 including data file: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/spaces.tti
+2013-03-09@18:44:32.444 file opened: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/boxes.tti fd=6
+2013-03-09@18:44:32.444 including data file: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/boxes.tti
+2013-03-09@18:44:32.444 file opened: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/blocks.tti fd=6
+2013-03-09@18:44:32.444 including data file: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/blocks.tti
+2013-03-09@18:44:32.445 Text Table: cs
+2013-03-09@18:44:32.445 Attributes Table: attributes
+2013-03-09@18:44:32.445 Contraction Table: none
+2013-03-09@18:44:32.445 Key Table: none
+2013-03-09@18:44:32.445 Keyboard Property: type=
+2013-03-09@18:44:32.445 Keyboard Property: vendor=
+2013-03-09@18:44:32.445 Keyboard Property: product=
+2013-03-09@18:44:32.445 checking for screen driver: no
+2013-03-09@18:44:32.445 initializing screen driver: no
+2013-03-09@18:44:32.445 Screen Driver: no [NoScreen]
+2013-03-09@18:44:32.445 NoScreen Screen Driver:
+2013-03-09@18:44:32.445 BrlAPI Server: release 0.5.7
+2013-03-09@18:44:32.445 API Parameter: auth=
+2013-03-09@18:44:32.445 API Parameter: host=
+2013-03-09@18:44:32.445 API Parameter: stacksize=
+2013-03-09@18:44:32.445 checking braille device: /dev/ttyUSB0
+2013-03-09@18:44:32.445 checking for braille driver: ob
+2013-03-09@18:44:32.446 initializing braille driver: ob -> /dev/ttyUSB0
+2013-03-09@18:44:32.446 linking local socket lock: Soubor již existuje
+2013-03-09@18:44:32.446 Initializing serial.
+2013-03-09@18:44:32.446 device directory: /dev
+2013-03-09@18:44:32.446 socket 0 established (fd 4)
+2013-03-09@18:44:32.446 socket 1 established (fd 5)
+2013-03-09@18:44:32.453 serial device opened: /dev/ttyUSB0: fd=6
+2013-03-09@18:44:32.853 Serial initialized.
+2013-03-09@18:44:32.853 Initializing capability nodes.
+2013-03-09@18:44:32.853 ERROR: End of packet reached unexpectedly.  Malformed packet.
+2013-03-09@18:44:32.853 Sending initialization packet.
+2013-03-09@18:44:32.853 Sending start flag.
+2013-03-09@18:44:32.853 Start flag sent.
+2013-03-09@18:44:32.854 Initialization packet sent.
+2013-03-09@18:44:32.870 Initialization frame not recieved, asking for one again.
+2013-03-09@18:44:32.870 Sending start flag.
+2013-03-09@18:44:32.870 Start flag sent.
+2013-03-09@18:44:35.649 Reading packet...
+2013-03-09@18:44:35.651 length: 5
+2013-03-09@18:44:35.652 type: 2
+2013-03-09@18:44:35.653 subType: 3
+2013-03-09@18:44:35.653 Reading INFO section...
+2013-03-09@18:44:35.660 Packet read...
+2013-03-09@18:44:35.660 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-09@18:44:35.660 calling handler 0
+2013-03-09@18:44:35.660 Received frame event for uninitialized node 0 of capability 4.
+2013-03-09@18:44:35.757 Reading packet...
+2013-03-09@18:44:35.759 length: 5
+2013-03-09@18:44:35.760 type: 2
+2013-03-09@18:44:35.761 subType: 4
+2013-03-09@18:44:35.761 Reading INFO section...
+2013-03-09@18:44:35.768 Packet read...
+2013-03-09@18:44:35.768 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-09@18:44:35.768 calling handler 0
+2013-03-09@18:44:35.768 Received frame event for uninitialized node 0 of capability 4.
+2013-03-09@18:44:35.865 Reading packet...
+2013-03-09@18:44:35.867 length: 5
+2013-03-09@18:44:35.868 type: 2
+2013-03-09@18:44:35.869 subType: 3
+2013-03-09@18:44:35.869 Reading INFO section...
+2013-03-09@18:44:35.877 Packet read...
+2013-03-09@18:44:35.877 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-09@18:44:35.877 calling handler 0
+2013-03-09@18:44:35.877 Received frame event for uninitialized node 0 of capability 4.
+2013-03-09@18:44:35.974 Reading packet...
+2013-03-09@18:44:35.976 length: 5
+2013-03-09@18:44:35.977 type: 2
+2013-03-09@18:44:35.978 subType: 4
+2013-03-09@18:44:35.978 Reading INFO section...
+2013-03-09@18:44:35.985 Packet read...
+2013-03-09@18:44:35.985 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-09@18:44:35.985 calling handler 0
+2013-03-09@18:44:35.985 Received frame event for uninitialized node 0 of capability 4.
+2013-03-09@18:44:35.986 Reading packet...
+2013-03-09@18:44:35.988 length: 5
+2013-03-09@18:44:35.989 type: 2
+2013-03-09@18:44:35.990 subType: 3
+2013-03-09@18:44:35.990 Reading INFO section...
+2013-03-09@18:44:35.997 Packet read...
+2013-03-09@18:44:35.997 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-09@18:44:35.997 calling handler 0
+2013-03-09@18:44:35.997 Received frame event for uninitialized node 0 of capability 4.
+2013-03-09@18:44:36.094 Reading packet...
+2013-03-09@18:44:36.096 length: 5
+2013-03-09@18:44:36.097 type: 2
+2013-03-09@18:44:36.098 subType: 4
+2013-03-09@18:44:36.098 Reading INFO section...
+2013-03-09@18:44:36.106 Packet read...
+2013-03-09@18:44:36.106 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-09@18:44:36.106 calling handler 0
+2013-03-09@18:44:36.106 Received frame event for uninitialized node 0 of capability 4.
+2013-03-09@18:44:36.107 Reading packet...
+2013-03-09@18:44:36.109 length: 5
+2013-03-09@18:44:36.110 type: 2
+2013-03-09@18:44:36.111 subType: 3
+2013-03-09@18:44:36.111 Reading INFO section...
+2013-03-09@18:44:36.118 Packet read...
+2013-03-09@18:44:36.118 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-09@18:44:36.118 calling handler 0
+2013-03-09@18:44:36.118 Received frame event for uninitialized node 0 of capability 4.
+2013-03-09@18:44:36.215 Reading packet...
+2013-03-09@18:44:36.217 length: 5
+2013-03-09@18:44:36.218 type: 2
+2013-03-09@18:44:36.219 subType: 4
+2013-03-09@18:44:36.219 Reading INFO section...
+2013-03-09@18:44:36.227 Packet read...
+2013-03-09@18:44:36.227 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-09@18:44:36.227 calling handler 0
+2013-03-09@18:44:36.227 Received frame event for uninitialized node 0 of capability 4.
+2013-03-09@18:44:36.228 Reading packet...
+2013-03-09@18:44:36.230 length: 5
+2013-03-09@18:44:36.231 type: 2
+2013-03-09@18:44:36.232 subType: 3
+2013-03-09@18:44:36.232 Reading INFO section...
+2013-03-09@18:44:36.239 Packet read...
+2013-03-09@18:44:36.239 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-09@18:44:36.239 calling handler 0
+2013-03-09@18:44:36.239 Received frame event for uninitialized node 0 of capability 4.
+2013-03-09@18:44:36.336 Reading packet...
+2013-03-09@18:44:36.338 length: 5
+2013-03-09@18:44:36.339 type: 2
+2013-03-09@18:44:36.340 subType: 4
+2013-03-09@18:44:36.340 Reading INFO section...
+2013-03-09@18:44:36.347 Packet read...
+2013-03-09@18:44:36.347 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-09@18:44:36.347 calling handler 0
+2013-03-09@18:44:36.347 Received frame event for uninitialized node 0 of capability 4.
+2013-03-09@18:44:36.444 Reading packet...
+2013-03-09@18:44:36.446 length: 5
+2013-03-09@18:44:36.447 type: 2
+2013-03-09@18:44:36.448 subType: 3
+2013-03-09@18:44:36.448 Reading INFO section...
+2013-03-09@18:44:36.456 Packet read...
+2013-03-09@18:44:36.456 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-09@18:44:36.456 calling handler 0
+2013-03-09@18:44:36.456 Received frame event for uninitialized node 0 of capability 4.
+2013-03-09@18:44:36.552 Reading packet...
+2013-03-09@18:44:36.554 length: 5
+2013-03-09@18:44:36.555 type: 2
+2013-03-09@18:44:36.557 subType: 4
+2013-03-09@18:44:36.557 Reading INFO section...
+2013-03-09@18:44:36.564 Packet read...
+2013-03-09@18:44:36.564 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-09@18:44:36.564 calling handler 0
+2013-03-09@18:44:36.564 Received frame event for uninitialized node 0 of capability 4.
+2013-03-09@18:44:36.565 Reading packet...
+2013-03-09@18:44:36.567 length: 5
+2013-03-09@18:44:36.568 type: 2
+2013-03-09@18:44:36.569 subType: 3
+2013-03-09@18:44:36.569 Reading INFO section...
+2013-03-09@18:44:36.576 Packet read...
+2013-03-09@18:44:36.576 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-09@18:44:36.576 calling handler 0
+2013-03-09@18:44:36.576 Received frame event for uninitialized node 0 of capability 4.
+2013-03-09@18:44:36.673 Reading packet...
+2013-03-09@18:44:36.675 length: 5
+2013-03-09@18:44:36.676 type: 2
+2013-03-09@18:44:36.677 subType: 4
+2013-03-09@18:44:36.677 Reading INFO section...
+2013-03-09@18:44:36.685 Packet read...
+2013-03-09@18:44:36.685 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-09@18:44:36.685 calling handler 0
+2013-03-09@18:44:36.685 Received frame event for uninitialized node 0 of capability 4.
+2013-03-09@18:44:36.686 Reading packet...
+2013-03-09@18:44:36.688 length: 5
+2013-03-09@18:44:36.689 type: 2
+2013-03-09@18:44:36.690 subType: 3
+2013-03-09@18:44:36.690 Reading INFO section...
+2013-03-09@18:44:36.697 Packet read...
+2013-03-09@18:44:36.697 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-09@18:44:36.697 calling handler 0
+2013-03-09@18:44:36.697 Received frame event for uninitialized node 0 of capability 4.
+2013-03-09@18:44:36.794 Reading packet...
+2013-03-09@18:44:36.796 length: 5
+2013-03-09@18:44:36.797 type: 2
+2013-03-09@18:44:36.798 subType: 4
+2013-03-09@18:44:36.798 Reading INFO section...
+2013-03-09@18:44:36.805 Packet read...
+2013-03-09@18:44:36.805 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-09@18:44:36.805 calling handler 0
+2013-03-09@18:44:36.805 Received frame event for uninitialized node 0 of capability 4.
+2013-03-09@18:44:36.806 Reading packet...
+2013-03-09@18:44:36.808 length: 5
+2013-03-09@18:44:36.809 type: 2
+2013-03-09@18:44:36.811 subType: 3
+2013-03-09@18:44:36.811 Reading INFO section...
+2013-03-09@18:44:36.818 Packet read...
+2013-03-09@18:44:36.818 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-09@18:44:36.818 calling handler 0
+2013-03-09@18:44:36.818 Received frame event for uninitialized node 0 of capability 4.
+2013-03-09@18:44:36.915 Reading packet...
+2013-03-09@18:44:36.917 length: 5
+2013-03-09@18:44:36.918 type: 2
+2013-03-09@18:44:36.919 subType: 4
+2013-03-09@18:44:36.919 Reading INFO section...
+2013-03-09@18:44:36.926 Packet read...
+2013-03-09@18:44:36.926 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-09@18:44:36.926 calling handler 0
+2013-03-09@18:44:36.926 Received frame event for uninitialized node 0 of capability 4.
+2013-03-09@18:44:38.197 Reading packet...
+2013-03-09@18:44:38.199 length: 5
+2013-03-09@18:44:38.200 type: 2
+2013-03-09@18:44:38.201 subType: 3
+2013-03-09@18:44:38.201 Reading INFO section...
+2013-03-09@18:44:38.208 Packet read...
+2013-03-09@18:44:38.208 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-09@18:44:38.208 calling handler 0
+2013-03-09@18:44:38.208 Received frame event for uninitialized node 0 of capability 4.
+2013-03-09@18:44:38.403 Reading packet...
+2013-03-09@18:44:38.405 length: 5
+2013-03-09@18:44:38.406 type: 2
+2013-03-09@18:44:38.407 subType: 4
+2013-03-09@18:44:38.407 Reading INFO section...
+2013-03-09@18:44:38.415 Packet read...
+2013-03-09@18:44:38.415 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-09@18:44:38.415 calling handler 0
+2013-03-09@18:44:38.415 Received frame event for uninitialized node 0 of capability 4.
+2013-03-09@18:44:39.001 Reading packet...
+2013-03-09@18:44:39.003 length: 5
+2013-03-09@18:44:39.004 type: 2
+2013-03-09@18:44:39.005 subType: 3
+2013-03-09@18:44:39.005 Reading INFO section...
+2013-03-09@18:44:39.012 Packet read...
+2013-03-09@18:44:39.012 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-09@18:44:39.012 calling handler 0
+2013-03-09@18:44:39.012 Received frame event for uninitialized node 0 of capability 4.
+2013-03-09@18:44:39.207 Reading packet...
+2013-03-09@18:44:39.209 length: 5
+2013-03-09@18:44:39.210 type: 2
+2013-03-09@18:44:39.211 subType: 4
+2013-03-09@18:44:39.211 Reading INFO section...
+2013-03-09@18:44:39.218 Packet read...
+2013-03-09@18:44:39.218 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-09@18:44:39.218 calling handler 0
+2013-03-09@18:44:39.218 Received frame event for uninitialized node 0 of capability 4.
+2013-03-09@18:44:39.608 Reading packet...
+2013-03-09@18:44:39.611 length: 5
+2013-03-09@18:44:39.612 type: 2
+2013-03-09@18:44:39.613 subType: 3
+2013-03-09@18:44:39.613 Reading INFO section...
+2013-03-09@18:44:39.620 Packet read...
+2013-03-09@18:44:39.620 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-09@18:44:39.620 calling handler 0
+2013-03-09@18:44:39.620 Received frame event for uninitialized node 0 of capability 4.
+2013-03-09@18:44:39.717 Reading packet...
+2013-03-09@18:44:39.719 length: 5
+2013-03-09@18:44:39.720 type: 2
+2013-03-09@18:44:39.721 subType: 3
+2013-03-09@18:44:39.721 Reading INFO section...
+2013-03-09@18:44:39.728 Packet read...
+2013-03-09@18:44:39.728 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-09@18:44:39.728 calling handler 0
+2013-03-09@18:44:39.728 Received frame event for uninitialized node 0 of capability 4.
+2013-03-09@18:44:39.923 Reading packet...
+2013-03-09@18:44:39.925 length: 5
+2013-03-09@18:44:39.926 type: 2
+2013-03-09@18:44:39.927 subType: 4
+2013-03-09@18:44:39.927 Reading INFO section...
+2013-03-09@18:44:39.934 Packet read...
+2013-03-09@18:44:39.934 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-09@18:44:39.934 calling handler 0
+2013-03-09@18:44:39.934 Received frame event for uninitialized node 0 of capability 4.
+2013-03-09@18:44:39.935 Reading packet...
+2013-03-09@18:44:39.937 length: 5
+2013-03-09@18:44:39.938 type: 2
+2013-03-09@18:44:39.940 subType: 4
+2013-03-09@18:44:39.940 Reading INFO section...
+2013-03-09@18:44:39.947 Packet read...
+2013-03-09@18:44:39.947 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-09@18:44:39.947 calling handler 0
+2013-03-09@18:44:39.947 Received frame event for uninitialized node 0 of capability 4.
+2013-03-09@18:44:40.337 Reading packet...
+2013-03-09@18:44:40.339 length: 5
+2013-03-09@18:44:40.340 type: 2
+2013-03-09@18:44:40.341 subType: 3
+2013-03-09@18:44:40.341 Reading INFO section...
+2013-03-09@18:44:40.349 Packet read...
+2013-03-09@18:44:40.349 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-09@18:44:40.349 calling handler 0
+2013-03-09@18:44:40.349 Received frame event for uninitialized node 0 of capability 4.
+2013-03-09@18:44:40.640 Reading packet...
+2013-03-09@18:44:40.642 length: 5
+2013-03-09@18:44:40.643 type: 2
+2013-03-09@18:44:40.644 subType: 4
+2013-03-09@18:44:40.644 Reading INFO section...
+2013-03-09@18:44:40.652 Packet read...
+2013-03-09@18:44:40.652 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-09@18:44:40.652 calling handler 0
+2013-03-09@18:44:40.652 Received frame event for uninitialized node 0 of capability 4.
+2013-03-09@18:44:41.042 Reading packet...
+2013-03-09@18:44:41.044 length: 5
+2013-03-09@18:44:41.045 type: 2
+2013-03-09@18:44:41.046 subType: 3
+2013-03-09@18:44:41.046 Reading INFO section...
+2013-03-09@18:44:41.053 Packet read...
+2013-03-09@18:44:41.053 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-09@18:44:41.053 calling handler 0
+2013-03-09@18:44:41.053 Received frame event for uninitialized node 0 of capability 4.
+2013-03-09@18:44:41.346 Reading packet...
+2013-03-09@18:44:41.348 length: 5
+2013-03-09@18:44:41.349 type: 2
+2013-03-09@18:44:41.350 subType: 4
+2013-03-09@18:44:41.350 Reading INFO section...
+2013-03-09@18:44:41.357 Packet read...
+2013-03-09@18:44:41.357 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-09@18:44:41.357 calling handler 0
+2013-03-09@18:44:41.357 Received frame event for uninitialized node 0 of capability 4.
+2013-03-09@18:44:42.628 Reading packet...
+2013-03-09@18:44:42.630 length: 5
+2013-03-09@18:44:42.631 type: 2
+2013-03-09@18:44:42.632 subType: 3
+2013-03-09@18:44:42.632 Reading INFO section...
+2013-03-09@18:44:42.640 Packet read...
+2013-03-09@18:44:42.640 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-09@18:44:42.640 calling handler 0
+2013-03-09@18:44:42.640 Received frame event for uninitialized node 0 of capability 4.
+2013-03-09@18:44:42.737 Reading packet...
+2013-03-09@18:44:42.739 length: 5
+2013-03-09@18:44:42.740 type: 2
+2013-03-09@18:44:42.741 subType: 4
+2013-03-09@18:44:42.741 Reading INFO section...
+2013-03-09@18:44:42.748 Packet read...
+2013-03-09@18:44:42.748 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-09@18:44:42.748 calling handler 0
+2013-03-09@18:44:42.748 Received frame event for uninitialized node 0 of capability 4.
+2013-03-09@18:44:43.236 Reading packet...
+2013-03-09@18:44:43.238 length: 5
+2013-03-09@18:44:43.239 type: 2
+2013-03-09@18:44:43.240 subType: 3
+2013-03-09@18:44:43.240 Reading INFO section...
+2013-03-09@18:44:43.248 Packet read...
+2013-03-09@18:44:43.248 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-09@18:44:43.248 calling handler 0
+2013-03-09@18:44:43.248 Received frame event for uninitialized node 0 of capability 4.
+2013-03-09@18:44:43.344 Reading packet...
+2013-03-09@18:44:43.347 length: 5
+2013-03-09@18:44:43.348 type: 2
+2013-03-09@18:44:43.349 subType: 4
+2013-03-09@18:44:43.349 Reading INFO section...
+2013-03-09@18:44:43.356 Packet read...
+2013-03-09@18:44:43.356 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-09@18:44:43.356 calling handler 0
+2013-03-09@18:44:43.356 Received frame event for uninitialized node 0 of capability 4.
+2013-03-09@18:44:43.453 Reading packet...
+2013-03-09@18:44:43.455 length: 5
+2013-03-09@18:44:43.456 type: 2
+2013-03-09@18:44:43.457 subType: 3
+2013-03-09@18:44:43.457 Reading INFO section...
+2013-03-09@18:44:43.464 Packet read...
+2013-03-09@18:44:43.464 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-09@18:44:43.464 calling handler 0
+2013-03-09@18:44:43.464 Received frame event for uninitialized node 0 of capability 4.
+2013-03-09@18:44:43.561 Reading packet...
+2013-03-09@18:44:43.563 length: 5
+2013-03-09@18:44:43.564 type: 2
+2013-03-09@18:44:43.565 subType: 4
+2013-03-09@18:44:43.565 Reading INFO section...
+2013-03-09@18:44:43.572 Packet read...
+2013-03-09@18:44:43.572 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-09@18:44:43.572 calling handler 0
+2013-03-09@18:44:43.572 Received frame event for uninitialized node 0 of capability 4.
+2013-03-09@18:44:43.669 Reading packet...
+2013-03-09@18:44:43.671 length: 5
+2013-03-09@18:44:43.672 type: 2
+2013-03-09@18:44:43.673 subType: 3
+2013-03-09@18:44:43.673 Reading INFO section...
+2013-03-09@18:44:43.681 Packet read...
+2013-03-09@18:44:43.681 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-09@18:44:43.681 calling handler 0
+2013-03-09@18:44:43.681 Received frame event for uninitialized node 0 of capability 4.
+2013-03-09@18:44:43.778 Reading packet...
+2013-03-09@18:44:43.780 length: 5
+2013-03-09@18:44:43.781 type: 2
+2013-03-09@18:44:43.782 subType: 4
+2013-03-09@18:44:43.782 Reading INFO section...
+2013-03-09@18:44:43.789 Packet read...
+2013-03-09@18:44:43.789 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-09@18:44:43.789 calling handler 0
+2013-03-09@18:44:43.789 Received frame event for uninitialized node 0 of capability 4.
+2013-03-09@18:44:43.984 Reading packet...
+2013-03-09@18:44:43.986 length: 5
+2013-03-09@18:44:43.987 type: 2
+2013-03-09@18:44:43.988 subType: 3
+2013-03-09@18:44:43.988 Reading INFO section...
+2013-03-09@18:44:43.995 Packet read...
+2013-03-09@18:44:43.995 Calling frame handler. type:2,subType:3 First byte of information is 0
+2013-03-09@18:44:43.995 calling handler 0
+2013-03-09@18:44:43.995 Received frame event for uninitialized node 0 of capability 4.
+2013-03-09@18:44:44.092 Reading packet...
+2013-03-09@18:44:44.094 length: 5
+2013-03-09@18:44:44.095 type: 2
+2013-03-09@18:44:44.096 subType: 4
+2013-03-09@18:44:44.096 Reading INFO section...
+2013-03-09@18:44:44.103 Packet read...
+2013-03-09@18:44:44.103 Calling frame handler. type:2,subType:4 First byte of information is 0
+2013-03-09@18:44:44.103 calling handler 0
+2013-03-09@18:44:44.103 Received frame event for uninitialized node 0 of capability 4.

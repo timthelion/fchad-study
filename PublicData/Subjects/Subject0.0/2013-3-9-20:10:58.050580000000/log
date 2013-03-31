@@ -1,0 +1,428 @@
+2013-03-09@20:13:29.430 BRLTTY 4.4 rev Unversioned directory [http://mielke.cc/brltty/]
+2013-03-09@20:13:29.430 Working Directory: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4
+2013-03-09@20:13:29.430 Writable Directory: /var/run/brltty
+2013-03-09@20:13:29.430 Configuration File: /etc/brltty.conf
+2013-03-09@20:13:29.430 Preferences File: brltty.prefs
+2013-03-09@20:13:29.430 regions: text=0.0 status=0.0
+2013-03-09@20:13:29.431 shifts: full=1 half=0 vertical=5
+2013-03-09@20:13:29.431 Drivers Directory: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../lib
+2013-03-09@20:13:29.431 Tables Directory: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables
+2013-03-09@20:13:29.431 checking for text table: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/cs_CZ.ttb
+2013-03-09@20:13:29.431 checking for text table: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/cs.ttb
+2013-03-09@20:13:29.431 compiling text table: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/cs.ttb
+2013-03-09@20:13:29.431 file opened: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/cs.ttb fd=4
+2013-03-09@20:13:29.431 including data file: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/cs.ttb
+2013-03-09@20:13:29.435 file opened: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/numbers-dot8.tti fd=5
+2013-03-09@20:13:29.435 including data file: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/numbers-dot8.tti
+2013-03-09@20:13:29.435 file opened: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/common.tti fd=5
+2013-03-09@20:13:29.435 including data file: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/common.tti
+2013-03-09@20:13:29.435 file opened: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/spaces.tti fd=6
+2013-03-09@20:13:29.435 including data file: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/spaces.tti
+2013-03-09@20:13:29.436 file opened: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/boxes.tti fd=6
+2013-03-09@20:13:29.436 including data file: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/boxes.tti
+2013-03-09@20:13:29.436 file opened: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/blocks.tti fd=6
+2013-03-09@20:13:29.436 including data file: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/blocks.tti
+2013-03-09@20:13:29.436 Text Table: cs
+2013-03-09@20:13:29.436 Attributes Table: attributes
+2013-03-09@20:13:29.436 Contraction Table: none
+2013-03-09@20:13:29.436 Key Table: none
+2013-03-09@20:13:29.436 Keyboard Property: type=
+2013-03-09@20:13:29.436 Keyboard Property: vendor=
+2013-03-09@20:13:29.436 Keyboard Property: product=
+2013-03-09@20:13:29.436 checking for screen driver: no
+2013-03-09@20:13:29.437 initializing screen driver: no
+2013-03-09@20:13:29.437 Screen Driver: no [NoScreen]
+2013-03-09@20:13:29.437 NoScreen Screen Driver:
+2013-03-09@20:13:29.437 BrlAPI Server: release 0.5.7
+2013-03-09@20:13:29.437 API Parameter: auth=
+2013-03-09@20:13:29.437 API Parameter: host=
+2013-03-09@20:13:29.437 API Parameter: stacksize=
+2013-03-09@20:13:29.437 checking braille device: /dev/ttyUSB0
+2013-03-09@20:13:29.437 checking for braille driver: ob
+2013-03-09@20:13:29.437 initializing braille driver: ob -> /dev/ttyUSB0
+2013-03-09@20:13:29.437 Initializing serial.
+2013-03-09@20:13:29.437 device directory: /dev
+2013-03-09@20:13:29.438 socket 1 established (fd 7)
+2013-03-09@20:13:29.438 linking local socket lock: Soubor již existuje
+2013-03-09@20:13:29.438 socket 0 established (fd 5)
+2013-03-09@20:13:29.443 serial device opened: /dev/ttyUSB0: fd=4
+2013-03-09@20:13:29.845 Serial initialized.
+2013-03-09@20:13:29.846 Initializing capability nodes.
+2013-03-09@20:13:29.846 ERROR: End of packet reached unexpectedly.  Malformed packet.
+2013-03-09@20:13:29.846 Sending initialization packet.
+2013-03-09@20:13:29.846 Sending start flag.
+2013-03-09@20:13:29.846 Start flag sent.
+2013-03-09@20:13:29.846 Packet sent.
+2013-03-09@20:13:29.846 Initialization packet sent.
+2013-03-09@20:13:29.861 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:29.861 Sending start flag.
+2013-03-09@20:13:29.861 Start flag sent.
+2013-03-09@20:13:29.861 Packet sent.
+2013-03-09@20:13:29.872 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:29.872 Sending start flag.
+2013-03-09@20:13:29.872 Start flag sent.
+2013-03-09@20:13:29.872 Packet sent.
+2013-03-09@20:13:29.883 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:29.883 Sending start flag.
+2013-03-09@20:13:29.883 Start flag sent.
+2013-03-09@20:13:29.883 Packet sent.
+2013-03-09@20:13:29.894 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:29.894 Sending start flag.
+2013-03-09@20:13:29.894 Start flag sent.
+2013-03-09@20:13:29.894 Packet sent.
+2013-03-09@20:13:29.904 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:29.904 Sending start flag.
+2013-03-09@20:13:29.905 Start flag sent.
+2013-03-09@20:13:29.905 Packet sent.
+2013-03-09@20:13:29.915 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:29.915 Sending start flag.
+2013-03-09@20:13:29.915 Start flag sent.
+2013-03-09@20:13:29.915 Packet sent.
+2013-03-09@20:13:29.926 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:29.926 Sending start flag.
+2013-03-09@20:13:29.926 Start flag sent.
+2013-03-09@20:13:29.926 Packet sent.
+2013-03-09@20:13:29.937 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:29.937 Sending start flag.
+2013-03-09@20:13:29.937 Start flag sent.
+2013-03-09@20:13:29.937 Packet sent.
+2013-03-09@20:13:29.948 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:29.948 Sending start flag.
+2013-03-09@20:13:29.948 Start flag sent.
+2013-03-09@20:13:29.948 Packet sent.
+2013-03-09@20:13:29.958 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:29.959 Sending start flag.
+2013-03-09@20:13:29.959 Start flag sent.
+2013-03-09@20:13:29.959 Packet sent.
+2013-03-09@20:13:29.969 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:29.969 Sending start flag.
+2013-03-09@20:13:29.969 Start flag sent.
+2013-03-09@20:13:29.969 Packet sent.
+2013-03-09@20:13:29.980 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:29.980 Sending start flag.
+2013-03-09@20:13:29.980 Start flag sent.
+2013-03-09@20:13:29.980 Packet sent.
+2013-03-09@20:13:29.991 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:29.991 Sending start flag.
+2013-03-09@20:13:29.991 Start flag sent.
+2013-03-09@20:13:29.991 Packet sent.
+2013-03-09@20:13:30.003 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.003 Sending start flag.
+2013-03-09@20:13:30.003 Start flag sent.
+2013-03-09@20:13:30.003 Packet sent.
+2013-03-09@20:13:30.013 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.013 Sending start flag.
+2013-03-09@20:13:30.013 Start flag sent.
+2013-03-09@20:13:30.014 Packet sent.
+2013-03-09@20:13:30.024 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.024 Sending start flag.
+2013-03-09@20:13:30.024 Start flag sent.
+2013-03-09@20:13:30.024 Packet sent.
+2013-03-09@20:13:30.035 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.035 Sending start flag.
+2013-03-09@20:13:30.035 Start flag sent.
+2013-03-09@20:13:30.035 Packet sent.
+2013-03-09@20:13:30.046 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.046 Sending start flag.
+2013-03-09@20:13:30.046 Start flag sent.
+2013-03-09@20:13:30.046 Packet sent.
+2013-03-09@20:13:30.057 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.057 Sending start flag.
+2013-03-09@20:13:30.057 Start flag sent.
+2013-03-09@20:13:30.057 Packet sent.
+2013-03-09@20:13:30.067 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.068 Sending start flag.
+2013-03-09@20:13:30.068 Start flag sent.
+2013-03-09@20:13:30.068 Packet sent.
+2013-03-09@20:13:30.078 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.078 Sending start flag.
+2013-03-09@20:13:30.078 Start flag sent.
+2013-03-09@20:13:30.078 Packet sent.
+2013-03-09@20:13:30.089 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.089 Sending start flag.
+2013-03-09@20:13:30.089 Start flag sent.
+2013-03-09@20:13:30.089 Packet sent.
+2013-03-09@20:13:30.100 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.100 Sending start flag.
+2013-03-09@20:13:30.100 Start flag sent.
+2013-03-09@20:13:30.100 Packet sent.
+2013-03-09@20:13:30.111 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.111 Sending start flag.
+2013-03-09@20:13:30.111 Start flag sent.
+2013-03-09@20:13:30.111 Packet sent.
+2013-03-09@20:13:30.122 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.122 Sending start flag.
+2013-03-09@20:13:30.122 Start flag sent.
+2013-03-09@20:13:30.122 Packet sent.
+2013-03-09@20:13:30.132 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.133 Sending start flag.
+2013-03-09@20:13:30.133 Start flag sent.
+2013-03-09@20:13:30.133 Packet sent.
+2013-03-09@20:13:30.143 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.143 Sending start flag.
+2013-03-09@20:13:30.143 Start flag sent.
+2013-03-09@20:13:30.143 Packet sent.
+2013-03-09@20:13:30.154 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.154 Sending start flag.
+2013-03-09@20:13:30.154 Start flag sent.
+2013-03-09@20:13:30.154 Packet sent.
+2013-03-09@20:13:30.165 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.165 Sending start flag.
+2013-03-09@20:13:30.165 Start flag sent.
+2013-03-09@20:13:30.165 Packet sent.
+2013-03-09@20:13:30.176 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.176 Sending start flag.
+2013-03-09@20:13:30.176 Start flag sent.
+2013-03-09@20:13:30.176 Packet sent.
+2013-03-09@20:13:30.186 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.187 Sending start flag.
+2013-03-09@20:13:30.187 Start flag sent.
+2013-03-09@20:13:30.187 Packet sent.
+2013-03-09@20:13:30.199 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.199 Sending start flag.
+2013-03-09@20:13:30.199 Start flag sent.
+2013-03-09@20:13:30.199 Packet sent.
+2013-03-09@20:13:30.209 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.210 Sending start flag.
+2013-03-09@20:13:30.210 Start flag sent.
+2013-03-09@20:13:30.210 Packet sent.
+2013-03-09@20:13:30.220 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.220 Sending start flag.
+2013-03-09@20:13:30.220 Start flag sent.
+2013-03-09@20:13:30.220 Packet sent.
+2013-03-09@20:13:30.231 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.231 Sending start flag.
+2013-03-09@20:13:30.231 Start flag sent.
+2013-03-09@20:13:30.231 Packet sent.
+2013-03-09@20:13:30.241 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.242 Sending start flag.
+2013-03-09@20:13:30.242 Start flag sent.
+2013-03-09@20:13:30.242 Packet sent.
+2013-03-09@20:13:30.252 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.252 Sending start flag.
+2013-03-09@20:13:30.252 Start flag sent.
+2013-03-09@20:13:30.252 Packet sent.
+2013-03-09@20:13:30.263 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.263 Sending start flag.
+2013-03-09@20:13:30.263 Start flag sent.
+2013-03-09@20:13:30.263 Packet sent.
+2013-03-09@20:13:30.273 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.273 Sending start flag.
+2013-03-09@20:13:30.274 Start flag sent.
+2013-03-09@20:13:30.274 Packet sent.
+2013-03-09@20:13:30.284 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.284 Sending start flag.
+2013-03-09@20:13:30.284 Start flag sent.
+2013-03-09@20:13:30.284 Packet sent.
+2013-03-09@20:13:30.295 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.295 Sending start flag.
+2013-03-09@20:13:30.295 Start flag sent.
+2013-03-09@20:13:30.295 Packet sent.
+2013-03-09@20:13:30.306 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.306 Sending start flag.
+2013-03-09@20:13:30.306 Start flag sent.
+2013-03-09@20:13:30.306 Packet sent.
+2013-03-09@20:13:30.317 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.317 Sending start flag.
+2013-03-09@20:13:30.317 Start flag sent.
+2013-03-09@20:13:30.317 Packet sent.
+2013-03-09@20:13:30.327 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.327 Sending start flag.
+2013-03-09@20:13:30.328 Start flag sent.
+2013-03-09@20:13:30.328 Packet sent.
+2013-03-09@20:13:30.338 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.338 Sending start flag.
+2013-03-09@20:13:30.338 Start flag sent.
+2013-03-09@20:13:30.338 Packet sent.
+2013-03-09@20:13:30.349 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.349 Sending start flag.
+2013-03-09@20:13:30.349 Start flag sent.
+2013-03-09@20:13:30.349 Packet sent.
+2013-03-09@20:13:30.359 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.359 Sending start flag.
+2013-03-09@20:13:30.359 Start flag sent.
+2013-03-09@20:13:30.360 Packet sent.
+2013-03-09@20:13:30.370 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.370 Sending start flag.
+2013-03-09@20:13:30.370 Start flag sent.
+2013-03-09@20:13:30.370 Packet sent.
+2013-03-09@20:13:30.381 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.381 Sending start flag.
+2013-03-09@20:13:30.381 Start flag sent.
+2013-03-09@20:13:30.381 Packet sent.
+2013-03-09@20:13:30.391 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.391 Sending start flag.
+2013-03-09@20:13:30.391 Start flag sent.
+2013-03-09@20:13:30.392 Packet sent.
+2013-03-09@20:13:30.402 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.402 Sending start flag.
+2013-03-09@20:13:30.402 Start flag sent.
+2013-03-09@20:13:30.402 Packet sent.
+2013-03-09@20:13:30.413 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.413 Sending start flag.
+2013-03-09@20:13:30.413 Start flag sent.
+2013-03-09@20:13:30.413 Packet sent.
+2013-03-09@20:13:30.423 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.423 Sending start flag.
+2013-03-09@20:13:30.424 Start flag sent.
+2013-03-09@20:13:30.424 Packet sent.
+2013-03-09@20:13:30.434 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.434 Sending start flag.
+2013-03-09@20:13:30.434 Start flag sent.
+2013-03-09@20:13:30.434 Packet sent.
+2013-03-09@20:13:30.445 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.445 Sending start flag.
+2013-03-09@20:13:30.445 Start flag sent.
+2013-03-09@20:13:30.445 Packet sent.
+2013-03-09@20:13:30.455 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.455 Sending start flag.
+2013-03-09@20:13:30.455 Start flag sent.
+2013-03-09@20:13:30.456 Packet sent.
+2013-03-09@20:13:30.466 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.466 Sending start flag.
+2013-03-09@20:13:30.466 Start flag sent.
+2013-03-09@20:13:30.466 Packet sent.
+2013-03-09@20:13:30.477 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.477 Sending start flag.
+2013-03-09@20:13:30.477 Start flag sent.
+2013-03-09@20:13:30.477 Packet sent.
+2013-03-09@20:13:30.487 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.487 Sending start flag.
+2013-03-09@20:13:30.487 Start flag sent.
+2013-03-09@20:13:30.488 Packet sent.
+2013-03-09@20:13:30.498 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.498 Sending start flag.
+2013-03-09@20:13:30.498 Start flag sent.
+2013-03-09@20:13:30.498 Packet sent.
+2013-03-09@20:13:30.509 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.509 Sending start flag.
+2013-03-09@20:13:30.509 Start flag sent.
+2013-03-09@20:13:30.509 Packet sent.
+2013-03-09@20:13:30.519 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.519 Sending start flag.
+2013-03-09@20:13:30.520 Start flag sent.
+2013-03-09@20:13:30.520 Packet sent.
+2013-03-09@20:13:30.530 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.530 Sending start flag.
+2013-03-09@20:13:30.530 Start flag sent.
+2013-03-09@20:13:30.530 Packet sent.
+2013-03-09@20:13:30.541 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.541 Sending start flag.
+2013-03-09@20:13:30.541 Start flag sent.
+2013-03-09@20:13:30.541 Packet sent.
+2013-03-09@20:13:30.551 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.552 Sending start flag.
+2013-03-09@20:13:30.552 Start flag sent.
+2013-03-09@20:13:30.552 Packet sent.
+2013-03-09@20:13:30.562 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.562 Sending start flag.
+2013-03-09@20:13:30.562 Start flag sent.
+2013-03-09@20:13:30.562 Packet sent.
+2013-03-09@20:13:30.573 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.573 Sending start flag.
+2013-03-09@20:13:30.573 Start flag sent.
+2013-03-09@20:13:30.573 Packet sent.
+2013-03-09@20:13:30.583 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.584 Sending start flag.
+2013-03-09@20:13:30.584 Start flag sent.
+2013-03-09@20:13:30.584 Packet sent.
+2013-03-09@20:13:30.594 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.594 Sending start flag.
+2013-03-09@20:13:30.594 Start flag sent.
+2013-03-09@20:13:30.594 Packet sent.
+2013-03-09@20:13:30.605 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.605 Sending start flag.
+2013-03-09@20:13:30.605 Start flag sent.
+2013-03-09@20:13:30.605 Packet sent.
+2013-03-09@20:13:30.615 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.615 Sending start flag.
+2013-03-09@20:13:30.616 Start flag sent.
+2013-03-09@20:13:30.616 Packet sent.
+2013-03-09@20:13:30.626 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.626 Sending start flag.
+2013-03-09@20:13:30.626 Start flag sent.
+2013-03-09@20:13:30.626 Packet sent.
+2013-03-09@20:13:30.637 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.637 Sending start flag.
+2013-03-09@20:13:30.637 Start flag sent.
+2013-03-09@20:13:30.637 Packet sent.
+2013-03-09@20:13:30.647 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.647 Sending start flag.
+2013-03-09@20:13:30.648 Start flag sent.
+2013-03-09@20:13:30.648 Packet sent.
+2013-03-09@20:13:30.658 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.658 Sending start flag.
+2013-03-09@20:13:30.658 Start flag sent.
+2013-03-09@20:13:30.658 Packet sent.
+2013-03-09@20:13:30.669 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.669 Sending start flag.
+2013-03-09@20:13:30.669 Start flag sent.
+2013-03-09@20:13:30.669 Packet sent.
+2013-03-09@20:13:30.679 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.679 Sending start flag.
+2013-03-09@20:13:30.680 Start flag sent.
+2013-03-09@20:13:30.680 Packet sent.
+2013-03-09@20:13:30.690 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.690 Sending start flag.
+2013-03-09@20:13:30.690 Start flag sent.
+2013-03-09@20:13:30.690 Packet sent.
+2013-03-09@20:13:30.701 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.701 Sending start flag.
+2013-03-09@20:13:30.701 Start flag sent.
+2013-03-09@20:13:30.701 Packet sent.
+2013-03-09@20:13:30.711 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.711 Sending start flag.
+2013-03-09@20:13:30.711 Start flag sent.
+2013-03-09@20:13:30.712 Packet sent.
+2013-03-09@20:13:30.722 Initialization frame not recieved, asking for one again.
+2013-03-09@20:13:30.722 Sending start flag.
+2013-03-09@20:13:30.722 Start flag sent.
+2013-03-09@20:13:30.722 Packet sent.
+2013-03-09@20:13:30.732 Reading packet...
+2013-03-09@20:13:30.734 length: 74
+2013-03-09@20:13:30.735 type: 0
+2013-03-09@20:13:30.736 subType: 1
+2013-03-09@20:13:30.737 Reading INFO section...
+2013-03-09@20:13:30.815 Packet read...
+2013-03-09@20:13:30.816 Calling frame handler. type:0,subType:1 First byte of information is 0
+2013-03-09@20:13:30.816 calling handler 0
+2013-03-09@20:13:30.816 Initializing capability nodes.
+2013-03-09@20:13:30.816 2 standard nodes to load.
+2013-03-09@20:13:30.816 Loading node of capability 3
+2013-03-09@20:13:30.816 Node # 0
+2013-03-09@20:13:30.816 Node info length: 13
+2013-03-09@20:13:30.816 Loading node of capability 4
+2013-03-09@20:13:30.816 Node # 0
+2013-03-09@20:13:30.816 Node info length: 16
+2013-03-09@20:13:30.816 Size of new node 1x12
+2013-03-09@20:13:30.817 Device initialized.
+2013-03-09@20:13:30.817 Braille Display Dimensions: 1 row, 12 columns
+2013-03-09@20:13:30.817 regions: text=0.12 status=0.0
+2013-03-09@20:13:30.817 shifts: full=12 half=6 vertical=5
+2013-03-09@20:13:30.817 Key Bindings: all
+2013-03-09@20:13:30.817 cannot open file: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/brl-ob-all.txt: Adresář nebo soubor neexistuje
+2013-03-09@20:13:30.817 cannot open help file: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/brl-ob-all.txt
+2013-03-09@20:13:30.817 api link
+2013-03-09@20:13:30.817 Braille Driver: ob [UOBP]
+2013-03-09@20:13:30.817 UOBP Braille Driver: version 0.0
+2013-03-09@20:13:30.818 Braille Device: /dev/ttyUSB0
+2013-03-09@20:13:30.818 Old Preferences File: /etc/brltty-ob.prefs
+2013-03-09@20:13:30.818 cannot open file: /etc/brltty-ob.prefs: Adresář nebo soubor neexistuje
+2013-03-09@20:13:30.818 regions: text=0.12 status=0.0
+2013-03-09@20:13:30.818 shifts: full=12 half=6 vertical=5
+2013-03-09@20:13:30.821 exit status: 0
+2013-03-09@20:13:30.822 console opened: fd=6
+2013-03-09@20:13:30.822 beeper enabled
+2013-03-09@20:13:30.822 tone: msec=60 note=64
+2013-03-09@20:13:30.882 tone: msec=100 note=69
+2013-03-09@20:13:30.982 api unlink
+2013-03-09@20:13:30.982 Resizing window from 0x0 to 1x12
+2013-03-09@20:13:31.022 Reading packet...
+2013-03-09@20:13:31.022 length: 74
+2013-03-09@20:13:31.023 type: 0
+2013-03-09@20:13:31.023 subType: 1
+2013-03-09@20:13:31.023 Reading INFO section...
+2013-03-09@20:13:31.023 Packet read...
+2013-03-09@20:13:31.023 Calling frame handler. type:0,subType:1 First byte of information is 0
+2013-03-09@20:13:31.023 calling handler 0
+2013-03-09@20:13:31.023 Initializing capability nodes.

@@ -1,0 +1,60 @@
+This is BibTeX, Version 0.99d (TeX Live 2012/Arch Linux)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: draft.aux
+A level-1 auxiliary file: ch/01_introduction.aux
+A level-1 auxiliary file: ch/02_anomaly_theory.aux
+A level-1 auxiliary file: ch/03_network_security.aux
+A level-1 auxiliary file: ch/04_proposed_methods.aux
+A level-1 auxiliary file: ch/05_experiments.aux
+A level-1 auxiliary file: ch/06_conclusion.aux
+The style file: plain.bst
+A level-1 auxiliary file: ch/99_appendices.aux
+Database file #1: references.bib
+Repeated entry---line 518 of file references.bib
+ : @article{estevez2004measuring
+ :                              ,
+I'm skipping whatever remains of this entry
+Warning--to sort, need author or key in darpa1999ids
+Warning--empty journal in thomas2010usefulness
+You've used 39 entries,
+            2118 wiz_defined-function locations,
+            720 strings with 10815 characters,
+and the built_in function-call counts, 14969 in all, are:
+= -- 1546
+> -- 657
+< -- 15
++ -- 265
+- -- 220
+* -- 1043
+:= -- 2368
+add.period$ -- 129
+call.type$ -- 39
+change.case$ -- 223
+chr.to.int$ -- 0
+cite$ -- 41
+duplicate$ -- 580
+empty$ -- 1172
+format.name$ -- 220
+if$ -- 3218
+int.to.chr$ -- 0
+int.to.str$ -- 39
+missing$ -- 38
+newline$ -- 196
+num.names$ -- 76
+pop$ -- 241
+preamble$ -- 1
+purify$ -- 187
+quote$ -- 0
+skip$ -- 431
+stack$ -- 0
+substring$ -- 1054
+swap$ -- 170
+text.length$ -- 15
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 152
+warning$ -- 2
+while$ -- 154
+width$ -- 41
+write$ -- 436
+(There was 1 error message)

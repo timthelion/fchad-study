@@ -1,0 +1,239 @@
+\begin{thebibliography}{10}
+
+\bibitem{darpa1999ids}
+Darpa intrusion detection data sets (ideval).
+\newblock
+  \url{http://www.ll.mit.edu/mission/communications/ist/corpora/ideval/data/index.html}.
+
+\bibitem{alshammari2009machine}
+R.~Alshammari and A.N. Zincir-Heywood.
+\newblock Machine learning based encrypted traffic classification: identifying
+  ssh and skype.
+\newblock In {\em Computational Intelligence for Security and Defense
+  Applications, 2009. CISDA 2009. IEEE Symposium on}, pages 1--8. IEEE, 2009.
+
+\bibitem{bajcsy2004cyber}
+R.~Bajcsy, T.~Benzel, M.~Bishop, B.~Braden, C.~Brodley, S.~Fahmy, S.~Floyd,
+  W.~Hardaker, A.~Joseph, G.~Kesidis, et~al.
+\newblock Cyber defense technology networking and evaluation.
+\newblock {\em Communications of the ACM}, 47(3):58--61, 2004.
+
+\bibitem{chandola2012anomaly}
+V.~Chandola, A.~Banerjee, and V.~Kumar.
+\newblock Anomaly detection for discrete sequences: A survey.
+\newblock {\em Knowledge and Data Engineering, IEEE Transactions on},
+  24(5):823--839, 2012.
+
+\bibitem{chandola2008comparative}
+V.~Chandola, V.~Mithal, and V.~Kumar.
+\newblock Comparative evaluation of anomaly detection techniques for sequence
+  data.
+\newblock In {\em Data Mining, 2008. ICDM'08. Eighth IEEE International
+  Conference on}, pages 743--748. IEEE, 2008.
+
+\bibitem{chandola2009anomaly}
+Varun Chandola, Arindam Banerjee, and Vipin Kumar.
+\newblock Anomaly detection: A survey.
+\newblock {\em ACM Comput. Surv.}, 41(3):15:1--15:58, July 2009.
+
+\bibitem{chapanond2005graph}
+A.~Chapanond, M.S. Krishnamoorthy, and B.~Yener.
+\newblock Graph theoretic and spectral analysis of enron email data.
+\newblock {\em Computational \& Mathematical Organization Theory},
+  11(3):265--281, 2005.
+
+\bibitem{chebrolu2005feature}
+S.~Chebrolu, A.~Abraham, and J.P. Thomas.
+\newblock Feature deduction and ensemble design of intrusion detection systems.
+\newblock {\em Computers \& Security}, 24(4):295--307, 2005.
+
+\bibitem{chen2007spectral}
+Y.~Chen and K.~Hwang.
+\newblock Spectral analysis of tcp flows for defense against
+  reduction-of-quality attacks.
+\newblock In {\em Communications, 2007. ICC'07. IEEE International Conference
+  on}, pages 1203--1210. IEEE, 2007.
+
+\bibitem{chen2007tcp}
+Y.~Chen and K.~Hwang.
+\newblock Tcp flow analysis for defense against shrew ddos attacks.
+\newblock In {\em IEEE International Conf. on Communications}, pages 24--28.
+  Citeseer, 2007.
+
+\bibitem{davis2011data}
+J.J. Davis and A.J. Clark.
+\newblock Data preprocessing for anomaly based network intrusion detection: A
+  review.
+\newblock {\em Computers \& Security}, 30(6):353--375, 2011.
+
+\bibitem{dusi2009tunnel}
+M.~Dusi, M.~Crotti, F.~Gringoli, and L.~Salgarelli.
+\newblock Tunnel hunter: Detecting application-layer tunnels with statistical
+  fingerprinting.
+\newblock {\em Computer Networks}, 53(1):81--97, 2009.
+
+\bibitem{estevez2004measuring}
+J.M. Est{\'e}vez-Tapiador, P.~Garc{\i}a-Teodoro, and J.E. D{\i}az-Verdejo.
+\newblock Measuring normality in http traffic for anomaly-based intrusion
+  detection.
+\newblock {\em Computer Networks}, 45(2):175--193, 2004.
+
+\bibitem{gogoi2011survey}
+P.~Gogoi, DK~Bhattacharyya, B.~Borah, and J.K. Kalita.
+\newblock A survey of outlier detection methods in network anomaly
+  identification.
+\newblock {\em The Computer Journal}, 54(4):570--588, 2011.
+
+\bibitem{goodall2006focusing}
+J.R. Goodall, W.G. Lutters, P.~Rheingans, and A.~Komlodi.
+\newblock Focusing on context in network traffic analysis.
+\newblock {\em Computer Graphics and Applications, IEEE}, 26(2):72--80, 2006.
+
+\bibitem{he2004spectral}
+X.~He, C.~Papadopoulos, J.~Heidemann, and A.~Hussain.
+\newblock Spectral characteristics of saturated links.
+\newblock {\em Under Submission}, 2004.
+
+\bibitem{iliofotou2009exploiting}
+M.~Iliofotou, M.~Faloutsos, and M.~Mitzenmacher.
+\newblock Exploiting dynamicity in graph-based traffic analysis: techniques and
+  applications.
+\newblock In {\em Proceedings of the 5th international conference on Emerging
+  networking experiments and technologies}, pages 241--252. ACM, 2009.
+
+\bibitem{ingham2007comparing}
+K.~Ingham and H.~Inoue.
+\newblock Comparing anomaly detection techniques for http.
+\newblock In {\em Recent Advances in Intrusion Detection}, pages 42--62.
+  Springer, 2007.
+
+\bibitem{ingham2007anomaly}
+K.L.R. Ingham~III.
+\newblock {\em Anomaly detection for HTTP intrusion detection: algorithm
+  comparisons and the effect of generalization on accuracy}.
+\newblock PhD thesis, The University of New Mexico, 2007.
+
+\bibitem{jacobson2009tcpdump}
+V.~Jacobson, C.~Leres, and S.~McCanne.
+\newblock The tcpdump manual page, 1989.
+
+\bibitem{jamdagni2010intrusion}
+A.~Jamdagni, Z.~Tan, P.~Nanda, X.~He, and R.P. Liu.
+\newblock Intrusion detection using gsad model for http traffic on web
+  services.
+\newblock In {\em Proceedings of the 6th International Wireless Communications
+  and Mobile Computing Conference}, pages 1193--1197. ACM, 2010.
+
+\bibitem{mahoney2003analysis}
+M.~Mahoney and P.~Chan.
+\newblock An analysis of the 1999 darpa/lincoln laboratory evaluation data for
+  network anomaly detection.
+\newblock In {\em Recent Advances in Intrusion Detection}, pages 220--237.
+  Springer, 2003.
+
+\bibitem{mchugh2000testing}
+J.~McHugh.
+\newblock Testing intrusion detection systems: a critique of the 1998 and 1999
+  darpa intrusion detection system evaluations as performed by lincoln
+  laboratory.
+\newblock {\em ACM transactions on Information and system Security},
+  3(4):262--294, 2000.
+
+\bibitem{onut2007feature}
+I.V. Onut and A.A. Ghorbani.
+\newblock A feature classification scheme for network intrusion detection.
+\newblock {\em International Journal of Network Security}, 5(1):1--15, 2007.
+
+\bibitem{patcha2007anomaly}
+Animesh Patcha and Jung-Min Park.
+\newblock An overview of anomaly detection techniques: Existing solutions and
+  latest technological trends.
+\newblock {\em Comput. Netw.}, 51(12):3448--3470, August 2007.
+
+\bibitem{ringberg2007sensitivity}
+H.~Ringberg, A.~Soule, J.~Rexford, and C.~Diot.
+\newblock Sensitivity of pca for traffic anomaly detection.
+\newblock {\em ACM SIGMETRICS Performance Evaluation Review}, 35(1):109--120,
+  2007.
+
+\bibitem{sarasamma2005hierarchical}
+S.T. Sarasamma, Q.A. Zhu, and J.~Huff.
+\newblock Hierarchical kohonenen net for anomaly detection in network security.
+\newblock {\em Systems, Man, and Cybernetics, Part B: Cybernetics, IEEE
+  Transactions on}, 35(2):302--312, 2005.
+
+\bibitem{smith2011network}
+P.~Smith, D.~Hutchison, J.P.G. Sterbenz, M.~Scholler, A.~Fessi,
+  M.~Karaliopoulos, C.~Lac, and B.~Plattner.
+\newblock Network resilience: a systematic approach.
+\newblock {\em Communications Magazine, IEEE}, 49(7):88--97, 2011.
+
+\bibitem{sommer2010outside}
+R.~Sommer and V.~Paxson.
+\newblock Outside the closed world: On using machine learning for network
+  intrusion detection.
+\newblock In {\em Security and Privacy (SP), 2010 IEEE Symposium on}, pages
+  305--316. IEEE, 2010.
+
+\bibitem{thomas2010usefulness}
+C.~Thomas.
+\newblock Usefulness of darpa dataset for intrusion detection system
+  evaluation.
+\newblock 2010.
+
+\bibitem{undercoffer2003modeling}
+J.~Undercoffer, A.~Joshi, and J.~Pinkston.
+\newblock Modeling computer attacks: An ontology for intrusion detection.
+\newblock In {\em Recent Advances in Intrusion Detection}, pages 113--135.
+  Springer, 2003.
+
+\bibitem{wei1994time}
+W.W.S. Wei.
+\newblock {\em Time series analysis}.
+\newblock Addison-Wesley Redwood City, California, 1994.
+
+\bibitem{wright2006inferring}
+C.V. Wright, F.~Monrose, and G.M. Masson.
+\newblock On inferring application protocol behaviors in encrypted network
+  traffic.
+\newblock {\em The Journal of Machine Learning Research}, 7:2745--2769, 2006.
+
+\bibitem{wu2010use}
+S.X. Wu and W.~Banzhaf.
+\newblock The use of computational intelligence in intrusion detection systems:
+  A review.
+\newblock {\em Applied Soft Computing}, 10(1):1--35, 2010.
+
+\bibitem{yamada2007intrusion}
+A.~Yamada, Y.~Miyake, K.~Takemori, A.~Studer, and A.~Perrig.
+\newblock Intrusion detection for encrypted web accesses.
+\newblock In {\em Advanced Information Networking and Applications Workshops,
+  2007, AINAW'07. 21st International Conference on}, volume~1, pages 569--576.
+  IEEE, 2007.
+
+\bibitem{zalewski2005silence10}
+M.~Zalewski.
+\newblock Advanced sheep-counting strategies.
+\newblock In {\em Silence on the Wire: A Field Guide to Passive Reconnaissance
+  and Indirect Attacks}, No Starch Press Series, pages 151--172. No Starch
+  Press, 2005.
+
+\bibitem{zalewski2005silence11}
+M.~Zalewski.
+\newblock In recognition of anomalies.
+\newblock In {\em Silence on the Wire: A Field Guide to Passive Reconnaissance
+  and Indirect Attacks}, No Starch Press Series, pages 173--188. No Starch
+  Press, 2005.
+
+\bibitem{zalewski2005silence}
+M.~Zalewski.
+\newblock {\em Silence on the Wire: A Field Guide to Passive Reconnaissance and
+  Indirect Attacks}.
+\newblock No Starch Press Series. No Starch Press, 2005.
+
+\bibitem{zanero2005analyzing}
+S.~Zanero.
+\newblock Analyzing tcp traffic patterns using self organizing maps.
+\newblock {\em Image Analysis and Processing--ICIAP 2005}, pages 83--90, 2005.
+
+\end{thebibliography}

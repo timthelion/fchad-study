@@ -1,0 +1,95 @@
+2013-02-15@18:20:31.748 BRLTTY 4.4 rev Unversioned directory [http://mielke.cc/brltty/]
+2013-02-15@18:20:31.749 Working Directory: /home/timothy/works/2012/braille/UOBP/brltty-4.4
+2013-02-15@18:20:31.749 Writable Directory: /var/run/brltty
+2013-02-15@18:20:31.749 Configuration File: /etc/brltty.conf
+2013-02-15@18:20:31.749 Preferences File: brltty.prefs
+2013-02-15@18:20:31.749 regions: text=0.0 status=0.0
+2013-02-15@18:20:31.749 shifts: full=1 half=0 vertical=5
+2013-02-15@18:20:31.749 Drivers Directory: /home/timothy/works/2012/braille/UOBP/brltty-4.4/Programs/../lib
+2013-02-15@18:20:31.749 Tables Directory: /home/timothy/works/2012/braille/UOBP/brltty-4.4/Programs/../Tables
+2013-02-15@18:20:31.749 checking for text table: /home/timothy/works/2012/braille/UOBP/brltty-4.4/Programs/../Tables/cs_CZ.ttb
+2013-02-15@18:20:31.749 checking for text table: /home/timothy/works/2012/braille/UOBP/brltty-4.4/Programs/../Tables/cs.ttb
+2013-02-15@18:20:31.749 compiling text table: /home/timothy/works/2012/braille/UOBP/brltty-4.4/Programs/../Tables/cs.ttb
+2013-02-15@18:20:31.749 file opened: /home/timothy/works/2012/braille/UOBP/brltty-4.4/Programs/../Tables/cs.ttb fd=4
+2013-02-15@18:20:31.749 including data file: /home/timothy/works/2012/braille/UOBP/brltty-4.4/Programs/../Tables/cs.ttb
+2013-02-15@18:20:31.753 file opened: /home/timothy/works/2012/braille/UOBP/brltty-4.4/Programs/../Tables/numbers-dot8.tti fd=5
+2013-02-15@18:20:31.753 including data file: /home/timothy/works/2012/braille/UOBP/brltty-4.4/Programs/../Tables/numbers-dot8.tti
+2013-02-15@18:20:31.754 file opened: /home/timothy/works/2012/braille/UOBP/brltty-4.4/Programs/../Tables/common.tti fd=5
+2013-02-15@18:20:31.754 including data file: /home/timothy/works/2012/braille/UOBP/brltty-4.4/Programs/../Tables/common.tti
+2013-02-15@18:20:31.754 file opened: /home/timothy/works/2012/braille/UOBP/brltty-4.4/Programs/../Tables/spaces.tti fd=6
+2013-02-15@18:20:31.754 including data file: /home/timothy/works/2012/braille/UOBP/brltty-4.4/Programs/../Tables/spaces.tti
+2013-02-15@18:20:31.754 file opened: /home/timothy/works/2012/braille/UOBP/brltty-4.4/Programs/../Tables/boxes.tti fd=6
+2013-02-15@18:20:31.754 including data file: /home/timothy/works/2012/braille/UOBP/brltty-4.4/Programs/../Tables/boxes.tti
+2013-02-15@18:20:31.755 file opened: /home/timothy/works/2012/braille/UOBP/brltty-4.4/Programs/../Tables/blocks.tti fd=6
+2013-02-15@18:20:31.755 including data file: /home/timothy/works/2012/braille/UOBP/brltty-4.4/Programs/../Tables/blocks.tti
+2013-02-15@18:20:31.755 Text Table: cs
+2013-02-15@18:20:31.755 Attributes Table: attributes
+2013-02-15@18:20:31.755 Contraction Table: none
+2013-02-15@18:20:31.755 Key Table: none
+2013-02-15@18:20:31.755 Keyboard Property: type=
+2013-02-15@18:20:31.755 Keyboard Property: vendor=
+2013-02-15@18:20:31.756 Keyboard Property: product=
+2013-02-15@18:20:31.756 checking for screen driver: no
+2013-02-15@18:20:31.756 initializing screen driver: no
+2013-02-15@18:20:31.756 Screen Driver: no [NoScreen]
+2013-02-15@18:20:31.756 NoScreen Screen Driver:
+2013-02-15@18:20:31.756 BrlAPI Server: release 0.5.7
+2013-02-15@18:20:31.756 API Parameter: auth=
+2013-02-15@18:20:31.756 API Parameter: host=
+2013-02-15@18:20:31.756 API Parameter: stacksize=
+2013-02-15@18:20:31.756 checking braille device: /dev/ttyUSB0
+2013-02-15@18:20:31.756 checking for braille driver: ob
+2013-02-15@18:20:31.756 initializing braille driver: ob -> /dev/ttyUSB0
+2013-02-15@18:20:31.756 Initializing serial.
+2013-02-15@18:20:31.756 device directory: /dev
+2013-02-15@18:20:31.756 cannot open serial device: /dev/ttyUSB0: Adresář nebo soubor neexistuje
+2013-02-15@18:20:31.756 braille driver initialization failed: ob -> /dev/ttyUSB0
+2013-02-15@18:20:31.757 braille driver not found
+2013-02-15@18:20:31.757 Braille Display Dimensions: 1 row, 80 columns
+2013-02-15@18:20:31.757 regions: text=0.80 status=0.0
+2013-02-15@18:20:31.757 shifts: full=80 half=40 vertical=5
+2013-02-15@18:20:31.757 no autodetectable speech drivers
+2013-02-15@18:20:31.757 checking for speech driver: no
+2013-02-15@18:20:31.757 initializing speech driver: no
+2013-02-15@18:20:31.757 Speech Driver: no [NoSpeech]
+2013-02-15@18:20:31.757 NoSpeech Speech Driver:
+2013-02-15@18:20:31.758 Speech Input: none
+2013-02-15@18:20:31.759 socket 1 established (fd 6)
+2013-02-15@18:20:31.759 linking local socket lock: Soubor již existuje
+2013-02-15@18:20:31.759 socket 0 established (fd 4)
+2013-02-15@18:20:36.756 checking braille device: /dev/ttyUSB0
+2013-02-15@18:20:36.757 checking for braille driver: ob
+2013-02-15@18:20:36.757 initializing braille driver: ob -> /dev/ttyUSB0
+2013-02-15@18:20:36.757 Initializing serial.
+2013-02-15@18:20:36.757 cannot open serial device: /dev/ttyUSB0: Adresář nebo soubor neexistuje
+2013-02-15@18:20:36.757 braille driver initialization failed: ob -> /dev/ttyUSB0
+2013-02-15@18:20:36.757 braille driver not found
+2013-02-15@18:20:36.757 Braille Display Dimensions: 1 row, 80 columns
+2013-02-15@18:20:36.757 regions: text=0.80 status=0.0
+2013-02-15@18:20:36.757 shifts: full=80 half=40 vertical=5
+2013-02-15@18:20:41.757 checking braille device: /dev/ttyUSB0
+2013-02-15@18:20:41.757 checking for braille driver: ob
+2013-02-15@18:20:41.757 initializing braille driver: ob -> /dev/ttyUSB0
+2013-02-15@18:20:41.757 Initializing serial.
+2013-02-15@18:20:41.757 cannot open serial device: /dev/ttyUSB0: Adresář nebo soubor neexistuje
+2013-02-15@18:20:41.757 braille driver initialization failed: ob -> /dev/ttyUSB0
+2013-02-15@18:20:41.757 braille driver not found
+2013-02-15@18:20:41.757 Braille Display Dimensions: 1 row, 80 columns
+2013-02-15@18:20:41.758 regions: text=0.80 status=0.0
+2013-02-15@18:20:41.758 shifts: full=80 half=40 vertical=5
+2013-02-15@18:20:46.757 checking braille device: /dev/ttyUSB0
+2013-02-15@18:20:46.757 checking for braille driver: ob
+2013-02-15@18:20:46.757 initializing braille driver: ob -> /dev/ttyUSB0
+2013-02-15@18:20:46.757 Initializing serial.
+2013-02-15@18:20:46.757 cannot open serial device: /dev/ttyUSB0: Adresář nebo soubor neexistuje
+2013-02-15@18:20:46.757 braille driver initialization failed: ob -> /dev/ttyUSB0
+2013-02-15@18:20:46.757 braille driver not found
+2013-02-15@18:20:46.757 Braille Display Dimensions: 1 row, 80 columns
+2013-02-15@18:20:46.757 regions: text=0.80 status=0.0
+2013-02-15@18:20:46.758 shifts: full=80 half=40 vertical=5
+2013-02-15@18:20:48.167 exit status: 0
+2013-02-15@18:20:48.167 console opened: fd=5
+2013-02-15@18:20:48.167 beeper enabled
+2013-02-15@18:20:48.167 tone: msec=60 note=64
+2013-02-15@18:20:48.227 tone: msec=60 note=57
+2013-02-15@18:20:48.287 beeper disabled

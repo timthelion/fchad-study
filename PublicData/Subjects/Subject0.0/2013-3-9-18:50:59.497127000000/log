@@ -1,0 +1,607 @@
+2013-03-09@18:51:04.271 BRLTTY 4.4 rev Unversioned directory [http://mielke.cc/brltty/]
+2013-03-09@18:51:04.271 Working Directory: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4
+2013-03-09@18:51:04.271 Writable Directory: /var/run/brltty
+2013-03-09@18:51:04.272 Configuration File: /etc/brltty.conf
+2013-03-09@18:51:04.272 Preferences File: brltty.prefs
+2013-03-09@18:51:04.272 regions: text=0.0 status=0.0
+2013-03-09@18:51:04.272 shifts: full=1 half=0 vertical=5
+2013-03-09@18:51:04.272 Drivers Directory: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../lib
+2013-03-09@18:51:04.272 Tables Directory: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables
+2013-03-09@18:51:04.272 checking for text table: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/cs_CZ.ttb
+2013-03-09@18:51:04.272 checking for text table: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/cs.ttb
+2013-03-09@18:51:04.272 compiling text table: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/cs.ttb
+2013-03-09@18:51:04.272 file opened: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/cs.ttb fd=4
+2013-03-09@18:51:04.272 including data file: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/cs.ttb
+2013-03-09@18:51:04.276 file opened: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/numbers-dot8.tti fd=5
+2013-03-09@18:51:04.276 including data file: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/numbers-dot8.tti
+2013-03-09@18:51:04.276 file opened: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/common.tti fd=5
+2013-03-09@18:51:04.277 including data file: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/common.tti
+2013-03-09@18:51:04.277 file opened: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/spaces.tti fd=6
+2013-03-09@18:51:04.277 including data file: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/spaces.tti
+2013-03-09@18:51:04.277 file opened: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/boxes.tti fd=6
+2013-03-09@18:51:04.277 including data file: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/boxes.tti
+2013-03-09@18:51:04.277 file opened: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/blocks.tti fd=6
+2013-03-09@18:51:04.277 including data file: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/blocks.tti
+2013-03-09@18:51:04.277 Text Table: cs
+2013-03-09@18:51:04.277 Attributes Table: attributes
+2013-03-09@18:51:04.277 Contraction Table: none
+2013-03-09@18:51:04.277 Key Table: none
+2013-03-09@18:51:04.278 Keyboard Property: type=
+2013-03-09@18:51:04.278 Keyboard Property: vendor=
+2013-03-09@18:51:04.278 Keyboard Property: product=
+2013-03-09@18:51:04.278 checking for screen driver: no
+2013-03-09@18:51:04.278 initializing screen driver: no
+2013-03-09@18:51:04.278 Screen Driver: no [NoScreen]
+2013-03-09@18:51:04.278 NoScreen Screen Driver:
+2013-03-09@18:51:04.278 BrlAPI Server: release 0.5.7
+2013-03-09@18:51:04.278 API Parameter: auth=
+2013-03-09@18:51:04.278 API Parameter: host=
+2013-03-09@18:51:04.278 API Parameter: stacksize=
+2013-03-09@18:51:04.278 checking braille device: /dev/ttyUSB0
+2013-03-09@18:51:04.278 checking for braille driver: ob
+2013-03-09@18:51:04.278 initializing braille driver: ob -> /dev/ttyUSB0
+2013-03-09@18:51:04.278 Initializing serial.
+2013-03-09@18:51:04.278 device directory: /dev
+2013-03-09@18:51:04.279 socket 1 established (fd 7)
+2013-03-09@18:51:04.279 linking local socket lock: Soubor již existuje
+2013-03-09@18:51:04.279 socket 0 established (fd 5)
+2013-03-09@18:51:04.285 serial device opened: /dev/ttyUSB0: fd=4
+2013-03-09@18:51:04.685 Serial initialized.
+2013-03-09@18:51:04.685 Initializing capability nodes.
+2013-03-09@18:51:04.685 ERROR: End of packet reached unexpectedly.  Malformed packet.
+2013-03-09@18:51:04.685 Sending initialization packet.
+2013-03-09@18:51:04.686 Sending start flag.
+2013-03-09@18:51:04.686 Start flag sent.
+2013-03-09@18:51:04.686 Packet sent.
+2013-03-09@18:51:04.686 Initialization packet sent.
+2013-03-09@18:51:04.702 Initialization frame not recieved, asking for one again.
+2013-03-09@18:51:04.702 Sending start flag.
+2013-03-09@18:51:04.702 Start flag sent.
+2013-03-09@18:51:04.702 Packet sent.
+2013-03-09@18:51:04.784 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.784 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.784 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.784 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.784 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.784 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.784 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.784 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.784 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.784 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.784 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.784 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.784 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.784 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.784 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.784 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.785 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.785 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.785 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.785 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.785 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.785 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.785 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.785 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.785 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.785 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.785 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.785 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.785 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.785 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.785 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.785 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.785 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.785 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.785 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.785 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.785 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.786 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.786 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.786 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.786 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.786 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.786 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.786 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.786 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.786 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.786 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.786 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.786 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.786 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.786 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.786 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.786 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.786 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.786 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.786 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.786 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.786 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.787 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.787 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.787 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.787 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.787 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.787 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.787 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.787 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.787 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.787 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.787 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.787 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.787 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.787 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.787 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.787 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.787 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.787 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.787 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.787 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.787 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.788 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.788 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.788 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.788 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.788 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.788 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.788 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.788 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.788 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.788 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.788 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.788 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.788 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.788 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.788 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.788 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.788 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.788 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.788 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.788 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.789 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.789 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.789 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.789 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.789 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.789 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.789 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.789 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.789 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.789 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.789 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.789 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.789 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.789 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.789 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.789 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.789 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.789 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.789 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.789 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.789 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.789 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.790 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.790 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.790 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.790 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.790 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.790 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.790 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.790 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.790 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.790 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.790 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.790 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.790 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.790 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.790 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.790 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.790 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.790 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.790 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.790 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.791 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.791 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.791 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.791 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.791 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.791 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.791 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.791 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.791 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.791 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.791 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.791 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.791 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.791 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.791 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.791 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.791 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.791 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.791 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.791 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.791 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.792 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.792 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.792 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.792 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.792 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.792 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.792 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.792 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.792 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.792 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.792 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.792 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.792 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.792 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.792 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.793 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.793 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.793 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.793 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.793 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.793 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.793 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.793 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.793 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.793 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.793 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.793 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.793 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.793 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.793 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.793 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.793 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.793 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.794 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.794 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.794 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.794 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.794 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.794 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.794 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.794 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.794 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.794 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.794 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.794 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.794 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.794 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.794 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.794 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.794 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.794 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.794 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.794 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.795 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.795 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.795 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.795 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.795 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.795 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.795 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.795 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.795 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.795 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.795 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.795 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.795 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.795 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.795 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.795 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.795 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.795 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.795 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.795 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.796 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.796 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.796 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.796 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.796 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.796 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.796 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.796 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.796 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.796 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.796 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.796 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.796 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.796 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.796 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.796 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.796 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.796 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.796 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.796 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.796 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.797 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.797 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.797 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.797 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.797 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.797 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.797 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.797 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.797 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.797 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.797 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.797 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.797 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.797 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.797 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.797 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.797 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.797 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.797 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.797 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.797 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.798 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.798 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.798 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.798 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.798 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.798 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.798 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.798 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.798 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.798 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.798 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.798 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.798 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.798 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.798 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.798 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.798 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.798 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.798 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.798 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.798 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.799 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.799 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.799 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.799 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.799 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.799 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.799 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.799 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.799 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.799 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.799 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.799 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.799 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.799 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.799 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.799 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.799 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.799 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.799 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.799 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.800 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.800 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.800 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.800 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.800 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.800 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.800 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.800 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.800 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.800 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.800 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.800 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.800 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.800 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.800 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.800 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.800 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.800 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.800 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.800 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.801 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.801 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.801 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.801 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.801 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.801 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.801 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.801 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.801 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.801 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.801 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.801 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.801 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.801 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.801 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.801 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.801 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.801 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.801 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.801 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.801 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.801 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.801 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.801 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.802 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.802 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.802 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.802 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.802 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.802 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.802 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.802 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.802 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.802 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.802 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.802 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.802 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.802 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.802 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.802 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.802 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.802 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.802 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.802 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.802 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.802 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.802 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.803 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.803 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.803 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.803 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.803 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.803 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.803 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.803 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.803 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.803 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.803 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.803 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.803 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.803 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.803 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.803 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.803 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.803 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.803 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.803 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.803 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.803 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.804 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.804 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.804 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.804 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.804 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.804 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.804 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.804 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.804 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.804 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.804 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.804 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.804 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.804 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.804 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.804 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.804 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.804 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.804 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.804 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.804 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.805 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.805 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.805 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.805 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.805 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.805 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.805 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.805 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.805 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.805 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.805 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.805 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.805 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.805 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.805 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.805 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.805 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.805 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.805 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.806 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.806 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.806 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.806 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.806 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.806 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.806 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.806 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.806 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.806 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.806 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.806 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.806 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.806 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.806 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.806 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.806 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.806 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.806 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.806 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.807 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.807 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.807 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.807 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.807 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.807 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.807 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.807 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.807 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.807 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.807 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.807 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.807 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.807 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.807 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.807 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.807 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.807 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.807 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.807 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.807 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.808 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.808 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.808 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.808 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.808 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.808 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.808 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.808 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.808 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.808 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.808 Unexpected byte that was not a frame start flag. The byte was:0
+2013-03-09@18:51:04.808 Reading packet...
+2013-03-09@18:51:04.808 length: 74
+2013-03-09@18:51:04.808 type: 0
+2013-03-09@18:51:04.808 subType: 1
+2013-03-09@18:51:04.808 Reading INFO section...
+2013-03-09@18:51:04.867 Packet read...
+2013-03-09@18:51:04.867 Calling frame handler. type:0,subType:1 First byte of information is 0
+2013-03-09@18:51:04.867 calling handler 0
+2013-03-09@18:51:04.867 Initializing capability nodes.
+2013-03-09@18:51:04.867 2 standard nodes to load.
+2013-03-09@18:51:04.867 Loading node of capability 3
+2013-03-09@18:51:04.867 Node # 0
+2013-03-09@18:51:04.867 Node info length: 13
+2013-03-09@18:51:04.867 Loading node of capability 4
+2013-03-09@18:51:04.867 Node # 0
+2013-03-09@18:51:04.867 Node info length: 16
+2013-03-09@18:51:04.867 Size of new node 1x12
+2013-03-09@18:51:04.867 Device initialized.
+2013-03-09@18:51:04.867 Braille Display Dimensions: 1 row, 12 columns
+2013-03-09@18:51:04.867 regions: text=0.12 status=0.0
+2013-03-09@18:51:04.867 shifts: full=12 half=6 vertical=5
+2013-03-09@18:51:04.867 Key Bindings: all
+2013-03-09@18:51:04.867 cannot open file: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/brl-ob-all.txt: Adresář nebo soubor neexistuje
+2013-03-09@18:51:04.867 cannot open help file: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/brl-ob-all.txt
+2013-03-09@18:51:04.867 api link
+2013-03-09@18:51:04.867 Braille Driver: ob [UOBP]
+2013-03-09@18:51:04.867 UOBP Braille Driver: version 0.0
+2013-03-09@18:51:04.867 Braille Device: /dev/ttyUSB0
+2013-03-09@18:51:04.867 Old Preferences File: /etc/brltty-ob.prefs
+2013-03-09@18:51:04.867 cannot open file: /etc/brltty-ob.prefs: Adresář nebo soubor neexistuje
+2013-03-09@18:51:04.867 regions: text=0.12 status=0.0
+2013-03-09@18:51:04.867 shifts: full=12 half=6 vertical=5
+2013-03-09@18:51:04.870 exit status: 0
+2013-03-09@18:51:04.870 console opened: fd=6
+2013-03-09@18:51:04.871 beeper enabled
+2013-03-09@18:51:04.871 tone: msec=60 note=64
+2013-03-09@18:51:04.931 tone: msec=100 note=69
+2013-03-09@18:51:05.031 api unlink
+2013-03-09@18:51:05.031 Resizing window from 0x0 to 1x12
+2013-03-09@18:51:05.072 Reading packet...
+2013-03-09@18:51:05.072 length: 74
+2013-03-09@18:51:05.072 type: 0
+2013-03-09@18:51:05.072 subType: 1
+2013-03-09@18:51:05.072 Reading INFO section...
+2013-03-09@18:51:05.072 Packet read...
+2013-03-09@18:51:05.072 Calling frame handler. type:0,subType:1 First byte of information is 0
+2013-03-09@18:51:05.072 calling handler 0
+2013-03-09@18:51:05.072 Initializing capability nodes.

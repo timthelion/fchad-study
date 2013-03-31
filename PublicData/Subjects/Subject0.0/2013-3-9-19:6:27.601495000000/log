@@ -1,0 +1,2416 @@
+2013-03-09@19:06:32.271 BRLTTY 4.4 rev Unversioned directory [http://mielke.cc/brltty/]
+2013-03-09@19:06:32.271 Working Directory: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4
+2013-03-09@19:06:32.271 Writable Directory: /var/run/brltty
+2013-03-09@19:06:32.271 Configuration File: /etc/brltty.conf
+2013-03-09@19:06:32.271 Preferences File: brltty.prefs
+2013-03-09@19:06:32.271 regions: text=0.0 status=0.0
+2013-03-09@19:06:32.271 shifts: full=1 half=0 vertical=5
+2013-03-09@19:06:32.271 Drivers Directory: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../lib
+2013-03-09@19:06:32.272 Tables Directory: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables
+2013-03-09@19:06:32.272 checking for text table: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/cs_CZ.ttb
+2013-03-09@19:06:32.272 checking for text table: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/cs.ttb
+2013-03-09@19:06:32.272 compiling text table: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/cs.ttb
+2013-03-09@19:06:32.272 file opened: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/cs.ttb fd=4
+2013-03-09@19:06:32.272 including data file: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/cs.ttb
+2013-03-09@19:06:32.276 file opened: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/numbers-dot8.tti fd=5
+2013-03-09@19:06:32.276 including data file: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/numbers-dot8.tti
+2013-03-09@19:06:32.276 file opened: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/common.tti fd=5
+2013-03-09@19:06:32.276 including data file: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/common.tti
+2013-03-09@19:06:32.276 file opened: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/spaces.tti fd=6
+2013-03-09@19:06:32.276 including data file: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/spaces.tti
+2013-03-09@19:06:32.276 file opened: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/boxes.tti fd=6
+2013-03-09@19:06:32.277 including data file: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/boxes.tti
+2013-03-09@19:06:32.277 file opened: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/blocks.tti fd=6
+2013-03-09@19:06:32.277 including data file: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/blocks.tti
+2013-03-09@19:06:32.277 Text Table: cs
+2013-03-09@19:06:32.277 Attributes Table: attributes
+2013-03-09@19:06:32.277 Contraction Table: none
+2013-03-09@19:06:32.277 Key Table: none
+2013-03-09@19:06:32.277 Keyboard Property: type=
+2013-03-09@19:06:32.277 Keyboard Property: vendor=
+2013-03-09@19:06:32.277 Keyboard Property: product=
+2013-03-09@19:06:32.277 checking for screen driver: no
+2013-03-09@19:06:32.277 initializing screen driver: no
+2013-03-09@19:06:32.277 Screen Driver: no [NoScreen]
+2013-03-09@19:06:32.278 NoScreen Screen Driver:
+2013-03-09@19:06:32.278 BrlAPI Server: release 0.5.7
+2013-03-09@19:06:32.278 API Parameter: auth=
+2013-03-09@19:06:32.278 API Parameter: host=
+2013-03-09@19:06:32.278 API Parameter: stacksize=
+2013-03-09@19:06:32.278 checking braille device: /dev/ttyUSB0
+2013-03-09@19:06:32.278 checking for braille driver: ob
+2013-03-09@19:06:32.278 initializing braille driver: ob -> /dev/ttyUSB0
+2013-03-09@19:06:32.278 Initializing serial.
+2013-03-09@19:06:32.278 device directory: /dev
+2013-03-09@19:06:32.279 linking local socket lock: Soubor již existuje
+2013-03-09@19:06:32.279 socket 1 established (fd 7)
+2013-03-09@19:06:32.279 socket 0 established (fd 5)
+2013-03-09@19:06:32.285 serial device opened: /dev/ttyUSB0: fd=4
+2013-03-09@19:06:32.686 Serial initialized.
+2013-03-09@19:06:32.686 Initializing capability nodes.
+2013-03-09@19:06:32.686 ERROR: End of packet reached unexpectedly.  Malformed packet.
+2013-03-09@19:06:32.686 Sending initialization packet.
+2013-03-09@19:06:32.686 Sending start flag.
+2013-03-09@19:06:32.686 Start flag sent.
+2013-03-09@19:06:32.686 Packet sent.
+2013-03-09@19:06:32.686 Initialization packet sent.
+2013-03-09@19:06:32.702 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:32.702 Sending start flag.
+2013-03-09@19:06:32.702 Start flag sent.
+2013-03-09@19:06:32.702 Packet sent.
+2013-03-09@19:06:32.713 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:32.713 Sending start flag.
+2013-03-09@19:06:32.713 Start flag sent.
+2013-03-09@19:06:32.713 Packet sent.
+2013-03-09@19:06:32.724 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:32.724 Sending start flag.
+2013-03-09@19:06:32.724 Start flag sent.
+2013-03-09@19:06:32.724 Packet sent.
+2013-03-09@19:06:32.735 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:32.735 Sending start flag.
+2013-03-09@19:06:32.735 Start flag sent.
+2013-03-09@19:06:32.735 Packet sent.
+2013-03-09@19:06:32.746 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:32.746 Sending start flag.
+2013-03-09@19:06:32.746 Start flag sent.
+2013-03-09@19:06:32.746 Packet sent.
+2013-03-09@19:06:32.757 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:32.757 Sending start flag.
+2013-03-09@19:06:32.757 Start flag sent.
+2013-03-09@19:06:32.758 Packet sent.
+2013-03-09@19:06:32.768 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:32.768 Sending start flag.
+2013-03-09@19:06:32.769 Start flag sent.
+2013-03-09@19:06:32.769 Packet sent.
+2013-03-09@19:06:32.780 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:32.780 Sending start flag.
+2013-03-09@19:06:32.780 Start flag sent.
+2013-03-09@19:06:32.780 Packet sent.
+2013-03-09@19:06:32.791 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:32.791 Sending start flag.
+2013-03-09@19:06:32.791 Start flag sent.
+2013-03-09@19:06:32.791 Packet sent.
+2013-03-09@19:06:32.802 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:32.802 Sending start flag.
+2013-03-09@19:06:32.802 Start flag sent.
+2013-03-09@19:06:32.802 Packet sent.
+2013-03-09@19:06:32.813 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:32.813 Sending start flag.
+2013-03-09@19:06:32.813 Start flag sent.
+2013-03-09@19:06:32.813 Packet sent.
+2013-03-09@19:06:32.824 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:32.824 Sending start flag.
+2013-03-09@19:06:32.824 Start flag sent.
+2013-03-09@19:06:32.824 Packet sent.
+2013-03-09@19:06:32.835 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:32.835 Sending start flag.
+2013-03-09@19:06:32.835 Start flag sent.
+2013-03-09@19:06:32.835 Packet sent.
+2013-03-09@19:06:32.846 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:32.846 Sending start flag.
+2013-03-09@19:06:32.846 Start flag sent.
+2013-03-09@19:06:32.846 Packet sent.
+2013-03-09@19:06:32.857 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:32.857 Sending start flag.
+2013-03-09@19:06:32.857 Start flag sent.
+2013-03-09@19:06:32.857 Packet sent.
+2013-03-09@19:06:32.868 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:32.868 Sending start flag.
+2013-03-09@19:06:32.868 Start flag sent.
+2013-03-09@19:06:32.868 Packet sent.
+2013-03-09@19:06:32.879 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:32.879 Sending start flag.
+2013-03-09@19:06:32.879 Start flag sent.
+2013-03-09@19:06:32.879 Packet sent.
+2013-03-09@19:06:32.890 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:32.890 Sending start flag.
+2013-03-09@19:06:32.890 Start flag sent.
+2013-03-09@19:06:32.891 Packet sent.
+2013-03-09@19:06:32.901 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:32.901 Sending start flag.
+2013-03-09@19:06:32.902 Start flag sent.
+2013-03-09@19:06:32.902 Packet sent.
+2013-03-09@19:06:32.913 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:32.913 Sending start flag.
+2013-03-09@19:06:32.913 Start flag sent.
+2013-03-09@19:06:32.913 Packet sent.
+2013-03-09@19:06:32.924 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:32.924 Sending start flag.
+2013-03-09@19:06:32.924 Start flag sent.
+2013-03-09@19:06:32.924 Packet sent.
+2013-03-09@19:06:32.935 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:32.935 Sending start flag.
+2013-03-09@19:06:32.935 Start flag sent.
+2013-03-09@19:06:32.935 Packet sent.
+2013-03-09@19:06:32.946 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:32.946 Sending start flag.
+2013-03-09@19:06:32.946 Start flag sent.
+2013-03-09@19:06:32.946 Packet sent.
+2013-03-09@19:06:32.957 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:32.957 Sending start flag.
+2013-03-09@19:06:32.957 Start flag sent.
+2013-03-09@19:06:32.957 Packet sent.
+2013-03-09@19:06:32.968 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:32.968 Sending start flag.
+2013-03-09@19:06:32.968 Start flag sent.
+2013-03-09@19:06:32.968 Packet sent.
+2013-03-09@19:06:32.979 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:32.979 Sending start flag.
+2013-03-09@19:06:32.979 Start flag sent.
+2013-03-09@19:06:32.979 Packet sent.
+2013-03-09@19:06:32.990 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:32.990 Sending start flag.
+2013-03-09@19:06:32.990 Start flag sent.
+2013-03-09@19:06:32.990 Packet sent.
+2013-03-09@19:06:33.001 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.001 Sending start flag.
+2013-03-09@19:06:33.001 Start flag sent.
+2013-03-09@19:06:33.002 Packet sent.
+2013-03-09@19:06:33.012 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.012 Sending start flag.
+2013-03-09@19:06:33.013 Start flag sent.
+2013-03-09@19:06:33.013 Packet sent.
+2013-03-09@19:06:33.024 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.024 Sending start flag.
+2013-03-09@19:06:33.024 Start flag sent.
+2013-03-09@19:06:33.024 Packet sent.
+2013-03-09@19:06:33.035 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.035 Sending start flag.
+2013-03-09@19:06:33.035 Start flag sent.
+2013-03-09@19:06:33.035 Packet sent.
+2013-03-09@19:06:33.046 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.046 Sending start flag.
+2013-03-09@19:06:33.046 Start flag sent.
+2013-03-09@19:06:33.046 Packet sent.
+2013-03-09@19:06:33.057 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.057 Sending start flag.
+2013-03-09@19:06:33.057 Start flag sent.
+2013-03-09@19:06:33.057 Packet sent.
+2013-03-09@19:06:33.068 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.068 Sending start flag.
+2013-03-09@19:06:33.068 Start flag sent.
+2013-03-09@19:06:33.068 Packet sent.
+2013-03-09@19:06:33.079 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.079 Sending start flag.
+2013-03-09@19:06:33.079 Start flag sent.
+2013-03-09@19:06:33.079 Packet sent.
+2013-03-09@19:06:33.090 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.090 Sending start flag.
+2013-03-09@19:06:33.090 Start flag sent.
+2013-03-09@19:06:33.090 Packet sent.
+2013-03-09@19:06:33.101 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.101 Sending start flag.
+2013-03-09@19:06:33.101 Start flag sent.
+2013-03-09@19:06:33.102 Packet sent.
+2013-03-09@19:06:33.112 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.112 Sending start flag.
+2013-03-09@19:06:33.113 Start flag sent.
+2013-03-09@19:06:33.113 Packet sent.
+2013-03-09@19:06:33.124 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.124 Sending start flag.
+2013-03-09@19:06:33.124 Start flag sent.
+2013-03-09@19:06:33.124 Packet sent.
+2013-03-09@19:06:33.135 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.135 Sending start flag.
+2013-03-09@19:06:33.135 Start flag sent.
+2013-03-09@19:06:33.135 Packet sent.
+2013-03-09@19:06:33.146 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.146 Sending start flag.
+2013-03-09@19:06:33.146 Start flag sent.
+2013-03-09@19:06:33.146 Packet sent.
+2013-03-09@19:06:33.157 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.157 Sending start flag.
+2013-03-09@19:06:33.157 Start flag sent.
+2013-03-09@19:06:33.157 Packet sent.
+2013-03-09@19:06:33.168 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.168 Sending start flag.
+2013-03-09@19:06:33.168 Start flag sent.
+2013-03-09@19:06:33.168 Packet sent.
+2013-03-09@19:06:33.179 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.179 Sending start flag.
+2013-03-09@19:06:33.179 Start flag sent.
+2013-03-09@19:06:33.179 Packet sent.
+2013-03-09@19:06:33.190 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.190 Sending start flag.
+2013-03-09@19:06:33.190 Start flag sent.
+2013-03-09@19:06:33.190 Packet sent.
+2013-03-09@19:06:33.201 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.201 Sending start flag.
+2013-03-09@19:06:33.201 Start flag sent.
+2013-03-09@19:06:33.201 Packet sent.
+2013-03-09@19:06:33.212 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.212 Sending start flag.
+2013-03-09@19:06:33.212 Start flag sent.
+2013-03-09@19:06:33.213 Packet sent.
+2013-03-09@19:06:33.224 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.224 Sending start flag.
+2013-03-09@19:06:33.224 Start flag sent.
+2013-03-09@19:06:33.224 Packet sent.
+2013-03-09@19:06:33.235 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.235 Sending start flag.
+2013-03-09@19:06:33.235 Start flag sent.
+2013-03-09@19:06:33.235 Packet sent.
+2013-03-09@19:06:33.246 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.246 Sending start flag.
+2013-03-09@19:06:33.246 Start flag sent.
+2013-03-09@19:06:33.246 Packet sent.
+2013-03-09@19:06:33.257 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.257 Sending start flag.
+2013-03-09@19:06:33.257 Start flag sent.
+2013-03-09@19:06:33.257 Packet sent.
+2013-03-09@19:06:33.268 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.268 Sending start flag.
+2013-03-09@19:06:33.268 Start flag sent.
+2013-03-09@19:06:33.268 Packet sent.
+2013-03-09@19:06:33.279 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.279 Sending start flag.
+2013-03-09@19:06:33.279 Start flag sent.
+2013-03-09@19:06:33.279 Packet sent.
+2013-03-09@19:06:33.290 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.290 Sending start flag.
+2013-03-09@19:06:33.290 Start flag sent.
+2013-03-09@19:06:33.290 Packet sent.
+2013-03-09@19:06:33.301 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.301 Sending start flag.
+2013-03-09@19:06:33.301 Start flag sent.
+2013-03-09@19:06:33.301 Packet sent.
+2013-03-09@19:06:33.312 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.312 Sending start flag.
+2013-03-09@19:06:33.313 Start flag sent.
+2013-03-09@19:06:33.313 Packet sent.
+2013-03-09@19:06:33.324 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.324 Sending start flag.
+2013-03-09@19:06:33.324 Start flag sent.
+2013-03-09@19:06:33.324 Packet sent.
+2013-03-09@19:06:33.335 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.335 Sending start flag.
+2013-03-09@19:06:33.335 Start flag sent.
+2013-03-09@19:06:33.335 Packet sent.
+2013-03-09@19:06:33.346 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.346 Sending start flag.
+2013-03-09@19:06:33.346 Start flag sent.
+2013-03-09@19:06:33.346 Packet sent.
+2013-03-09@19:06:33.357 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.357 Sending start flag.
+2013-03-09@19:06:33.357 Start flag sent.
+2013-03-09@19:06:33.357 Packet sent.
+2013-03-09@19:06:33.368 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.368 Sending start flag.
+2013-03-09@19:06:33.368 Start flag sent.
+2013-03-09@19:06:33.368 Packet sent.
+2013-03-09@19:06:33.379 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.379 Sending start flag.
+2013-03-09@19:06:33.379 Start flag sent.
+2013-03-09@19:06:33.379 Packet sent.
+2013-03-09@19:06:33.390 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.390 Sending start flag.
+2013-03-09@19:06:33.390 Start flag sent.
+2013-03-09@19:06:33.390 Packet sent.
+2013-03-09@19:06:33.401 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.401 Sending start flag.
+2013-03-09@19:06:33.402 Start flag sent.
+2013-03-09@19:06:33.402 Packet sent.
+2013-03-09@19:06:33.413 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.413 Sending start flag.
+2013-03-09@19:06:33.413 Start flag sent.
+2013-03-09@19:06:33.413 Packet sent.
+2013-03-09@19:06:33.424 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.424 Sending start flag.
+2013-03-09@19:06:33.424 Start flag sent.
+2013-03-09@19:06:33.424 Packet sent.
+2013-03-09@19:06:33.435 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.435 Sending start flag.
+2013-03-09@19:06:33.435 Start flag sent.
+2013-03-09@19:06:33.435 Packet sent.
+2013-03-09@19:06:33.446 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.446 Sending start flag.
+2013-03-09@19:06:33.446 Start flag sent.
+2013-03-09@19:06:33.446 Packet sent.
+2013-03-09@19:06:33.457 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.457 Sending start flag.
+2013-03-09@19:06:33.457 Start flag sent.
+2013-03-09@19:06:33.457 Packet sent.
+2013-03-09@19:06:33.468 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.468 Sending start flag.
+2013-03-09@19:06:33.468 Start flag sent.
+2013-03-09@19:06:33.468 Packet sent.
+2013-03-09@19:06:33.479 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.479 Sending start flag.
+2013-03-09@19:06:33.479 Start flag sent.
+2013-03-09@19:06:33.479 Packet sent.
+2013-03-09@19:06:33.490 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.490 Sending start flag.
+2013-03-09@19:06:33.490 Start flag sent.
+2013-03-09@19:06:33.491 Packet sent.
+2013-03-09@19:06:33.501 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.502 Sending start flag.
+2013-03-09@19:06:33.502 Start flag sent.
+2013-03-09@19:06:33.502 Packet sent.
+2013-03-09@19:06:33.513 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.513 Sending start flag.
+2013-03-09@19:06:33.513 Start flag sent.
+2013-03-09@19:06:33.513 Packet sent.
+2013-03-09@19:06:33.524 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.524 Sending start flag.
+2013-03-09@19:06:33.524 Start flag sent.
+2013-03-09@19:06:33.524 Packet sent.
+2013-03-09@19:06:33.535 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.535 Sending start flag.
+2013-03-09@19:06:33.535 Start flag sent.
+2013-03-09@19:06:33.535 Packet sent.
+2013-03-09@19:06:33.546 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.546 Sending start flag.
+2013-03-09@19:06:33.546 Start flag sent.
+2013-03-09@19:06:33.546 Packet sent.
+2013-03-09@19:06:33.557 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.557 Sending start flag.
+2013-03-09@19:06:33.557 Start flag sent.
+2013-03-09@19:06:33.557 Packet sent.
+2013-03-09@19:06:33.568 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.568 Sending start flag.
+2013-03-09@19:06:33.568 Start flag sent.
+2013-03-09@19:06:33.568 Packet sent.
+2013-03-09@19:06:33.579 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.579 Sending start flag.
+2013-03-09@19:06:33.579 Start flag sent.
+2013-03-09@19:06:33.579 Packet sent.
+2013-03-09@19:06:33.590 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.590 Sending start flag.
+2013-03-09@19:06:33.590 Start flag sent.
+2013-03-09@19:06:33.590 Packet sent.
+2013-03-09@19:06:33.601 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.601 Sending start flag.
+2013-03-09@19:06:33.602 Start flag sent.
+2013-03-09@19:06:33.602 Packet sent.
+2013-03-09@19:06:33.613 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.613 Sending start flag.
+2013-03-09@19:06:33.613 Start flag sent.
+2013-03-09@19:06:33.613 Packet sent.
+2013-03-09@19:06:33.624 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.624 Sending start flag.
+2013-03-09@19:06:33.624 Start flag sent.
+2013-03-09@19:06:33.624 Packet sent.
+2013-03-09@19:06:33.635 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.635 Sending start flag.
+2013-03-09@19:06:33.635 Start flag sent.
+2013-03-09@19:06:33.635 Packet sent.
+2013-03-09@19:06:33.646 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.646 Sending start flag.
+2013-03-09@19:06:33.646 Start flag sent.
+2013-03-09@19:06:33.646 Packet sent.
+2013-03-09@19:06:33.657 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.657 Sending start flag.
+2013-03-09@19:06:33.657 Start flag sent.
+2013-03-09@19:06:33.657 Packet sent.
+2013-03-09@19:06:33.668 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.668 Sending start flag.
+2013-03-09@19:06:33.668 Start flag sent.
+2013-03-09@19:06:33.668 Packet sent.
+2013-03-09@19:06:33.679 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.679 Sending start flag.
+2013-03-09@19:06:33.679 Start flag sent.
+2013-03-09@19:06:33.679 Packet sent.
+2013-03-09@19:06:33.690 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.690 Sending start flag.
+2013-03-09@19:06:33.691 Start flag sent.
+2013-03-09@19:06:33.691 Packet sent.
+2013-03-09@19:06:33.702 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.702 Sending start flag.
+2013-03-09@19:06:33.702 Start flag sent.
+2013-03-09@19:06:33.702 Packet sent.
+2013-03-09@19:06:33.713 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.713 Sending start flag.
+2013-03-09@19:06:33.713 Start flag sent.
+2013-03-09@19:06:33.713 Packet sent.
+2013-03-09@19:06:33.724 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.724 Sending start flag.
+2013-03-09@19:06:33.724 Start flag sent.
+2013-03-09@19:06:33.724 Packet sent.
+2013-03-09@19:06:33.735 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.735 Sending start flag.
+2013-03-09@19:06:33.735 Start flag sent.
+2013-03-09@19:06:33.735 Packet sent.
+2013-03-09@19:06:33.746 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.746 Sending start flag.
+2013-03-09@19:06:33.746 Start flag sent.
+2013-03-09@19:06:33.746 Packet sent.
+2013-03-09@19:06:33.757 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.757 Sending start flag.
+2013-03-09@19:06:33.757 Start flag sent.
+2013-03-09@19:06:33.757 Packet sent.
+2013-03-09@19:06:33.768 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.768 Sending start flag.
+2013-03-09@19:06:33.768 Start flag sent.
+2013-03-09@19:06:33.768 Packet sent.
+2013-03-09@19:06:33.779 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.779 Sending start flag.
+2013-03-09@19:06:33.779 Start flag sent.
+2013-03-09@19:06:33.780 Packet sent.
+2013-03-09@19:06:33.790 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.790 Sending start flag.
+2013-03-09@19:06:33.791 Start flag sent.
+2013-03-09@19:06:33.791 Packet sent.
+2013-03-09@19:06:33.802 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.802 Sending start flag.
+2013-03-09@19:06:33.802 Start flag sent.
+2013-03-09@19:06:33.802 Packet sent.
+2013-03-09@19:06:33.813 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.813 Sending start flag.
+2013-03-09@19:06:33.813 Start flag sent.
+2013-03-09@19:06:33.813 Packet sent.
+2013-03-09@19:06:33.824 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.824 Sending start flag.
+2013-03-09@19:06:33.824 Start flag sent.
+2013-03-09@19:06:33.824 Packet sent.
+2013-03-09@19:06:33.835 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.835 Sending start flag.
+2013-03-09@19:06:33.835 Start flag sent.
+2013-03-09@19:06:33.835 Packet sent.
+2013-03-09@19:06:33.846 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.846 Sending start flag.
+2013-03-09@19:06:33.846 Start flag sent.
+2013-03-09@19:06:33.846 Packet sent.
+2013-03-09@19:06:33.857 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.857 Sending start flag.
+2013-03-09@19:06:33.857 Start flag sent.
+2013-03-09@19:06:33.857 Packet sent.
+2013-03-09@19:06:33.868 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.868 Sending start flag.
+2013-03-09@19:06:33.868 Start flag sent.
+2013-03-09@19:06:33.868 Packet sent.
+2013-03-09@19:06:33.879 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.879 Sending start flag.
+2013-03-09@19:06:33.879 Start flag sent.
+2013-03-09@19:06:33.880 Packet sent.
+2013-03-09@19:06:33.890 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.891 Sending start flag.
+2013-03-09@19:06:33.891 Start flag sent.
+2013-03-09@19:06:33.891 Packet sent.
+2013-03-09@19:06:33.902 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.902 Sending start flag.
+2013-03-09@19:06:33.902 Start flag sent.
+2013-03-09@19:06:33.902 Packet sent.
+2013-03-09@19:06:33.913 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.913 Sending start flag.
+2013-03-09@19:06:33.913 Start flag sent.
+2013-03-09@19:06:33.913 Packet sent.
+2013-03-09@19:06:33.924 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.924 Sending start flag.
+2013-03-09@19:06:33.924 Start flag sent.
+2013-03-09@19:06:33.924 Packet sent.
+2013-03-09@19:06:33.935 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.935 Sending start flag.
+2013-03-09@19:06:33.935 Start flag sent.
+2013-03-09@19:06:33.935 Packet sent.
+2013-03-09@19:06:33.946 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.946 Sending start flag.
+2013-03-09@19:06:33.946 Start flag sent.
+2013-03-09@19:06:33.946 Packet sent.
+2013-03-09@19:06:33.957 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.957 Sending start flag.
+2013-03-09@19:06:33.957 Start flag sent.
+2013-03-09@19:06:33.957 Packet sent.
+2013-03-09@19:06:33.968 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.968 Sending start flag.
+2013-03-09@19:06:33.968 Start flag sent.
+2013-03-09@19:06:33.968 Packet sent.
+2013-03-09@19:06:33.979 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.979 Sending start flag.
+2013-03-09@19:06:33.979 Start flag sent.
+2013-03-09@19:06:33.979 Packet sent.
+2013-03-09@19:06:33.990 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:33.990 Sending start flag.
+2013-03-09@19:06:33.991 Start flag sent.
+2013-03-09@19:06:33.991 Packet sent.
+2013-03-09@19:06:34.001 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.002 Sending start flag.
+2013-03-09@19:06:34.002 Start flag sent.
+2013-03-09@19:06:34.002 Packet sent.
+2013-03-09@19:06:34.013 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.013 Sending start flag.
+2013-03-09@19:06:34.013 Start flag sent.
+2013-03-09@19:06:34.013 Packet sent.
+2013-03-09@19:06:34.024 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.024 Sending start flag.
+2013-03-09@19:06:34.024 Start flag sent.
+2013-03-09@19:06:34.024 Packet sent.
+2013-03-09@19:06:34.035 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.035 Sending start flag.
+2013-03-09@19:06:34.035 Start flag sent.
+2013-03-09@19:06:34.035 Packet sent.
+2013-03-09@19:06:34.046 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.046 Sending start flag.
+2013-03-09@19:06:34.046 Start flag sent.
+2013-03-09@19:06:34.046 Packet sent.
+2013-03-09@19:06:34.057 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.057 Sending start flag.
+2013-03-09@19:06:34.057 Start flag sent.
+2013-03-09@19:06:34.057 Packet sent.
+2013-03-09@19:06:34.068 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.068 Sending start flag.
+2013-03-09@19:06:34.068 Start flag sent.
+2013-03-09@19:06:34.068 Packet sent.
+2013-03-09@19:06:34.079 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.079 Sending start flag.
+2013-03-09@19:06:34.079 Start flag sent.
+2013-03-09@19:06:34.080 Packet sent.
+2013-03-09@19:06:34.090 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.090 Sending start flag.
+2013-03-09@19:06:34.091 Start flag sent.
+2013-03-09@19:06:34.091 Packet sent.
+2013-03-09@19:06:34.102 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.102 Sending start flag.
+2013-03-09@19:06:34.102 Start flag sent.
+2013-03-09@19:06:34.102 Packet sent.
+2013-03-09@19:06:34.113 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.113 Sending start flag.
+2013-03-09@19:06:34.113 Start flag sent.
+2013-03-09@19:06:34.113 Packet sent.
+2013-03-09@19:06:34.124 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.124 Sending start flag.
+2013-03-09@19:06:34.124 Start flag sent.
+2013-03-09@19:06:34.124 Packet sent.
+2013-03-09@19:06:34.135 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.135 Sending start flag.
+2013-03-09@19:06:34.135 Start flag sent.
+2013-03-09@19:06:34.135 Packet sent.
+2013-03-09@19:06:34.146 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.146 Sending start flag.
+2013-03-09@19:06:34.146 Start flag sent.
+2013-03-09@19:06:34.146 Packet sent.
+2013-03-09@19:06:34.157 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.157 Sending start flag.
+2013-03-09@19:06:34.157 Start flag sent.
+2013-03-09@19:06:34.157 Packet sent.
+2013-03-09@19:06:34.168 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.168 Sending start flag.
+2013-03-09@19:06:34.168 Start flag sent.
+2013-03-09@19:06:34.168 Packet sent.
+2013-03-09@19:06:34.179 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.179 Sending start flag.
+2013-03-09@19:06:34.179 Start flag sent.
+2013-03-09@19:06:34.180 Packet sent.
+2013-03-09@19:06:34.190 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.191 Sending start flag.
+2013-03-09@19:06:34.191 Start flag sent.
+2013-03-09@19:06:34.191 Packet sent.
+2013-03-09@19:06:34.202 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.202 Sending start flag.
+2013-03-09@19:06:34.202 Start flag sent.
+2013-03-09@19:06:34.202 Packet sent.
+2013-03-09@19:06:34.213 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.213 Sending start flag.
+2013-03-09@19:06:34.213 Start flag sent.
+2013-03-09@19:06:34.213 Packet sent.
+2013-03-09@19:06:34.224 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.224 Sending start flag.
+2013-03-09@19:06:34.224 Start flag sent.
+2013-03-09@19:06:34.224 Packet sent.
+2013-03-09@19:06:34.235 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.235 Sending start flag.
+2013-03-09@19:06:34.235 Start flag sent.
+2013-03-09@19:06:34.235 Packet sent.
+2013-03-09@19:06:34.246 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.246 Sending start flag.
+2013-03-09@19:06:34.246 Start flag sent.
+2013-03-09@19:06:34.246 Packet sent.
+2013-03-09@19:06:34.257 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.257 Sending start flag.
+2013-03-09@19:06:34.257 Start flag sent.
+2013-03-09@19:06:34.257 Packet sent.
+2013-03-09@19:06:34.268 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.268 Sending start flag.
+2013-03-09@19:06:34.268 Start flag sent.
+2013-03-09@19:06:34.269 Packet sent.
+2013-03-09@19:06:34.279 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.280 Sending start flag.
+2013-03-09@19:06:34.280 Start flag sent.
+2013-03-09@19:06:34.280 Packet sent.
+2013-03-09@19:06:34.291 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.291 Sending start flag.
+2013-03-09@19:06:34.291 Start flag sent.
+2013-03-09@19:06:34.291 Packet sent.
+2013-03-09@19:06:34.302 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.302 Sending start flag.
+2013-03-09@19:06:34.302 Start flag sent.
+2013-03-09@19:06:34.302 Packet sent.
+2013-03-09@19:06:34.313 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.313 Sending start flag.
+2013-03-09@19:06:34.313 Start flag sent.
+2013-03-09@19:06:34.313 Packet sent.
+2013-03-09@19:06:34.324 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.324 Sending start flag.
+2013-03-09@19:06:34.324 Start flag sent.
+2013-03-09@19:06:34.324 Packet sent.
+2013-03-09@19:06:34.335 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.335 Sending start flag.
+2013-03-09@19:06:34.335 Start flag sent.
+2013-03-09@19:06:34.335 Packet sent.
+2013-03-09@19:06:34.346 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.346 Sending start flag.
+2013-03-09@19:06:34.346 Start flag sent.
+2013-03-09@19:06:34.346 Packet sent.
+2013-03-09@19:06:34.357 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.357 Sending start flag.
+2013-03-09@19:06:34.357 Start flag sent.
+2013-03-09@19:06:34.357 Packet sent.
+2013-03-09@19:06:34.368 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.368 Sending start flag.
+2013-03-09@19:06:34.368 Start flag sent.
+2013-03-09@19:06:34.369 Packet sent.
+2013-03-09@19:06:34.379 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.380 Sending start flag.
+2013-03-09@19:06:34.380 Start flag sent.
+2013-03-09@19:06:34.380 Packet sent.
+2013-03-09@19:06:34.391 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.391 Sending start flag.
+2013-03-09@19:06:34.391 Start flag sent.
+2013-03-09@19:06:34.391 Packet sent.
+2013-03-09@19:06:34.402 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.402 Sending start flag.
+2013-03-09@19:06:34.402 Start flag sent.
+2013-03-09@19:06:34.402 Packet sent.
+2013-03-09@19:06:34.413 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.413 Sending start flag.
+2013-03-09@19:06:34.413 Start flag sent.
+2013-03-09@19:06:34.413 Packet sent.
+2013-03-09@19:06:34.424 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.424 Sending start flag.
+2013-03-09@19:06:34.424 Start flag sent.
+2013-03-09@19:06:34.424 Packet sent.
+2013-03-09@19:06:34.435 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.435 Sending start flag.
+2013-03-09@19:06:34.435 Start flag sent.
+2013-03-09@19:06:34.435 Packet sent.
+2013-03-09@19:06:34.446 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.446 Sending start flag.
+2013-03-09@19:06:34.446 Start flag sent.
+2013-03-09@19:06:34.446 Packet sent.
+2013-03-09@19:06:34.457 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.457 Sending start flag.
+2013-03-09@19:06:34.457 Start flag sent.
+2013-03-09@19:06:34.457 Packet sent.
+2013-03-09@19:06:34.468 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.468 Sending start flag.
+2013-03-09@19:06:34.468 Start flag sent.
+2013-03-09@19:06:34.469 Packet sent.
+2013-03-09@19:06:34.479 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.479 Sending start flag.
+2013-03-09@19:06:34.480 Start flag sent.
+2013-03-09@19:06:34.480 Packet sent.
+2013-03-09@19:06:34.491 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.491 Sending start flag.
+2013-03-09@19:06:34.491 Start flag sent.
+2013-03-09@19:06:34.491 Packet sent.
+2013-03-09@19:06:34.502 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.502 Sending start flag.
+2013-03-09@19:06:34.502 Start flag sent.
+2013-03-09@19:06:34.502 Packet sent.
+2013-03-09@19:06:34.513 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.513 Sending start flag.
+2013-03-09@19:06:34.513 Start flag sent.
+2013-03-09@19:06:34.513 Packet sent.
+2013-03-09@19:06:34.524 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.524 Sending start flag.
+2013-03-09@19:06:34.524 Start flag sent.
+2013-03-09@19:06:34.524 Packet sent.
+2013-03-09@19:06:34.535 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.535 Sending start flag.
+2013-03-09@19:06:34.535 Start flag sent.
+2013-03-09@19:06:34.535 Packet sent.
+2013-03-09@19:06:34.546 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.546 Sending start flag.
+2013-03-09@19:06:34.546 Start flag sent.
+2013-03-09@19:06:34.546 Packet sent.
+2013-03-09@19:06:34.557 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.557 Sending start flag.
+2013-03-09@19:06:34.557 Start flag sent.
+2013-03-09@19:06:34.557 Packet sent.
+2013-03-09@19:06:34.568 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.568 Sending start flag.
+2013-03-09@19:06:34.568 Start flag sent.
+2013-03-09@19:06:34.569 Packet sent.
+2013-03-09@19:06:34.579 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.580 Sending start flag.
+2013-03-09@19:06:34.580 Start flag sent.
+2013-03-09@19:06:34.580 Packet sent.
+2013-03-09@19:06:34.591 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.591 Sending start flag.
+2013-03-09@19:06:34.591 Start flag sent.
+2013-03-09@19:06:34.591 Packet sent.
+2013-03-09@19:06:34.602 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.602 Sending start flag.
+2013-03-09@19:06:34.602 Start flag sent.
+2013-03-09@19:06:34.602 Packet sent.
+2013-03-09@19:06:34.613 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.613 Sending start flag.
+2013-03-09@19:06:34.613 Start flag sent.
+2013-03-09@19:06:34.613 Packet sent.
+2013-03-09@19:06:34.624 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.624 Sending start flag.
+2013-03-09@19:06:34.624 Start flag sent.
+2013-03-09@19:06:34.624 Packet sent.
+2013-03-09@19:06:34.635 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.635 Sending start flag.
+2013-03-09@19:06:34.635 Start flag sent.
+2013-03-09@19:06:34.635 Packet sent.
+2013-03-09@19:06:34.646 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.646 Sending start flag.
+2013-03-09@19:06:34.646 Start flag sent.
+2013-03-09@19:06:34.646 Packet sent.
+2013-03-09@19:06:34.657 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.657 Sending start flag.
+2013-03-09@19:06:34.657 Start flag sent.
+2013-03-09@19:06:34.657 Packet sent.
+2013-03-09@19:06:34.668 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.668 Sending start flag.
+2013-03-09@19:06:34.668 Start flag sent.
+2013-03-09@19:06:34.668 Packet sent.
+2013-03-09@19:06:34.679 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.679 Sending start flag.
+2013-03-09@19:06:34.679 Start flag sent.
+2013-03-09@19:06:34.680 Packet sent.
+2013-03-09@19:06:34.690 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.690 Sending start flag.
+2013-03-09@19:06:34.691 Start flag sent.
+2013-03-09@19:06:34.691 Packet sent.
+2013-03-09@19:06:34.702 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.702 Sending start flag.
+2013-03-09@19:06:34.702 Start flag sent.
+2013-03-09@19:06:34.702 Packet sent.
+2013-03-09@19:06:34.713 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.713 Sending start flag.
+2013-03-09@19:06:34.713 Start flag sent.
+2013-03-09@19:06:34.713 Packet sent.
+2013-03-09@19:06:34.724 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.724 Sending start flag.
+2013-03-09@19:06:34.724 Start flag sent.
+2013-03-09@19:06:34.724 Packet sent.
+2013-03-09@19:06:34.735 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.735 Sending start flag.
+2013-03-09@19:06:34.735 Start flag sent.
+2013-03-09@19:06:34.735 Packet sent.
+2013-03-09@19:06:34.746 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.746 Sending start flag.
+2013-03-09@19:06:34.746 Start flag sent.
+2013-03-09@19:06:34.746 Packet sent.
+2013-03-09@19:06:34.757 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.757 Sending start flag.
+2013-03-09@19:06:34.757 Start flag sent.
+2013-03-09@19:06:34.757 Packet sent.
+2013-03-09@19:06:34.768 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.768 Sending start flag.
+2013-03-09@19:06:34.768 Start flag sent.
+2013-03-09@19:06:34.769 Packet sent.
+2013-03-09@19:06:34.779 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.779 Sending start flag.
+2013-03-09@19:06:34.780 Start flag sent.
+2013-03-09@19:06:34.780 Packet sent.
+2013-03-09@19:06:34.791 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.791 Sending start flag.
+2013-03-09@19:06:34.791 Start flag sent.
+2013-03-09@19:06:34.791 Packet sent.
+2013-03-09@19:06:34.802 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.802 Sending start flag.
+2013-03-09@19:06:34.802 Start flag sent.
+2013-03-09@19:06:34.802 Packet sent.
+2013-03-09@19:06:34.813 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.813 Sending start flag.
+2013-03-09@19:06:34.813 Start flag sent.
+2013-03-09@19:06:34.813 Packet sent.
+2013-03-09@19:06:34.824 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.824 Sending start flag.
+2013-03-09@19:06:34.824 Start flag sent.
+2013-03-09@19:06:34.824 Packet sent.
+2013-03-09@19:06:34.835 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.835 Sending start flag.
+2013-03-09@19:06:34.835 Start flag sent.
+2013-03-09@19:06:34.835 Packet sent.
+2013-03-09@19:06:34.846 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.846 Sending start flag.
+2013-03-09@19:06:34.846 Start flag sent.
+2013-03-09@19:06:34.846 Packet sent.
+2013-03-09@19:06:34.857 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.857 Sending start flag.
+2013-03-09@19:06:34.857 Start flag sent.
+2013-03-09@19:06:34.857 Packet sent.
+2013-03-09@19:06:34.868 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.868 Sending start flag.
+2013-03-09@19:06:34.869 Start flag sent.
+2013-03-09@19:06:34.869 Packet sent.
+2013-03-09@19:06:34.879 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.880 Sending start flag.
+2013-03-09@19:06:34.880 Start flag sent.
+2013-03-09@19:06:34.880 Packet sent.
+2013-03-09@19:06:34.891 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.891 Sending start flag.
+2013-03-09@19:06:34.891 Start flag sent.
+2013-03-09@19:06:34.891 Packet sent.
+2013-03-09@19:06:34.902 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.902 Sending start flag.
+2013-03-09@19:06:34.902 Start flag sent.
+2013-03-09@19:06:34.902 Packet sent.
+2013-03-09@19:06:34.913 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.913 Sending start flag.
+2013-03-09@19:06:34.913 Start flag sent.
+2013-03-09@19:06:34.913 Packet sent.
+2013-03-09@19:06:34.924 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.924 Sending start flag.
+2013-03-09@19:06:34.924 Start flag sent.
+2013-03-09@19:06:34.924 Packet sent.
+2013-03-09@19:06:34.935 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.935 Sending start flag.
+2013-03-09@19:06:34.935 Start flag sent.
+2013-03-09@19:06:34.935 Packet sent.
+2013-03-09@19:06:34.946 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.946 Sending start flag.
+2013-03-09@19:06:34.946 Start flag sent.
+2013-03-09@19:06:34.946 Packet sent.
+2013-03-09@19:06:34.957 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.957 Sending start flag.
+2013-03-09@19:06:34.957 Start flag sent.
+2013-03-09@19:06:34.957 Packet sent.
+2013-03-09@19:06:34.968 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.968 Sending start flag.
+2013-03-09@19:06:34.969 Start flag sent.
+2013-03-09@19:06:34.969 Packet sent.
+2013-03-09@19:06:34.980 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.980 Sending start flag.
+2013-03-09@19:06:34.980 Start flag sent.
+2013-03-09@19:06:34.980 Packet sent.
+2013-03-09@19:06:34.991 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:34.991 Sending start flag.
+2013-03-09@19:06:34.991 Start flag sent.
+2013-03-09@19:06:34.991 Packet sent.
+2013-03-09@19:06:35.002 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.002 Sending start flag.
+2013-03-09@19:06:35.003 Start flag sent.
+2013-03-09@19:06:35.003 Packet sent.
+2013-03-09@19:06:35.014 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.014 Sending start flag.
+2013-03-09@19:06:35.014 Start flag sent.
+2013-03-09@19:06:35.014 Packet sent.
+2013-03-09@19:06:35.025 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.025 Sending start flag.
+2013-03-09@19:06:35.025 Start flag sent.
+2013-03-09@19:06:35.025 Packet sent.
+2013-03-09@19:06:35.036 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.036 Sending start flag.
+2013-03-09@19:06:35.036 Start flag sent.
+2013-03-09@19:06:35.036 Packet sent.
+2013-03-09@19:06:35.047 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.047 Sending start flag.
+2013-03-09@19:06:35.047 Start flag sent.
+2013-03-09@19:06:35.047 Packet sent.
+2013-03-09@19:06:35.058 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.058 Sending start flag.
+2013-03-09@19:06:35.058 Start flag sent.
+2013-03-09@19:06:35.058 Packet sent.
+2013-03-09@19:06:35.069 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.069 Sending start flag.
+2013-03-09@19:06:35.069 Start flag sent.
+2013-03-09@19:06:35.069 Packet sent.
+2013-03-09@19:06:35.080 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.080 Sending start flag.
+2013-03-09@19:06:35.080 Start flag sent.
+2013-03-09@19:06:35.080 Packet sent.
+2013-03-09@19:06:35.091 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.091 Sending start flag.
+2013-03-09@19:06:35.091 Start flag sent.
+2013-03-09@19:06:35.091 Packet sent.
+2013-03-09@19:06:35.102 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.102 Sending start flag.
+2013-03-09@19:06:35.102 Start flag sent.
+2013-03-09@19:06:35.103 Packet sent.
+2013-03-09@19:06:35.113 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.113 Sending start flag.
+2013-03-09@19:06:35.114 Start flag sent.
+2013-03-09@19:06:35.114 Packet sent.
+2013-03-09@19:06:35.125 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.125 Sending start flag.
+2013-03-09@19:06:35.125 Start flag sent.
+2013-03-09@19:06:35.125 Packet sent.
+2013-03-09@19:06:35.136 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.136 Sending start flag.
+2013-03-09@19:06:35.136 Start flag sent.
+2013-03-09@19:06:35.136 Packet sent.
+2013-03-09@19:06:35.147 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.147 Sending start flag.
+2013-03-09@19:06:35.147 Start flag sent.
+2013-03-09@19:06:35.147 Packet sent.
+2013-03-09@19:06:35.158 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.158 Sending start flag.
+2013-03-09@19:06:35.158 Start flag sent.
+2013-03-09@19:06:35.158 Packet sent.
+2013-03-09@19:06:35.169 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.169 Sending start flag.
+2013-03-09@19:06:35.169 Start flag sent.
+2013-03-09@19:06:35.169 Packet sent.
+2013-03-09@19:06:35.180 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.180 Sending start flag.
+2013-03-09@19:06:35.180 Start flag sent.
+2013-03-09@19:06:35.180 Packet sent.
+2013-03-09@19:06:35.191 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.191 Sending start flag.
+2013-03-09@19:06:35.191 Start flag sent.
+2013-03-09@19:06:35.192 Packet sent.
+2013-03-09@19:06:35.202 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.203 Sending start flag.
+2013-03-09@19:06:35.203 Start flag sent.
+2013-03-09@19:06:35.203 Packet sent.
+2013-03-09@19:06:35.214 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.214 Sending start flag.
+2013-03-09@19:06:35.214 Start flag sent.
+2013-03-09@19:06:35.214 Packet sent.
+2013-03-09@19:06:35.225 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.225 Sending start flag.
+2013-03-09@19:06:35.225 Start flag sent.
+2013-03-09@19:06:35.225 Packet sent.
+2013-03-09@19:06:35.236 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.236 Sending start flag.
+2013-03-09@19:06:35.236 Start flag sent.
+2013-03-09@19:06:35.236 Packet sent.
+2013-03-09@19:06:35.247 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.247 Sending start flag.
+2013-03-09@19:06:35.247 Start flag sent.
+2013-03-09@19:06:35.247 Packet sent.
+2013-03-09@19:06:35.258 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.258 Sending start flag.
+2013-03-09@19:06:35.258 Start flag sent.
+2013-03-09@19:06:35.258 Packet sent.
+2013-03-09@19:06:35.269 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.269 Sending start flag.
+2013-03-09@19:06:35.269 Start flag sent.
+2013-03-09@19:06:35.269 Packet sent.
+2013-03-09@19:06:35.280 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.280 Sending start flag.
+2013-03-09@19:06:35.280 Start flag sent.
+2013-03-09@19:06:35.280 Packet sent.
+2013-03-09@19:06:35.291 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.291 Sending start flag.
+2013-03-09@19:06:35.291 Start flag sent.
+2013-03-09@19:06:35.291 Packet sent.
+2013-03-09@19:06:35.302 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.302 Sending start flag.
+2013-03-09@19:06:35.302 Start flag sent.
+2013-03-09@19:06:35.302 Packet sent.
+2013-03-09@19:06:35.313 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.313 Sending start flag.
+2013-03-09@19:06:35.314 Start flag sent.
+2013-03-09@19:06:35.314 Packet sent.
+2013-03-09@19:06:35.325 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.325 Sending start flag.
+2013-03-09@19:06:35.325 Start flag sent.
+2013-03-09@19:06:35.325 Packet sent.
+2013-03-09@19:06:35.336 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.336 Sending start flag.
+2013-03-09@19:06:35.336 Start flag sent.
+2013-03-09@19:06:35.336 Packet sent.
+2013-03-09@19:06:35.347 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.347 Sending start flag.
+2013-03-09@19:06:35.347 Start flag sent.
+2013-03-09@19:06:35.347 Packet sent.
+2013-03-09@19:06:35.358 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.358 Sending start flag.
+2013-03-09@19:06:35.358 Start flag sent.
+2013-03-09@19:06:35.358 Packet sent.
+2013-03-09@19:06:35.369 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.369 Sending start flag.
+2013-03-09@19:06:35.369 Start flag sent.
+2013-03-09@19:06:35.369 Packet sent.
+2013-03-09@19:06:35.380 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.380 Sending start flag.
+2013-03-09@19:06:35.380 Start flag sent.
+2013-03-09@19:06:35.380 Packet sent.
+2013-03-09@19:06:35.391 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.391 Sending start flag.
+2013-03-09@19:06:35.391 Start flag sent.
+2013-03-09@19:06:35.391 Packet sent.
+2013-03-09@19:06:35.402 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.402 Sending start flag.
+2013-03-09@19:06:35.402 Start flag sent.
+2013-03-09@19:06:35.402 Packet sent.
+2013-03-09@19:06:35.413 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.413 Sending start flag.
+2013-03-09@19:06:35.413 Start flag sent.
+2013-03-09@19:06:35.413 Packet sent.
+2013-03-09@19:06:35.424 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.424 Sending start flag.
+2013-03-09@19:06:35.424 Start flag sent.
+2013-03-09@19:06:35.424 Packet sent.
+2013-03-09@19:06:35.435 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.435 Sending start flag.
+2013-03-09@19:06:35.435 Start flag sent.
+2013-03-09@19:06:35.435 Packet sent.
+2013-03-09@19:06:35.446 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.446 Sending start flag.
+2013-03-09@19:06:35.447 Start flag sent.
+2013-03-09@19:06:35.447 Packet sent.
+2013-03-09@19:06:35.457 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.458 Sending start flag.
+2013-03-09@19:06:35.458 Start flag sent.
+2013-03-09@19:06:35.458 Packet sent.
+2013-03-09@19:06:35.469 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.469 Sending start flag.
+2013-03-09@19:06:35.469 Start flag sent.
+2013-03-09@19:06:35.469 Packet sent.
+2013-03-09@19:06:35.480 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.480 Sending start flag.
+2013-03-09@19:06:35.480 Start flag sent.
+2013-03-09@19:06:35.480 Packet sent.
+2013-03-09@19:06:35.491 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.491 Sending start flag.
+2013-03-09@19:06:35.491 Start flag sent.
+2013-03-09@19:06:35.491 Packet sent.
+2013-03-09@19:06:35.502 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.502 Sending start flag.
+2013-03-09@19:06:35.502 Start flag sent.
+2013-03-09@19:06:35.502 Packet sent.
+2013-03-09@19:06:35.513 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.513 Sending start flag.
+2013-03-09@19:06:35.513 Start flag sent.
+2013-03-09@19:06:35.513 Packet sent.
+2013-03-09@19:06:35.524 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.524 Sending start flag.
+2013-03-09@19:06:35.524 Start flag sent.
+2013-03-09@19:06:35.524 Packet sent.
+2013-03-09@19:06:35.535 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.535 Sending start flag.
+2013-03-09@19:06:35.535 Start flag sent.
+2013-03-09@19:06:35.535 Packet sent.
+2013-03-09@19:06:35.546 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.546 Sending start flag.
+2013-03-09@19:06:35.546 Start flag sent.
+2013-03-09@19:06:35.546 Packet sent.
+2013-03-09@19:06:35.557 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.557 Sending start flag.
+2013-03-09@19:06:35.557 Start flag sent.
+2013-03-09@19:06:35.558 Packet sent.
+2013-03-09@19:06:35.568 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.568 Sending start flag.
+2013-03-09@19:06:35.568 Start flag sent.
+2013-03-09@19:06:35.569 Packet sent.
+2013-03-09@19:06:35.580 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.580 Sending start flag.
+2013-03-09@19:06:35.580 Start flag sent.
+2013-03-09@19:06:35.580 Packet sent.
+2013-03-09@19:06:35.591 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.591 Sending start flag.
+2013-03-09@19:06:35.591 Start flag sent.
+2013-03-09@19:06:35.591 Packet sent.
+2013-03-09@19:06:35.602 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.602 Sending start flag.
+2013-03-09@19:06:35.602 Start flag sent.
+2013-03-09@19:06:35.602 Packet sent.
+2013-03-09@19:06:35.613 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.613 Sending start flag.
+2013-03-09@19:06:35.613 Start flag sent.
+2013-03-09@19:06:35.613 Packet sent.
+2013-03-09@19:06:35.624 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.624 Sending start flag.
+2013-03-09@19:06:35.624 Start flag sent.
+2013-03-09@19:06:35.624 Packet sent.
+2013-03-09@19:06:35.635 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.635 Sending start flag.
+2013-03-09@19:06:35.635 Start flag sent.
+2013-03-09@19:06:35.635 Packet sent.
+2013-03-09@19:06:35.646 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.646 Sending start flag.
+2013-03-09@19:06:35.646 Start flag sent.
+2013-03-09@19:06:35.646 Packet sent.
+2013-03-09@19:06:35.657 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.657 Sending start flag.
+2013-03-09@19:06:35.657 Start flag sent.
+2013-03-09@19:06:35.657 Packet sent.
+2013-03-09@19:06:35.668 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.668 Sending start flag.
+2013-03-09@19:06:35.668 Start flag sent.
+2013-03-09@19:06:35.668 Packet sent.
+2013-03-09@19:06:35.679 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.679 Sending start flag.
+2013-03-09@19:06:35.679 Start flag sent.
+2013-03-09@19:06:35.679 Packet sent.
+2013-03-09@19:06:35.690 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.690 Sending start flag.
+2013-03-09@19:06:35.691 Start flag sent.
+2013-03-09@19:06:35.691 Packet sent.
+2013-03-09@19:06:35.702 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.702 Sending start flag.
+2013-03-09@19:06:35.702 Start flag sent.
+2013-03-09@19:06:35.702 Packet sent.
+2013-03-09@19:06:35.713 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.713 Sending start flag.
+2013-03-09@19:06:35.713 Start flag sent.
+2013-03-09@19:06:35.713 Packet sent.
+2013-03-09@19:06:35.724 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.724 Sending start flag.
+2013-03-09@19:06:35.724 Start flag sent.
+2013-03-09@19:06:35.724 Packet sent.
+2013-03-09@19:06:35.735 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.735 Sending start flag.
+2013-03-09@19:06:35.735 Start flag sent.
+2013-03-09@19:06:35.735 Packet sent.
+2013-03-09@19:06:35.746 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.746 Sending start flag.
+2013-03-09@19:06:35.746 Start flag sent.
+2013-03-09@19:06:35.746 Packet sent.
+2013-03-09@19:06:35.757 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.757 Sending start flag.
+2013-03-09@19:06:35.757 Start flag sent.
+2013-03-09@19:06:35.757 Packet sent.
+2013-03-09@19:06:35.768 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.768 Sending start flag.
+2013-03-09@19:06:35.768 Start flag sent.
+2013-03-09@19:06:35.768 Packet sent.
+2013-03-09@19:06:35.779 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.779 Sending start flag.
+2013-03-09@19:06:35.779 Start flag sent.
+2013-03-09@19:06:35.779 Packet sent.
+2013-03-09@19:06:35.790 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.790 Sending start flag.
+2013-03-09@19:06:35.790 Start flag sent.
+2013-03-09@19:06:35.791 Packet sent.
+2013-03-09@19:06:35.801 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.801 Sending start flag.
+2013-03-09@19:06:35.802 Start flag sent.
+2013-03-09@19:06:35.802 Packet sent.
+2013-03-09@19:06:35.813 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.813 Sending start flag.
+2013-03-09@19:06:35.813 Start flag sent.
+2013-03-09@19:06:35.813 Packet sent.
+2013-03-09@19:06:35.824 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.824 Sending start flag.
+2013-03-09@19:06:35.824 Start flag sent.
+2013-03-09@19:06:35.824 Packet sent.
+2013-03-09@19:06:35.835 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.835 Sending start flag.
+2013-03-09@19:06:35.835 Start flag sent.
+2013-03-09@19:06:35.835 Packet sent.
+2013-03-09@19:06:35.846 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.846 Sending start flag.
+2013-03-09@19:06:35.846 Start flag sent.
+2013-03-09@19:06:35.846 Packet sent.
+2013-03-09@19:06:35.857 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.857 Sending start flag.
+2013-03-09@19:06:35.857 Start flag sent.
+2013-03-09@19:06:35.857 Packet sent.
+2013-03-09@19:06:35.868 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.868 Sending start flag.
+2013-03-09@19:06:35.868 Start flag sent.
+2013-03-09@19:06:35.868 Packet sent.
+2013-03-09@19:06:35.879 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.879 Sending start flag.
+2013-03-09@19:06:35.879 Start flag sent.
+2013-03-09@19:06:35.879 Packet sent.
+2013-03-09@19:06:35.890 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.890 Sending start flag.
+2013-03-09@19:06:35.890 Start flag sent.
+2013-03-09@19:06:35.890 Packet sent.
+2013-03-09@19:06:35.901 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.901 Sending start flag.
+2013-03-09@19:06:35.901 Start flag sent.
+2013-03-09@19:06:35.901 Packet sent.
+2013-03-09@19:06:35.912 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.912 Sending start flag.
+2013-03-09@19:06:35.912 Start flag sent.
+2013-03-09@19:06:35.913 Packet sent.
+2013-03-09@19:06:35.923 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.923 Sending start flag.
+2013-03-09@19:06:35.924 Start flag sent.
+2013-03-09@19:06:35.924 Packet sent.
+2013-03-09@19:06:35.935 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.935 Sending start flag.
+2013-03-09@19:06:35.935 Start flag sent.
+2013-03-09@19:06:35.935 Packet sent.
+2013-03-09@19:06:35.946 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.946 Sending start flag.
+2013-03-09@19:06:35.946 Start flag sent.
+2013-03-09@19:06:35.946 Packet sent.
+2013-03-09@19:06:35.957 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.957 Sending start flag.
+2013-03-09@19:06:35.957 Start flag sent.
+2013-03-09@19:06:35.957 Packet sent.
+2013-03-09@19:06:35.968 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.968 Sending start flag.
+2013-03-09@19:06:35.968 Start flag sent.
+2013-03-09@19:06:35.968 Packet sent.
+2013-03-09@19:06:35.979 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.979 Sending start flag.
+2013-03-09@19:06:35.979 Start flag sent.
+2013-03-09@19:06:35.979 Packet sent.
+2013-03-09@19:06:35.990 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:35.990 Sending start flag.
+2013-03-09@19:06:35.990 Start flag sent.
+2013-03-09@19:06:35.990 Packet sent.
+2013-03-09@19:06:36.001 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.001 Sending start flag.
+2013-03-09@19:06:36.001 Start flag sent.
+2013-03-09@19:06:36.001 Packet sent.
+2013-03-09@19:06:36.012 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.012 Sending start flag.
+2013-03-09@19:06:36.012 Start flag sent.
+2013-03-09@19:06:36.012 Packet sent.
+2013-03-09@19:06:36.023 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.023 Sending start flag.
+2013-03-09@19:06:36.023 Start flag sent.
+2013-03-09@19:06:36.023 Packet sent.
+2013-03-09@19:06:36.034 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.034 Sending start flag.
+2013-03-09@19:06:36.034 Start flag sent.
+2013-03-09@19:06:36.035 Packet sent.
+2013-03-09@19:06:36.045 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.046 Sending start flag.
+2013-03-09@19:06:36.046 Start flag sent.
+2013-03-09@19:06:36.046 Packet sent.
+2013-03-09@19:06:36.057 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.057 Sending start flag.
+2013-03-09@19:06:36.057 Start flag sent.
+2013-03-09@19:06:36.057 Packet sent.
+2013-03-09@19:06:36.068 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.068 Sending start flag.
+2013-03-09@19:06:36.068 Start flag sent.
+2013-03-09@19:06:36.068 Packet sent.
+2013-03-09@19:06:36.079 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.079 Sending start flag.
+2013-03-09@19:06:36.079 Start flag sent.
+2013-03-09@19:06:36.079 Packet sent.
+2013-03-09@19:06:36.090 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.090 Sending start flag.
+2013-03-09@19:06:36.090 Start flag sent.
+2013-03-09@19:06:36.090 Packet sent.
+2013-03-09@19:06:36.101 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.101 Sending start flag.
+2013-03-09@19:06:36.101 Start flag sent.
+2013-03-09@19:06:36.101 Packet sent.
+2013-03-09@19:06:36.112 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.112 Sending start flag.
+2013-03-09@19:06:36.112 Start flag sent.
+2013-03-09@19:06:36.112 Packet sent.
+2013-03-09@19:06:36.123 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.123 Sending start flag.
+2013-03-09@19:06:36.123 Start flag sent.
+2013-03-09@19:06:36.123 Packet sent.
+2013-03-09@19:06:36.134 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.134 Sending start flag.
+2013-03-09@19:06:36.134 Start flag sent.
+2013-03-09@19:06:36.134 Packet sent.
+2013-03-09@19:06:36.145 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.145 Sending start flag.
+2013-03-09@19:06:36.145 Start flag sent.
+2013-03-09@19:06:36.145 Packet sent.
+2013-03-09@19:06:36.156 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.156 Sending start flag.
+2013-03-09@19:06:36.157 Start flag sent.
+2013-03-09@19:06:36.157 Packet sent.
+2013-03-09@19:06:36.168 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.168 Sending start flag.
+2013-03-09@19:06:36.168 Start flag sent.
+2013-03-09@19:06:36.168 Packet sent.
+2013-03-09@19:06:36.179 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.179 Sending start flag.
+2013-03-09@19:06:36.179 Start flag sent.
+2013-03-09@19:06:36.179 Packet sent.
+2013-03-09@19:06:36.190 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.190 Sending start flag.
+2013-03-09@19:06:36.190 Start flag sent.
+2013-03-09@19:06:36.190 Packet sent.
+2013-03-09@19:06:36.201 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.201 Sending start flag.
+2013-03-09@19:06:36.201 Start flag sent.
+2013-03-09@19:06:36.201 Packet sent.
+2013-03-09@19:06:36.212 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.212 Sending start flag.
+2013-03-09@19:06:36.212 Start flag sent.
+2013-03-09@19:06:36.212 Packet sent.
+2013-03-09@19:06:36.223 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.223 Sending start flag.
+2013-03-09@19:06:36.223 Start flag sent.
+2013-03-09@19:06:36.223 Packet sent.
+2013-03-09@19:06:36.234 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.234 Sending start flag.
+2013-03-09@19:06:36.234 Start flag sent.
+2013-03-09@19:06:36.234 Packet sent.
+2013-03-09@19:06:36.245 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.245 Sending start flag.
+2013-03-09@19:06:36.245 Start flag sent.
+2013-03-09@19:06:36.245 Packet sent.
+2013-03-09@19:06:36.256 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.256 Sending start flag.
+2013-03-09@19:06:36.256 Start flag sent.
+2013-03-09@19:06:36.256 Packet sent.
+2013-03-09@19:06:36.267 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.267 Sending start flag.
+2013-03-09@19:06:36.267 Start flag sent.
+2013-03-09@19:06:36.267 Packet sent.
+2013-03-09@19:06:36.278 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.278 Sending start flag.
+2013-03-09@19:06:36.278 Start flag sent.
+2013-03-09@19:06:36.279 Packet sent.
+2013-03-09@19:06:36.289 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.289 Sending start flag.
+2013-03-09@19:06:36.290 Start flag sent.
+2013-03-09@19:06:36.290 Packet sent.
+2013-03-09@19:06:36.301 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.301 Sending start flag.
+2013-03-09@19:06:36.301 Start flag sent.
+2013-03-09@19:06:36.301 Packet sent.
+2013-03-09@19:06:36.312 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.312 Sending start flag.
+2013-03-09@19:06:36.312 Start flag sent.
+2013-03-09@19:06:36.312 Packet sent.
+2013-03-09@19:06:36.323 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.323 Sending start flag.
+2013-03-09@19:06:36.323 Start flag sent.
+2013-03-09@19:06:36.323 Packet sent.
+2013-03-09@19:06:36.334 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.334 Sending start flag.
+2013-03-09@19:06:36.334 Start flag sent.
+2013-03-09@19:06:36.334 Packet sent.
+2013-03-09@19:06:36.345 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.345 Sending start flag.
+2013-03-09@19:06:36.345 Start flag sent.
+2013-03-09@19:06:36.345 Packet sent.
+2013-03-09@19:06:36.356 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.356 Sending start flag.
+2013-03-09@19:06:36.356 Start flag sent.
+2013-03-09@19:06:36.356 Packet sent.
+2013-03-09@19:06:36.367 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.367 Sending start flag.
+2013-03-09@19:06:36.367 Start flag sent.
+2013-03-09@19:06:36.367 Packet sent.
+2013-03-09@19:06:36.378 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.378 Sending start flag.
+2013-03-09@19:06:36.378 Start flag sent.
+2013-03-09@19:06:36.378 Packet sent.
+2013-03-09@19:06:36.389 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.389 Sending start flag.
+2013-03-09@19:06:36.389 Start flag sent.
+2013-03-09@19:06:36.390 Packet sent.
+2013-03-09@19:06:36.400 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.400 Sending start flag.
+2013-03-09@19:06:36.401 Start flag sent.
+2013-03-09@19:06:36.401 Packet sent.
+2013-03-09@19:06:36.412 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.412 Sending start flag.
+2013-03-09@19:06:36.412 Start flag sent.
+2013-03-09@19:06:36.412 Packet sent.
+2013-03-09@19:06:36.423 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.423 Sending start flag.
+2013-03-09@19:06:36.423 Start flag sent.
+2013-03-09@19:06:36.423 Packet sent.
+2013-03-09@19:06:36.434 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.434 Sending start flag.
+2013-03-09@19:06:36.434 Start flag sent.
+2013-03-09@19:06:36.434 Packet sent.
+2013-03-09@19:06:36.445 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.445 Sending start flag.
+2013-03-09@19:06:36.445 Start flag sent.
+2013-03-09@19:06:36.445 Packet sent.
+2013-03-09@19:06:36.456 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.456 Sending start flag.
+2013-03-09@19:06:36.456 Start flag sent.
+2013-03-09@19:06:36.456 Packet sent.
+2013-03-09@19:06:36.467 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.467 Sending start flag.
+2013-03-09@19:06:36.467 Start flag sent.
+2013-03-09@19:06:36.467 Packet sent.
+2013-03-09@19:06:36.478 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.478 Sending start flag.
+2013-03-09@19:06:36.478 Start flag sent.
+2013-03-09@19:06:36.478 Packet sent.
+2013-03-09@19:06:36.489 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.489 Sending start flag.
+2013-03-09@19:06:36.489 Start flag sent.
+2013-03-09@19:06:36.489 Packet sent.
+2013-03-09@19:06:36.500 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.500 Sending start flag.
+2013-03-09@19:06:36.500 Start flag sent.
+2013-03-09@19:06:36.501 Packet sent.
+2013-03-09@19:06:36.511 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.511 Sending start flag.
+2013-03-09@19:06:36.512 Start flag sent.
+2013-03-09@19:06:36.512 Packet sent.
+2013-03-09@19:06:36.523 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.523 Sending start flag.
+2013-03-09@19:06:36.523 Start flag sent.
+2013-03-09@19:06:36.523 Packet sent.
+2013-03-09@19:06:36.534 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.534 Sending start flag.
+2013-03-09@19:06:36.534 Start flag sent.
+2013-03-09@19:06:36.534 Packet sent.
+2013-03-09@19:06:36.545 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.545 Sending start flag.
+2013-03-09@19:06:36.545 Start flag sent.
+2013-03-09@19:06:36.545 Packet sent.
+2013-03-09@19:06:36.556 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.556 Sending start flag.
+2013-03-09@19:06:36.556 Start flag sent.
+2013-03-09@19:06:36.556 Packet sent.
+2013-03-09@19:06:36.567 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.567 Sending start flag.
+2013-03-09@19:06:36.567 Start flag sent.
+2013-03-09@19:06:36.567 Packet sent.
+2013-03-09@19:06:36.578 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.578 Sending start flag.
+2013-03-09@19:06:36.578 Start flag sent.
+2013-03-09@19:06:36.578 Packet sent.
+2013-03-09@19:06:36.589 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.589 Sending start flag.
+2013-03-09@19:06:36.589 Start flag sent.
+2013-03-09@19:06:36.589 Packet sent.
+2013-03-09@19:06:36.600 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.600 Sending start flag.
+2013-03-09@19:06:36.601 Start flag sent.
+2013-03-09@19:06:36.601 Packet sent.
+2013-03-09@19:06:36.612 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.612 Sending start flag.
+2013-03-09@19:06:36.612 Start flag sent.
+2013-03-09@19:06:36.612 Packet sent.
+2013-03-09@19:06:36.623 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.623 Sending start flag.
+2013-03-09@19:06:36.623 Start flag sent.
+2013-03-09@19:06:36.623 Packet sent.
+2013-03-09@19:06:36.634 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.634 Sending start flag.
+2013-03-09@19:06:36.634 Start flag sent.
+2013-03-09@19:06:36.634 Packet sent.
+2013-03-09@19:06:36.645 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.645 Sending start flag.
+2013-03-09@19:06:36.645 Start flag sent.
+2013-03-09@19:06:36.645 Packet sent.
+2013-03-09@19:06:36.656 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.656 Sending start flag.
+2013-03-09@19:06:36.656 Start flag sent.
+2013-03-09@19:06:36.656 Packet sent.
+2013-03-09@19:06:36.667 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.667 Sending start flag.
+2013-03-09@19:06:36.667 Start flag sent.
+2013-03-09@19:06:36.667 Packet sent.
+2013-03-09@19:06:36.678 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.678 Sending start flag.
+2013-03-09@19:06:36.678 Start flag sent.
+2013-03-09@19:06:36.678 Packet sent.
+2013-03-09@19:06:36.689 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.689 Sending start flag.
+2013-03-09@19:06:36.689 Start flag sent.
+2013-03-09@19:06:36.689 Packet sent.
+2013-03-09@19:06:36.700 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.700 Sending start flag.
+2013-03-09@19:06:36.701 Start flag sent.
+2013-03-09@19:06:36.701 Packet sent.
+2013-03-09@19:06:36.712 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.712 Sending start flag.
+2013-03-09@19:06:36.712 Start flag sent.
+2013-03-09@19:06:36.712 Packet sent.
+2013-03-09@19:06:36.723 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.723 Sending start flag.
+2013-03-09@19:06:36.723 Start flag sent.
+2013-03-09@19:06:36.723 Packet sent.
+2013-03-09@19:06:36.734 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.734 Sending start flag.
+2013-03-09@19:06:36.734 Start flag sent.
+2013-03-09@19:06:36.734 Packet sent.
+2013-03-09@19:06:36.745 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.745 Sending start flag.
+2013-03-09@19:06:36.745 Start flag sent.
+2013-03-09@19:06:36.745 Packet sent.
+2013-03-09@19:06:36.756 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.756 Sending start flag.
+2013-03-09@19:06:36.756 Start flag sent.
+2013-03-09@19:06:36.756 Packet sent.
+2013-03-09@19:06:36.767 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.767 Sending start flag.
+2013-03-09@19:06:36.767 Start flag sent.
+2013-03-09@19:06:36.767 Packet sent.
+2013-03-09@19:06:36.778 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.778 Sending start flag.
+2013-03-09@19:06:36.778 Start flag sent.
+2013-03-09@19:06:36.778 Packet sent.
+2013-03-09@19:06:36.789 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.789 Sending start flag.
+2013-03-09@19:06:36.789 Start flag sent.
+2013-03-09@19:06:36.789 Packet sent.
+2013-03-09@19:06:36.800 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.800 Sending start flag.
+2013-03-09@19:06:36.800 Start flag sent.
+2013-03-09@19:06:36.800 Packet sent.
+2013-03-09@19:06:36.811 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.812 Sending start flag.
+2013-03-09@19:06:36.812 Start flag sent.
+2013-03-09@19:06:36.812 Packet sent.
+2013-03-09@19:06:36.823 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.823 Sending start flag.
+2013-03-09@19:06:36.823 Start flag sent.
+2013-03-09@19:06:36.823 Packet sent.
+2013-03-09@19:06:36.834 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.834 Sending start flag.
+2013-03-09@19:06:36.834 Start flag sent.
+2013-03-09@19:06:36.834 Packet sent.
+2013-03-09@19:06:36.845 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.845 Sending start flag.
+2013-03-09@19:06:36.845 Start flag sent.
+2013-03-09@19:06:36.845 Packet sent.
+2013-03-09@19:06:36.856 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.856 Sending start flag.
+2013-03-09@19:06:36.856 Start flag sent.
+2013-03-09@19:06:36.856 Packet sent.
+2013-03-09@19:06:36.867 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.867 Sending start flag.
+2013-03-09@19:06:36.867 Start flag sent.
+2013-03-09@19:06:36.867 Packet sent.
+2013-03-09@19:06:36.878 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.878 Sending start flag.
+2013-03-09@19:06:36.878 Start flag sent.
+2013-03-09@19:06:36.878 Packet sent.
+2013-03-09@19:06:36.889 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.889 Sending start flag.
+2013-03-09@19:06:36.889 Start flag sent.
+2013-03-09@19:06:36.889 Packet sent.
+2013-03-09@19:06:36.900 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.900 Sending start flag.
+2013-03-09@19:06:36.900 Start flag sent.
+2013-03-09@19:06:36.900 Packet sent.
+2013-03-09@19:06:36.911 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.911 Sending start flag.
+2013-03-09@19:06:36.911 Start flag sent.
+2013-03-09@19:06:36.912 Packet sent.
+2013-03-09@19:06:36.922 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.923 Sending start flag.
+2013-03-09@19:06:36.923 Start flag sent.
+2013-03-09@19:06:36.923 Packet sent.
+2013-03-09@19:06:36.934 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.934 Sending start flag.
+2013-03-09@19:06:36.934 Start flag sent.
+2013-03-09@19:06:36.934 Packet sent.
+2013-03-09@19:06:36.945 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.945 Sending start flag.
+2013-03-09@19:06:36.945 Start flag sent.
+2013-03-09@19:06:36.945 Packet sent.
+2013-03-09@19:06:36.956 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.956 Sending start flag.
+2013-03-09@19:06:36.956 Start flag sent.
+2013-03-09@19:06:36.956 Packet sent.
+2013-03-09@19:06:36.967 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.967 Sending start flag.
+2013-03-09@19:06:36.967 Start flag sent.
+2013-03-09@19:06:36.967 Packet sent.
+2013-03-09@19:06:36.978 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.978 Sending start flag.
+2013-03-09@19:06:36.978 Start flag sent.
+2013-03-09@19:06:36.978 Packet sent.
+2013-03-09@19:06:36.989 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:36.989 Sending start flag.
+2013-03-09@19:06:36.989 Start flag sent.
+2013-03-09@19:06:36.989 Packet sent.
+2013-03-09@19:06:37.000 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.000 Sending start flag.
+2013-03-09@19:06:37.000 Start flag sent.
+2013-03-09@19:06:37.001 Packet sent.
+2013-03-09@19:06:37.011 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.012 Sending start flag.
+2013-03-09@19:06:37.012 Start flag sent.
+2013-03-09@19:06:37.012 Packet sent.
+2013-03-09@19:06:37.023 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.023 Sending start flag.
+2013-03-09@19:06:37.023 Start flag sent.
+2013-03-09@19:06:37.023 Packet sent.
+2013-03-09@19:06:37.034 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.034 Sending start flag.
+2013-03-09@19:06:37.034 Start flag sent.
+2013-03-09@19:06:37.034 Packet sent.
+2013-03-09@19:06:37.045 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.045 Sending start flag.
+2013-03-09@19:06:37.045 Start flag sent.
+2013-03-09@19:06:37.045 Packet sent.
+2013-03-09@19:06:37.056 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.056 Sending start flag.
+2013-03-09@19:06:37.056 Start flag sent.
+2013-03-09@19:06:37.056 Packet sent.
+2013-03-09@19:06:37.067 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.067 Sending start flag.
+2013-03-09@19:06:37.067 Start flag sent.
+2013-03-09@19:06:37.067 Packet sent.
+2013-03-09@19:06:37.078 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.078 Sending start flag.
+2013-03-09@19:06:37.078 Start flag sent.
+2013-03-09@19:06:37.078 Packet sent.
+2013-03-09@19:06:37.089 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.089 Sending start flag.
+2013-03-09@19:06:37.089 Start flag sent.
+2013-03-09@19:06:37.089 Packet sent.
+2013-03-09@19:06:37.100 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.100 Sending start flag.
+2013-03-09@19:06:37.100 Start flag sent.
+2013-03-09@19:06:37.100 Packet sent.
+2013-03-09@19:06:37.111 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.111 Sending start flag.
+2013-03-09@19:06:37.111 Start flag sent.
+2013-03-09@19:06:37.112 Packet sent.
+2013-03-09@19:06:37.122 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.122 Sending start flag.
+2013-03-09@19:06:37.123 Start flag sent.
+2013-03-09@19:06:37.123 Packet sent.
+2013-03-09@19:06:37.134 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.134 Sending start flag.
+2013-03-09@19:06:37.134 Start flag sent.
+2013-03-09@19:06:37.134 Packet sent.
+2013-03-09@19:06:37.145 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.145 Sending start flag.
+2013-03-09@19:06:37.145 Start flag sent.
+2013-03-09@19:06:37.145 Packet sent.
+2013-03-09@19:06:37.156 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.156 Sending start flag.
+2013-03-09@19:06:37.156 Start flag sent.
+2013-03-09@19:06:37.156 Packet sent.
+2013-03-09@19:06:37.167 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.167 Sending start flag.
+2013-03-09@19:06:37.167 Start flag sent.
+2013-03-09@19:06:37.167 Packet sent.
+2013-03-09@19:06:37.178 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.178 Sending start flag.
+2013-03-09@19:06:37.178 Start flag sent.
+2013-03-09@19:06:37.178 Packet sent.
+2013-03-09@19:06:37.189 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.189 Sending start flag.
+2013-03-09@19:06:37.189 Start flag sent.
+2013-03-09@19:06:37.189 Packet sent.
+2013-03-09@19:06:37.200 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.200 Sending start flag.
+2013-03-09@19:06:37.200 Start flag sent.
+2013-03-09@19:06:37.200 Packet sent.
+2013-03-09@19:06:37.211 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.211 Sending start flag.
+2013-03-09@19:06:37.211 Start flag sent.
+2013-03-09@19:06:37.211 Packet sent.
+2013-03-09@19:06:37.222 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.222 Sending start flag.
+2013-03-09@19:06:37.223 Start flag sent.
+2013-03-09@19:06:37.223 Packet sent.
+2013-03-09@19:06:37.233 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.234 Sending start flag.
+2013-03-09@19:06:37.234 Start flag sent.
+2013-03-09@19:06:37.234 Packet sent.
+2013-03-09@19:06:37.245 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.245 Sending start flag.
+2013-03-09@19:06:37.245 Start flag sent.
+2013-03-09@19:06:37.245 Packet sent.
+2013-03-09@19:06:37.256 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.256 Sending start flag.
+2013-03-09@19:06:37.256 Start flag sent.
+2013-03-09@19:06:37.256 Packet sent.
+2013-03-09@19:06:37.267 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.267 Sending start flag.
+2013-03-09@19:06:37.267 Start flag sent.
+2013-03-09@19:06:37.267 Packet sent.
+2013-03-09@19:06:37.278 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.278 Sending start flag.
+2013-03-09@19:06:37.278 Start flag sent.
+2013-03-09@19:06:37.278 Packet sent.
+2013-03-09@19:06:37.289 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.289 Sending start flag.
+2013-03-09@19:06:37.289 Start flag sent.
+2013-03-09@19:06:37.289 Packet sent.
+2013-03-09@19:06:37.300 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.300 Sending start flag.
+2013-03-09@19:06:37.300 Start flag sent.
+2013-03-09@19:06:37.300 Packet sent.
+2013-03-09@19:06:37.311 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.311 Sending start flag.
+2013-03-09@19:06:37.311 Start flag sent.
+2013-03-09@19:06:37.311 Packet sent.
+2013-03-09@19:06:37.322 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.322 Sending start flag.
+2013-03-09@19:06:37.323 Start flag sent.
+2013-03-09@19:06:37.323 Packet sent.
+2013-03-09@19:06:37.333 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.334 Sending start flag.
+2013-03-09@19:06:37.334 Start flag sent.
+2013-03-09@19:06:37.334 Packet sent.
+2013-03-09@19:06:37.345 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.345 Sending start flag.
+2013-03-09@19:06:37.345 Start flag sent.
+2013-03-09@19:06:37.345 Packet sent.
+2013-03-09@19:06:37.356 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.356 Sending start flag.
+2013-03-09@19:06:37.356 Start flag sent.
+2013-03-09@19:06:37.356 Packet sent.
+2013-03-09@19:06:37.367 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.367 Sending start flag.
+2013-03-09@19:06:37.367 Start flag sent.
+2013-03-09@19:06:37.367 Packet sent.
+2013-03-09@19:06:37.378 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.378 Sending start flag.
+2013-03-09@19:06:37.378 Start flag sent.
+2013-03-09@19:06:37.378 Packet sent.
+2013-03-09@19:06:37.389 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.389 Sending start flag.
+2013-03-09@19:06:37.389 Start flag sent.
+2013-03-09@19:06:37.389 Packet sent.
+2013-03-09@19:06:37.400 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.400 Sending start flag.
+2013-03-09@19:06:37.400 Start flag sent.
+2013-03-09@19:06:37.400 Packet sent.
+2013-03-09@19:06:37.411 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.411 Sending start flag.
+2013-03-09@19:06:37.411 Start flag sent.
+2013-03-09@19:06:37.411 Packet sent.
+2013-03-09@19:06:37.422 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.422 Sending start flag.
+2013-03-09@19:06:37.422 Start flag sent.
+2013-03-09@19:06:37.422 Packet sent.
+2013-03-09@19:06:37.433 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.433 Sending start flag.
+2013-03-09@19:06:37.433 Start flag sent.
+2013-03-09@19:06:37.433 Packet sent.
+2013-03-09@19:06:37.444 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.444 Sending start flag.
+2013-03-09@19:06:37.444 Start flag sent.
+2013-03-09@19:06:37.445 Packet sent.
+2013-03-09@19:06:37.455 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.456 Sending start flag.
+2013-03-09@19:06:37.456 Start flag sent.
+2013-03-09@19:06:37.456 Packet sent.
+2013-03-09@19:06:37.467 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.467 Sending start flag.
+2013-03-09@19:06:37.467 Start flag sent.
+2013-03-09@19:06:37.467 Packet sent.
+2013-03-09@19:06:37.478 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.478 Sending start flag.
+2013-03-09@19:06:37.478 Start flag sent.
+2013-03-09@19:06:37.478 Packet sent.
+2013-03-09@19:06:37.489 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.489 Sending start flag.
+2013-03-09@19:06:37.489 Start flag sent.
+2013-03-09@19:06:37.489 Packet sent.
+2013-03-09@19:06:37.500 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.500 Sending start flag.
+2013-03-09@19:06:37.500 Start flag sent.
+2013-03-09@19:06:37.500 Packet sent.
+2013-03-09@19:06:37.511 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.511 Sending start flag.
+2013-03-09@19:06:37.511 Start flag sent.
+2013-03-09@19:06:37.511 Packet sent.
+2013-03-09@19:06:37.522 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.522 Sending start flag.
+2013-03-09@19:06:37.522 Start flag sent.
+2013-03-09@19:06:37.522 Packet sent.
+2013-03-09@19:06:37.533 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.533 Sending start flag.
+2013-03-09@19:06:37.533 Start flag sent.
+2013-03-09@19:06:37.533 Packet sent.
+2013-03-09@19:06:37.544 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.544 Sending start flag.
+2013-03-09@19:06:37.544 Start flag sent.
+2013-03-09@19:06:37.544 Packet sent.
+2013-03-09@19:06:37.555 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.555 Sending start flag.
+2013-03-09@19:06:37.555 Start flag sent.
+2013-03-09@19:06:37.556 Packet sent.
+2013-03-09@19:06:37.567 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.567 Sending start flag.
+2013-03-09@19:06:37.567 Start flag sent.
+2013-03-09@19:06:37.567 Packet sent.
+2013-03-09@19:06:37.578 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.578 Sending start flag.
+2013-03-09@19:06:37.578 Start flag sent.
+2013-03-09@19:06:37.578 Packet sent.
+2013-03-09@19:06:37.589 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.589 Sending start flag.
+2013-03-09@19:06:37.589 Start flag sent.
+2013-03-09@19:06:37.589 Packet sent.
+2013-03-09@19:06:37.600 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.600 Sending start flag.
+2013-03-09@19:06:37.600 Start flag sent.
+2013-03-09@19:06:37.600 Packet sent.
+2013-03-09@19:06:37.611 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.611 Sending start flag.
+2013-03-09@19:06:37.611 Start flag sent.
+2013-03-09@19:06:37.611 Packet sent.
+2013-03-09@19:06:37.622 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.622 Sending start flag.
+2013-03-09@19:06:37.622 Start flag sent.
+2013-03-09@19:06:37.622 Packet sent.
+2013-03-09@19:06:37.633 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.633 Sending start flag.
+2013-03-09@19:06:37.633 Start flag sent.
+2013-03-09@19:06:37.633 Packet sent.
+2013-03-09@19:06:37.644 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.644 Sending start flag.
+2013-03-09@19:06:37.644 Start flag sent.
+2013-03-09@19:06:37.644 Packet sent.
+2013-03-09@19:06:37.655 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.655 Sending start flag.
+2013-03-09@19:06:37.655 Start flag sent.
+2013-03-09@19:06:37.655 Packet sent.
+2013-03-09@19:06:37.666 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.666 Sending start flag.
+2013-03-09@19:06:37.666 Start flag sent.
+2013-03-09@19:06:37.667 Packet sent.
+2013-03-09@19:06:37.677 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.677 Sending start flag.
+2013-03-09@19:06:37.678 Start flag sent.
+2013-03-09@19:06:37.678 Packet sent.
+2013-03-09@19:06:37.689 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.689 Sending start flag.
+2013-03-09@19:06:37.689 Start flag sent.
+2013-03-09@19:06:37.689 Packet sent.
+2013-03-09@19:06:37.700 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.700 Sending start flag.
+2013-03-09@19:06:37.700 Start flag sent.
+2013-03-09@19:06:37.700 Packet sent.
+2013-03-09@19:06:37.711 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.711 Sending start flag.
+2013-03-09@19:06:37.711 Start flag sent.
+2013-03-09@19:06:37.711 Packet sent.
+2013-03-09@19:06:37.722 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.722 Sending start flag.
+2013-03-09@19:06:37.722 Start flag sent.
+2013-03-09@19:06:37.722 Packet sent.
+2013-03-09@19:06:37.733 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.733 Sending start flag.
+2013-03-09@19:06:37.733 Start flag sent.
+2013-03-09@19:06:37.733 Packet sent.
+2013-03-09@19:06:37.744 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.744 Sending start flag.
+2013-03-09@19:06:37.744 Start flag sent.
+2013-03-09@19:06:37.744 Packet sent.
+2013-03-09@19:06:37.755 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.755 Sending start flag.
+2013-03-09@19:06:37.755 Start flag sent.
+2013-03-09@19:06:37.755 Packet sent.
+2013-03-09@19:06:37.766 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.766 Sending start flag.
+2013-03-09@19:06:37.766 Start flag sent.
+2013-03-09@19:06:37.767 Packet sent.
+2013-03-09@19:06:37.777 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.778 Sending start flag.
+2013-03-09@19:06:37.778 Start flag sent.
+2013-03-09@19:06:37.778 Packet sent.
+2013-03-09@19:06:37.789 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.789 Sending start flag.
+2013-03-09@19:06:37.789 Start flag sent.
+2013-03-09@19:06:37.789 Packet sent.
+2013-03-09@19:06:37.800 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.800 Sending start flag.
+2013-03-09@19:06:37.800 Start flag sent.
+2013-03-09@19:06:37.800 Packet sent.
+2013-03-09@19:06:37.811 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.811 Sending start flag.
+2013-03-09@19:06:37.811 Start flag sent.
+2013-03-09@19:06:37.811 Packet sent.
+2013-03-09@19:06:37.822 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.822 Sending start flag.
+2013-03-09@19:06:37.822 Start flag sent.
+2013-03-09@19:06:37.822 Packet sent.
+2013-03-09@19:06:37.833 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.833 Sending start flag.
+2013-03-09@19:06:37.833 Start flag sent.
+2013-03-09@19:06:37.833 Packet sent.
+2013-03-09@19:06:37.844 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.844 Sending start flag.
+2013-03-09@19:06:37.844 Start flag sent.
+2013-03-09@19:06:37.844 Packet sent.
+2013-03-09@19:06:37.855 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.855 Sending start flag.
+2013-03-09@19:06:37.855 Start flag sent.
+2013-03-09@19:06:37.855 Packet sent.
+2013-03-09@19:06:37.866 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.866 Sending start flag.
+2013-03-09@19:06:37.866 Start flag sent.
+2013-03-09@19:06:37.866 Packet sent.
+2013-03-09@19:06:37.877 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.877 Sending start flag.
+2013-03-09@19:06:37.878 Start flag sent.
+2013-03-09@19:06:37.878 Packet sent.
+2013-03-09@19:06:37.889 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.889 Sending start flag.
+2013-03-09@19:06:37.889 Start flag sent.
+2013-03-09@19:06:37.889 Packet sent.
+2013-03-09@19:06:37.900 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.900 Sending start flag.
+2013-03-09@19:06:37.900 Start flag sent.
+2013-03-09@19:06:37.900 Packet sent.
+2013-03-09@19:06:37.911 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.911 Sending start flag.
+2013-03-09@19:06:37.911 Start flag sent.
+2013-03-09@19:06:37.911 Packet sent.
+2013-03-09@19:06:37.922 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.922 Sending start flag.
+2013-03-09@19:06:37.922 Start flag sent.
+2013-03-09@19:06:37.922 Packet sent.
+2013-03-09@19:06:37.933 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.933 Sending start flag.
+2013-03-09@19:06:37.933 Start flag sent.
+2013-03-09@19:06:37.933 Packet sent.
+2013-03-09@19:06:37.944 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.944 Sending start flag.
+2013-03-09@19:06:37.944 Start flag sent.
+2013-03-09@19:06:37.944 Packet sent.
+2013-03-09@19:06:37.955 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.955 Sending start flag.
+2013-03-09@19:06:37.955 Start flag sent.
+2013-03-09@19:06:37.955 Packet sent.
+2013-03-09@19:06:37.966 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.966 Sending start flag.
+2013-03-09@19:06:37.966 Start flag sent.
+2013-03-09@19:06:37.967 Packet sent.
+2013-03-09@19:06:37.977 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.978 Sending start flag.
+2013-03-09@19:06:37.978 Start flag sent.
+2013-03-09@19:06:37.978 Packet sent.
+2013-03-09@19:06:37.989 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:37.989 Sending start flag.
+2013-03-09@19:06:37.989 Start flag sent.
+2013-03-09@19:06:37.989 Packet sent.
+2013-03-09@19:06:38.000 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.000 Sending start flag.
+2013-03-09@19:06:38.000 Start flag sent.
+2013-03-09@19:06:38.000 Packet sent.
+2013-03-09@19:06:38.011 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.011 Sending start flag.
+2013-03-09@19:06:38.011 Start flag sent.
+2013-03-09@19:06:38.011 Packet sent.
+2013-03-09@19:06:38.022 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.022 Sending start flag.
+2013-03-09@19:06:38.022 Start flag sent.
+2013-03-09@19:06:38.022 Packet sent.
+2013-03-09@19:06:38.033 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.033 Sending start flag.
+2013-03-09@19:06:38.033 Start flag sent.
+2013-03-09@19:06:38.033 Packet sent.
+2013-03-09@19:06:38.044 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.044 Sending start flag.
+2013-03-09@19:06:38.044 Start flag sent.
+2013-03-09@19:06:38.044 Packet sent.
+2013-03-09@19:06:38.055 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.055 Sending start flag.
+2013-03-09@19:06:38.055 Start flag sent.
+2013-03-09@19:06:38.055 Packet sent.
+2013-03-09@19:06:38.066 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.066 Sending start flag.
+2013-03-09@19:06:38.066 Start flag sent.
+2013-03-09@19:06:38.066 Packet sent.
+2013-03-09@19:06:38.077 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.077 Sending start flag.
+2013-03-09@19:06:38.078 Start flag sent.
+2013-03-09@19:06:38.078 Packet sent.
+2013-03-09@19:06:38.088 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.089 Sending start flag.
+2013-03-09@19:06:38.089 Start flag sent.
+2013-03-09@19:06:38.089 Packet sent.
+2013-03-09@19:06:38.100 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.100 Sending start flag.
+2013-03-09@19:06:38.100 Start flag sent.
+2013-03-09@19:06:38.100 Packet sent.
+2013-03-09@19:06:38.111 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.111 Sending start flag.
+2013-03-09@19:06:38.111 Start flag sent.
+2013-03-09@19:06:38.111 Packet sent.
+2013-03-09@19:06:38.122 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.122 Sending start flag.
+2013-03-09@19:06:38.122 Start flag sent.
+2013-03-09@19:06:38.122 Packet sent.
+2013-03-09@19:06:38.133 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.133 Sending start flag.
+2013-03-09@19:06:38.133 Start flag sent.
+2013-03-09@19:06:38.133 Packet sent.
+2013-03-09@19:06:38.144 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.144 Sending start flag.
+2013-03-09@19:06:38.144 Start flag sent.
+2013-03-09@19:06:38.144 Packet sent.
+2013-03-09@19:06:38.155 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.155 Sending start flag.
+2013-03-09@19:06:38.155 Start flag sent.
+2013-03-09@19:06:38.155 Packet sent.
+2013-03-09@19:06:38.166 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.166 Sending start flag.
+2013-03-09@19:06:38.166 Start flag sent.
+2013-03-09@19:06:38.166 Packet sent.
+2013-03-09@19:06:38.177 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.177 Sending start flag.
+2013-03-09@19:06:38.178 Start flag sent.
+2013-03-09@19:06:38.178 Packet sent.
+2013-03-09@19:06:38.189 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.189 Sending start flag.
+2013-03-09@19:06:38.189 Start flag sent.
+2013-03-09@19:06:38.189 Packet sent.
+2013-03-09@19:06:38.200 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.200 Sending start flag.
+2013-03-09@19:06:38.200 Start flag sent.
+2013-03-09@19:06:38.200 Packet sent.
+2013-03-09@19:06:38.211 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.211 Sending start flag.
+2013-03-09@19:06:38.211 Start flag sent.
+2013-03-09@19:06:38.211 Packet sent.
+2013-03-09@19:06:38.222 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.222 Sending start flag.
+2013-03-09@19:06:38.222 Start flag sent.
+2013-03-09@19:06:38.222 Packet sent.
+2013-03-09@19:06:38.233 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.233 Sending start flag.
+2013-03-09@19:06:38.233 Start flag sent.
+2013-03-09@19:06:38.233 Packet sent.
+2013-03-09@19:06:38.244 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.244 Sending start flag.
+2013-03-09@19:06:38.244 Start flag sent.
+2013-03-09@19:06:38.244 Packet sent.
+2013-03-09@19:06:38.255 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.255 Sending start flag.
+2013-03-09@19:06:38.255 Start flag sent.
+2013-03-09@19:06:38.255 Packet sent.
+2013-03-09@19:06:38.266 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.266 Sending start flag.
+2013-03-09@19:06:38.266 Start flag sent.
+2013-03-09@19:06:38.266 Packet sent.
+2013-03-09@19:06:38.277 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.277 Sending start flag.
+2013-03-09@19:06:38.277 Start flag sent.
+2013-03-09@19:06:38.278 Packet sent.
+2013-03-09@19:06:38.288 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.288 Sending start flag.
+2013-03-09@19:06:38.289 Start flag sent.
+2013-03-09@19:06:38.289 Packet sent.
+2013-03-09@19:06:38.300 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.300 Sending start flag.
+2013-03-09@19:06:38.300 Start flag sent.
+2013-03-09@19:06:38.300 Packet sent.
+2013-03-09@19:06:38.311 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.311 Sending start flag.
+2013-03-09@19:06:38.311 Start flag sent.
+2013-03-09@19:06:38.311 Packet sent.
+2013-03-09@19:06:38.322 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.322 Sending start flag.
+2013-03-09@19:06:38.322 Start flag sent.
+2013-03-09@19:06:38.322 Packet sent.
+2013-03-09@19:06:38.333 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.333 Sending start flag.
+2013-03-09@19:06:38.333 Start flag sent.
+2013-03-09@19:06:38.333 Packet sent.
+2013-03-09@19:06:38.344 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.344 Sending start flag.
+2013-03-09@19:06:38.344 Start flag sent.
+2013-03-09@19:06:38.344 Packet sent.
+2013-03-09@19:06:38.355 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.355 Sending start flag.
+2013-03-09@19:06:38.355 Start flag sent.
+2013-03-09@19:06:38.355 Packet sent.
+2013-03-09@19:06:38.366 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.366 Sending start flag.
+2013-03-09@19:06:38.366 Start flag sent.
+2013-03-09@19:06:38.366 Packet sent.
+2013-03-09@19:06:38.377 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.377 Sending start flag.
+2013-03-09@19:06:38.377 Start flag sent.
+2013-03-09@19:06:38.377 Packet sent.
+2013-03-09@19:06:38.388 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.388 Sending start flag.
+2013-03-09@19:06:38.388 Start flag sent.
+2013-03-09@19:06:38.388 Packet sent.
+2013-03-09@19:06:38.399 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.399 Sending start flag.
+2013-03-09@19:06:38.399 Start flag sent.
+2013-03-09@19:06:38.400 Packet sent.
+2013-03-09@19:06:38.411 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.411 Sending start flag.
+2013-03-09@19:06:38.411 Start flag sent.
+2013-03-09@19:06:38.411 Packet sent.
+2013-03-09@19:06:38.422 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.422 Sending start flag.
+2013-03-09@19:06:38.422 Start flag sent.
+2013-03-09@19:06:38.422 Packet sent.
+2013-03-09@19:06:38.433 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.433 Sending start flag.
+2013-03-09@19:06:38.433 Start flag sent.
+2013-03-09@19:06:38.433 Packet sent.
+2013-03-09@19:06:38.444 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.444 Sending start flag.
+2013-03-09@19:06:38.444 Start flag sent.
+2013-03-09@19:06:38.444 Packet sent.
+2013-03-09@19:06:38.455 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.455 Sending start flag.
+2013-03-09@19:06:38.455 Start flag sent.
+2013-03-09@19:06:38.455 Packet sent.
+2013-03-09@19:06:38.466 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.466 Sending start flag.
+2013-03-09@19:06:38.466 Start flag sent.
+2013-03-09@19:06:38.466 Packet sent.
+2013-03-09@19:06:38.477 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.477 Sending start flag.
+2013-03-09@19:06:38.477 Start flag sent.
+2013-03-09@19:06:38.477 Packet sent.
+2013-03-09@19:06:38.488 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.488 Sending start flag.
+2013-03-09@19:06:38.488 Start flag sent.
+2013-03-09@19:06:38.488 Packet sent.
+2013-03-09@19:06:38.499 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.499 Sending start flag.
+2013-03-09@19:06:38.499 Start flag sent.
+2013-03-09@19:06:38.499 Packet sent.
+2013-03-09@19:06:38.510 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.510 Sending start flag.
+2013-03-09@19:06:38.511 Start flag sent.
+2013-03-09@19:06:38.511 Packet sent.
+2013-03-09@19:06:38.521 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.522 Sending start flag.
+2013-03-09@19:06:38.522 Start flag sent.
+2013-03-09@19:06:38.522 Packet sent.
+2013-03-09@19:06:38.533 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.533 Sending start flag.
+2013-03-09@19:06:38.533 Start flag sent.
+2013-03-09@19:06:38.533 Packet sent.
+2013-03-09@19:06:38.544 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.544 Sending start flag.
+2013-03-09@19:06:38.544 Start flag sent.
+2013-03-09@19:06:38.544 Packet sent.
+2013-03-09@19:06:38.555 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.555 Sending start flag.
+2013-03-09@19:06:38.555 Start flag sent.
+2013-03-09@19:06:38.555 Packet sent.
+2013-03-09@19:06:38.566 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.566 Sending start flag.
+2013-03-09@19:06:38.566 Start flag sent.
+2013-03-09@19:06:38.566 Packet sent.
+2013-03-09@19:06:38.577 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.577 Sending start flag.
+2013-03-09@19:06:38.577 Start flag sent.
+2013-03-09@19:06:38.577 Packet sent.
+2013-03-09@19:06:38.588 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.588 Sending start flag.
+2013-03-09@19:06:38.588 Start flag sent.
+2013-03-09@19:06:38.588 Packet sent.
+2013-03-09@19:06:38.599 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.599 Sending start flag.
+2013-03-09@19:06:38.599 Start flag sent.
+2013-03-09@19:06:38.600 Packet sent.
+2013-03-09@19:06:38.610 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.611 Sending start flag.
+2013-03-09@19:06:38.611 Start flag sent.
+2013-03-09@19:06:38.611 Packet sent.
+2013-03-09@19:06:38.622 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.622 Sending start flag.
+2013-03-09@19:06:38.622 Start flag sent.
+2013-03-09@19:06:38.622 Packet sent.
+2013-03-09@19:06:38.633 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.633 Sending start flag.
+2013-03-09@19:06:38.633 Start flag sent.
+2013-03-09@19:06:38.633 Packet sent.
+2013-03-09@19:06:38.644 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.644 Sending start flag.
+2013-03-09@19:06:38.644 Start flag sent.
+2013-03-09@19:06:38.644 Packet sent.
+2013-03-09@19:06:38.655 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.655 Sending start flag.
+2013-03-09@19:06:38.655 Start flag sent.
+2013-03-09@19:06:38.655 Packet sent.
+2013-03-09@19:06:38.666 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.666 Sending start flag.
+2013-03-09@19:06:38.666 Start flag sent.
+2013-03-09@19:06:38.666 Packet sent.
+2013-03-09@19:06:38.677 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.677 Sending start flag.
+2013-03-09@19:06:38.677 Start flag sent.
+2013-03-09@19:06:38.677 Packet sent.
+2013-03-09@19:06:38.688 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.688 Sending start flag.
+2013-03-09@19:06:38.688 Start flag sent.
+2013-03-09@19:06:38.689 Packet sent.
+2013-03-09@19:06:38.699 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.700 Sending start flag.
+2013-03-09@19:06:38.700 Start flag sent.
+2013-03-09@19:06:38.700 Packet sent.
+2013-03-09@19:06:38.711 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.711 Sending start flag.
+2013-03-09@19:06:38.711 Start flag sent.
+2013-03-09@19:06:38.711 Packet sent.
+2013-03-09@19:06:38.722 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.722 Sending start flag.
+2013-03-09@19:06:38.722 Start flag sent.
+2013-03-09@19:06:38.722 Packet sent.
+2013-03-09@19:06:38.733 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.733 Sending start flag.
+2013-03-09@19:06:38.733 Start flag sent.
+2013-03-09@19:06:38.733 Packet sent.
+2013-03-09@19:06:38.744 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.744 Sending start flag.
+2013-03-09@19:06:38.744 Start flag sent.
+2013-03-09@19:06:38.744 Packet sent.
+2013-03-09@19:06:38.755 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.755 Sending start flag.
+2013-03-09@19:06:38.755 Start flag sent.
+2013-03-09@19:06:38.755 Packet sent.
+2013-03-09@19:06:38.766 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.766 Sending start flag.
+2013-03-09@19:06:38.766 Start flag sent.
+2013-03-09@19:06:38.766 Packet sent.
+2013-03-09@19:06:38.777 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.777 Sending start flag.
+2013-03-09@19:06:38.777 Start flag sent.
+2013-03-09@19:06:38.777 Packet sent.
+2013-03-09@19:06:38.788 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.788 Sending start flag.
+2013-03-09@19:06:38.788 Start flag sent.
+2013-03-09@19:06:38.788 Packet sent.
+2013-03-09@19:06:38.799 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.799 Sending start flag.
+2013-03-09@19:06:38.799 Start flag sent.
+2013-03-09@19:06:38.800 Packet sent.
+2013-03-09@19:06:38.811 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.811 Sending start flag.
+2013-03-09@19:06:38.811 Start flag sent.
+2013-03-09@19:06:38.811 Packet sent.
+2013-03-09@19:06:38.822 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.822 Sending start flag.
+2013-03-09@19:06:38.822 Start flag sent.
+2013-03-09@19:06:38.822 Packet sent.
+2013-03-09@19:06:38.833 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.833 Sending start flag.
+2013-03-09@19:06:38.833 Start flag sent.
+2013-03-09@19:06:38.833 Packet sent.
+2013-03-09@19:06:38.844 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.844 Sending start flag.
+2013-03-09@19:06:38.844 Start flag sent.
+2013-03-09@19:06:38.844 Packet sent.
+2013-03-09@19:06:38.855 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.855 Sending start flag.
+2013-03-09@19:06:38.855 Start flag sent.
+2013-03-09@19:06:38.855 Packet sent.
+2013-03-09@19:06:38.866 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.866 Sending start flag.
+2013-03-09@19:06:38.866 Start flag sent.
+2013-03-09@19:06:38.866 Packet sent.
+2013-03-09@19:06:38.877 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.877 Sending start flag.
+2013-03-09@19:06:38.877 Start flag sent.
+2013-03-09@19:06:38.877 Packet sent.
+2013-03-09@19:06:38.888 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.888 Sending start flag.
+2013-03-09@19:06:38.888 Start flag sent.
+2013-03-09@19:06:38.888 Packet sent.
+2013-03-09@19:06:38.899 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.899 Sending start flag.
+2013-03-09@19:06:38.899 Start flag sent.
+2013-03-09@19:06:38.899 Packet sent.
+2013-03-09@19:06:38.910 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.910 Sending start flag.
+2013-03-09@19:06:38.910 Start flag sent.
+2013-03-09@19:06:38.911 Packet sent.
+2013-03-09@19:06:38.921 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.922 Sending start flag.
+2013-03-09@19:06:38.922 Start flag sent.
+2013-03-09@19:06:38.922 Packet sent.
+2013-03-09@19:06:38.933 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.933 Sending start flag.
+2013-03-09@19:06:38.933 Start flag sent.
+2013-03-09@19:06:38.933 Packet sent.
+2013-03-09@19:06:38.944 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.944 Sending start flag.
+2013-03-09@19:06:38.944 Start flag sent.
+2013-03-09@19:06:38.944 Packet sent.
+2013-03-09@19:06:38.955 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.955 Sending start flag.
+2013-03-09@19:06:38.955 Start flag sent.
+2013-03-09@19:06:38.955 Packet sent.
+2013-03-09@19:06:38.966 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.966 Sending start flag.
+2013-03-09@19:06:38.966 Start flag sent.
+2013-03-09@19:06:38.966 Packet sent.
+2013-03-09@19:06:38.977 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.977 Sending start flag.
+2013-03-09@19:06:38.977 Start flag sent.
+2013-03-09@19:06:38.977 Packet sent.
+2013-03-09@19:06:38.988 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.988 Sending start flag.
+2013-03-09@19:06:38.988 Start flag sent.
+2013-03-09@19:06:38.988 Packet sent.
+2013-03-09@19:06:38.999 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:38.999 Sending start flag.
+2013-03-09@19:06:38.999 Start flag sent.
+2013-03-09@19:06:39.000 Packet sent.
+2013-03-09@19:06:39.010 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:39.011 Sending start flag.
+2013-03-09@19:06:39.011 Start flag sent.
+2013-03-09@19:06:39.011 Packet sent.
+2013-03-09@19:06:39.022 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:39.022 Sending start flag.
+2013-03-09@19:06:39.022 Start flag sent.
+2013-03-09@19:06:39.022 Packet sent.
+2013-03-09@19:06:39.033 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:39.033 Sending start flag.
+2013-03-09@19:06:39.033 Start flag sent.
+2013-03-09@19:06:39.033 Packet sent.
+2013-03-09@19:06:39.044 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:39.044 Sending start flag.
+2013-03-09@19:06:39.044 Start flag sent.
+2013-03-09@19:06:39.044 Packet sent.
+2013-03-09@19:06:39.055 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:39.055 Sending start flag.
+2013-03-09@19:06:39.055 Start flag sent.
+2013-03-09@19:06:39.055 Packet sent.
+2013-03-09@19:06:39.066 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:39.066 Sending start flag.
+2013-03-09@19:06:39.066 Start flag sent.
+2013-03-09@19:06:39.066 Packet sent.
+2013-03-09@19:06:39.077 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:39.077 Sending start flag.
+2013-03-09@19:06:39.077 Start flag sent.
+2013-03-09@19:06:39.077 Packet sent.
+2013-03-09@19:06:39.088 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:39.088 Sending start flag.
+2013-03-09@19:06:39.088 Start flag sent.
+2013-03-09@19:06:39.088 Packet sent.
+2013-03-09@19:06:39.099 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:39.099 Sending start flag.
+2013-03-09@19:06:39.099 Start flag sent.
+2013-03-09@19:06:39.100 Packet sent.
+2013-03-09@19:06:39.110 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:39.111 Sending start flag.
+2013-03-09@19:06:39.111 Start flag sent.
+2013-03-09@19:06:39.111 Packet sent.
+2013-03-09@19:06:39.122 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:39.122 Sending start flag.
+2013-03-09@19:06:39.122 Start flag sent.
+2013-03-09@19:06:39.122 Packet sent.
+2013-03-09@19:06:39.133 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:39.133 Sending start flag.
+2013-03-09@19:06:39.133 Start flag sent.
+2013-03-09@19:06:39.133 Packet sent.
+2013-03-09@19:06:39.144 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:39.144 Sending start flag.
+2013-03-09@19:06:39.144 Start flag sent.
+2013-03-09@19:06:39.144 Packet sent.
+2013-03-09@19:06:39.155 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:39.155 Sending start flag.
+2013-03-09@19:06:39.155 Start flag sent.
+2013-03-09@19:06:39.155 Packet sent.
+2013-03-09@19:06:39.166 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:39.166 Sending start flag.
+2013-03-09@19:06:39.166 Start flag sent.
+2013-03-09@19:06:39.166 Packet sent.
+2013-03-09@19:06:39.177 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:39.177 Sending start flag.
+2013-03-09@19:06:39.177 Start flag sent.
+2013-03-09@19:06:39.177 Packet sent.
+2013-03-09@19:06:39.188 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:39.188 Sending start flag.
+2013-03-09@19:06:39.188 Start flag sent.
+2013-03-09@19:06:39.188 Packet sent.
+2013-03-09@19:06:39.199 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:39.199 Sending start flag.
+2013-03-09@19:06:39.200 Start flag sent.
+2013-03-09@19:06:39.200 Packet sent.
+2013-03-09@19:06:39.211 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:39.211 Sending start flag.
+2013-03-09@19:06:39.211 Start flag sent.
+2013-03-09@19:06:39.211 Packet sent.
+2013-03-09@19:06:39.222 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:39.222 Sending start flag.
+2013-03-09@19:06:39.222 Start flag sent.
+2013-03-09@19:06:39.222 Packet sent.
+2013-03-09@19:06:39.233 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:39.233 Sending start flag.
+2013-03-09@19:06:39.233 Start flag sent.
+2013-03-09@19:06:39.233 Packet sent.
+2013-03-09@19:06:39.244 Initialization frame not recieved, asking for one again.
+2013-03-09@19:06:39.244 Sending start flag.
+2013-03-09@19:06:39.244 Start flag sent.
+2013-03-09@19:06:39.244 Packet sent.

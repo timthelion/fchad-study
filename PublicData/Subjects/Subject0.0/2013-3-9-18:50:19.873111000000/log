@@ -1,0 +1,108 @@
+2013-03-09@18:50:27.359 BRLTTY 4.4 rev Unversioned directory [http://mielke.cc/brltty/]
+2013-03-09@18:50:27.359 Working Directory: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4
+2013-03-09@18:50:27.359 Writable Directory: /var/run/brltty
+2013-03-09@18:50:27.359 Configuration File: /etc/brltty.conf
+2013-03-09@18:50:27.359 Preferences File: brltty.prefs
+2013-03-09@18:50:27.359 regions: text=0.0 status=0.0
+2013-03-09@18:50:27.359 shifts: full=1 half=0 vertical=5
+2013-03-09@18:50:27.359 Drivers Directory: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../lib
+2013-03-09@18:50:27.359 Tables Directory: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables
+2013-03-09@18:50:27.359 checking for text table: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/cs_CZ.ttb
+2013-03-09@18:50:27.359 checking for text table: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/cs.ttb
+2013-03-09@18:50:27.359 compiling text table: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/cs.ttb
+2013-03-09@18:50:27.360 file opened: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/cs.ttb fd=4
+2013-03-09@18:50:27.360 including data file: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/cs.ttb
+2013-03-09@18:50:27.364 file opened: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/numbers-dot8.tti fd=5
+2013-03-09@18:50:27.364 including data file: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/numbers-dot8.tti
+2013-03-09@18:50:27.364 file opened: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/common.tti fd=5
+2013-03-09@18:50:27.364 including data file: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/common.tti
+2013-03-09@18:50:27.364 file opened: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/spaces.tti fd=6
+2013-03-09@18:50:27.364 including data file: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/spaces.tti
+2013-03-09@18:50:27.364 file opened: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/boxes.tti fd=6
+2013-03-09@18:50:27.364 including data file: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/boxes.tti
+2013-03-09@18:50:27.365 file opened: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/blocks.tti fd=6
+2013-03-09@18:50:27.365 including data file: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/blocks.tti
+2013-03-09@18:50:27.365 Text Table: cs
+2013-03-09@18:50:27.365 Attributes Table: attributes
+2013-03-09@18:50:27.365 Contraction Table: none
+2013-03-09@18:50:27.365 Key Table: none
+2013-03-09@18:50:27.365 Keyboard Property: type=
+2013-03-09@18:50:27.365 Keyboard Property: vendor=
+2013-03-09@18:50:27.365 Keyboard Property: product=
+2013-03-09@18:50:27.365 checking for screen driver: no
+2013-03-09@18:50:27.365 initializing screen driver: no
+2013-03-09@18:50:27.365 Screen Driver: no [NoScreen]
+2013-03-09@18:50:27.365 NoScreen Screen Driver:
+2013-03-09@18:50:27.365 BrlAPI Server: release 0.5.7
+2013-03-09@18:50:27.365 API Parameter: auth=
+2013-03-09@18:50:27.366 API Parameter: host=
+2013-03-09@18:50:27.366 API Parameter: stacksize=
+2013-03-09@18:50:27.366 checking braille device: /dev/ttyUSB0
+2013-03-09@18:50:27.366 checking for braille driver: ob
+2013-03-09@18:50:27.366 initializing braille driver: ob -> /dev/ttyUSB0
+2013-03-09@18:50:27.366 Initializing serial.
+2013-03-09@18:50:27.366 device directory: /dev
+2013-03-09@18:50:27.366 socket 1 established (fd 7)
+2013-03-09@18:50:27.367 linking local socket lock: Soubor již existuje
+2013-03-09@18:50:27.367 socket 0 established (fd 5)
+2013-03-09@18:50:27.373 serial device opened: /dev/ttyUSB0: fd=4
+2013-03-09@18:50:27.773 Serial initialized.
+2013-03-09@18:50:27.773 Initializing capability nodes.
+2013-03-09@18:50:27.773 ERROR: End of packet reached unexpectedly.  Malformed packet.
+2013-03-09@18:50:27.773 Sending initialization packet.
+2013-03-09@18:50:27.773 Sending start flag.
+2013-03-09@18:50:27.774 Start flag sent.
+2013-03-09@18:50:27.774 Packet sent.
+2013-03-09@18:50:27.774 Initialization packet sent.
+2013-03-09@18:50:27.791 Initialization frame not recieved, asking for one again.
+2013-03-09@18:50:27.791 Sending start flag.
+2013-03-09@18:50:27.791 Start flag sent.
+2013-03-09@18:50:27.791 Packet sent.
+2013-03-09@18:50:27.856 Reading packet...
+2013-03-09@18:50:27.858 length: 74
+2013-03-09@18:50:27.859 type: 0
+2013-03-09@18:50:27.860 subType: 1
+2013-03-09@18:50:27.860 Reading INFO section...
+2013-03-09@18:50:27.939 Packet read...
+2013-03-09@18:50:27.939 Calling frame handler. type:0,subType:1 First byte of information is 0
+2013-03-09@18:50:27.939 calling handler 0
+2013-03-09@18:50:27.939 Initializing capability nodes.
+2013-03-09@18:50:27.939 2 standard nodes to load.
+2013-03-09@18:50:27.939 Loading node of capability 3
+2013-03-09@18:50:27.939 Node # 0
+2013-03-09@18:50:27.939 Node info length: 13
+2013-03-09@18:50:27.939 Loading node of capability 4
+2013-03-09@18:50:27.939 Node # 0
+2013-03-09@18:50:27.939 Node info length: 16
+2013-03-09@18:50:27.939 Size of new node 1x12
+2013-03-09@18:50:27.939 Device initialized.
+2013-03-09@18:50:27.939 Braille Display Dimensions: 1 row, 12 columns
+2013-03-09@18:50:27.939 regions: text=0.12 status=0.0
+2013-03-09@18:50:27.939 shifts: full=12 half=6 vertical=5
+2013-03-09@18:50:27.940 Key Bindings: all
+2013-03-09@18:50:27.940 cannot open file: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/brl-ob-all.txt: Adresář nebo soubor neexistuje
+2013-03-09@18:50:27.940 cannot open help file: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/brl-ob-all.txt
+2013-03-09@18:50:27.940 api link
+2013-03-09@18:50:27.940 Braille Driver: ob [UOBP]
+2013-03-09@18:50:27.940 UOBP Braille Driver: version 0.0
+2013-03-09@18:50:27.940 Braille Device: /dev/ttyUSB0
+2013-03-09@18:50:27.940 Old Preferences File: /etc/brltty-ob.prefs
+2013-03-09@18:50:27.940 cannot open file: /etc/brltty-ob.prefs: Adresář nebo soubor neexistuje
+2013-03-09@18:50:27.940 regions: text=0.12 status=0.0
+2013-03-09@18:50:27.940 shifts: full=12 half=6 vertical=5
+2013-03-09@18:50:27.942 exit status: 0
+2013-03-09@18:50:27.942 console opened: fd=6
+2013-03-09@18:50:27.942 beeper enabled
+2013-03-09@18:50:27.942 tone: msec=60 note=64
+2013-03-09@18:50:28.003 tone: msec=100 note=69
+2013-03-09@18:50:28.103 api unlink
+2013-03-09@18:50:28.103 Resizing window from 0x0 to 1x12
+2013-03-09@18:50:28.144 Reading packet...
+2013-03-09@18:50:28.144 length: 74
+2013-03-09@18:50:28.144 type: 0
+2013-03-09@18:50:28.144 subType: 1
+2013-03-09@18:50:28.144 Reading INFO section...
+2013-03-09@18:50:28.144 Packet read...
+2013-03-09@18:50:28.144 Calling frame handler. type:0,subType:1 First byte of information is 0
+2013-03-09@18:50:28.144 calling handler 0
+2013-03-09@18:50:28.144 Initializing capability nodes.

@@ -1,0 +1,60 @@
+2013-03-09@19:05:43.591 BRLTTY 4.4 rev Unversioned directory [http://mielke.cc/brltty/]
+2013-03-09@19:05:43.592 Working Directory: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4
+2013-03-09@19:05:43.592 Writable Directory: /var/run/brltty
+2013-03-09@19:05:43.592 Configuration File: /etc/brltty.conf
+2013-03-09@19:05:43.592 Preferences File: brltty.prefs
+2013-03-09@19:05:43.592 regions: text=0.0 status=0.0
+2013-03-09@19:05:43.592 shifts: full=1 half=0 vertical=5
+2013-03-09@19:05:43.592 Drivers Directory: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../lib
+2013-03-09@19:05:43.592 Tables Directory: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables
+2013-03-09@19:05:43.592 checking for text table: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/cs_CZ.ttb
+2013-03-09@19:05:43.592 checking for text table: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/cs.ttb
+2013-03-09@19:05:43.592 compiling text table: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/cs.ttb
+2013-03-09@19:05:43.592 file opened: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/cs.ttb fd=4
+2013-03-09@19:05:43.592 including data file: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/cs.ttb
+2013-03-09@19:05:43.596 file opened: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/numbers-dot8.tti fd=5
+2013-03-09@19:05:43.596 including data file: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/numbers-dot8.tti
+2013-03-09@19:05:43.597 file opened: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/common.tti fd=5
+2013-03-09@19:05:43.597 including data file: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/common.tti
+2013-03-09@19:05:43.597 file opened: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/spaces.tti fd=6
+2013-03-09@19:05:43.597 including data file: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/spaces.tti
+2013-03-09@19:05:43.597 file opened: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/boxes.tti fd=6
+2013-03-09@19:05:43.597 including data file: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/boxes.tti
+2013-03-09@19:05:43.597 file opened: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/blocks.tti fd=6
+2013-03-09@19:05:43.597 including data file: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/blocks.tti
+2013-03-09@19:05:43.598 Text Table: cs
+2013-03-09@19:05:43.598 Attributes Table: attributes
+2013-03-09@19:05:43.598 Contraction Table: none
+2013-03-09@19:05:43.598 Key Table: none
+2013-03-09@19:05:43.598 Keyboard Property: type=
+2013-03-09@19:05:43.598 Keyboard Property: vendor=
+2013-03-09@19:05:43.598 Keyboard Property: product=
+2013-03-09@19:05:43.598 checking for screen driver: no
+2013-03-09@19:05:43.598 initializing screen driver: no
+2013-03-09@19:05:43.598 Screen Driver: no [NoScreen]
+2013-03-09@19:05:43.598 NoScreen Screen Driver:
+2013-03-09@19:05:43.598 BrlAPI Server: release 0.5.7
+2013-03-09@19:05:43.598 API Parameter: auth=
+2013-03-09@19:05:43.598 API Parameter: host=
+2013-03-09@19:05:43.598 API Parameter: stacksize=
+2013-03-09@19:05:43.598 checking braille device: /dev/ttyUSB0
+2013-03-09@19:05:43.598 checking for braille driver: ob
+2013-03-09@19:05:43.599 initializing braille driver: ob -> /dev/ttyUSB0
+2013-03-09@19:05:43.599 Initializing serial.
+2013-03-09@19:05:43.599 device directory: /dev
+2013-03-09@19:05:43.599 socket 1 established (fd 7)
+2013-03-09@19:05:43.600 linking local socket lock: Soubor již existuje
+2013-03-09@19:05:43.600 socket 0 established (fd 5)
+2013-03-09@19:05:43.605 serial device opened: /dev/ttyUSB0: fd=4
+2013-03-09@19:05:44.005 Serial initialized.
+2013-03-09@19:05:44.006 Initializing capability nodes.
+2013-03-09@19:05:44.006 ERROR: End of packet reached unexpectedly.  Malformed packet.
+2013-03-09@19:05:44.006 Sending initialization packet.
+2013-03-09@19:05:44.006 Sending start flag.
+2013-03-09@19:05:44.006 Start flag sent.
+2013-03-09@19:05:44.006 Packet sent.
+2013-03-09@19:05:44.006 Initialization packet sent.
+2013-03-09@19:05:44.022 Initialization frame not recieved, asking for one again.
+2013-03-09@19:05:44.022 Sending start flag.
+2013-03-09@19:05:44.022 Start flag sent.
+2013-03-09@19:05:44.022 Packet sent.
