@@ -13,3 +13,9 @@ B) Sensors used in the main experiment.
 C) Sensors used in the exploratory sessions.
 
 ![Old Sensors](../tex/křivky/img/Device1-C.jpg)
+
+Picture 2
+==============
+A raised dot displayed on the fchad cell.
+
+![Raised dot](../tex/křivky/img/Device2.jpg)
