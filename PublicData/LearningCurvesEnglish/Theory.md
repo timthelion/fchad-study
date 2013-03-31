@@ -24,4 +24,12 @@ Feijen, Lieke. Hodjes, Nicola J. Beek, Peter J. "Acquiring a Novel Coordination 
 
 While blind individuals cannot engage in "watch and copy" learning they can experience a movement without peforming that movement actively.  That is, we can place their hands where their hands can go on the device.  
 
+Optocon modes:
+"A second conclusion is that the performance for very brief, static patterns could be improved considerably by increasing the amplitude of vibration generation the pattern. It is conceivable that if the amplitude of the Optacon display could be increased to even greater levels, the percentage correct for letters presented for 4 msec would be as great as that for letters presented for 200msec." <- Is this meaningfull?  I think not, because back masking will probably still have more affect on a 4ms impulse than a 200ms stimulation  Page 10.
+4msec is not a vibration but a single impulse.
+
+It would be good to look into adding a backward mask dellay pg 12. in the future.
+
+Page 15, no reason to exceed 50msec for static paterns.
+
 

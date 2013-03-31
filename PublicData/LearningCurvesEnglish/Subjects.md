@@ -37,6 +37,9 @@ The most common mistake was to disregard dots 5 or 6 of the braille cell(in the 
 
   If I had some electrolite gell with me at the time, I could have solved this problem, however I had to make due with what I had.  I asked Subject 3 to hold the positive electrode in his hand so that it could have better contact with his skin.  He did this and afterwards he was able to use the device without any more failiures.  At this time, he was able to read relatively well, but not fluently.
 
+Subject 3 had recomended that I make the sensors closser together, which I did during my preparations for the formal part of the study.  I showed him the redesigned device several weeks after our first meating. On seccond sitting he demonstraited the lack of ability to tell which letter was displayed despite knowing which dots were up.  Especially with regards to the letter 'z' which he somehow mentally flipped to form an 'n'.  I had been interested in this phanomenon, since subject 5 had suffered from this as well.  Feeling the dots correctly, but still being unable to correctly guess the letter.
+
+
 Post pre study sessions notes
 ============
 After the exploratory pre study sessions several things are clear:
@@ -44,5 +47,17 @@ After the exploratory pre study sessions several things are clear:
  - The layout of the sensor electrodes must be improved so that they are more regularly placed.
  - I need to choose some concrete phenomenon to study so that data gathering can be complete.
  - I need to better define my interaction with the subjects so that my interaction will not be an overwelming factor in the results.
+
+Subject 4
+==================
+Good work, good curve, kept on moving hand too far to the left on new lines even after several tries.
+
+Subject 5
+======================
+Dyslexia - Failiure to be able to tell which letter it was, despite correctly identifying which dots were raised.  Had no comments on device.  Did not adapt much at all.  Perhaps the cell display was too small for her hand, but she did not attempt in any way to flatten her hand to feal the whole character, wanted to grasp the character with her fingers, even though this clearly lead to lower performance.  Whe it was pointed out to her, that she had guessed the character incorrectly due to not having noticed the raising of the 4th dot, she moved her fingers over to it each time, instead of changing the placement of her whole hand.  This kind of hap hazard hand possition addaption will never lead to good performance.  At the end of our session I asked her to try placing her hand flat.  It was big enough to cover the cell, but just barely.
+
+Subject 6
+=====================
+Kept on moving his head, did not focus.  Confused r^ with w, because he assumed that since I was american, we would be using the american alphabet.  Would often remove his hand from the cell.  At the beginning he was very active, asking me many questions and probing around with his hands.  However, once we began to work with the device he often only moved his head, did not continue without prompting.  Eventually learned to move to the next letter himself, but it took him longer than the others.  He did not understand that he should feal for the touch sensors and use them as guides as to how far he should move his hand, thus he often skipped letters.  Letter skipping was almost a non issue in the other two subjects I worked with that day.  It is important to note one unfortunate fact.  By the time the third subject was being examined, the reasercher was fealing somewhat tired and hungry.  This may have had a negative affect on the speed at which he was able to provide  verbal prompting and confirmations to the subject.  It will never be known what great scientific discoveries may have been lost due to this muddying of his mind.
 
 
