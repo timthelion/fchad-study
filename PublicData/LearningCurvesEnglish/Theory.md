@@ -45,3 +45,40 @@ Optocon modes:
 It would be good to look into adding a backward mask dellay pg 12. in the future.
 
 Page 15, no reason to exceed 50msec for static paterns.
+
+
+Similar displays:
+
+- Optofon
+
+- Optacon
+
+- [1D display](http://vlevesque.com/papers/Levesque-WHC07/)
+  [more 1d braille](http://www.cim.mcgill.ca/~haptic/pub/JP-VL-VH-ML-EH-04.pdf)
+
+- [Wheel display](http://www.itl.nist.gov/iad/894.05/docs/roberts_rotating_wheel_braille_display.pdf)
+
+
+- [Is this of any use?](https://docs.google.com/viewer?a=v&q=cache:nk9ykdoR1QIJ:www.rnib.org.uk/aboutus/research/reports/2011/2011_06_use_of_braille_displays.doc+&hl=en&pid=bl&srcid=ADGEESi7nFyJW8g5Zr5KTRUyTsj866G4y0eVxlndBc61rq2K6bfvyFii0lYKLboAixQm7lctYCGMowTn1lSwumwlHns4A-DlYBSLSi2uHb2Xey89jbjZl0tO7GeCN9snGZNILLGKZH8a&sig=AHIEtbRXe8E6AaNIlfmOHVhQHsP7oIqRrQ)
+
+- [Add some bs about how complex the peizo is](http://cdn.intechopen.com/pdfs/9307/InTech-Analysis_and_design_of_piezoelectric_braille_display.pdf)
+
+- The "haptic" devices.  Very similar to mine...
+ - [The praying mantis](http://bauhaus.ece.curtin.edu.au/~iain/PhD%20BU/A_Phd%20docs/To%20read/A_printed%20and%20refed/p37-ramstein.pdf)
+
+  Why do I use such a large cell?  "As a result, in the single cell case, the finger will not feel the transition from one character to the next, but only the configurational changes in the cell’s pins according to the following character.  Since the finger is not moving on the braille characters, speed performance will of course be slower th;m on a 20-, 40- or 8O-cell braille displays (46.1 wpm for fast readers and 12.0 wpm for slow readers)." Page 2 of 8.
+
+  - [Nice overview of different devices](http://www.esat.kuleuven.be/electa/publications/fulltexts/pub_1558.pdf)
+
+  - [Some haptic patent](http://www.google.com/patents/US6354839)
+
+  - [Another review of devices](https://nfb.org/images/nfb/publications/bm/bm00/bm0001/bm000110.htm)
+
+  - [Yet another overview](ftp://ftp.informatik.uni-stuttgart.de/pub/old/misc/contrib.rtf.gz)
+
+  - [HCI Beyond the GUI](http://dsyc.uaemex.mx/Repository/HCI/HCI.Beyond.the.GUI.May.2008.pdf)
+
+  - [Yet another study with a single cell display](http://www.nbp.org/downloads/cbi/DynamicBraille.pdf)
+
+  - [Blind person's impression of single cell TSI display](https://nfb.org/images/nfb/publications/bm/bm92/brlm9207.htm)o
+  Interestingly, when I showed a much earlier version of the device to a blind person they commented that it would be easier to controll with buttons than with the sensor interface.
