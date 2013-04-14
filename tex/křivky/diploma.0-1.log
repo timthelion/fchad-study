@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Arch Linux) (format=pdflatex 2012.11.28)  28 NOV 2012 00:54
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Arch Linux) (format=pdflatex 2013.3.24)  14 APR 2013 21:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -18,19 +18,19 @@ kurmanji, latin, latvian, lithuanian, mongolian, mongolianlmc, bokmal, nynorsk,
 lovak, slovenian, spanish, swedish, turkish, turkmen, ukrainian, uppersorbian, 
 welsh, loaded.
 (/usr/share/texmf-dist/tex/latex/koma-script/scrreprt.cls
-Document Class: scrreprt 2012/05/15 v3.11 KOMA-Script document class (report)
+Document Class: scrreprt 2012/07/29 v3.11b KOMA-Script document class (report)
 (/usr/share/texmf-dist/tex/latex/koma-script/scrkbase.sty
-Package: scrkbase 2012/05/15 v3.11 KOMA-Script package (KOMA-Script-dependent b
-asics and keyval usage)
-(/usr/share/texmf-dist/tex/latex/koma-script/scrbase.sty
-Package: scrbase 2012/05/15 v3.11 KOMA-Script package (KOMA-Script-independent 
+Package: scrkbase 2012/07/29 v3.11b KOMA-Script package (KOMA-Script-dependent 
 basics and keyval usage)
+(/usr/share/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2012/07/29 v3.11b KOMA-Script package (KOMA-Script-independent
+ basics and keyval usage)
 (/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks14
 ) (/usr/share/texmf-dist/tex/latex/koma-script/scrlfile.sty
-Package: scrlfile 2011/03/09 v3.09 KOMA-Script package (loading files)
-Package scrlfile, 2011/03/09 v3.09 KOMA-Script package (loading files)
+Package: scrlfile 2012/06/15 v3.12 KOMA-Script package (loading files)
+Package scrlfile, 2012/06/15 v3.12 KOMA-Script package (loading files)
                   Copyright (C) Markus Kohm
 
 ))) (/usr/share/texmf-dist/tex/latex/koma-script/tocbasic.sty
@@ -45,21 +45,19 @@ Package tocbasic Info: omitting babel extension for `lof'
 Package tocbasic Info: omitting babel extension for `lot'
 (tocbasic)             because of feature `nobabel' available
 (tocbasic)             for `lot' on input line 119.
-Class scrreprt Info: You've used standard option `openright'.
-(scrreprt)           This is correct!
-(scrreprt)           Internally I'm using `open=right'.
-(scrreprt)           If you'd like to set the option with \KOMAoptions,
-(scrreprt)           you'd have to use `open=right' there
-(scrreprt)           instead of `openright', too.
-Class scrreprt Info: File `scrsize11pt.clo' used instead of
-(scrreprt)           file `scrsize11.clo' to setup font sizes on input line 136
-5.
-(/usr/share/texmf-dist/tex/latex/koma-script/scrsize11pt.clo
-File: scrsize11pt.clo 2012/05/15 v3.11 KOMA-Script font size class option (11pt
-)
+Package scrreprt Info: You've used obsolete option `12pt'.
+(scrreprt)             \KOMAExecuteOptions{fontsize=12pt} will be
+(scrreprt)             used instead.
+(scrreprt)             You may simply replace `12pt'
+(scrreprt)             by `fontsize=12pt'.
+Class scrreprt Info: File `scrsize12pt.clo' used to setup font sizes on input l
+ine 1367.
+(/usr/share/texmf-dist/tex/latex/koma-script/scrsize12pt.clo
+File: scrsize12pt.clo 2012/07/29 v3.11b KOMA-Script font size class option (12p
+t)
 ) (/usr/share/texmf-dist/tex/latex/koma-script/typearea.sty
-Package: typearea 2012/05/15 v3.11 KOMA-Script package (type area)
-Package typearea, 2012/05/15 v3.11 KOMA-Script package (type area)
+Package: typearea 2012/07/29 v3.11b KOMA-Script package (type area)
+Package typearea, 2012/07/29 v3.11b KOMA-Script package (type area)
                   Copyright (C) Frank Neukam, 1992-1994
                   Copyright (C) Markus Kohm, 1994-
 
@@ -75,22 +73,22 @@ Package typearea Info: You've used standard option `a4paper'.
 \ta@vblk=\skip43
 \ta@temp=\skip44
 Package typearea Info: These are the values describing the layout:
-(typearea)             DIV  = 11
-(typearea)             BCOR = 28.45274pt
+(typearea)             DIV  = 12
+(typearea)             BCOR = 0.0pt
 (typearea)             \paperwidth      = 597.50793pt
-(typearea)              \textwidth      = 413.85834pt
-(typearea)              DIV departure   = -5%
-(typearea)              \evensidemargin = 31.19458pt
-(typearea)              \oddsidemargin  = 7.91504pt
+(typearea)              \textwidth      = 448.13095pt
+(typearea)              DIV departure   = -6%
+(typearea)              \evensidemargin = 27.31467pt
+(typearea)              \oddsidemargin  = -22.47766pt
 (typearea)             \paperheight     = 845.04694pt
-(typearea)              \textheight     = 623.00027pt
-(typearea)              \topmargin      = -32.84755pt
-(typearea)              \headheight     = 17.0pt
-(typearea)              \headsep        = 20.40001pt
-(typearea)              \topskip        = 11.0pt
-(typearea)              \footskip       = 47.60002pt
-(typearea)              \baselineskip   = 13.6pt
-(typearea)              on input line 1211.
+(typearea)              \textheight     = 635.5pt
+(typearea)              \topmargin      = -41.72441pt
+(typearea)              \headheight     = 18.125pt
+(typearea)              \headsep        = 21.75pt
+(typearea)              \topskip        = 12.0pt
+(typearea)              \footskip       = 50.75pt
+(typearea)              \baselineskip   = 14.5pt
+(typearea)              on input line 1213.
 )
 \c@part=\count80
 \c@chapter=\count81
@@ -322,143 +320,176 @@ Now handling font encoding U ...
    defining Unicode char U+2026 (decimal 8230)
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
-)) (/usr/share/texmf-dist/tex/generic/babel/babel.sty
+)) (/usr/share/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
+(/usr/share/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+Now handling font encoding TS1 ...
+... processing UTF-8 mapping file for font encoding TS1
+(/usr/share/texmf-dist/tex/latex/base/ts1enc.dfu
+File: ts1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A2 (decimal 162)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A5 (decimal 165)
+   defining Unicode char U+00A6 (decimal 166)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AC (decimal 172)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B0 (decimal 176)
+   defining Unicode char U+00B1 (decimal 177)
+   defining Unicode char U+00B2 (decimal 178)
+   defining Unicode char U+00B3 (decimal 179)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B5 (decimal 181)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00B9 (decimal 185)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+00BC (decimal 188)
+   defining Unicode char U+00BD (decimal 189)
+   defining Unicode char U+00BE (decimal 190)
+   defining Unicode char U+00D7 (decimal 215)
+   defining Unicode char U+00F7 (decimal 247)
+   defining Unicode char U+0192 (decimal 402)
+   defining Unicode char U+02C7 (decimal 711)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+02DD (decimal 733)
+   defining Unicode char U+0E3F (decimal 3647)
+   defining Unicode char U+2016 (decimal 8214)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+203B (decimal 8251)
+   defining Unicode char U+203D (decimal 8253)
+   defining Unicode char U+2044 (decimal 8260)
+   defining Unicode char U+204E (decimal 8270)
+   defining Unicode char U+2052 (decimal 8274)
+   defining Unicode char U+20A1 (decimal 8353)
+   defining Unicode char U+20A4 (decimal 8356)
+   defining Unicode char U+20A6 (decimal 8358)
+   defining Unicode char U+20A9 (decimal 8361)
+   defining Unicode char U+20AB (decimal 8363)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+20B1 (decimal 8369)
+   defining Unicode char U+2103 (decimal 8451)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2117 (decimal 8471)
+   defining Unicode char U+211E (decimal 8478)
+   defining Unicode char U+2120 (decimal 8480)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+2127 (decimal 8487)
+   defining Unicode char U+212E (decimal 8494)
+   defining Unicode char U+2190 (decimal 8592)
+   defining Unicode char U+2191 (decimal 8593)
+   defining Unicode char U+2192 (decimal 8594)
+   defining Unicode char U+2193 (decimal 8595)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2422 (decimal 9250)
+   defining Unicode char U+25E6 (decimal 9702)
+   defining Unicode char U+25EF (decimal 9711)
+   defining Unicode char U+266A (decimal 9834)
+))
+LaTeX Info: Redefining \oldstylenums on input line 266.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 281.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 282.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 283.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 284.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 285.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 286.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 287.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 288.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 289.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 290.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 291.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 292.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 293.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 294.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 295.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 296.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 297.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 298.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 299.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 300.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 301.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 302.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 303.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 304.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 305.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 306.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 307.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 308.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 309.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 310.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 311.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 312.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 313.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 314.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 315.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 316.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 317.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 318.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 319.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 320.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 321.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 322.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 323.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 324.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 325.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 326.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 327.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 328.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 329.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 330.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 331.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 332.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 333.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 334.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 335.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 336.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 337.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 338.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 339.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
+) (./braille.sty
+Package: braille 
+\brailleunit=\skip47
+) (/usr/share/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2008/07/08 v3.8m The Babel package
-(/usr/share/texmf-dist/tex/generic/babel/english.ldf
-Language: english 2005/03/30 v3.3o English support from the babel system
+(/usr/share/texmf-dist/tex/generic/babel/czech.ldf
+Language: czech 2008/07/06 v3.1a Czech support from the babel system
 (/usr/share/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2008/07/08 v3.8m Babel common definitions
 \babel@savecnt=\count89
 \U@D=\dimen103
 )
-\l@canadian = a dialect from \language\l@american 
-\l@australian = a dialect from \language\l@british 
-\l@newzealand = a dialect from \language\l@british 
-) (/usr/share/texmf-dist/tex/generic/babel/czech.ldf
-Language: czech 2008/07/06 v3.1a Czech support from the babel system
 Package babel Info: Making " an active character on input line 172.
 \cs@wordlen=\count90
 Package babel Info: Making - an active character on input line 226.
-)) (/usr/share/texmf-dist/tex/latex/tools/array.sty
-Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
-\col@sep=\dimen104
-\extrarowheight=\dimen105
-\NC@list=\toks17
-\extratabsurround=\skip47
-\backup@length=\skip48
-) (/usr/share/texmf-dist/tex/latex/tools/longtable.sty
-Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
-\LTleft=\skip49
-\LTright=\skip50
-\LTpre=\skip51
-\LTpost=\skip52
-\LTchunksize=\count91
-\LTcapwidth=\dimen106
-\LT@head=\box27
-\LT@firsthead=\box28
-\LT@foot=\box29
-\LT@lastfoot=\box30
-\LT@cols=\count92
-\LT@rows=\count93
-\c@LT@tables=\count94
-\c@LT@chunks=\count95
-\LT@p@ftn=\toks18
-)
-Class scrreprt Info: longtable captions redefined on input line 51.
-(/usr/share/texmf-dist/tex/latex/tools/varioref.sty
-Package: varioref 2011/10/02 v1.4z package for extended references (FMi)
-\c@vrcnt=\count96
-) (/usr/share/texmf-dist/tex/latex/wrapfig/wrapfig.sty
-\wrapoverhang=\dimen107
-\WF@size=\dimen108
-\c@WF@wrappedlines=\count97
-\WF@box=\box31
-\WF@everypar=\toks19
-Package: wrapfig 2003/01/31  v 3.6
-) (/usr/share/texmf-dist/tex/latex/fancybox/fancybox.sty
-Package: fancybox 2010/05/15 1.4
-Style option: `fancybox' v1.4 <2010/05/15> (tvz)
-\@fancybox=\box32
-\shadowsize=\dimen109
-\@Sbox=\box33
-\do@VerbBox=\toks20
-\the@fancyput=\toks21
-\this@fancyput=\toks22
-\EndVerbatimTokens=\toks23
-\Verbatim@Outfile=\write3
-\Verbatim@Infile=\read1
-) (/usr/share/texmf-dist/tex/latex/framed/framed.sty
-Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
-\OuterFrameSep=\skip53
-\fb@frw=\dimen110
-\fb@frh=\dimen111
-\FrameRule=\dimen112
-\FrameSep=\dimen113
-) (/usr/share/texmf-dist/tex/latex/url/url.sty
+)) (/usr/share/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip10
 Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
-) (/usr/share/texmf-dist/tex/latex/amsfonts/amssymb.sty
-Package: amssymb 2009/06/22 v3.00
-(/usr/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
-\@emptytoks=\toks24
-\symAMSa=\mathgroup4
-\symAMSb=\mathgroup5
-LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
-(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
-)) (/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2000/07/18 v2.13 AMS math features
-\@mathmargin=\skip54
-For additional information on amsmath, use the `?' option.
-(/usr/share/texmf-dist/tex/latex/amsmath/amstext.sty
-Package: amstext 2000/06/29 v2.01
-(/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty
-File: amsgen.sty 1999/11/30 v2.0
-\@emptytoks=\toks25
-\ex@=\dimen114
-)) (/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty
-Package: amsbsy 1999/11/29 v1.2d
-\pmbraise@=\dimen115
-) (/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty
-Package: amsopn 1999/12/14 v2.01 operator names
-)
-\inf@bad=\count98
-LaTeX Info: Redefining \frac on input line 211.
-\uproot@=\count99
-\leftroot@=\count100
-LaTeX Info: Redefining \overline on input line 307.
-\classnum@=\count101
-\DOTSCASE@=\count102
-LaTeX Info: Redefining \ldots on input line 379.
-LaTeX Info: Redefining \dots on input line 382.
-LaTeX Info: Redefining \cdots on input line 467.
-\Mathstrutbox@=\box34
-\strutbox@=\box35
-\big@size=\dimen116
-LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
-\macc@depth=\count103
-\c@MaxMatrixCols=\count104
-\dotsspace@=\muskip11
-\c@parentequation=\count105
-\dspbrk@lvl=\count106
-\tag@help=\toks26
-\row@=\count107
-\column@=\count108
-\maxfields@=\count109
-\andhelp@=\toks27
-\eqnshift@=\dimen117
-\alignsep@=\dimen118
-\tagshift@=\dimen119
-\tagwidth@=\dimen120
-\totwidth@=\dimen121
-\lineht@=\dimen122
-\@envbody=\toks28
-\multlinegap=\skip55
-\multlinetaggap=\skip56
-\mathdisplay@stack=\toks29
-LaTeX Info: Redefining \[ on input line 2666.
-LaTeX Info: Redefining \] on input line 2667.
 ) (/usr/share/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
@@ -479,185 +510,64 @@ Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 ) (/usr/share/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
-\Gread@gobject=\count110
+\Gread@gobject=\count91
 ))
-\Gin@req@height=\dimen123
-\Gin@req@width=\dimen124
-) (/usr/share/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2012/05/13 v6.82q Hypertext links for LaTeX
-(/usr/share/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
-Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
-
-(/usr/share/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
-Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
-Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
-Package hobsub Info: Skipping package `infwarerr' (already loaded).
-Package hobsub Info: Skipping package `ltxcmds' (already loaded).
-Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
-Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
-Package ifvtex Info: VTeX not detected.
-Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
-Package hobsub Info: Skipping package `ifpdf' (already loaded).
-Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
-Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
-Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+) (/usr/share/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2012/02/19 v3.2f Customizing captions (AR)
+(/usr/share/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2012/01/12 v1.4b caption3 kernel (AR)
+\captionmargin=\dimen106
+\captionmargin@=\dimen107
+\captionwidth=\dimen108
+\caption@indent=\dimen109
+\caption@parindent=\dimen110
+\caption@hangindent=\dimen111
 )
-Package pdftexcmds Info: LuaTeX not detected.
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
-Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
-)
-Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
-Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
-)
-Package hobsub Info: Skipping package `hobsub' (already loaded).
-Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
-Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
-Package: xcolor-patch 2011/01/30 xcolor patch
-Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
-Package atveryend Info: \enddocument detected (standard20110627).
-Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
-Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
-Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
-) (/usr/share/texmf-dist/tex/generic/ifxetex/ifxetex.sty
-Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
-) (/usr/share/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
-)
-\@linkdim=\dimen125
-\Hy@linkcounter=\count111
-\Hy@pagecounter=\count112
-(/usr/share/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2012/05/13 v6.82q Hyperref: PDFDocEncoding definition (HO)
-Now handling font encoding PD1 ...
-... no UTF-8 mapping file for font encoding PD1
-)
-\Hy@SavedSpaceFactor=\count113
-(/usr/share/texmf-dist/tex/latex/latexconfig/hyperref.cfg
-File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
-)
-Package hyperref Info: Hyper figures OFF on input line 4062.
-Package hyperref Info: Link nesting OFF on input line 4067.
-Package hyperref Info: Hyper index ON on input line 4070.
-Package hyperref Info: Plain pages OFF on input line 4077.
-Package hyperref Info: Backreferencing OFF on input line 4082.
-Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4300.
-\c@Hy@tempcnt=\count114
-LaTeX Info: Redefining \url on input line 4653.
-\Fld@menulength=\count115
-\Field@Width=\dimen126
-\Fld@charsize=\dimen127
-Package hyperref Info: Hyper figures OFF on input line 5773.
-Package hyperref Info: Link nesting OFF on input line 5778.
-Package hyperref Info: Hyper index ON on input line 5781.
-Package hyperref Info: backreferencing OFF on input line 5788.
-Package hyperref Info: Link coloring OFF on input line 5793.
-Package hyperref Info: Link coloring with OCG OFF on input line 5798.
-Package hyperref Info: PDF/A mode OFF on input line 5803.
-LaTeX Info: Redefining \ref on input line 5843.
-LaTeX Info: Redefining \pageref on input line 5847.
-\Hy@abspage=\count116
-\c@Item=\count117
-\c@Hfootnote=\count118
-)
-
-Package hyperref Message: Driver (autodetected): hpdftex.
-
-(/usr/share/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2012/05/13 v6.82q Hyperref driver for pdfTeX
-\Fld@listcount=\count119
-\c@bookmark@seq@number=\count120
-(/usr/share/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
-Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-82.
-)
-\Hy@SectionHShift=\skip57
+Package caption Info: KOMA-Script document class.
+\c@ContinuedFloat=\count92
+) (/usr/share/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2012/01/12 v1.1d Sub-captions (AR)
+\c@subfigure=\count93
+\c@subtable=\count94
 ) (/usr/share/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip58
-\bibsep=\skip59
+\bibhang=\skip48
+\bibsep=\skip49
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count121
-) (/usr/share/texmf-dist/tex/latex/hypernat/hypernat.sty
-Package: hypernat 2001/07/09 v1.0b hyperref and natbib compatibility (jb)
-)
-
-Package hyperref Warning: Composite letter `\textasciicaron+r'
-(hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciicaron' on input line 124.
-
-
-Package hyperref Warning: Composite letter `\textasciicaron+c'
-(hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciicaron' on input line 124.
-
-
-Package hyperref Warning: Composite letter `\textasciicaron+c'
-(hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciicaron' on input line 124.
-
-
-Package hyperref Warning: Composite letter `\textasciicaron+c'
-(hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciicaron' on input line 124.
-
-
-Package hyperref Warning: Composite letter `\textasciicaron+e'
-(hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciicaron' on input line 124.
-
-
-Package hyperref Warning: Composite letter `\textasciicaron+r'
-(hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciicaron' on input line 124.
-
-
-Package hyperref Warning: Composite letter `\textasciicaron+r'
-(hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciicaron' on input line 124.
-
-
-Package hyperref Warning: Composite letter `\textasciicaron+c'
-(hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciicaron' on input line 124.
-
-
-Package hyperref Warning: Composite letter `\textasciicaron+c'
-(hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciicaron' on input line 124.
-
-(/usr/share/texmf-dist/tex/latex/tools/multicol.sty
+\c@NAT@ctr=\count95
+) (/usr/share/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
-\c@tracingmulticols=\count122
-\mult@box=\box36
-\multicol@leftmargin=\dimen128
-\c@unbalance=\count123
-\c@collectmore=\count124
-\doublecol@number=\count125
-\multicoltolerance=\count126
-\multicolpretolerance=\count127
-\full@width=\dimen129
-\page@free=\dimen130
-\premulticols=\dimen131
-\postmulticols=\dimen132
-\multicolsep=\skip60
-\multicolbaselineskip=\skip61
-\partial@page=\box37
-\last@line=\box38
-\mult@rightbox=\box39
-\mult@grightbox=\box40
-\mult@gfirstbox=\box41
-\mult@firstbox=\box42
+\c@tracingmulticols=\count96
+\mult@box=\box27
+\multicol@leftmargin=\dimen112
+\c@unbalance=\count97
+\c@collectmore=\count98
+\doublecol@number=\count99
+\multicoltolerance=\count100
+\multicolpretolerance=\count101
+\full@width=\dimen113
+\page@free=\dimen114
+\premulticols=\dimen115
+\postmulticols=\dimen116
+\multicolsep=\skip50
+\multicolbaselineskip=\skip51
+\partial@page=\box28
+\last@line=\box29
+\mult@rightbox=\box30
+\mult@grightbox=\box31
+\mult@gfirstbox=\box32
+\mult@firstbox=\box33
+\@tempa=\box34
+\@tempa=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
 \@tempa=\box43
 \@tempa=\box44
 \@tempa=\box45
@@ -666,59 +576,92 @@ Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
 \@tempa=\box48
 \@tempa=\box49
 \@tempa=\box50
-\@tempa=\box51
-\@tempa=\box52
-\@tempa=\box53
-\@tempa=\box54
-\@tempa=\box55
-\@tempa=\box56
-\@tempa=\box57
-\@tempa=\box58
-\@tempa=\box59
-\c@columnbadness=\count128
-\c@finalcolumnbadness=\count129
-\last@try=\dimen133
-\multicolovershoot=\dimen134
-\multicolundershoot=\dimen135
-\mult@nat@firstbox=\box60
-\colbreak@box=\box61
-\multicol@sort@counter=\count130
-) (./packages/bc-palatino.sty (/usr/share/texmf-dist/tex/latex/psnfss/mathpazo.
-sty
-Package: mathpazo 2005/04/12 PSNFSS-v9.2a Palatino w/ Pazo Math (D.Puga, WaS) 
-\symupright=\mathgroup6
-) (/usr/share/texmf-dist/tex/latex/tex-gyre/tgpagella.sty
-Package: tgpagella 2009/09/27 v1.2 TeX Gyre Pagella as default roman family
-) (/usr/share/texmf-dist/tex/latex/cmap/cmap.sty
+\c@columnbadness=\count102
+\c@finalcolumnbadness=\count103
+\last@try=\dimen117
+\multicolovershoot=\dimen118
+\multicolundershoot=\dimen119
+\mult@nat@firstbox=\box51
+\colbreak@box=\box52
+\multicol@sort@counter=\count104
+) (./packages/bc-times.sty (/usr/share/texmf-dist/tex/latex/psnfss/mathptmx.sty
+Package: mathptmx 2005/04/12 PSNFSS-v9.2a Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup4
+\symitalic=\mathgroup5
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
+) (/usr/share/texmf-dist/tex/latex/tex-gyre/tgtermes.sty
+Package: tgtermes 2009/09/27 v1.2 TeX Gyre Termes as default roman family
+(/usr/share/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+(/usr/share/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+(/usr/share/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))) (/usr/share/texmf-dist/tex/latex/cmap/cmap.sty
 Package: cmap 2008/03/06 v1.0h CMap support: searchable PDF
 
 Package cmap Warning: fontenc already loaded - some fonts may be unprocessed.
 
-)) (./packages/bc-fancyhdr.sty (/usr/share/texmf-dist/tex/latex/fancyhdr/fancyh
-dr.sty
-\fancy@headwidth=\skip62
-\f@ncyO@elh=\skip63
-\f@ncyO@erh=\skip64
-\f@ncyO@olh=\skip65
-\f@ncyO@orh=\skip66
-\f@ncyO@elf=\skip67
-\f@ncyO@erf=\skip68
-\f@ncyO@olf=\skip69
-\f@ncyO@orf=\skip70
-)) (./packages/bc-fancychap.sty (/usr/share/texmf-dist/tex/latex/fncychap/fncyc
-hap.sty
-Package: fncychap 2007/07/30 v1.34 LaTeX package (Revised chapters)
-\RW=\skip71
-\mylen=\skip72
-\myhi=\skip73
-\px=\skip74
-\py=\skip75
-\pyy=\skip76
-\pxx=\skip77
-\c@AlphaCnt=\count131
-\c@AlphaDecCnt=\count132
+)) (./diploma.aux (./ch/01_introduction.aux) (./ch/02_theories_of_learning.aux)
+(./ch/03_experiment.aux) (./ch/04_analysis.aux) (./ch/05_conclusion.aux) (./ch/
+99_appendices.aux
+
+LaTeX Warning: Label `fig:sub2' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:sub1' multiply defined.
+
+
+LaTeX Warning: Label `fig:sub2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:sub2' multiply defined.
+
+
+LaTeX Warning: Label `fig:test' multiply defined.
+
 ))
-No file diploma.aux.
 \openout1 = `diploma.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 151.
@@ -733,29 +676,43 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 151.
 LaTeX Font Info:    ... okay on input line 151.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 151.
 LaTeX Font Info:    ... okay on input line 151.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 151.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 151.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 151.
+
+(/usr/share/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
 LaTeX Font Info:    ... okay on input line 151.
-LaTeX Font Info:    Try loading font information for T1+qpl on input line 151.
-(/usr/share/texmf-dist/tex/latex/tex-gyre/t1qpl.fd
-File: t1qpl.fd 2009/09/25 v1.2 font definition file for T1/qpl
+LaTeX Font Info:    Try loading font information for T1+qtm on input line 151.
+(/usr/share/texmf-dist/tex/latex/tex-gyre/t1qtm.fd
+File: t1qtm.fd 2009/09/25 v1.2 font definition file for T1/qtm
 )<<t1.cmap>> (/usr/share/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count133
-\scratchdimen=\dimen136
-\scratchbox=\box62
-\nofMPsegments=\count134
-\nofMParguments=\count135
-\everyMPshowfont=\toks30
-\MPscratchCnt=\count136
-\MPscratchDim=\dimen137
-\MPnumerator=\count137
-\makeMPintoPDFobject=\count138
-\everyMPtoPDFconversion=\toks31
+\scratchcounter=\count105
+\scratchdimen=\dimen120
+\scratchbox=\box53
+\nofMPsegments=\count106
+\nofMParguments=\count107
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count108
+\MPscratchDim=\dimen121
+\MPnumerator=\count109
+\makeMPintoPDFobject=\count110
+\everyMPtoPDFconversion=\toks18
+) (/usr/share/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
 ) (/usr/share/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 (/usr/share/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
-)
+(/usr/share/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
 Package grfext Info: Graphics extension search list:
 (grfext)             [.pdf,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 452.
@@ -763,560 +720,371 @@ Package grfext Info: Graphics extension search list:
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-\AtBeginShipoutBox=\box63
-Package hyperref Info: Link coloring OFF on input line 151.
-(/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
-Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
-(/usr/share/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
-Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
-)
-\c@section@level=\count139
-LaTeX Info: Redefining \Ref on input line 498.
-)
-LaTeX Info: Redefining \ref on input line 151.
-LaTeX Info: Redefining \pageref on input line 151.
-LaTeX Info: Redefining \nameref on input line 151.
-\@outlinefile=\write4
-\openout4 = `diploma.out'.
-
-LaTeX Info: Redefining \Ref on input line 151.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+\big@size=\dimen122
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
-LaTeX Font Info:    Try loading font information for T1+qhv on input line 164.
+]
+LaTeX Font Info:    Try loading font information for T1+qhv on input line 160.
 (/usr/share/texmf-dist/tex/latex/tex-gyre/t1qhv.fd
 File: t1qhv.fd 2009/09/25 v1.2 font definition file for T1/qhv
-) <./img/uk.pdf, id=15, 150.5625pt x 160.6pt>
-File: ./img/uk.pdf Graphic file (type pdf)
-<use ./img/uk.pdf>
-Package pdftex.def Info: ./img/uk.pdf used on input line 171.
-(pdftex.def)             Requested size: 124.15875pt x 132.44026pt.
-[1
+) [1
 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 210--212
 
- <./img/uk.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 210--211
+ []
+
+[2
+
+] [3
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 240--241
 
  []
 
 (./ch/00_abstract_cs.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 213--214
+Underfull \hbox (badness 10000) in paragraph at lines 243--244
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 219--220
+Underfull \hbox (badness 10000) in paragraph at lines 249--250
 
  []
 
-(./ch/00_abstract.tex) [2
+(./ch/00_abstract.tex) [4
 
-] [3
+] (./diploma.toc
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 4.
 
+(/usr/share/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)<<ot1.cmap>>
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 4.
 
-] [4]
-Underfull \hbox (badness 10000) in paragraph at lines 245--247
+(/usr/share/texmf-dist/tex/latex/psnfss/omlztmcm.fd
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)<<oml.cmap>>
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 4.
 
- []
+(/usr/share/texmf-dist/tex/latex/psnfss/omsztmcm.fd
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)<<oms.cmap>>
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 4.
 
-[5] [6
+(/usr/share/texmf-dist/tex/latex/psnfss/omxztmcm.fd
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)<<omx.cmap>>
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 4.
+(/usr/share/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 4.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 4.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 4.
+[5
 
+])
+\tf@toc=\write3
+\openout3 = `diploma.toc'.
 
-]
-\tf@toc=\write5
-\openout5 = `diploma.toc'.
-
-[7
-
-
-] [8
-
-
-]
+[6]
 \openout2 = `ch/01_introduction.aux'.
 
 (./ch/01_introduction.tex
 Kapitola 1.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 32.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 32.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 32.
+[1
 
-Package natbib Warning: Citation `chandola2009anomaly' on page 1 undefined on i
-nput line 15.
-
-
-Package natbib Warning: Citation `patcha2007anomaly' on page 1 undefined on inp
-ut line 29.
-
-
-Package natbib Warning: Citation `davis2011data' on page 1 undefined on input l
-ine 38.
-
-
-Package natbib Warning: Citation `onut2007feature' on page 1 undefined on input
- line 49.
-
-
-Package natbib Warning: Citation `gogoi2011survey' on page 1 undefined on input
- line 58.
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.61 
-      [1
 
 
 
 ]
-
-Package natbib Warning: Citation `he2004spectral' on page 2 undefined on input 
-line 64.
-
-
-Package natbib Warning: Citation `chen2007tcp' on page 2 undefined on input lin
-e 71.
-
-
-Package natbib Warning: Citation `chen2007spectral' on page 2 undefined on inpu
-t line 71.
-
-
-Package natbib Warning: Citation `wright2006inferring' on page 2 undefined on i
-nput line 89.
-
-
-Package natbib Warning: Citation `dusi2009tunnel' on page 2 undefined on input 
-line 89.
-
-
-Package natbib Warning: Citation `wright2006inferring' on page 2 undefined on i
-nput line 96.
-
-
-Package natbib Warning: Citation `dusi2009tunnel' on page 2 undefined on input 
-line 108.
-
-
-Package natbib Warning: Citation `estevez2004measuring' on page 2 undefined on 
-input line 120.
-
-
-LaTeX Font Warning: Font shape `T1/qpl/m/sl' in size <10.95> not available
-(Font)              Font shape `T1/qpl/m/it' tried instead on input line 122.
-
-
-LaTeX Font Warning: Font shape `T1/qpl/m/sl' in size <10> not available
-(Font)              Font shape `T1/qpl/m/it' tried instead on input line 122.
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.122 
-       [2]
-
-Package natbib Warning: Citation `darpa1999ids' on page 3 undefined on input li
-ne 124.
-
-
-Package natbib Warning: Citation `mchugh2000testing' on page 3 undefined on inp
-ut line 128.
-
-
-Package natbib Warning: Citation `mahoney2003analysis' on page 3 undefined on i
-nput line 131.
-
-
-Package natbib Warning: Citation `sarasamma2005hierarchical' on page 3 undefine
-d on input line 142.
-
-
-Package natbib Warning: Citation `thomas2010usefulness' on page 3 undefined on 
-input line 146.
-
-
-Package natbib Warning: Citation `mchugh2000testing' on page 3 undefined on inp
-ut line 150.
-
-
-Underfull \vbox (badness 2213) has occurred while \output is active []
-
-[3]
-
-Package natbib Warning: Citation `yamada2007intrusion' on page 4 undefined on i
-nput line 153.
-
-
-Package natbib Warning: Citation `undercoffer2003modeling' on page 4 undefined 
-on input line 157.
-
-[4]
-
-Package natbib Warning: Citation `wu2010use' on page 5 undefined on input line 
-161.
-
-
-Package natbib Warning: Citation `chebrolu2005feature' on page 5 undefined on i
-nput line 165.
-
-
-Package natbib Warning: Citation `ingham2007comparing' on page 5 undefined on i
-nput line 169.
-
-
-Overfull \hbox (1.51147pt too wide) in paragraph at lines 169--171
- []\T1/qhv/b/n/10.95 Ingham and Ingham. Com-pa-ring ano-maly de-tection tech-ni
-ques for http \T1/qpl/m/n/10.95 [\T1/qpl/b/n/10.95 ? \T1/qpl/m/n/10.95 ] Much
+Overfull \hbox (38.57262pt too wide) in paragraph at lines 75--84
+\T1/qtm/m/n/12 osmím bo-dem: 1 je [] . Ne-existuje ºádný stan-dard pro os-mi-bo
+-dové braill-ské písmo.(6DotBraille.com) 
  []
 
 
-Package natbib Warning: Citation `sommer2010outside' on page 5 undefined on inp
-ut line 173.
-
-[5]
-
-Package natbib Warning: Citation `bajcsy2004cyber' on page 6 undefined on input
- line 177.
-
-
-Package natbib Warning: Citation `goodall2006focusing' on page 6 undefined on i
-nput line 181.
-
-
-Package natbib Warning: Citation `jamdagni2010intrusion' on page 6 undefined on
- input line 185.
-
-
-Package natbib Warning: Citation `ingham2007anomaly' on page 6 undefined on inp
-ut line 189.
-
-[6]
-
-Package natbib Warning: Citation `zanero2005analyzing' on page 7 undefined on i
-nput line 196.
-
-
-Package natbib Warning: Citation `zalewski2005silence' on page 7 undefined on i
-nput line 203.
-
-
-Package natbib Warning: Citation `zalewski2005silence10' on page 7 undefined on
- input line 204.
-
-
-Package natbib Warning: Citation `zalewski2005silence11' on page 7 undefined on
- input line 205.
-
-[7]
-
-Package natbib Warning: Citation `iliofotou2009exploiting' on page 8 undefined 
-on input line 208.
-
-
-Package natbib Warning: Citation `smith2011network' on page 8 undefined on inpu
-t line 212.
-
-
-Package natbib Warning: Citation `chandola2012anomaly' on page 8 undefined on i
-nput line 215.
-
-[8]
-
-Package natbib Warning: Citation `chandola2008comparative' on page 9 undefined 
-on input line 218.
-
-
-Overfull \hbox (13.12012pt too wide) in paragraph at lines 218--219
- []\T1/qhv/b/n/10.95 V. Chan-dola. Com-pa-ra-tive eva-luation of ano-maly de-te
-ction tech-niques for sequence
+Overfull \hbox (5.3362pt too wide) in paragraph at lines 89--90
+[]\T1/qtm/m/n/12 Braillský °á-dek je elek-tro-me-cha-nické za-°í-zení, který "z
+ob-ra-zuje"jeden °á-dek braill-ského textu.
  []
 
+[2] [3]) [4]
+\openout2 = `ch/02_theories_of_learning.aux'.
 
-Package natbib Warning: Citation `alshammari2009machine' on page 9 undefined on
- input line 222.
-
-
-Package natbib Warning: Citation `ringberg2007sensitivity' on page 9 undefined 
-on input line 227.
-
-[9]
-
-Package natbib Warning: Citation `chapanond2005graph' on page 10 undefined on i
-nput line 232.
-
-
-Package natbib Warning: Citation `wei1994time' on page 10 undefined on input li
-ne 235.
-
-) [10]
-\openout2 = `ch/02_anomaly_theory.aux'.
-
-(./ch/02_anomaly_theory.tex
+(./ch/02_theories_of_learning.tex
 Kapitola 2.
-LaTeX Font Info:    Try loading font information for OT1+ppl on input line 14.
-(/usr/share/texmf-dist/tex/latex/psnfss/ot1ppl.fd
-File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
-)<<ot1.cmap>>
-LaTeX Font Info:    Try loading font information for OML+zplm on input line 14.
 
-(/usr/share/texmf-dist/tex/latex/psnfss/omlzplm.fd
-File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
-)<<oml.cmap>>
-LaTeX Font Info:    Try loading font information for OMS+zplm on input line 14.
-
-(/usr/share/texmf-dist/tex/latex/psnfss/omszplm.fd
-File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
-)<<oms.cmap>>
-LaTeX Font Info:    Try loading font information for OMX+zplm on input line 14.
-
-(/usr/share/texmf-dist/tex/latex/psnfss/omxzplm.fd
-File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
-)<<omx.cmap>>
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 11.40997pt on input line 14.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 14.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 14.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 11.40997pt on input line 14.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 14.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 14.
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 14.
-
-(/usr/share/texmf-dist/tex/latex/psnfss/ot1zplm.fd
-File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
-)
-LaTeX Font Info:    Try loading font information for OMS+qpl on input line 23.
-LaTeX Font Info:    No file OMSqpl.fd. on input line 23.
-
-LaTeX Font Warning: Font shape `OMS/qpl/m/n' undefined
-(Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbullet' on input line 23.
-
-[11
-
-
-
-
-]
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 68.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 68.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 68.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 68.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 68.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 68.
-
-Underfull \vbox (badness 1082) has occurred while \output is active []
-
-[12] [13]
-Overfull \hbox (8.11087pt too wide) in paragraph at lines 158--159
-\T1/qpl/m/n/10.95 Typically, the out-puts pro-du-ced by ano-maly de-tection tec
-h-niques are one of the following
+Overfull \hbox (1.22098pt too wide) in paragraph at lines 12--13
+\T1/qtm/m/n/12 To je, "ano Tome, má² to správn¥"nebo "ne, to ne-byl upln¥ p°esn
+ý". "No, mu-síte nejd°ív..."anebo
  []
 
-) [14]
-\openout2 = `ch/03_network_security.aux'.
+[5
 
-(./ch/03_network_security.tex
+
+
+]) [6]
+\openout2 = `ch/03_experiment.aux'.
+
+(./ch/03_experiment.tex
 Kapitola 3.
-) [15
+[7
 
 
 
+]) [8] [9]
+\openout2 = `ch/04_analysis.aux'.
 
-]
-\openout2 = `ch/04_proposed_methods.aux'.
-
-(./ch/04_proposed_methods.tex [16
-
-
-
-
-]
+(./ch/04_analysis.tex
 Kapitola 4.
-
-Package natbib Warning: Citation `he2004spectral' on page 17 undefined on input
- line 4.
+) [10
 
 
-Package natbib Warning: Citation `chen2007spectral' on page 17 undefined on inp
-ut line 6.
+
+]
+\openout2 = `ch/05_conclusion.aux'.
+
+(./ch/05_conclusion.tex
+Kapitola 5.
+) [11
 
 
-Package natbib Warning: Citation `wright2006inferring' on page 17 undefined on 
-input line 15.
 
-
-Package natbib Warning: Citation `dusi2009tunnel' on page 17 undefined on input
- line 20.
-
-
-Underfull \vbox (badness 2351) has occurred while \output is active []
-
-[17]
-LaTeX Font Info:    Try loading font information for T1+qcr on input line 73.
+] (./diploma.bbl
+LaTeX Font Info:    Try loading font information for T1+qcr on input line 11.
 (/usr/share/texmf-dist/tex/latex/tex-gyre/t1qcr.fd
 File: t1qcr.fd 2009/09/25 v1.2 font definition file for T1/qcr
 )
-
-Package natbib Warning: Citation `jacobson2009tcpdump' on page 18 undefined on 
-input line 73.
-
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 12.50409pt on input line 103.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 12.50409pt on input line 103.
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@ifnextchar' on input line 103.
-
-[18]
-
-Package natbib Warning: Citation `dusi2009tunnel' on page 19 undefined on input
- line 142.
-
-
-Overfull \hbox (26.99878pt too wide) in paragraph at lines 127--143
-\T1/qpl/m/n/10.95 where $\OML/zplm/m/it/10.95 s$ \T1/qpl/m/n/10.95 is the sam-p
-le rate, function $\OML/zplm/m/it/10.95 flow\OT1/zplm/m/n/10.95 (\OML/zplm/m/it
-/10.95 p\OT1/zplm/m/n/10.95 )$ \T1/qpl/m/n/10.95 yields the \T1/qpl/m/it/10.95 
-flow \T1/qpl/m/n/10.95 5-tuple and function $\OML/zplm/m/it/10.95 timestamp\OT1
-/zplm/m/n/10.95 (\OML/zplm/m/it/10.95 p\OT1/zplm/m/n/10.95 )$
+Underfull \hbox (badness 10000) in paragraph at lines 19--23
+[]\T1/qtm/m/n/12 HELPDESKINDIA.  Ca-ta-ract Eye Cur-gery in In-dia.  $\T1/qcr/m
+/n/12 http : / /
  []
 
 
-LaTeX Warning: Reference `eq:corr' on page 19 undefined on input line 163.
+Underfull \hbox (badness 10000) in paragraph at lines 19--23
+\T1/qcr/m/n/12 www . healthdeskindia . com / site / Treatments / Eye-[]Care /
+ []
 
 
-LaTeX Warning: Reference `eq:psd' on page 19 undefined on input line 163.
+Overfull \hbox (39.61598pt too wide) in paragraph at lines 19--23
+\T1/qcr/m/n/12 Cost-[]of-[]Cataracts-[]Surgery-[]in-[]India-[]best-[]Hospitals-
+[]and-[]eye-[]Surgeon$\T1/qtm/m/n/12 . 
+ []
 
 
-LaTeX Warning: Reference `eq:corr' on page 19 undefined on input line 182.
+Underfull \hbox (badness 5504) in paragraph at lines 30--34
+[]\T1/qtm/m/n/12 PERKINS.  Braille Dis-plays.  $\T1/qcr/m/n/12 https : / / secu
+re2 . convio . net / psb / site /
+ []
 
 
-LaTeX Warning: Reference `eq:psd' on page 19 undefined on input line 182.
-
-[19]
-
-LaTeX Warning: Reference `eq:corr2' on page 20 undefined on input line 194.
-
-
-LaTeX Warning: Reference `eq:psd2' on page 20 undefined on input line 194.
-
-
-LaTeX Warning: Reference `eq:hann' on page 20 undefined on input line 199.
-
-
-LaTeX Warning: Reference `sec:experiments' on page 20 undefined on input line 2
-50.
-
-) [20]
-\openout2 = `ch/05_experiments.aux'.
-
-(./ch/05_experiments.tex
-Kapitola 5.
-) [21
-
-
-
-
-]
-\openout2 = `ch/06_conclusion.aux'.
-
-(./ch/06_conclusion.tex [22
-
-
-
-
-]
-Kapitola 6.
-) [23]
-No file diploma.bbl.
-
-Underfull \hbox (badness 10000) in paragraph at lines 270--272
+Underfull \hbox (badness 10000) in paragraph at lines 30--34
+\T1/qcr/m/n/12 Ecommerce ? FOLDER = 1120&store _ id = 1101&JServSessionIdr004 =
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 270--272
+Underfull \hbox (badness 10000) in paragraph at lines 30--34
+\T1/qcr/m/n/12 iyiu7zdoy1 . app246a& _ _utma = 184864936 . 426189431 . 13659365
+56 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--34
+\T1/qcr/m/n/12 1365936556 . 1365936556 . 1& _ _utmb = 184864936 . 1 . 10 . 1365
+936556& _
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--34
+\T1/qcr/m/n/12 _utmc = 184864936& _ _utmx = -[]& _ _utmz = 184864936 . 13659365
+56 . 1 . 1 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--34
+\T1/qcr/m/n/12 utmcsr = (direct ) |utmccn = (direct ) |utmcmd = (none ) & _ _ut
+mv = -[]& _
+ []
+
+
+Underfull \hbox (badness 3029) in paragraph at lines 42--45
+[]\T1/qtm/m/n/12 SONS.  Kla-si-fi-kace zra-ko-vého po-sti-ºení podle WHO.  $\T1
+/qcr/m/n/12 http : / / www . sons . cz /
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 273--275
 
  []
 
-[24
+
+Underfull \hbox (badness 10000) in paragraph at lines 273--275
+
+ []
+
+[12
+
 
 ]
 \openout2 = `ch/99_appendices.aux'.
 
-(./ch/99_appendices.tex) [1
-
-
+(./ch/99_appendices.tex
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 12.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 12.
+[1
 
 
 
 ]
+Package epstopdf Info: Source file: <./img/Device1.eps>
+(epstopdf)                    date: 2013-04-14 13:36:30
+(epstopdf)                    size: 30626445 bytes
+(epstopdf)             Output file: <./img/Device1-eps-converted-to.pdf>
+(epstopdf)                    date: 2013-04-14 13:39:54
+(epstopdf)                    size: 833780 bytes
+(epstopdf)             Command: <repstopdf --outfile=./img/Device1-eps-converte
+d-to.pdf ./img/Device1.eps>
+(epstopdf)             \includegraphics on input line 18.
+Package epstopdf Info: Output file is already uptodate.
+<./img/Device1-eps-converted-to.pdf, id=78, 2601.72pt x 1951.29pt>
+File: ./img/Device1-eps-converted-to.pdf Graphic file (type pdf)
+<use ./img/Device1-eps-converted-to.pdf>
+Package pdftex.def Info: ./img/Device1-eps-converted-to.pdf used on input line 
+18.
+(pdftex.def)             Requested size: 448.13095pt x 336.09172pt.
+Package epstopdf Info: Source file: <./img/Device1-A.eps>
+(epstopdf)                    date: 2013-04-14 13:37:15
+(epstopdf)                    size: 30626447 bytes
+(epstopdf)             Output file: <./img/Device1-A-eps-converted-to.pdf>
+(epstopdf)                    date: 2013-04-14 13:44:46
+(epstopdf)                    size: 843257 bytes
+(epstopdf)             Command: <repstopdf --outfile=./img/Device1-A-eps-conver
+ted-to.pdf ./img/Device1-A.eps>
+(epstopdf)             \includegraphics on input line 21.
+Package epstopdf Info: Output file is already uptodate.
+<./img/Device1-A-eps-converted-to.pdf, id=79, 2601.72pt x 1951.29pt>
+File: ./img/Device1-A-eps-converted-to.pdf Graphic file (type pdf)
+<use ./img/Device1-A-eps-converted-to.pdf>
+Package pdftex.def Info: ./img/Device1-A-eps-converted-to.pdf used on input lin
+e 21.
+(pdftex.def)             Requested size: 212.86151pt x 159.61975pt.
+Package epstopdf Info: Source file: <./img/Device1-B.eps>
+(epstopdf)                    date: 2013-04-14 13:37:22
+(epstopdf)                    size: 30626447 bytes
+(epstopdf)             Output file: <./img/Device1-B-eps-converted-to.pdf>
+(epstopdf)                    date: 2013-04-14 16:48:16
+(epstopdf)                    size: 814819 bytes
+(epstopdf)             Command: <repstopdf --outfile=./img/Device1-B-eps-conver
+ted-to.pdf ./img/Device1-B.eps>
+(epstopdf)             \includegraphics on input line 27.
+Package epstopdf Info: Output file is already uptodate.
+<./img/Device1-B-eps-converted-to.pdf, id=80, 2601.72pt x 1951.29pt>
+File: ./img/Device1-B-eps-converted-to.pdf Graphic file (type pdf)
+<use ./img/Device1-B-eps-converted-to.pdf>
+Package pdftex.def Info: ./img/Device1-B-eps-converted-to.pdf used on input lin
+e 27.
+(pdftex.def)             Requested size: 212.86151pt x 159.61975pt.
+Package epstopdf Info: Source file: <./img/Device1-C.eps>
+(epstopdf)                    date: 2013-04-14 13:37:31
+(epstopdf)                    size: 30626447 bytes
+(epstopdf)             Output file: <./img/Device1-C-eps-converted-to.pdf>
+(epstopdf)                    date: 2013-04-14 13:44:56
+(epstopdf)                    size: 833453 bytes
+(epstopdf)             Command: <repstopdf --outfile=./img/Device1-C-eps-conver
+ted-to.pdf ./img/Device1-C.eps>
+(epstopdf)             \includegraphics on input line 35.
+Package epstopdf Info: Output file is already uptodate.
+<./img/Device1-C-eps-converted-to.pdf, id=81, 2601.72pt x 1951.29pt>
+File: ./img/Device1-C-eps-converted-to.pdf Graphic file (type pdf)
+<use ./img/Device1-C-eps-converted-to.pdf>
+Package pdftex.def Info: ./img/Device1-C-eps-converted-to.pdf used on input lin
+e 35.
+(pdftex.def)             Requested size: 313.69029pt x 235.24634pt.
+Package epstopdf Info: Source file: <./img/Device2.eps>
+(epstopdf)                    date: 2013-04-14 13:36:23
+(epstopdf)                    size: 30626445 bytes
+(epstopdf)             Output file: <./img/Device2-eps-converted-to.pdf>
+(epstopdf)                    date: 2013-04-14 13:40:03
+(epstopdf)                    size: 841392 bytes
+(epstopdf)             Command: <repstopdf --outfile=./img/Device2-eps-converte
+d-to.pdf ./img/Device2.eps>
+(epstopdf)             \includegraphics on input line 44.
+Package epstopdf Info: Output file is already uptodate.
+<./img/Device2-eps-converted-to.pdf, id=82, 1951.29pt x 2601.72pt>
+File: ./img/Device2-eps-converted-to.pdf Graphic file (type pdf)
+<use ./img/Device2-eps-converted-to.pdf>
+Package pdftex.def Info: ./img/Device2-eps-converted-to.pdf used on input line 
+44.
+(pdftex.def)             Requested size: 179.25305pt x 238.98798pt.
+Package epstopdf Info: Source file: <./img/Device3.eps>
+(epstopdf)                    date: 2013-04-14 13:26:09
+(epstopdf)                    size: 30626445 bytes
+(epstopdf)             Output file: <./img/Device3-eps-converted-to.pdf>
+(epstopdf)                    date: 2013-04-14 13:29:28
+(epstopdf)                    size: 1712764 bytes
+(epstopdf)             Command: <repstopdf --outfile=./img/Device3-eps-converte
+d-to.pdf ./img/Device3.eps>
+(epstopdf)             \includegraphics on input line 50.
+Package epstopdf Info: Output file is already uptodate.
+<./img/Device3-eps-converted-to.pdf, id=83, 2601.72pt x 1951.29pt>
+File: ./img/Device3-eps-converted-to.pdf Graphic file (type pdf)
+<use ./img/Device3-eps-converted-to.pdf>
+Package pdftex.def Info: ./img/Device3-eps-converted-to.pdf used on input line 
+50.
+(pdftex.def)             Requested size: 179.25305pt x 134.43073pt.
+[2 <./img/Device1-eps-converted-to.pdf> <./img/Device1-A-eps-converted-to.pdf> 
+<./img/Device1-B-eps-converted-to.pdf>] [3 <./img/Device1-C-eps-converted-to.pd
+f> <./img/Device2-eps-converted-to.pdf> <./img/Device3-eps-converted-to.pdf>]
+Underfull \vbox (badness 1348) has occurred while \output is active []
 
-Package natbib Warning: There were undefined citations.
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 279.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 279.
-(./diploma.aux (./ch/01_introduction.aux) (./ch/02_anomaly_theory.aux) (./ch/03
-_network_security.aux) (./ch/04_proposed_methods.aux) (./ch/05_experiments.aux)
-(./ch/06_conclusion.aux) (./ch/99_appendices.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 279.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 279.
-
-Package rerunfilecheck Warning: File `diploma.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `diploma.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  047E208BD884A9E8082A70581B73FE44;2481.
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+[4
 
 
-LaTeX Warning: There were undefined references.
+] [5]) [6
 
+] (./diploma.aux (./ch/01_introduction.aux) (./ch/02_theories_of_learning.aux) 
+(./ch/03_experiment.aux) (./ch/04_analysis.aux) (./ch/05_conclusion.aux) (./ch/
+99_appendices.aux))
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 279.
  ) 
 Here is how much of TeX's memory you used:
- 9881 strings out of 493488
- 139840 string characters out of 3146891
- 259693 words of memory out of 3000000
- 12734 multiletter control sequences out of 15000+200000
- 123283 words of font info for 147 fonts, out of 3000000 for 9000
+ 6583 strings out of 493488
+ 97371 string characters out of 3146892
+ 209683 words of memory out of 3000000
+ 9637 multiletter control sequences out of 15000+200000
+ 93099 words of font info for 88 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 38i,17n,53p,2020b,393s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,12n,47p,1055b,469s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}{/usr/share/texmf-di
-st/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf-dist/fonts/enc/dvips/tex-gyre/
-q-ec-sc.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></
-usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/mat
-hpazo/fplmr.pfb></usr/share/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb><
-/usr/share/texmf-dist/fonts/type1/public/tex-gyre/qcrr.pfb></usr/share/texmf-di
-st/fonts/type1/public/tex-gyre/qhvb.pfb></usr/share/texmf-dist/fonts/type1/publ
-ic/tex-gyre/qhvr.pfb></usr/share/texmf-dist/fonts/type1/public/tex-gyre/qplb.pf
-b></usr/share/texmf-dist/fonts/type1/public/tex-gyre/qplr.pfb></usr/share/texmf
--dist/fonts/type1/public/tex-gyre/qplri.pfb></usr/share/texmf-dist/fonts/type1/
-urw/palatino/uplb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/palatino/uplr8a.
-pfb></usr/share/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on diploma.pdf (35 pages, 318088 bytes).
+st/fonts/enc/dvips/tex-gyre/q-ec-sc.enc}</usr/share/texmf-dist/fonts/type1/publ
+ic/amsfonts/latxfont/lcircle1.pfb></usr/share/texmf-dist/fonts/type1/public/tex
+-gyre/qcrr.pfb></usr/share/texmf-dist/fonts/type1/public/tex-gyre/qhvb.pfb></us
+r/share/texmf-dist/fonts/type1/public/tex-gyre/qhvr.pfb></usr/share/texmf-dist/
+fonts/type1/public/tex-gyre/qtmr.pfb></usr/share/texmf-dist/fonts/type1/public/
+tex-gyre/qtmri.pfb>
+Output written on diploma.pdf (25 pages, 6039861 bytes).
 PDF statistics:
- 338 PDF objects out of 1000 (max. 8388607)
- 275 compressed objects within 3 object streams
- 106 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 142 PDF objects out of 1000 (max. 8388607)
+ 91 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
 
