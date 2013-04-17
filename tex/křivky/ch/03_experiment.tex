@@ -28,11 +28,10 @@ Zajimavě, všechní učastnici kromě jeden odpověděli "uplně nevidomý" kdy
 
 WHO rozděli zrakové postižený na 5 kategorii. Nejnížší dvě jsou:
 
-"Praktická slepota
+\em "Praktická slepota
 zraková ostrost s nejlepší možnou korekcí 1/60 (0,02), 1/50 až světlocit nebo omezení zorného pole do 5 stupňů kolem centrální fixace, i když centrální ostrost není postižena, kategorie zrakového postižení 4
 
-Úplná slepota
-ztráta zraku zahrnující stavy od naprosté ztráty světlocitu až po zachování světlocitu s chybnou světelnou projekcí, kategorie zrakového postižení 5"\citep{sonsklasifikace}
+Úplná slepota ztráta zraku zahrnující stavy od naprosté ztráty světlocitu až po zachování světlocitu s chybnou světelnou projekcí, kategorie zrakového postižení 5" \em \citep{sonsklasifikace}
 
 To, že nikdo nehlasil "Praktická slepota" nebo "praktická nevidomost" muže znamenat, že oni otazku nepochopili, že maji odpovědět přesně.  Anebo to muže znamenat, že zkutečně byly všechní uplně nevidomé.
 
@@ -52,22 +51,78 @@ Teď je dobrý čas vysvětlit jak přesně vypada a funguje FCHADy, které byli
 
 První učastnici(1-3) použivali jiný kursor selektor než poslední.  To je kvůli technické zavadům v prvním selektoru.   Technologie selektorů je velmí jednoduchý.  Selektor musí mít dva elektrody.  Když učastník dotyka elektrodem, elektrický proud jde přes tělo z jeden elektrodem k drůhem.  Je jedena katoda, a vice anod.  Podle toho přes, kterou anodou teče proud víme, které písmeno je vybrané(selektované).   První selektor měl 12 anod z napínáčků(vis Obrazek 1-C), a katoda v náramku(Obrazek 3).
 
+Napínáčy jsou nepravidelně umístěné, mezi 1.2 a 2 cm od sebe.  Celý selektor je 19cm od prvního sensoru k poslednému.
+
 Tento system moc dobře nefungoval. Když jsem to zkusil doma, fungoval to bezvadně, ale když to pokusil nějaký chlupatější muž náramní katoda nedostala dobrá kontakt a stroj nevěděl kdy je dotyk a kdy ne.
 
 \subsection{Druhý selektor}
 
-Učastníci 4-6 měli lepší
+Učastníci 4-6 měli lepší selektor(Vis obrazek 1-B). Nový selektor má dvě řádky elektrody. Horní řádek jsou anody, a dolný řadek jsou katody.  Už proud nemusí projet tělem, ale jenom kuži na prstu.  Tím způsobem, je daleko lepší spoj mezi anodou a katodou.  To ještě nebyl dostatečný.  Jsem musel namoučit prsty učastníků vodou aby dostali spolehlivý spoj.
+
+Další vylepšení je v tom, že sensory jsou v pravidelné umístění 0.5cm od sebe.  Jsou taky daleko blíž k sobě.
+
+\subsection{Zobrazovač}
+Další součast FCHADu je zobrazovač(vis Obrazy 1-A a 2).  Zobrazovač, který jsem použil v tehle studie žobrazuje jedno osmibodové písmeno.  Zobrazovaci technologie je zase velmi jednoduchý.  Jde to o cívka, který vybaví tyč aby pohyboval nahoru.  Taková cívka se říka solenoid.  Moje solenoidy vydaji až 200 gramů síly\citep{multicomp}.  To je dost aby jejích pohyb bolelo ale každý bod je jenom 0.45cm vysoký.  Neboli to, když nedříte ruku na zobrazovače silně.  Body nespadnou samy.  Čtenař musí davat ruku na zobrazovače aby správně funguval.
+
+Řádky bodů jsou 2cm od sebe, a sloupci 3cm od sebe(pro učastnici 1-3, byly 5cm od sebe).  Celý zobrazovaci prostor je 6x3cm.  Moje tři delší prsti jsou mezi 7 a 8.5cm dlouhe, a proto, dokažu číst písmena na zobrazovače jenom prstama.  Některé ty ženské učastnicy měly kratší prsti a to nešlo.  Plastový baze Zobrazovač je 5.9cm šíroký(8cm u dřívější učastníci) 9.2cm dlouhý 6cm vysoký.
+
+\subsection{Jak to jde dohromadý}
+
+FCHAD je přípojený na počitač a počitač ma v pamětí tabulku 12ti písmen.  Písmena v tabulce vypulní speciální software, která se jmenuje čtečka obrazovky.  Použival jsem čtečku obrazovky Orca 3.6.3. Orca vyplní tabulku podle toho, jaký text je blízko kursoru(to je, kursor, který je na obrazovce, a ne kursor, který je vybrání kursor selektorem).
+
+Selektorem čtenář vybíra, které ztěch dvanaci písmen bude zobrazené na zobrazovače. Když pohybuje ruku na selektor, čtenař slyší hlasitý svaknutí jak ty solenoidy změneji polohu.
+
+Navrhoval jsem celou elektroniku sroje, programoval jsem ovladač, firmware.  To mě dal možnost nahravat fungování celý stroj.  Když jsem dělal ten výzkum, jsem mohl nahravat lokace prstu uživatela, rychlost čtení, polohu ruky.  Napsal jsem další software, který pomaha v shromaždění dat\footnote{\url{https://github.com/timthelion/anonGraph}}.  Mužete prohlidnout shromaždění data zde\footnote{\url{https://github.com/timthelion/fchad-study}}.
+
+Přesněší detaily nastroje najdete v Appendix I.
 
 \section{Moje žaci}
 
-\subsection{Žaci 1 a 2}
+\subsection{Předběžná studie}
 
-\subsection{Žak 3}
+\subsubsection{Žaci 1 a 2}
 
-\subsection{Žak 4}
+První "žák" očem budu psát jsem Já Váš batdatel.  Já jsem se učil číst rukama(to je číst Braillova písma) před dvěma roky. Zajimal jsem o tom, protože mivám migreny když čtu.  Nějakou dobu, jsem si řekl: "naučím číst braillovo písmo a už nebudu vůbec číst očima".  Bylo to spíš emoční reakce na frustrace než praktický plan.  Rychle jsem se dozvěděl, že braille vůbec nejde číst rychle a, že braillský řádek je zdaleko přilíš drahý koupít jenom vztekem.  Moj zajem o braillova písma se změnil na hněv o tom jak je všechno pro nevídomé předražený, a snahu oběvit něco levnější.
 
-\subsection{Žak 5}
+Umím číst rukama, ale nijak plynule.  Už čtu daleko lepe FCHADem než obyčejný braill.  Je lehčí číst FCHADem, protože písmo je velké.
 
-\subsection{Žak 6}
+Když jsem se začal číst na FCHAD četl jsem velmi pomalý.  Ještě jsem neznal braillova písma dokonalý, a často jsem spletl f \braillebox{124}, d \braillebox{145}, h \braillebox{125}, a j \braillebox{245}. Teď je už zvladnu bez problemu.  Dozvěděl jsem, že připojený mezi "psychologický rychlost čtení" a "skuteční rychlost čtení".  Čtení se zda rychlejší, tím mín dělam chyby, a tím vic rozumím text.  Čtení zrychluje daleko pomalejší než psychologický rychlost čtení.  Často, jsem si myslel, že jsem dělal pokrok v svému schopnosti čtení ale když jsem koukal donahravky jsem dozvěděl, že rychlost či nezměnil, anebo jen mírně stoupal.
+
+To neznamena, že jsem se nevylepšil.  Po několik desitek hodin zkušenost na stroje už vidím že moje rychlost soupal od přibližně 0.7 písmen za sekund v 22-11-2012, na 0.8-1.5 písmeno za sekund 22-1-2013.  Plynulost ještě stoupal vic.  Abych počital rychlost čtení písmen za sekund, hledam postupný řádky v graphech lokaci prstu. To jsou místa kde jsem dočetl řádek textu bez tomu, že bych se musel vratit do začatku(protože jsem něco nerozuměl).  Plynulost čtení po celém řádce přeměnil od uplný neplynulost(žádné řádky nečtení ke konce bez chyb) k standardu(většina řádků správně přečtené).
+
+Pro mně, použity selektor je zkoro bez myšlenek, ale poznání znaku na zobrazovač stale někdy trva.  Nastavěl jsem stroj tak, že se použiva selektor pravou rukou, a zobrazovač se čte levou. Jsem si to myslel, protože selektor je podobný jako počitačový myš, a myš se použiva pravou rukou(pro pravaci).  Myslím si, že jsem to nastavěl obraceně.  Nastavený byl stejný pro všechní učastnici studie.
+
+Jestli jste četl titul subsekce vite, že jsem daval "žaci 1 a 2" dohromadý.  To je protože můj FCHAD vůbec nefungoval, když jsem ho ukazal prvnímu učastnikovi. Nevím jakým kozlem to bylo, ale když jsem držel Já katodu v ruce a použival stroj, selektor fungoval bezvadně. Když on to vzal do ruky, začal celý stroj zblaznit.
+
+\subsection{Běžná studie}
+
+\subsubsection{Žak 3}
+
+"Žak" 3 je vysokoškolské vzdělana žena ve věku mezi 45 a 50 let. Už čte braillovo písmo 35 let, to je od začatku školní dochazky.  Pracuje jako vysokoškolskou profesorkou němčiny.  Je uplně nevidomá.
+
+Nehrabala s nastrojem když jsem to nastavil. Zase, FCHAD trpěl technické problemy. Sensory někdy "citilý" dotyky, které v zkutečnosti nebyly.  Zajimavě, i když FCHAD moc dobře nefungoval ona byla schopná na to číst.
+
+Čas na čtení tisknutý text: 93.3 sekundy
+
+Rychlost čtení tisku: 4.36CPS
+
+Správné použití zobrazovači, čtenař by měl položit ruku na zobrazovače rovně, tak aby mohl citít všechní body na řaz.  Třetí učastnik ale použivala sevření prstu aby citila každého tyču zvlašť.  Jelikož to funguje vyborně pro poznání písmena(je to stoprocentně spolehlivý) nejde tím způsobem číst rychle. Já jsem se snažil ji naučit použivat FCHAD správně.  Když jsem ji řikal, že by měla položit ruku rovně a jsem dal jeji ruku na zobrazovače správně řikala "Já nevím, jak ta ruka jen tak leží mně to nevychovuje, Já se musím ty body zvyknout a osahat trouchu jinak." %10:02.6
+
+
+\subsubsection{Žak 4}
+
+Čtvrtý žak je 20-25 let starý.  Jeho nejvíší uroveň dostažené vzdělávání je maturita.  Je můj spolužak tady na katedře angličtiny. Je uplně nevídomé a taky trpí problemy se sluchem.  Pracuje s braillským písmem od zakladní školy.
+
+Měl velké potiže s přesunem na ty sensory.
+
+\subsubsection{Žak 5}
+
+Paty žak je 20-25 let starý.  Jeho nejvíší uroveň dostažený vzdělávání je maturita. Je uplně nevidomý.  Taký čte braillova písma od zakladní školy.
+
+Kdy začal číst, zase selektor zle choval.  Musel jsem přenastavit prahy.  To mně trval asi deset minut.  To znamenalo, že potom co on četl o stroje, a potom co on teprve dal ruce na stroje, on seděl a čekal.  On měl zdaleko nejlepší vysledky ze všech učastníků.  Možní čekání mu pomohlo.
+
+\subsubsection{Žak 6}
+
+\subsubsection{Žak 7}
 
 \section{Shrnutí vysledků}

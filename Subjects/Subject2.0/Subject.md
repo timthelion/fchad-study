@@ -28,6 +28,9 @@ Vysoka škola
 Level of visual impairment
 -----
 uplně nevídoma
+Notes
+-----
+
 Recordings
 ===========
 [2013-3-6-12.17.41.017349000000](2013-3-6-12.17.41.017349000000/Recording.md)

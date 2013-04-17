@@ -1,9 +1,27 @@
 \chapter{Analyza a srovnání}
 
 \section{Vymezení fyziologické schopnosti}
+Když se zeptáme proč někdo nějaký schopnost dokazal učít nebo ne musíme se zeptat jestli byly schopní se to naučit.  Protože děláme studium, který zabiva s cítem hmatu, musíme najít omezení hmatu.
 
-\section{Srovnání s podobnými studii}
+Abych zajistil, že FCHAD, který je použity v studie splný ty podmínky jsem si přečetl kapitolu \em Haptic Interfaces\em  od knihy \em HCI Beyond the GUI\em. Člověk má šest druhů hmatných receptorů, Meissner's corpuscle, Merkel's disks, Pacinian corpuscle, hair follicle receptor, tactile disk, ruffini ending. Různé hmatné sensory maji jiné citlivosti.  Například Pacianian Corpuscle cití jenom vibrace.  Pro učelu FCHADu, chceme spustit receptorý, který reagujou rychle a přesně.  Myslím si, že je to taky lepší spouštět vice druhů receptorů ale nejsem si jistý.  Prostorově nejpřesnější receptory jsou Meissnerův corpuscle a Merkelův disky.  Ty jsou dost hluboké v kůže, proto používáme silné pohyblivé solenoidy.  Druhý verze FCHADu taky produkuje malou vibrace o 200Hz což je doporučený frekvence v publikace HCI\citep[str. 29-30]{nielsen2008gesture}.
+
+Autoři te samy kapitole rozděli čyřy subjektivné druhy hmatu: tlak, dotyk, vibrace a lechtání.  Myslím si, že lechtání se produkuje pohybem přes prsti. Už se psalo par krat, že FCHADy nefungujou dobře, protože čtenář nepohybuje prst na písmenem.  Když si čtu tisknutá braillova písma se citím, že je to určity druh lechtání.  Abych přídal lechtání dal jsem kus latky nad zobrazovačem.  Libilo mě to, ale nepoužival jsem tu latku v studie. Myslel jsem si, že be věci jenom zkomplikovali pro moje učastnici.
+
+Publikace HCI sestavuje pro naše použity prahy rozlišený anebo v algličtině "Just Noticeable Differences(JND)". Neberu JNDy jako měřitku to co člověk dokaže citít, ale spíš co nedokaže.  Nechtěl jsem aby nastroj pracoval na hranice citlivosti ale aby znaky byly bezpečně rozpoznatelné.
+
+Pocít hmatu je přesný do ${}1mm^2 - 2mm^2$ na konce prstů aaž ${}45mm^2$ jindé na tělo.  Tisknutí braill má body vzdalené od sebe 2.3-2.5mm\citep{brailleautority}. To je až přilíš blízko JND.  Však Perkins produkuje speciální velkopísmové psaci stroj kvůli tomu, že některé nevidomé nedokažou normální braillovo písmo číst\footnote{\url{https://secure2.convio.net/psb/site/Ecommerce?FOLDER=1180&store_id=1101&JServSessionIdr004=9p1uhglug2.app246a&__utma=184864936.426189431.1365936556.1365946389.1366050996.3&__utmb=184864936.1.10.1366050996&__utmc=184864936&__utmx=-&__utmz=184864936.1365936556.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)&__utmv=-&__utmk=194396717}}.  Bohužel, když dělame větší písmo už to nevejde na konecem prstu a kůže jindé na tělo je meně citlivá.  JND kůže na dlaně je 11mm a proto tím, že jsme zvětšili písmo jsme zhoršili čtení! Můj osobní pocit je, že optimání velikost pro braillovo písmo je 500x300mm.  Když jsem vyrobil první FCHAD jsem nemohl dostat solenoidy tak malé, a proto v studie použival jsem daleko větší zobrazovač\citep[str. 30-32]{nielsen2008gesture}.
+
+Další prah rozlišený je časový.  To není jen jak rychle něco citíte ale kolik krat můžete něco citít za sekund.  V angličtině "successiveness limen(SL)" je minimálný čas dvě impulsy mohou mít aby člověk je rozlišil od sebe.  V našem studie žadný učastník nečetl tak rychle aby poblížil SL.  Stejně doufal jsem, že budou čist rychlejic, a doufam, že budou schopný číst tak rychle jako tisknutí braillovo písmo.  To je asi 7.9CPS\citep{wetzel2006studies}.  To znamená, že za každý 126ms musí čist jedno písmeno.  SL pro mechanoreceptory je 5ms ale nas zajimá 20ms, který je minimální čas aby člověk dvě pocity rozlišil ve správném pořady\citep[str. 32]{nielsen2008gesture}.
+
+V zavěru bych řekl, že učastnici studie byly fizické schopní použivat FCHAD správně.
+
+\section{Podobné nastroje}
+
+\section{Analýza a srovnání s podobnými studii}
 
 \subsection{Swift}
+\subsection{Anderson}
+\subsection{Vlastní model}
+Je možný, že to, jak žáci často nemohli říct, který písmo je "Jedná, dva, tři, pět" byla moje chyba jako pedagog jsem nesprávně odhadil předznalost.
 \subsection{Optacon}
 \subsection{Patterson a Lee}

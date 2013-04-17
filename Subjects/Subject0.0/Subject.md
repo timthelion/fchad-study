@@ -40,6 +40,9 @@ Rational
 Level of visual impairment
 -----
 None
+Notes
+-----
+I, the reasercher, am subject 0. There are many test recordings here. Move along now, move along :)
 Recordings
 ===========
 [2012-11-21-23.47.14.168720000000](2012-11-21-23.47.14.168720000000/Recording.md)

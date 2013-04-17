@@ -28,6 +28,9 @@ zakladní
 Level of visual impairment
 -----
 nevidomy
+Notes
+-----
+
 Recordings
 ===========
 [2013-3-20-13.40.35.805722000000](2013-3-20-13.40.35.805722000000/Recording.md)

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Arch Linux) (format=pdflatex 2013.3.24)  14 APR 2013 21:46
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Arch Linux) (format=pdflatex 2013.3.24)  17 APR 2013 23:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -799,130 +799,174 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 
 (./ch/01_introduction.tex
 Kapitola 1.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 32.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 32.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 32.
 [1
 
 
 
 
 ]
-Overfull \hbox (38.57262pt too wide) in paragraph at lines 75--84
-\T1/qtm/m/n/12 osmím bo-dem: 1 je [] . Ne-existuje ºádný stan-dard pro os-mi-bo
--dové braill-ské písmo.(6DotBraille.com) 
- []
-
-
-Overfull \hbox (5.3362pt too wide) in paragraph at lines 89--90
-[]\T1/qtm/m/n/12 Braillský °á-dek je elek-tro-me-cha-nické za-°í-zení, který "z
-ob-ra-zuje"jeden °á-dek braill-ského textu.
- []
-
-[2] [3]) [4]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 31.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 31.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 31.
+[2] [3]) [4] [5]
 \openout2 = `ch/02_theories_of_learning.aux'.
 
 (./ch/02_theories_of_learning.tex
 Kapitola 2.
-
-Overfull \hbox (1.22098pt too wide) in paragraph at lines 12--13
-\T1/qtm/m/n/12 To je, "ano Tome, má² to správn¥"nebo "ne, to ne-byl upln¥ p°esn
-ý". "No, mu-síte nejd°ív..."anebo
- []
-
-[5
-
-
-
-]) [6]
-\openout2 = `ch/03_experiment.aux'.
-
-(./ch/03_experiment.tex
-Kapitola 3.
-[7
-
-
-
-]) [8] [9]
-\openout2 = `ch/04_analysis.aux'.
-
-(./ch/04_analysis.tex
-Kapitola 4.
-) [10
+[6
 
 
 
 ]
+Overfull \hbox (14.04898pt too wide) in paragraph at lines 31--32
+\T1/qtm/m/n/12 znatk·, do-ved-ností, po-stoj·, aj., ty-picky re-a-li-zo-vaný pr
+o-st°ed-nic-tvím ²kol-ního vy-u-£o-vání^^P(Pr·cha,
+ []
+
+[7]
+
+Package natbib Warning: Citation `.' on page 8 undefined on input line 49.
+
+[8]) [9] [10]
+\openout2 = `ch/03_experiment.aux'.
+
+(./ch/03_experiment.tex
+Kapitola 3.
+[11
+
+
+
+] [12] [13]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 75.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 75.
+LaTeX Font Info:    Try loading font information for T1+qcr on input line 75.
+(/usr/share/texmf-dist/tex/latex/tex-gyre/t1qcr.fd
+File: t1qcr.fd 2009/09/25 v1.2 font definition file for T1/qcr
+)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[14] [15]
+Underfull \vbox (badness 6461) has occurred while \output is active []
+
+[16]) [17]
+\openout2 = `ch/04_analysis.aux'.
+
+(./ch/04_analysis.tex
+Kapitola 4.
+[18
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 12--12
+[][]$\T1/qcr/m/n/10 https : / / secure2 . convio . net / psb / site / Ecommerce
+ ? FOLDER = 1180&store _ id =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--12
+\T1/qcr/m/n/10 1101&JServSessionIdr004 = 9p1uhglug2 . app246a& _ _utma = 184864
+936 . 426189431 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--12
+\T1/qcr/m/n/10 1365936556 . 1365946389 . 1366050996 . 3& _ _utmb = 184864936 . 
+1 . 10 . 1366050996& _
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--12
+\T1/qcr/m/n/10 _utmc = 184864936& _ _utmx = -[]& _ _utmz = 184864936 . 13659365
+56 . 1 . 1 . utmcsr =
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[19]) [20]
 \openout2 = `ch/05_conclusion.aux'.
 
 (./ch/05_conclusion.tex
 Kapitola 5.
-) [11
+) [21
 
 
 
 ] (./diploma.bbl
-LaTeX Font Info:    Try loading font information for T1+qcr on input line 11.
-(/usr/share/texmf-dist/tex/latex/tex-gyre/t1qcr.fd
-File: t1qcr.fd 2009/09/25 v1.2 font definition file for T1/qcr
-)
 Underfull \hbox (badness 10000) in paragraph at lines 19--23
+[]\T1/qtm/m/n/12 BRAILLEAUTHORITY.  Size and Spa-cing of Braille CHa-rac-ters. 
+ $\T1/qcr/m/n/12 http :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--23
+\T1/qcr/m/n/12 / / www . brailleauthority . org / sizespacingofbraille /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--29
 []\T1/qtm/m/n/12 HELPDESKINDIA.  Ca-ta-ract Eye Cur-gery in In-dia.  $\T1/qcr/m
 /n/12 http : / /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 19--23
+Underfull \hbox (badness 10000) in paragraph at lines 25--29
 \T1/qcr/m/n/12 www . healthdeskindia . com / site / Treatments / Eye-[]Care /
  []
 
 
-Overfull \hbox (39.61598pt too wide) in paragraph at lines 19--23
+Overfull \hbox (39.61598pt too wide) in paragraph at lines 25--29
 \T1/qcr/m/n/12 Cost-[]of-[]Cataracts-[]Surgery-[]in-[]India-[]best-[]Hospitals-
 []and-[]eye-[]Surgeon$\T1/qtm/m/n/12 . 
  []
 
 
-Underfull \hbox (badness 5504) in paragraph at lines 30--34
+Underfull \hbox (badness 5504) in paragraph at lines 53--57
 []\T1/qtm/m/n/12 PERKINS.  Braille Dis-plays.  $\T1/qcr/m/n/12 https : / / secu
 re2 . convio . net / psb / site /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 30--34
+Underfull \hbox (badness 10000) in paragraph at lines 53--57
 \T1/qcr/m/n/12 Ecommerce ? FOLDER = 1120&store _ id = 1101&JServSessionIdr004 =
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 30--34
+Underfull \hbox (badness 10000) in paragraph at lines 53--57
 \T1/qcr/m/n/12 iyiu7zdoy1 . app246a& _ _utma = 184864936 . 426189431 . 13659365
 56 .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 30--34
+Underfull \hbox (badness 10000) in paragraph at lines 53--57
 \T1/qcr/m/n/12 1365936556 . 1365936556 . 1& _ _utmb = 184864936 . 1 . 10 . 1365
 936556& _
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 30--34
+Underfull \hbox (badness 10000) in paragraph at lines 53--57
 \T1/qcr/m/n/12 _utmc = 184864936& _ _utmx = -[]& _ _utmz = 184864936 . 13659365
 56 . 1 . 1 .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 30--34
+Underfull \hbox (badness 10000) in paragraph at lines 53--57
 \T1/qcr/m/n/12 utmcsr = (direct ) |utmccn = (direct ) |utmcmd = (none ) & _ _ut
 mv = -[]& _
  []
 
+[22
 
-Underfull \hbox (badness 3029) in paragraph at lines 42--45
+
+]
+Underfull \hbox (badness 3029) in paragraph at lines 80--83
 []\T1/qtm/m/n/12 SONS.  Kla-si-fi-kace zra-ko-vého po-sti-ºení podle WHO.  $\T1
 /qcr/m/n/12 http : / / www . sons . cz /
  []
@@ -937,18 +981,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 273--275
 
  []
 
-[12
-
-
-]
+[23] [24]
 \openout2 = `ch/99_appendices.aux'.
 
-(./ch/99_appendices.tex
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 12.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 12.
-[1
+(./ch/99_appendices.tex [1
 
 
 
@@ -961,13 +997,13 @@ Package epstopdf Info: Source file: <./img/Device1.eps>
 (epstopdf)                    size: 833780 bytes
 (epstopdf)             Command: <repstopdf --outfile=./img/Device1-eps-converte
 d-to.pdf ./img/Device1.eps>
-(epstopdf)             \includegraphics on input line 18.
+(epstopdf)             \includegraphics on input line 20.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Device1-eps-converted-to.pdf, id=78, 2601.72pt x 1951.29pt>
+<./img/Device1-eps-converted-to.pdf, id=120, 2601.72pt x 1951.29pt>
 File: ./img/Device1-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Device1-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Device1-eps-converted-to.pdf used on input line 
-18.
+20.
 (pdftex.def)             Requested size: 448.13095pt x 336.09172pt.
 Package epstopdf Info: Source file: <./img/Device1-A.eps>
 (epstopdf)                    date: 2013-04-14 13:37:15
@@ -977,13 +1013,13 @@ Package epstopdf Info: Source file: <./img/Device1-A.eps>
 (epstopdf)                    size: 843257 bytes
 (epstopdf)             Command: <repstopdf --outfile=./img/Device1-A-eps-conver
 ted-to.pdf ./img/Device1-A.eps>
-(epstopdf)             \includegraphics on input line 21.
+(epstopdf)             \includegraphics on input line 23.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Device1-A-eps-converted-to.pdf, id=79, 2601.72pt x 1951.29pt>
+<./img/Device1-A-eps-converted-to.pdf, id=121, 2601.72pt x 1951.29pt>
 File: ./img/Device1-A-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Device1-A-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Device1-A-eps-converted-to.pdf used on input lin
-e 21.
+e 23.
 (pdftex.def)             Requested size: 212.86151pt x 159.61975pt.
 Package epstopdf Info: Source file: <./img/Device1-B.eps>
 (epstopdf)                    date: 2013-04-14 13:37:22
@@ -993,13 +1029,13 @@ Package epstopdf Info: Source file: <./img/Device1-B.eps>
 (epstopdf)                    size: 814819 bytes
 (epstopdf)             Command: <repstopdf --outfile=./img/Device1-B-eps-conver
 ted-to.pdf ./img/Device1-B.eps>
-(epstopdf)             \includegraphics on input line 27.
+(epstopdf)             \includegraphics on input line 29.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Device1-B-eps-converted-to.pdf, id=80, 2601.72pt x 1951.29pt>
+<./img/Device1-B-eps-converted-to.pdf, id=122, 2601.72pt x 1951.29pt>
 File: ./img/Device1-B-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Device1-B-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Device1-B-eps-converted-to.pdf used on input lin
-e 27.
+e 29.
 (pdftex.def)             Requested size: 212.86151pt x 159.61975pt.
 Package epstopdf Info: Source file: <./img/Device1-C.eps>
 (epstopdf)                    date: 2013-04-14 13:37:31
@@ -1009,13 +1045,13 @@ Package epstopdf Info: Source file: <./img/Device1-C.eps>
 (epstopdf)                    size: 833453 bytes
 (epstopdf)             Command: <repstopdf --outfile=./img/Device1-C-eps-conver
 ted-to.pdf ./img/Device1-C.eps>
-(epstopdf)             \includegraphics on input line 35.
+(epstopdf)             \includegraphics on input line 37.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Device1-C-eps-converted-to.pdf, id=81, 2601.72pt x 1951.29pt>
+<./img/Device1-C-eps-converted-to.pdf, id=123, 2601.72pt x 1951.29pt>
 File: ./img/Device1-C-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Device1-C-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Device1-C-eps-converted-to.pdf used on input lin
-e 35.
+e 37.
 (pdftex.def)             Requested size: 313.69029pt x 235.24634pt.
 Package epstopdf Info: Source file: <./img/Device2.eps>
 (epstopdf)                    date: 2013-04-14 13:36:23
@@ -1025,13 +1061,13 @@ Package epstopdf Info: Source file: <./img/Device2.eps>
 (epstopdf)                    size: 841392 bytes
 (epstopdf)             Command: <repstopdf --outfile=./img/Device2-eps-converte
 d-to.pdf ./img/Device2.eps>
-(epstopdf)             \includegraphics on input line 44.
+(epstopdf)             \includegraphics on input line 46.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Device2-eps-converted-to.pdf, id=82, 1951.29pt x 2601.72pt>
+<./img/Device2-eps-converted-to.pdf, id=124, 1951.29pt x 2601.72pt>
 File: ./img/Device2-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Device2-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Device2-eps-converted-to.pdf used on input line 
-44.
+46.
 (pdftex.def)             Requested size: 179.25305pt x 238.98798pt.
 Package epstopdf Info: Source file: <./img/Device3.eps>
 (epstopdf)                    date: 2013-04-14 13:26:09
@@ -1041,13 +1077,13 @@ Package epstopdf Info: Source file: <./img/Device3.eps>
 (epstopdf)                    size: 1712764 bytes
 (epstopdf)             Command: <repstopdf --outfile=./img/Device3-eps-converte
 d-to.pdf ./img/Device3.eps>
-(epstopdf)             \includegraphics on input line 50.
+(epstopdf)             \includegraphics on input line 52.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Device3-eps-converted-to.pdf, id=83, 2601.72pt x 1951.29pt>
+<./img/Device3-eps-converted-to.pdf, id=125, 2601.72pt x 1951.29pt>
 File: ./img/Device3-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Device3-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Device3-eps-converted-to.pdf used on input line 
-50.
+52.
 (pdftex.def)             Requested size: 179.25305pt x 134.43073pt.
 [2 <./img/Device1-eps-converted-to.pdf> <./img/Device1-A-eps-converted-to.pdf> 
 <./img/Device1-B-eps-converted-to.pdf>] [3 <./img/Device1-C-eps-converted-to.pd
@@ -1059,32 +1095,39 @@ Underfull \vbox (badness 1348) has occurred while \output is active []
 
 ] [5]) [6
 
-] (./diploma.aux (./ch/01_introduction.aux) (./ch/02_theories_of_learning.aux) 
-(./ch/03_experiment.aux) (./ch/04_analysis.aux) (./ch/05_conclusion.aux) (./ch/
-99_appendices.aux))
+]
+
+Package natbib Warning: There were undefined citations.
+
+(./diploma.aux (./ch/01_introduction.aux) (./ch/02_theories_of_learning.aux) (.
+/ch/03_experiment.aux) (./ch/04_analysis.aux) (./ch/05_conclusion.aux) (./ch/99
+_appendices.aux))
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 6583 strings out of 493488
- 97371 string characters out of 3146892
- 209684 words of memory out of 3000000
- 9637 multiletter control sequences out of 15000+200000
- 93099 words of font info for 88 fonts, out of 3000000 for 9000
+ 6625 strings out of 493488
+ 98066 string characters out of 3146892
+ 210046 words of memory out of 3000000
+ 9666 multiletter control sequences out of 15000+200000
+ 101648 words of font info for 100 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 56i,12n,47p,1051b,469s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/share/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}{/usr/share/texmf-di
-st/fonts/enc/dvips/tex-gyre/q-ec-sc.enc}</usr/share/texmf-dist/fonts/type1/publ
-ic/amsfonts/latxfont/lcircle1.pfb></usr/share/texmf-dist/fonts/type1/public/tex
--gyre/qcrr.pfb></usr/share/texmf-dist/fonts/type1/public/tex-gyre/qhvb.pfb></us
-r/share/texmf-dist/fonts/type1/public/tex-gyre/qhvr.pfb></usr/share/texmf-dist/
-fonts/type1/public/tex-gyre/qtmr.pfb></usr/share/texmf-dist/fonts/type1/public/
-tex-gyre/qtmri.pfb>
-Output written on diploma.pdf (25 pages, 6039796 bytes).
+ 56i,12n,47p,1227b,453s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf-dist/fon
+ts/enc/dvips/tex-gyre/q-ec.enc}{/usr/share/texmf-dist/fonts/enc/dvips/tex-gyre/
+q-ec-sc.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></
+usr/share/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb></usr/sh
+are/texmf-dist/fonts/type1/public/tex-gyre/qcrr.pfb></usr/share/texmf-dist/font
+s/type1/public/tex-gyre/qhvb.pfb></usr/share/texmf-dist/fonts/type1/public/tex-
+gyre/qhvr.pfb></usr/share/texmf-dist/fonts/type1/public/tex-gyre/qtmb.pfb></usr
+/share/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb></usr/share/texmf-dist/f
+onts/type1/public/tex-gyre/qtmri.pfb></usr/share/texmf-dist/fonts/type1/urw/tim
+es/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on diploma.pdf (37 pages, 6105568 bytes).
 PDF statistics:
- 142 PDF objects out of 1000 (max. 8388607)
- 91 compressed objects within 1 object stream
+ 200 PDF objects out of 1000 (max. 8388607)
+ 132 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  51 words of extra memory for PDF output out of 10000 (max. 10000000)
 

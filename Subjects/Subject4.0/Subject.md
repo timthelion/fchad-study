@@ -28,6 +28,9 @@ Gymnazium
 Level of visual impairment
 -----
 nevidome
+Notes
+-----
+
 Recordings
 ===========
 [2013-3-20-12.0.13.035368000000](2013-3-20-12.0.13.035368000000/Recording.md)

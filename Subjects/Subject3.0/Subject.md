@@ -28,6 +28,9 @@ Maturita
 Level of visual impairment
 -----
 Nevidomý
+Notes
+-----
+
 Recordings
 ===========
 [2013-3-8-10.12.26.912766000000](2013-3-8-10.12.26.912766000000/Recording.md)

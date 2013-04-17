@@ -31,6 +31,9 @@ FCHAD Cell placement
 Level of visual impairment
 -----
 
+Notes
+-----
+The first exploratory session was cut short by technical failiure of the device.  No significant data was gathered.
 Recordings
 ===========
 [2013-2-20-10.54.25.436837000000](2013-2-20-10.54.25.436837000000/Recording.md)

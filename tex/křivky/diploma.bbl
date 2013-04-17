@@ -1,4 +1,4 @@
-\begin{thebibliography}{10}
+\begin{thebibliography}{18}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -15,16 +15,39 @@ BRAILCOM.
 \newblock Digitální internetová Knihovna KTN - Catalog.
 \newblock \url{https://biblio.brailcom.org/biblio/catalog?f=braille&q=}.
 
+\bibitem[BrailleAuthority()]{brailleautority}
+BRAILLEAUTHORITY.
+\newblock Size and Spacing of Braille CHaracters.
+\newblock
+  \url{http://www.brailleauthority.org/sizespacingofbraille/sizespacingofbraille.pdf}.
+
 \bibitem[HelpDeskIndia()]{cataractsindia}
 HELPDESKINDIA.
 \newblock Cataract Eye Curgery in India.
 \newblock
   \url{http://www.healthdeskindia.com/site/Treatments/Eye-Care/Cost-of-Cataracts-Surgery-in-India-best-Hospitals-and-eye-Surgeon}.
 
+\bibitem[MultiComp()]{multicomp}
+MULTICOMP.
+\newblock Solenoids.
+\newblock \url{http://www.farnell.com/datasheets/1490818.pdf}.
+
 \bibitem[MěstskáKnihovnavPraze()]{mlp}
 MěSTSKáKNIHOVNAVPRAZE.
 \newblock Výsledek vyhledávání.
 \newblock \url{http://search.mlp.cz/#/c_s_ol=}.
+
+\bibitem[Nielsen et~al.(2008)Nielsen, Moeslund, Storring,,
+  Granum]{nielsen2008gesture}
+NIELSEN, M. et~al.
+\newblock Gesture interfaces in HCI Beyond the GUI: Design for Haptic, Speech,
+  Olfactory, and Other Nontraditional Interfaces. P. Kortum, ed, 2008.
+
+\bibitem[O'Malley et~al.(1987)O'Malley, Chamot,, Walker]{o1987some}
+O'MALLEY, J.~M. -- CHAMOT, A.~U. -- WALKER, C.
+\newblock Some applications of cognitive theory to second language acquisition.
+\newblock \emph{Studies in Second Language Acquisition}. 1987, 9, 03,
+  s.~287--306.
 
 \bibitem[Perkins()]{perkinsdisplays}
 PERKINS.
@@ -32,22 +55,50 @@ PERKINS.
 \newblock
   \url{https://secure2.convio.net/psb/site/Ecommerce?FOLDER=1120&store_id=1101&JServSessionIdr004=iyiu7zdoy1.app246a&__utma=184864936.426189431.1365936556.1365936556.1365936556.1&__utmb=184864936.1.10.1365936556&__utmc=184864936&__utmx=-&__utmz=184864936.1365936556.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)&__utmv=-&__utmk=164449855}.
 
+\bibitem[Průcha(2009)]{prucha2009prehled}
+PRůCHA, J.
+\newblock P{\v{r}}ehled pedagogiky: {\'u}vod do studia oboru. 3., aktualiz.
+  vyd. Praha.
+\newblock \emph{Port{\'a}l}. 2009.
+
 \bibitem[Ranalli()]{perkins}
 RANALLI, R.
 \newblock A boost for Braille.
 \newblock
   \url{http://www.perkins.org/news-events/press/a-boost-for-braille.html}.
 
+\bibitem[Robert S.~Wyer -- Srull(1994)Robert S.~Wyer,
+  Srull]{robert1994handbook}
+ROBERT S.~WYER, J. -- SRULL, T.
+\newblock \emph{Handbook of Social Cognition: Basic Processes}.
+\newblock Handbook of Social Cognition. Lawrence Erlbaum Associates,
+  Incorporated, 1994.
+\newblock Dostupn{\'{e}} z: \url{http://books.google.cz/books?id=Q6qr0dnbVjsC}.
+\newblock ISBN 9780805810578.
+
 \bibitem[SONS()]{sonsklasifikace}
 SONS.
 \newblock Klasifikace zrakového postižení podle WHO.
 \newblock \url{http://www.sons.cz/klasifikace.php}.
+
+\bibitem[Taylor(2010)]{taylor2010theory}
+TAYLOR, J.
+\newblock A theory of learning for the mobile age.
+\newblock In \emph{Medienbildung in neuen Kulturr{\"a}umen}. Springer, 2010. s.
+  87--99.
 
 \bibitem[Vel{\'a}zquez(2010)]{velazquez2010wearable}
 VEL{\'A}ZQUEZ, R.
 \newblock Wearable assistive devices for the blind.
 \newblock In \emph{Wearable and Autonomous Biomedical Devices and Systems for
   Smart Environment}. Springer, 2010. s. 331--349.
+
+\bibitem[Wetzel -- Knowlton(2006)Wetzel, Knowlton]{wetzel2006studies}
+WETZEL, R. -- KNOWLTON, M.
+\newblock Studies of braille reading rates and implications for the unified
+  English braille code.
+\newblock \emph{Journal of Visual Impairment and Blindness}. 2006, 100, 5,
+  s.~275.
 
 \bibitem[WHO(2012)]{whodata}
 WHO.
