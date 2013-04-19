@@ -216,7 +216,6 @@ INPUT /usr/share/texmf-dist/fonts/tfm/public/tex-gyre/ec-qtmri.tfm
 OUTPUT ch/02_theories_of_learning.aux
 INPUT ch/02_theories_of_learning.tex
 INPUT ch/02_theories_of_learning.tex
-INPUT /usr/share/texmf-dist/fonts/tfm/public/tex-gyre/ec-qtmb.tfm
 OUTPUT ch/03_experiment.aux
 INPUT ch/03_experiment.tex
 INPUT ch/03_experiment.tex
@@ -340,7 +339,6 @@ INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/public/tex-gyre/qcrr.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/public/tex-gyre/qhvb.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/public/tex-gyre/qhvr.pfb
-INPUT /usr/share/texmf-dist/fonts/type1/public/tex-gyre/qtmb.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/public/tex-gyre/qtmri.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb
