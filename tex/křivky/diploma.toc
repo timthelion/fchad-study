@@ -36,6 +36,8 @@
 \contentsline {subsubsection}{\IeC {\v Z}ak 5}{18}
 \contentsline {subsubsection}{\IeC {\v Z}ak 6}{18}
 \contentsline {subsubsection}{\IeC {\v Z}ak 7}{18}
+\contentsline {subsubsection}{\IeC {\v Z}ak 8}{18}
+\contentsline {subsubsection}{\IeC {\v Z}ak 9}{18}
 \contentsline {section}{\numberline {3.4}Shrnut\IeC {\'\i } vysledk\IeC {\r u}}{18}
 \contentsline {chapter}{\numberline {4}Analyza a srovn\IeC {\'a}n\IeC {\'\i }}{19}
 \contentsline {section}{\numberline {4.1}Vymezen\IeC {\'\i } fyziologick\IeC {\'e} schopnosti}{19}

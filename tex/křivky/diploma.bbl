@@ -1,4 +1,4 @@
-\begin{thebibliography}{21}
+\begin{thebibliography}{23}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -9,6 +9,11 @@
 6DOTBRAILLE.COM.
 \newblock LouisBraille: 6 dot Braille.
 \newblock \url{http://6dotbraille.com/}.
+
+\bibitem[Anki()]{anki}
+ANKI.
+\newblock Spaced Repetition.
+\newblock \url{http://ankisrs.net/docs/manual.html}.
 
 \bibitem[Brailcom()]{biblio}
 BRAILCOM.
@@ -33,6 +38,12 @@ HELPDESKINDIA.
 \newblock Cataract Eye Curgery in India.
 \newblock
   \url{http://www.healthdeskindia.com/site/Treatments/Eye-Care/Cost-of-Cataracts-Surgery-in-India-best-Hospitals-and-eye-Surgeon}.
+
+\bibitem[Hintzman(1976)]{hintzman1976repetition}
+HINTZMAN, D.~L.
+\newblock Repetition and memory.
+\newblock \emph{The psychology of learning and motivation}. 1976, 10,
+  s.~47--91.
 
 \bibitem[MultiComp()]{multicomp}
 MULTICOMP.

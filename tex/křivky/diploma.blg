@@ -10,6 +10,7 @@ The style file: csplainnat.bst
 A level-1 auxiliary file: ch/99_appendices.aux
 Database file #1: references.bib
 Warning--empty year in 6dotbraille
+Warning--empty year in anki
 Warning--empty year in biblio
 Warning--empty year in brailleautority
 Warning--empty year in cataractsindia
@@ -25,45 +26,45 @@ while executing---line 1484 of file csplainnat.bst
 `address' is a missing field, not a string, for entry velazquez2010wearable
 while executing---line 1484 of file csplainnat.bst
 Warning--empty year in whozakal
-You've used 21 entries,
+You've used 23 entries,
             2899 wiz_defined-function locations,
-            740 strings with 8474 characters,
-and the built_in function-call counts, 7724 in all, are:
-= -- 718
-> -- 289
-< -- 22
-+ -- 101
-- -- 80
-* -- 424
-:= -- 1213
-add.period$ -- 75
-call.type$ -- 21
-change.case$ -- 74
-chr.to.int$ -- 21
-cite$ -- 52
-duplicate$ -- 416
-empty$ -- 754
-format.name$ -- 131
-if$ -- 1682
+            751 strings with 8655 characters,
+and the built_in function-call counts, 8404 in all, are:
+= -- 783
+> -- 311
+< -- 24
++ -- 109
+- -- 86
+* -- 459
+:= -- 1322
+add.period$ -- 82
+call.type$ -- 23
+change.case$ -- 80
+chr.to.int$ -- 23
+cite$ -- 57
+duplicate$ -- 453
+empty$ -- 823
+format.name$ -- 141
+if$ -- 1828
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 10
-newline$ -- 114
-num.names$ -- 104
-pop$ -- 238
+missing$ -- 11
+newline$ -- 124
+num.names$ -- 114
+pop$ -- 258
 preamble$ -- 1
-purify$ -- 49
+purify$ -- 53
 quote$ -- 0
-skip$ -- 295
+skip$ -- 319
 stack$ -- 0
-substring$ -- 214
-swap$ -- 46
+substring$ -- 237
+swap$ -- 48
 text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 226
-warning$ -- 10
-while$ -- 78
+type$ -- 248
+warning$ -- 11
+while$ -- 86
 width$ -- 0
-write$ -- 261
+write$ -- 285
 (There were 3 error messages)

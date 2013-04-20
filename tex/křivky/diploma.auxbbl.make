@@ -74,16 +74,20 @@
 \@writefile{toc}{\contentsline {subsubsection}{\IeC {\v Z}ak 5}{18}}
 \@writefile{toc}{\contentsline {subsubsection}{\IeC {\v Z}ak 6}{18}}
 \@writefile{toc}{\contentsline {subsubsection}{\IeC {\v Z}ak 7}{18}}
+\@writefile{toc}{\contentsline {subsubsection}{\IeC {\v Z}ak 8}{18}}
+\@writefile{toc}{\contentsline {subsubsection}{\IeC {\v Z}ak 9}{18}}
 \@writefile{toc}{\select@language{czech}}
 \bibdata{references}
 \bibstyle{csplainnat}
 \catcode`"\active
 \catcode`-\active
 \citation{6dotbraille}
+\citation{anki}
 \citation{biblio}
 \citation{brailleautority}
 \citation{brauer1998stroop}
 \citation{cataractsindia}
+\citation{hintzman1976repetition}
 \citation{mlp}
 \citation{multicomp}
 \citation{nielsen2008gesture}
@@ -97,6 +101,7 @@
 \citation{robert1994handbook}
 \citation{sonsklasifikace}
 \citation{swift1903studies,thomas1988role}
+\citation{swift1903studies}
 \citation{swift1903studies}
 \citation{taylor2010theory}
 \citation{velazquez2010wearable}
