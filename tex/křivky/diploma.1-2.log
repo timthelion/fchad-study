@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Arch Linux) (format=pdflatex 2013.3.24)  20 APR 2013 13:59
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Arch Linux) (format=pdflatex 2013.3.24)  20 APR 2013 22:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -827,23 +827,18 @@ o-st°ed-nic-tvím ²kol-ního vy-u-£o-vání^^P(Pr·cha,
  []
 
 [7] [8] [9] [10]
+Underfull \vbox (badness 2435) has occurred while \output is active []
 
-Package natbib Warning: Citation `hintzman1976repetition' on page 11 undefined 
-on input line 94.
-
-
-Package natbib Warning: Citation `anki' on page 11 undefined on input line 94.
-
-) [11]
+[11]) [12]
 \openout2 = `ch/03_experiment.aux'.
 
 (./ch/03_experiment.tex
 Kapitola 3.
-[12
+[13
 
 
 
-] [13] [14]
+] [14] [15]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 75.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
@@ -851,18 +846,15 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
 LaTeX Font Info:    Try loading font information for T1+qcr on input line 75.
 (/usr/share/texmf-dist/tex/latex/tex-gyre/t1qcr.fd
 File: t1qcr.fd 2009/09/25 v1.2 font definition file for T1/qcr
-)
+) [16] [17] [18])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[15] [16]
-Underfull \vbox (badness 6461) has occurred while \output is active []
-
-[17]) [18]
+[19] [20]
 \openout2 = `ch/04_analysis.aux'.
 
 (./ch/04_analysis.tex
 Kapitola 4.
-[19
+[21
 
 
 
@@ -893,12 +885,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--12
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[20]) [21]
+[22]) [23]
 \openout2 = `ch/05_conclusion.aux'.
 
 (./ch/05_conclusion.tex
 Kapitola 5.
-) [22
+) [24
 
 
 
@@ -930,7 +922,7 @@ Overfull \hbox (39.61598pt too wide) in paragraph at lines 37--41
 []and-[]eye-[]Surgeon$\T1/qtm/m/n/12 . 
  []
 
-[23
+[25
 
 
 ]
@@ -975,7 +967,7 @@ Underfull \hbox (badness 3029) in paragraph at lines 98--101
 /qcr/m/n/12 http : / / www . sons . cz /
  []
 
-[24])
+[26])
 Underfull \hbox (badness 10000) in paragraph at lines 273--275
 
  []
@@ -985,7 +977,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 273--275
 
  []
 
-[25]
+[27]
 \openout2 = `ch/99_appendices.aux'.
 
 (./ch/99_appendices.tex [1
@@ -1003,7 +995,7 @@ Package epstopdf Info: Source file: <./img/Device1.eps>
 d-to.pdf ./img/Device1.eps>
 (epstopdf)             \includegraphics on input line 20.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Device1-eps-converted-to.pdf, id=123, 2601.72pt x 1951.29pt>
+<./img/Device1-eps-converted-to.pdf, id=129, 2601.72pt x 1951.29pt>
 File: ./img/Device1-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Device1-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Device1-eps-converted-to.pdf used on input line 
@@ -1019,7 +1011,7 @@ Package epstopdf Info: Source file: <./img/Device1-A.eps>
 ted-to.pdf ./img/Device1-A.eps>
 (epstopdf)             \includegraphics on input line 23.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Device1-A-eps-converted-to.pdf, id=124, 2601.72pt x 1951.29pt>
+<./img/Device1-A-eps-converted-to.pdf, id=130, 2601.72pt x 1951.29pt>
 File: ./img/Device1-A-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Device1-A-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Device1-A-eps-converted-to.pdf used on input lin
@@ -1035,7 +1027,7 @@ Package epstopdf Info: Source file: <./img/Device1-B.eps>
 ted-to.pdf ./img/Device1-B.eps>
 (epstopdf)             \includegraphics on input line 29.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Device1-B-eps-converted-to.pdf, id=125, 2601.72pt x 1951.29pt>
+<./img/Device1-B-eps-converted-to.pdf, id=131, 2601.72pt x 1951.29pt>
 File: ./img/Device1-B-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Device1-B-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Device1-B-eps-converted-to.pdf used on input lin
@@ -1051,7 +1043,7 @@ Package epstopdf Info: Source file: <./img/Device1-C.eps>
 ted-to.pdf ./img/Device1-C.eps>
 (epstopdf)             \includegraphics on input line 37.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Device1-C-eps-converted-to.pdf, id=126, 2601.72pt x 1951.29pt>
+<./img/Device1-C-eps-converted-to.pdf, id=132, 2601.72pt x 1951.29pt>
 File: ./img/Device1-C-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Device1-C-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Device1-C-eps-converted-to.pdf used on input lin
@@ -1067,7 +1059,7 @@ Package epstopdf Info: Source file: <./img/Device2.eps>
 d-to.pdf ./img/Device2.eps>
 (epstopdf)             \includegraphics on input line 46.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Device2-eps-converted-to.pdf, id=127, 1951.29pt x 2601.72pt>
+<./img/Device2-eps-converted-to.pdf, id=133, 1951.29pt x 2601.72pt>
 File: ./img/Device2-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Device2-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Device2-eps-converted-to.pdf used on input line 
@@ -1083,7 +1075,7 @@ Package epstopdf Info: Source file: <./img/Device3.eps>
 d-to.pdf ./img/Device3.eps>
 (epstopdf)             \includegraphics on input line 52.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Device3-eps-converted-to.pdf, id=128, 2601.72pt x 1951.29pt>
+<./img/Device3-eps-converted-to.pdf, id=134, 2601.72pt x 1951.29pt>
 File: ./img/Device3-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Device3-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Device3-eps-converted-to.pdf used on input line 
@@ -1099,26 +1091,18 @@ Underfull \vbox (badness 1348) has occurred while \output is active []
 
 ] [5]) [6
 
-]
-
-Package natbib Warning: There were undefined citations.
-
-(./diploma.aux (./ch/01_introduction.aux) (./ch/02_theories_of_learning.aux) (.
-/ch/03_experiment.aux) (./ch/04_analysis.aux) (./ch/05_conclusion.aux)
-
-Package natbib Warning: Citation(s) may have changed.
-(natbib)                Rerun to get citations correct.
-
-(./ch/99_appendices.aux))
+] (./diploma.aux (./ch/01_introduction.aux) (./ch/02_theories_of_learning.aux) 
+(./ch/03_experiment.aux) (./ch/04_analysis.aux) (./ch/05_conclusion.aux) (./ch/
+99_appendices.aux))
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 6641 strings out of 493488
- 98425 string characters out of 3146892
- 210123 words of memory out of 3000000
- 9682 multiletter control sequences out of 15000+200000
+ 6638 strings out of 493488
+ 98386 string characters out of 3146892
+ 210171 words of memory out of 3000000
+ 9679 multiletter control sequences out of 15000+200000
  101648 words of font info for 100 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
  56i,12n,47p,1227b,453s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1132,10 +1116,10 @@ gyre/qhvr.pfb></usr/share/texmf-dist/fonts/type1/public/tex-gyre/qtmb.pfb></usr
 /share/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb></usr/share/texmf-dist/f
 onts/type1/public/tex-gyre/qtmri.pfb></usr/share/texmf-dist/fonts/type1/urw/tim
 es/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on diploma.pdf (38 pages, 6114237 bytes).
+Output written on diploma.pdf (40 pages, 6116758 bytes).
 PDF statistics:
- 203 PDF objects out of 1000 (max. 8388607)
- 134 compressed objects within 2 object streams
+ 209 PDF objects out of 1000 (max. 8388607)
+ 138 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  51 words of extra memory for PDF output out of 10000 (max. 10000000)
 
