@@ -1,9 +1,20 @@
-\begin{thebibliography}{23}
+\begin{thebibliography}{24}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[bra()]{brailleautority}
+\emph{Size and Spacing of Braille Characters} [online]. {Bralle Authority}.
+  [cit.~13.\,4.\,2013].
+\newblock Dostupn{\'{e}} z:
+  \url{<http://www.brailleauthority.org/sizespacingofbraille/sizespacingofbraille.pdf>}.
+
+\bibitem[son()]{sonsklasifikace}
+\emph{Size and Spacing of Braille Characters} [online]. {SONS}.
+  [cit.~13.\,4.\,2013].
+\newblock Dostupn{\'{e}} z: \url{<http://www.sons.cz/klasifikace.php>}.
 
 \bibitem[6DotBraille.com()]{6dotbraille}
 6DOTBRAILLE.COM.
@@ -13,18 +24,12 @@
 \bibitem[Anki()]{anki}
 ANKI.
 \newblock Spaced Repetition.
-\newblock \url{http://ankisrs.net/docs/manual.html}.
+\newblock \url{<http://ankisrs.net/docs/manual.html>}.
 
 \bibitem[Brailcom()]{biblio}
 BRAILCOM.
 \newblock Digitální internetová Knihovna KTN - Catalog.
 \newblock \url{https://biblio.brailcom.org/biblio/catalog?f=braille&q=}.
-
-\bibitem[BrailleAuthority()]{brailleautority}
-BRAILLEAUTHORITY.
-\newblock Size and Spacing of Braille CHaracters.
-\newblock
-  \url{http://www.brailleauthority.org/sizespacingofbraille/sizespacingofbraille.pdf}.
 
 \bibitem[Brauer(1998)]{brauer1998stroop}
 BRAUER, M.
@@ -45,10 +50,16 @@ HINTZMAN, D.~L.
 \newblock \emph{The psychology of learning and motivation}. 1976, 10,
   s.~47--91.
 
+\bibitem[Holz -- Baudisch(2011)Holz, Baudisch]{holz2011understanding}
+HOLZ, C. -- BAUDISCH, P.
+\newblock Understanding touch.
+\newblock In \emph{Proceedings of the 2011 annual conference on Human factors
+  in computing systems}, s. 2501--2510. ACM, 2011.
+
 \bibitem[MultiComp()]{multicomp}
 MULTICOMP.
 \newblock Solenoids.
-\newblock \url{http://www.farnell.com/datasheets/1490818.pdf}.
+\newblock \url{<http://www.farnell.com/datasheets/1490818.pdf>}.
 
 \bibitem[MěstskáKnihovnavPraze()]{mlp}
 MěSTSKáKNIHOVNAVPRAZE.
@@ -71,7 +82,7 @@ O'MALLEY, J.~M. -- CHAMOT, A.~U. -- WALKER, C.
 PERKINS.
 \newblock Braille Displays.
 \newblock
-  \url{https://secure2.convio.net/psb/site/Ecommerce?FOLDER=1120&store_id=1101&JServSessionIdr004=iyiu7zdoy1.app246a&__utma=184864936.426189431.1365936556.1365936556.1365936556.1&__utmb=184864936.1.10.1365936556&__utmc=184864936&__utmx=-&__utmz=184864936.1365936556.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)&__utmv=-&__utmk=164449855}.
+  \url{<https://secure2.convio.net/psb/site/Ecommerce?FOLDER=1120&store_id=1101&JServSessionIdr004=iyiu7zdoy1.app246a&__utma=184864936.426189431.1365936556.1365936556.1365936556.1&__utmb=184864936.1.10.1365936556&__utmc=184864936&__utmx=-&__utmz=184864936.1365936556.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)&__utmv=-&__utmk=164449855>}.
 
 \bibitem[Průcha(2009)]{prucha2009prehled}
 PRůCHA, J.
@@ -93,11 +104,6 @@ ROBERT S.~WYER, J. -- SRULL, T.
   Incorporated, 1994.
 \newblock Dostupn{\'{e}} z: \url{http://books.google.cz/books?id=Q6qr0dnbVjsC}.
 \newblock ISBN 9780805810578.
-
-\bibitem[SONS()]{sonsklasifikace}
-SONS.
-\newblock Klasifikace zrakového postižení podle WHO.
-\newblock \url{http://www.sons.cz/klasifikace.php}.
 
 \bibitem[Swift(1903)]{swift1903studies}
 SWIFT, E.~J.

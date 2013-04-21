@@ -9,10 +9,11 @@ A level-1 auxiliary file: ch/05_conclusion.aux
 The style file: csplainnat.bst
 A level-1 auxiliary file: ch/99_appendices.aux
 Database file #1: references.bib
+Warning--to sort, need author or key in sonsklasifikace
+Warning--to sort, need author or key in brailleautority
 Warning--empty year in 6dotbraille
 Warning--empty year in anki
 Warning--empty year in biblio
-Warning--empty year in brailleautority
 Warning--empty year in cataractsindia
 Warning--empty year in multicomp
 Warning--empty year in mlp
@@ -20,51 +21,50 @@ Warning--empty year in perkinsdisplays
 Warning--empty year in perkins
 `address' is a missing field, not a string, for entry robert1994handbook
 while executing---line 1484 of file csplainnat.bst
-Warning--empty year in sonsklasifikace
 `address' is a missing field, not a string, for entry taylor2010theory
 while executing---line 1484 of file csplainnat.bst
 `address' is a missing field, not a string, for entry velazquez2010wearable
 while executing---line 1484 of file csplainnat.bst
 Warning--empty year in whozakal
-You've used 23 entries,
+You've used 24 entries,
             2899 wiz_defined-function locations,
-            751 strings with 8655 characters,
-and the built_in function-call counts, 8404 in all, are:
-= -- 783
+            758 strings with 8799 characters,
+and the built_in function-call counts, 8895 in all, are:
+= -- 871
 > -- 311
 < -- 24
-+ -- 109
++ -- 110
 - -- 86
-* -- 459
-:= -- 1322
-add.period$ -- 82
-call.type$ -- 23
-change.case$ -- 80
-chr.to.int$ -- 23
-cite$ -- 57
-duplicate$ -- 453
-empty$ -- 823
-format.name$ -- 141
-if$ -- 1828
+* -- 512
+:= -- 1366
+add.period$ -- 88
+call.type$ -- 24
+change.case$ -- 81
+chr.to.int$ -- 24
+cite$ -- 61
+duplicate$ -- 479
+empty$ -- 850
+format.name$ -- 142
+if$ -- 1962
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 11
-newline$ -- 124
-num.names$ -- 114
-pop$ -- 258
+missing$ -- 18
+newline$ -- 127
+num.names$ -- 109
+pop$ -- 252
 preamble$ -- 1
-purify$ -- 53
+purify$ -- 54
 quote$ -- 0
-skip$ -- 319
+skip$ -- 340
 stack$ -- 0
-substring$ -- 237
-swap$ -- 48
-text.length$ -- 3
+substring$ -- 281
+swap$ -- 61
+text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 248
+type$ -- 259
 warning$ -- 11
 while$ -- 86
 width$ -- 0
-write$ -- 285
+write$ -- 299
 (There were 3 error messages)

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Arch Linux) (format=pdflatex 2013.3.24)  20 APR 2013 22:05
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Arch Linux) (format=pdflatex 2013.3.24)  21 APR 2013 15:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -78,8 +78,8 @@ Package typearea Info: These are the values describing the layout:
 (typearea)             \paperwidth      = 597.50793pt
 (typearea)              \textwidth      = 448.13095pt
 (typearea)              DIV departure   = -6%
-(typearea)              \evensidemargin = 27.31467pt
-(typearea)              \oddsidemargin  = -22.47766pt
+(typearea)              \evensidemargin = 2.4185pt
+(typearea)              \oddsidemargin  = 2.4185pt
 (typearea)             \paperheight     = 845.04694pt
 (typearea)              \textheight     = 635.5pt
 (typearea)              \topmargin      = -41.72441pt
@@ -723,16 +723,15 @@ e
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 \big@size=\dimen122
-[1
-
-]
-LaTeX Font Info:    Try loading font information for T1+qhv on input line 160.
+LaTeX Font Info:    Try loading font information for T1+qhv on input line 159.
 (/usr/share/texmf-dist/tex/latex/tex-gyre/t1qhv.fd
 File: t1qhv.fd 2009/09/25 v1.2 font definition file for T1/qhv
 ) [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 210--212
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [1
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 238--240
 
  []
 
@@ -741,17 +740,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 210--212
 ] [3
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 240--241
+Underfull \hbox (badness 10000) in paragraph at lines 268--269
 
  []
 
 (./ch/00_abstract_cs.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 243--244
+Underfull \hbox (badness 10000) in paragraph at lines 271--272
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 249--250
+Underfull \hbox (badness 10000) in paragraph at lines 277--278
 
  []
 
@@ -826,10 +825,7 @@ Overfull \hbox (14.04898pt too wide) in paragraph at lines 31--32
 o-st°ed-nic-tvím ²kol-ního vy-u-£o-vání^^P(Pr·cha,
  []
 
-[7] [8] [9] [10]
-Underfull \vbox (badness 2435) has occurred while \output is active []
-
-[11]) [12]
+[7] [8] [9] [10] [11]) [12]
 \openout2 = `ch/03_experiment.aux'.
 
 (./ch/03_experiment.tex
@@ -846,15 +842,12 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
 LaTeX Font Info:    Try loading font information for T1+qcr on input line 75.
 (/usr/share/texmf-dist/tex/latex/tex-gyre/t1qcr.fd
 File: t1qcr.fd 2009/09/25 v1.2 font definition file for T1/qcr
-) [16] [17] [18])
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[19] [20]
+) [16] [17] [18] [19] [20]) [21]
 \openout2 = `ch/04_analysis.aux'.
 
 (./ch/04_analysis.tex
 Kapitola 4.
-[21
+[22
 
 
 
@@ -882,102 +875,82 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--12
 56 . 1 . 1 . utmcsr =
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[22]) [23]
+[23]) [24]
 \openout2 = `ch/05_conclusion.aux'.
 
 (./ch/05_conclusion.tex
 Kapitola 5.
-) [24
+) [25
 
 
 
 ] (./diploma.bbl
-Underfull \hbox (badness 10000) in paragraph at lines 24--28
-[]\T1/qtm/m/n/12 BRAILLEAUTHORITY.  Size and Spa-cing of Braille CHa-rac-ters. 
- $\T1/qcr/m/n/12 http :
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 24--28
-\T1/qcr/m/n/12 / / www . brailleauthority . org / sizespacingofbraille /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 37--41
+Underfull \hbox (badness 10000) in paragraph at lines 42--46
 []\T1/qtm/m/n/12 HELPDESKINDIA.  Ca-ta-ract Eye Cur-gery in In-dia.  $\T1/qcr/m
 /n/12 http : / /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 37--41
+Underfull \hbox (badness 10000) in paragraph at lines 42--46
 \T1/qcr/m/n/12 www . healthdeskindia . com / site / Treatments / Eye-[]Care /
  []
 
 
-Overfull \hbox (39.61598pt too wide) in paragraph at lines 37--41
+Overfull \hbox (39.61598pt too wide) in paragraph at lines 42--46
 \T1/qcr/m/n/12 Cost-[]of-[]Cataracts-[]Surgery-[]in-[]India-[]best-[]Hospitals-
 []and-[]eye-[]Surgeon$\T1/qtm/m/n/12 . 
  []
 
-[25
+[26
 
 
 ]
-Underfull \hbox (badness 5504) in paragraph at lines 71--75
-[]\T1/qtm/m/n/12 PERKINS.  Braille Dis-plays.  $\T1/qcr/m/n/12 https : / / secu
-re2 . convio . net / psb / site /
+Underfull \hbox (badness 3229) in paragraph at lines 82--86
+[]\T1/qtm/m/n/12 PERKINS.  Braille Dis-plays.  $\T1/qcr/m/n/12 <[]https : / / s
+ecure2 . convio . net / psb / site /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--75
+Underfull \hbox (badness 10000) in paragraph at lines 82--86
 \T1/qcr/m/n/12 Ecommerce ? FOLDER = 1120&store _ id = 1101&JServSessionIdr004 =
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--75
+Underfull \hbox (badness 10000) in paragraph at lines 82--86
 \T1/qcr/m/n/12 iyiu7zdoy1 . app246a& _ _utma = 184864936 . 426189431 . 13659365
 56 .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--75
+Underfull \hbox (badness 10000) in paragraph at lines 82--86
 \T1/qcr/m/n/12 1365936556 . 1365936556 . 1& _ _utmb = 184864936 . 1 . 10 . 1365
 936556& _
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--75
+Underfull \hbox (badness 10000) in paragraph at lines 82--86
 \T1/qcr/m/n/12 _utmc = 184864936& _ _utmx = -[]& _ _utmz = 184864936 . 13659365
 56 . 1 . 1 .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--75
+Underfull \hbox (badness 10000) in paragraph at lines 82--86
 \T1/qcr/m/n/12 utmcsr = (direct ) |utmccn = (direct ) |utmcmd = (none ) & _ _ut
 mv = -[]& _
  []
 
-
-Underfull \hbox (badness 3029) in paragraph at lines 98--101
-[]\T1/qtm/m/n/12 SONS.  Kla-si-fi-kace zra-ko-vého po-sti-ºení podle WHO.  $\T1
-/qcr/m/n/12 http : / / www . sons . cz /
- []
-
-[26])
-Underfull \hbox (badness 10000) in paragraph at lines 273--275
+[27])
+Underfull \hbox (badness 10000) in paragraph at lines 301--303
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 273--275
+Underfull \hbox (badness 10000) in paragraph at lines 301--303
 
  []
 
-[27]
+[28]
 \openout2 = `ch/99_appendices.aux'.
 
 (./ch/99_appendices.tex [1
@@ -995,7 +968,7 @@ Package epstopdf Info: Source file: <./img/Device1.eps>
 d-to.pdf ./img/Device1.eps>
 (epstopdf)             \includegraphics on input line 20.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Device1-eps-converted-to.pdf, id=129, 2601.72pt x 1951.29pt>
+<./img/Device1-eps-converted-to.pdf, id=132, 2601.72pt x 1951.29pt>
 File: ./img/Device1-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Device1-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Device1-eps-converted-to.pdf used on input line 
@@ -1011,7 +984,7 @@ Package epstopdf Info: Source file: <./img/Device1-A.eps>
 ted-to.pdf ./img/Device1-A.eps>
 (epstopdf)             \includegraphics on input line 23.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Device1-A-eps-converted-to.pdf, id=130, 2601.72pt x 1951.29pt>
+<./img/Device1-A-eps-converted-to.pdf, id=133, 2601.72pt x 1951.29pt>
 File: ./img/Device1-A-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Device1-A-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Device1-A-eps-converted-to.pdf used on input lin
@@ -1027,7 +1000,7 @@ Package epstopdf Info: Source file: <./img/Device1-B.eps>
 ted-to.pdf ./img/Device1-B.eps>
 (epstopdf)             \includegraphics on input line 29.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Device1-B-eps-converted-to.pdf, id=131, 2601.72pt x 1951.29pt>
+<./img/Device1-B-eps-converted-to.pdf, id=134, 2601.72pt x 1951.29pt>
 File: ./img/Device1-B-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Device1-B-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Device1-B-eps-converted-to.pdf used on input lin
@@ -1043,7 +1016,7 @@ Package epstopdf Info: Source file: <./img/Device1-C.eps>
 ted-to.pdf ./img/Device1-C.eps>
 (epstopdf)             \includegraphics on input line 37.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Device1-C-eps-converted-to.pdf, id=132, 2601.72pt x 1951.29pt>
+<./img/Device1-C-eps-converted-to.pdf, id=135, 2601.72pt x 1951.29pt>
 File: ./img/Device1-C-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Device1-C-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Device1-C-eps-converted-to.pdf used on input lin
@@ -1059,7 +1032,7 @@ Package epstopdf Info: Source file: <./img/Device2.eps>
 d-to.pdf ./img/Device2.eps>
 (epstopdf)             \includegraphics on input line 46.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Device2-eps-converted-to.pdf, id=133, 1951.29pt x 2601.72pt>
+<./img/Device2-eps-converted-to.pdf, id=136, 1951.29pt x 2601.72pt>
 File: ./img/Device2-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Device2-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Device2-eps-converted-to.pdf used on input line 
@@ -1075,7 +1048,7 @@ Package epstopdf Info: Source file: <./img/Device3.eps>
 d-to.pdf ./img/Device3.eps>
 (epstopdf)             \includegraphics on input line 52.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Device3-eps-converted-to.pdf, id=134, 2601.72pt x 1951.29pt>
+<./img/Device3-eps-converted-to.pdf, id=137, 2601.72pt x 1951.29pt>
 File: ./img/Device3-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Device3-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Device3-eps-converted-to.pdf used on input line 
@@ -1083,10 +1056,8 @@ Package pdftex.def Info: ./img/Device3-eps-converted-to.pdf used on input line
 (pdftex.def)             Requested size: 179.25305pt x 134.43073pt.
 [2 <./img/Device1-eps-converted-to.pdf> <./img/Device1-A-eps-converted-to.pdf> 
 <./img/Device1-B-eps-converted-to.pdf>] [3 <./img/Device1-C-eps-converted-to.pd
-f> <./img/Device2-eps-converted-to.pdf> <./img/Device3-eps-converted-to.pdf>]
-Underfull \vbox (badness 1348) has occurred while \output is active []
-
-[4
+f> <./img/Device2-eps-converted-to.pdf> <./img/Device3-eps-converted-to.pdf>] [
+4
 
 
 ] [5]) [6
@@ -1100,8 +1071,8 @@ LaTeX Warning: There were multiply-defined labels.
  ) 
 Here is how much of TeX's memory you used:
  6638 strings out of 493488
- 98386 string characters out of 3146892
- 210171 words of memory out of 3000000
+ 98429 string characters out of 3146892
+ 210191 words of memory out of 3000000
  9679 multiletter control sequences out of 15000+200000
  101648 words of font info for 100 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
@@ -1116,10 +1087,10 @@ gyre/qhvr.pfb></usr/share/texmf-dist/fonts/type1/public/tex-gyre/qtmb.pfb></usr
 /share/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb></usr/share/texmf-dist/f
 onts/type1/public/tex-gyre/qtmri.pfb></usr/share/texmf-dist/fonts/type1/urw/tim
 es/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on diploma.pdf (40 pages, 6116758 bytes).
+Output written on diploma.pdf (41 pages, 6122009 bytes).
 PDF statistics:
- 209 PDF objects out of 1000 (max. 8388607)
- 138 compressed objects within 2 object streams
+ 212 PDF objects out of 1000 (max. 8388607)
+ 140 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  51 words of extra memory for PDF output out of 10000 (max. 10000000)
 

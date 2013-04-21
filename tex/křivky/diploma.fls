@@ -136,12 +136,12 @@ INPUT /usr/share/texmf-dist/fonts/tfm/public/tex-gyre/ec-qhvr-sc.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/tex-gyre/ec-qhvr-sc.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/tex-gyre/ec-qhvr-sc.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/tex-gyre/ec-qtmr.tfm
-INPUT /usr/share/texmf-dist/fonts/tfm/public/tex-gyre/ec-qtmr.tfm
-INPUT /usr/share/texmf-dist/fonts/tfm/public/tex-gyre/ec-qhvb.tfm
-INPUT /usr/share/texmf-dist/fonts/tfm/public/tex-gyre/ec-qhvb.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/tex-gyre/ec-qhvr.tfm
-INPUT /usr/share/texmf-dist/fonts/tfm/public/tex-gyre/ec-qtmr.tfm
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
+INPUT /usr/share/texmf-dist/fonts/tfm/public/tex-gyre/ec-qtmr.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/tex-gyre/ec-qhvb.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/tex-gyre/ec-qhvb.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/tex-gyre/ec-qtmr.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/tex-gyre/ec-qtmr.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/tex-gyre/ec-qhvb.tfm
 INPUT ch/00_abstract_cs.tex
