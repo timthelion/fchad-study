@@ -2,12 +2,12 @@
 \contentsline {chapter}{Abstrakt}{iv}
 \contentsline {chapter}{\numberline {1}\IeC {\'U}vod}{1}
 \contentsline {section}{\numberline {1.1}Nevidomost na sv\IeC {\v e}t\IeC {\v e} a v\IeC {\'y}znam Braillova p\IeC {\'\i }sma}{1}
-\contentsline {section}{\numberline {1.2}Co to je Braillovo p\IeC {\'\i }smo?}{1}
-\contentsline {section}{\numberline {1.3}Jak funguje braillsk\IeC {\'y} \IeC {\v r}\IeC {\'a}dek a jak funguje FCHAD?}{2}
-\contentsline {subsection}{\numberline {1.3.1}Braillsk\IeC {\'y} \IeC {\v R}\IeC {\'a}dek}{2}
+\contentsline {section}{\numberline {1.2}Co to je Braillovo p\IeC {\'\i }smo?}{2}
+\contentsline {section}{\numberline {1.3}Jak funguje braillsk\IeC {\'y} \IeC {\v r}\IeC {\'a}dek a jak funguje FCHAD?}{3}
+\contentsline {subsection}{\numberline {1.3.1}Braillsk\IeC {\'y} \IeC {\v R}\IeC {\'a}dek}{3}
 \contentsline {subsection}{\numberline {1.3.2}FCHAD}{3}
-\contentsline {section}{\numberline {1.4}V\IeC {\'y}znam pedagogiky v oblasti za\IeC {\v r}\IeC {\'\i }zen\IeC {\'\i } pro nevidom\IeC {\'e}}{3}
-\contentsline {section}{\numberline {1.5}Co vlastn\IeC {\v e} vyzkou\IeC {\v s}\IeC {\'\i }me?}{4}
+\contentsline {section}{\numberline {1.4}V\IeC {\'y}znam pedagogiky v oblasti za\IeC {\v r}\IeC {\'\i }zen\IeC {\'\i } pro nevidom\IeC {\'e}}{4}
+\contentsline {section}{\numberline {1.5}Co vlastn\IeC {\v e} vyzkou\IeC {\v s}\IeC {\'\i }me?}{5}
 \contentsline {chapter}{\numberline {2}Teorie}{6}
 \contentsline {section}{\numberline {2.1}Pedagogick\IeC {\'y} a psychologick\IeC {\'y} v\IeC {\'y}zkum}{6}
 \contentsline {subsection}{\numberline {2.1.1}Role pedagoga v drilov\IeC {\'a}n\IeC {\'\i }}{6}
@@ -32,13 +32,13 @@
 \contentsline {subsubsection}{\IeC {\v Z}\IeC {\'a}ci 1 a 2}{16}
 \contentsline {subsubsection}{\IeC {\v Z}\IeC {\'a}k 3}{17}
 \contentsline {subsubsection}{\IeC {\v Z}\IeC {\'a}k 4}{21}
-\contentsline {subsubsection}{\IeC {\v Z}ak 5}{21}
+\contentsline {subsubsection}{\IeC {\v Z}\IeC {\'a}k 5}{21}
 \contentsline {subsection}{\numberline {3.3.2}B\IeC {\v e}\IeC {\v z}n\IeC {\'a} studie}{21}
-\contentsline {subsubsection}{\IeC {\v Z}ak 6}{21}
-\contentsline {subsubsection}{\IeC {\v Z}ak 7}{21}
-\contentsline {subsubsection}{\IeC {\v Z}ak 8}{21}
-\contentsline {subsubsection}{\IeC {\v Z}ak 9}{21}
-\contentsline {section}{\numberline {3.4}Shrnut\IeC {\'\i } vysledk\IeC {\r u}}{21}
+\contentsline {subsubsection}{\IeC {\v Z}\IeC {\'a}k 6}{21}
+\contentsline {subsubsection}{\IeC {\v Z}\IeC {\'a}k 7}{21}
+\contentsline {subsubsection}{\IeC {\v Z}\IeC {\'a}k 8}{21}
+\contentsline {subsubsection}{\IeC {\v Z}\IeC {\'a}k 9}{21}
+\contentsline {section}{\numberline {3.4}Shrnut\IeC {\'\i } v\IeC {\'y}sledk\IeC {\r u}}{21}
 \contentsline {chapter}{\numberline {4}Analyza a srovn\IeC {\'a}n\IeC {\'\i }}{22}
 \contentsline {section}{\numberline {4.1}Vymezen\IeC {\'\i } fyziologick\IeC {\'e} schopnosti}{22}
 \contentsline {section}{\numberline {4.2}Podobn\IeC {\'e} nastroje}{24}

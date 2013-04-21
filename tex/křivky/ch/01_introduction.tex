@@ -16,6 +16,8 @@ Je další důvod proč gramotnost nevidomých je tak nízká.  Materiály v bra
 Složení nevidomost v rozvojových zemí je výrazně jiná než ve vyspělém světě. Osmdesát procent nevidomost na světě je či léčitelná anebo nevyhnutelná\citep{whodata}.  Však celý 50\% nevidomosti na světě je kvůli bílému zákalu\citep{whozakal}.
 
 Bílý zákal není jen léčitelný. Je to docela snadno a levně léčitelný. Chirurgie pro bílý zákal soji mezi 1 000 a 1 700 USD v Indii\citep{cataractsindia}. Z toho víme, že většina nevidomých lidí na světě jsou velmi chudé.
+\clearpage
+
 
 \section{Co to je Braillovo písmo?}
 
@@ -27,6 +29,11 @@ Braillovo písmo je jiné v každém země.  V Čechách používáme šestibodo
 
 Abychom mohli mluvit o braillských písmenech existuje číselní označení pro body.
 
+
+\begin{table}[!hb]
+\centering
+\makebox[0pt][c]{\parbox{1\textwidth}{%
+\begin{minipage}[b]{0.3\hsize}\centering
 % putStrLn $ utf8ToBrailleBox "1⠁2⠂3⠄4⠈5⠐6⠠7⡀8⢀"
 \begin{tabular}{|c|c|}
 \hline
@@ -37,14 +44,39 @@ Abychom mohli mluvit o braillských písmenech existuje číselní označení pr
 \hline
 \end{tabular}
 
+číselní označení bodů
+
+\end{minipage}
+\hfill
+\begin{minipage}[b]{0.68\hsize}\centering
+
 %%%%%%%%%%%
 
-A tady mate česká braillská abeceda:
 
 % putStrLn $ utf8ToBrailleBox "a ⠁ b ⠃ c ⠉ d ⠙ e ⠑ f ⠋ g ⠛ h ⠓ i ⠊ j ⠚ k ⠅ l ⠇ m ⠍ n ⠝ o ⠕ p ⠏ q ⠟ r ⠗ s ⠎ t ⠞ u ⠥ v ⠧ x ⠭ y ⠽ z ⠵ ý ⠯ w ⠷ ž ⠮ ů ⠾ á ⠡ ě ⠣ č ⠩ ď ⠹ š ⠳ ň ⠫  ť ⠳ ó ⠪ ř ⠺ í ⠌ é ⠜ ú ⠬ "
-
-a \braillebox{1       } b \braillebox{12      } c \braillebox{1  4    } d \braillebox{1  45   } e \braillebox{1   5   } f \braillebox{12 4    } g \braillebox{12 45   } h \braillebox{12  5   } i \braillebox{ 2 4    } j \braillebox{ 2 45   } k \braillebox{1 3     } l \braillebox{123     } m \braillebox{1 34    } n \braillebox{1 345   } o \braillebox{1 3 5   } p \braillebox{1234    } q \braillebox{12345   } r \braillebox{123 5   } s \braillebox{ 234    } t \braillebox{ 2345   } u \braillebox{1 3  6  } v \braillebox{123  6  } x \braillebox{1 34 6  } y \braillebox{1 3456  } z \braillebox{1 3 56  } ý \braillebox{1234 6  } w \braillebox{123 56  } ž \braillebox{ 234 6  } ů \braillebox{ 23456  } á \braillebox{1    6  } ě \braillebox{12   6  } č \braillebox{1  4 6  } ď \braillebox{1  456  } š \braillebox{12  56  } ň \braillebox{12 4 6  }  ť \braillebox{12  56  } ó \braillebox{ 2 4 6  } ř \braillebox{ 2 456  } í \braillebox{  34    } é \braillebox{  345   } ú \braillebox{  34 6  } 
+\begin{tabular}{|c|c|c|c|c|c|c|c|}
+\hline
+a \braillebox{1       }&b \braillebox{12      }&c \braillebox{1  4    }&d \braillebox{1  45   }&e \braillebox{1   5   }&f \braillebox{12 4    }&g \braillebox{12 45   }&h \braillebox{12  5   }\\
+\hline
+i \braillebox{ 2 4    }&j \braillebox{ 2 45   }&k \braillebox{1 3     }&l \braillebox{123     }&m \braillebox{1 34    }&n \braillebox{1 345   }&o \braillebox{1 3 5   }&p \braillebox{1234    }\\
+\hline
+q \braillebox{12345   }&r \braillebox{123 5   }&s \braillebox{ 234    }&t \braillebox{ 2345   }&u \braillebox{1 3  6  }&v \braillebox{123  6  }&x \braillebox{1 34 6  }&y \braillebox{1 3456  }\\
+\hline
+z \braillebox{1 3 56  }&ý \braillebox{1234 6  }&w \braillebox{123 56  }&ž \braillebox{ 234 6  }&ů \braillebox{ 23456  }&á \braillebox{1    6  }&ě \braillebox{12   6  }&č \braillebox{1  4 6  }\\
+\hline
+ď \braillebox{1  456  }&š \braillebox{12  56  }&ň \braillebox{12 4 6  }&ť \braillebox{12  56  }&ó \braillebox{ 2 4 6  }&ř \braillebox{ 2 456  }&í \braillebox{  34    }&é \braillebox{  345   }\\
+\hline
+ú \braillebox{  34 6  }\\
+\hline
+\end{tabular}
 % -- https://github.com/timthelion/utf8-to-braillebo://github.com/timthelion/utf8-to-braillebox
+
+česká braillská abeceda
+
+\end{minipage}%
+}}
+\end{table}
+
 
 Dejte pozor na to, že nejsou tam uvedené velké písmo ani čísla. Velká braillská písmena jsou escapování. V šestibodové braillských písmenech píšeme velký A jako
 % putStrLn $ utf8ToBrailleBox "⠠⠁"
