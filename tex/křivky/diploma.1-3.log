@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Arch Linux) (format=pdflatex 2013.3.24)  21 APR 2013 15:02
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Arch Linux) (format=pdflatex 2013.4.21)  21 APR 2013 22:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -584,6 +584,8 @@ Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
 \mult@nat@firstbox=\box51
 \colbreak@box=\box52
 \multicol@sort@counter=\count104
+) (/usr/share/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
 ) (./packages/bc-times.sty (/usr/share/texmf-dist/tex/latex/psnfss/mathptmx.sty
 Package: mathptmx 2005/04/12 PSNFSS-v9.2a Times w/ Math, improved (SPQR, WaS) 
 LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
@@ -664,26 +666,26 @@ LaTeX Warning: Label `fig:test' multiply defined.
 ))
 \openout1 = `diploma.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 151.
-LaTeX Font Info:    ... okay on input line 151.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 151.
-LaTeX Font Info:    ... okay on input line 151.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 151.
-LaTeX Font Info:    ... okay on input line 151.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 151.
-LaTeX Font Info:    ... okay on input line 151.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 151.
-LaTeX Font Info:    ... okay on input line 151.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 151.
-LaTeX Font Info:    ... okay on input line 151.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 151.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 151.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 152.
+LaTeX Font Info:    ... okay on input line 152.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 152.
+LaTeX Font Info:    ... okay on input line 152.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 152.
+LaTeX Font Info:    ... okay on input line 152.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 152.
+LaTeX Font Info:    ... okay on input line 152.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 152.
+LaTeX Font Info:    ... okay on input line 152.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 152.
+LaTeX Font Info:    ... okay on input line 152.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 152.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 152.
 
 (/usr/share/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 151.
-LaTeX Font Info:    Try loading font information for T1+qtm on input line 151.
+LaTeX Font Info:    ... okay on input line 152.
+LaTeX Font Info:    Try loading font information for T1+qtm on input line 152.
 (/usr/share/texmf-dist/tex/latex/tex-gyre/t1qtm.fd
 File: t1qtm.fd 2009/09/25 v1.2 font definition file for T1/qtm
 )<<t1.cmap>> (/usr/share/texmf-dist/tex/context/base/supp-pdf.mkii
@@ -723,7 +725,7 @@ e
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 \big@size=\dimen122
-LaTeX Font Info:    Try loading font information for T1+qhv on input line 159.
+LaTeX Font Info:    Try loading font information for T1+qhv on input line 160.
 (/usr/share/texmf-dist/tex/latex/tex-gyre/t1qhv.fd
 File: t1qhv.fd 2009/09/25 v1.2 font definition file for T1/qhv
 ) [1
@@ -731,7 +733,7 @@ File: t1qhv.fd 2009/09/25 v1.2 font definition file for T1/qhv
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [1
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 238--240
+Underfull \hbox (badness 10000) in paragraph at lines 239--241
 
  []
 
@@ -740,17 +742,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 238--240
 ] [3
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 268--269
+Underfull \hbox (badness 10000) in paragraph at lines 269--270
 
  []
 
 (./ch/00_abstract_cs.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 271--272
+Underfull \hbox (badness 10000) in paragraph at lines 272--273
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 277--278
+Underfull \hbox (badness 10000) in paragraph at lines 278--279
 
  []
 
@@ -805,12 +807,19 @@ Kapitola 1.
 
 ]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 31.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 77.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 31.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 77.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 31.
-[2] [3]) [4] [5]
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 77.
+
+Overfull \hbox (5.847pt too wide) in paragraph at lines 77--77
+ [][] 
+ []
+
+[2
+
+] [3] [4]) [5]
 \openout2 = `ch/02_theories_of_learning.aux'.
 
 (./ch/02_theories_of_learning.tex
@@ -825,16 +834,16 @@ Overfull \hbox (14.04898pt too wide) in paragraph at lines 31--32
 o-st°ed-nic-tvím ²kol-ního vy-u-£o-vání^^P(Pr·cha,
  []
 
-[7] [8] [9] [10] [11]) [12]
+[7] [8] [9] [10]) [11]
 \openout2 = `ch/03_experiment.aux'.
 
 (./ch/03_experiment.tex
 Kapitola 3.
-[13
+[12
 
 
 
-] [14] [15]
+] [13]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 75.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
@@ -842,45 +851,45 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
 LaTeX Font Info:    Try loading font information for T1+qcr on input line 75.
 (/usr/share/texmf-dist/tex/latex/tex-gyre/t1qcr.fd
 File: t1qcr.fd 2009/09/25 v1.2 font definition file for T1/qcr
-) [16] [17] [18] [19] [20]) [21]
+) [14] [15] [16] [17] [18]) [19] [20]
 \openout2 = `ch/04_analysis.aux'.
 
 (./ch/04_analysis.tex
 Kapitola 4.
-[22
+[21
 
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 12--12
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
 [][]$\T1/qcr/m/n/10 https : / / secure2 . convio . net / psb / site / Ecommerce
  ? FOLDER = 1180&store _ id =
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 12--12
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
 \T1/qcr/m/n/10 1101&JServSessionIdr004 = 9p1uhglug2 . app246a& _ _utma = 184864
 936 . 426189431 .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 12--12
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
 \T1/qcr/m/n/10 1365936556 . 1365946389 . 1366050996 . 3& _ _utmb = 184864936 . 
 1 . 10 . 1366050996& _
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 12--12
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
 \T1/qcr/m/n/10 _utmc = 184864936& _ _utmx = -[]& _ _utmz = 184864936 . 13659365
 56 . 1 . 1 . utmcsr =
  []
 
-[23]) [24]
+[22]) [23]
 \openout2 = `ch/05_conclusion.aux'.
 
 (./ch/05_conclusion.tex
 Kapitola 5.
-) [25
+) [24
 
 
 
@@ -901,10 +910,7 @@ Overfull \hbox (39.61598pt too wide) in paragraph at lines 42--46
 []and-[]eye-[]Surgeon$\T1/qtm/m/n/12 . 
  []
 
-[26
 
-
-]
 Underfull \hbox (badness 3229) in paragraph at lines 82--86
 []\T1/qtm/m/n/12 PERKINS.  Braille Dis-plays.  $\T1/qcr/m/n/12 <[]https : / / s
 ecure2 . convio . net / psb / site /
@@ -940,17 +946,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 82--86
 mv = -[]& _
  []
 
-[27])
-Underfull \hbox (badness 10000) in paragraph at lines 301--303
+[25
+
+
+])
+Underfull \hbox (badness 10000) in paragraph at lines 302--304
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 301--303
+Underfull \hbox (badness 10000) in paragraph at lines 302--304
 
  []
 
-[28]
+[26]
 \openout2 = `ch/99_appendices.aux'.
 
 (./ch/99_appendices.tex [1
@@ -966,13 +975,13 @@ Package epstopdf Info: Source file: <./img/Device1.eps>
 (epstopdf)                    size: 833780 bytes
 (epstopdf)             Command: <repstopdf --outfile=./img/Device1-eps-converte
 d-to.pdf ./img/Device1.eps>
-(epstopdf)             \includegraphics on input line 20.
+(epstopdf)             \includegraphics on input line 18.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Device1-eps-converted-to.pdf, id=132, 2601.72pt x 1951.29pt>
+<./img/Device1-eps-converted-to.pdf, id=126, 2601.72pt x 1951.29pt>
 File: ./img/Device1-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Device1-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Device1-eps-converted-to.pdf used on input line 
-20.
+18.
 (pdftex.def)             Requested size: 448.13095pt x 336.09172pt.
 Package epstopdf Info: Source file: <./img/Device1-A.eps>
 (epstopdf)                    date: 2013-04-14 13:37:15
@@ -982,13 +991,13 @@ Package epstopdf Info: Source file: <./img/Device1-A.eps>
 (epstopdf)                    size: 843257 bytes
 (epstopdf)             Command: <repstopdf --outfile=./img/Device1-A-eps-conver
 ted-to.pdf ./img/Device1-A.eps>
-(epstopdf)             \includegraphics on input line 23.
+(epstopdf)             \includegraphics on input line 21.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Device1-A-eps-converted-to.pdf, id=133, 2601.72pt x 1951.29pt>
+<./img/Device1-A-eps-converted-to.pdf, id=127, 2601.72pt x 1951.29pt>
 File: ./img/Device1-A-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Device1-A-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Device1-A-eps-converted-to.pdf used on input lin
-e 23.
+e 21.
 (pdftex.def)             Requested size: 212.86151pt x 159.61975pt.
 Package epstopdf Info: Source file: <./img/Device1-B.eps>
 (epstopdf)                    date: 2013-04-14 13:37:22
@@ -998,13 +1007,13 @@ Package epstopdf Info: Source file: <./img/Device1-B.eps>
 (epstopdf)                    size: 814819 bytes
 (epstopdf)             Command: <repstopdf --outfile=./img/Device1-B-eps-conver
 ted-to.pdf ./img/Device1-B.eps>
-(epstopdf)             \includegraphics on input line 29.
+(epstopdf)             \includegraphics on input line 27.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Device1-B-eps-converted-to.pdf, id=134, 2601.72pt x 1951.29pt>
+<./img/Device1-B-eps-converted-to.pdf, id=128, 2601.72pt x 1951.29pt>
 File: ./img/Device1-B-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Device1-B-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Device1-B-eps-converted-to.pdf used on input lin
-e 29.
+e 27.
 (pdftex.def)             Requested size: 212.86151pt x 159.61975pt.
 Package epstopdf Info: Source file: <./img/Device1-C.eps>
 (epstopdf)                    date: 2013-04-14 13:37:31
@@ -1014,13 +1023,13 @@ Package epstopdf Info: Source file: <./img/Device1-C.eps>
 (epstopdf)                    size: 833453 bytes
 (epstopdf)             Command: <repstopdf --outfile=./img/Device1-C-eps-conver
 ted-to.pdf ./img/Device1-C.eps>
-(epstopdf)             \includegraphics on input line 37.
+(epstopdf)             \includegraphics on input line 35.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Device1-C-eps-converted-to.pdf, id=135, 2601.72pt x 1951.29pt>
+<./img/Device1-C-eps-converted-to.pdf, id=129, 2601.72pt x 1951.29pt>
 File: ./img/Device1-C-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Device1-C-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Device1-C-eps-converted-to.pdf used on input lin
-e 37.
+e 35.
 (pdftex.def)             Requested size: 313.69029pt x 235.24634pt.
 Package epstopdf Info: Source file: <./img/Device2.eps>
 (epstopdf)                    date: 2013-04-14 13:36:23
@@ -1030,13 +1039,13 @@ Package epstopdf Info: Source file: <./img/Device2.eps>
 (epstopdf)                    size: 841392 bytes
 (epstopdf)             Command: <repstopdf --outfile=./img/Device2-eps-converte
 d-to.pdf ./img/Device2.eps>
-(epstopdf)             \includegraphics on input line 46.
+(epstopdf)             \includegraphics on input line 44.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Device2-eps-converted-to.pdf, id=136, 1951.29pt x 2601.72pt>
+<./img/Device2-eps-converted-to.pdf, id=130, 1951.29pt x 2601.72pt>
 File: ./img/Device2-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Device2-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Device2-eps-converted-to.pdf used on input line 
-46.
+44.
 (pdftex.def)             Requested size: 179.25305pt x 238.98798pt.
 Package epstopdf Info: Source file: <./img/Device3.eps>
 (epstopdf)                    date: 2013-04-14 13:26:09
@@ -1046,13 +1055,13 @@ Package epstopdf Info: Source file: <./img/Device3.eps>
 (epstopdf)                    size: 1712764 bytes
 (epstopdf)             Command: <repstopdf --outfile=./img/Device3-eps-converte
 d-to.pdf ./img/Device3.eps>
-(epstopdf)             \includegraphics on input line 52.
+(epstopdf)             \includegraphics on input line 50.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Device3-eps-converted-to.pdf, id=137, 2601.72pt x 1951.29pt>
+<./img/Device3-eps-converted-to.pdf, id=131, 2601.72pt x 1951.29pt>
 File: ./img/Device3-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Device3-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Device3-eps-converted-to.pdf used on input line 
-52.
+50.
 (pdftex.def)             Requested size: 179.25305pt x 134.43073pt.
 [2 <./img/Device1-eps-converted-to.pdf> <./img/Device1-A-eps-converted-to.pdf> 
 <./img/Device1-B-eps-converted-to.pdf>] [3 <./img/Device1-C-eps-converted-to.pd
@@ -1060,7 +1069,9 @@ f> <./img/Device2-eps-converted-to.pdf> <./img/Device3-eps-converted-to.pdf>] [
 4
 
 
-] [5]) [6
+] [5
+
+]) [6
 
 ] (./diploma.aux (./ch/01_introduction.aux) (./ch/02_theories_of_learning.aux) 
 (./ch/03_experiment.aux) (./ch/04_analysis.aux) (./ch/05_conclusion.aux) (./ch/
@@ -1070,13 +1081,13 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 6638 strings out of 493488
- 98429 string characters out of 3146892
- 210191 words of memory out of 3000000
- 9679 multiletter control sequences out of 15000+200000
+ 6675 strings out of 493488
+ 99122 string characters out of 3146892
+ 213480 words of memory out of 3000000
+ 9712 multiletter control sequences out of 15000+200000
  101648 words of font info for 100 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 56i,12n,47p,1227b,453s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,18n,47p,1227b,469s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf-dist/fon
 ts/enc/dvips/tex-gyre/q-ec.enc}{/usr/share/texmf-dist/fonts/enc/dvips/tex-gyre/
 q-ec-sc.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></
@@ -1087,10 +1098,10 @@ gyre/qhvr.pfb></usr/share/texmf-dist/fonts/type1/public/tex-gyre/qtmb.pfb></usr
 /share/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb></usr/share/texmf-dist/f
 onts/type1/public/tex-gyre/qtmri.pfb></usr/share/texmf-dist/fonts/type1/urw/tim
 es/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on diploma.pdf (41 pages, 6121991 bytes).
+Output written on diploma.pdf (39 pages, 6123671 bytes).
 PDF statistics:
- 212 PDF objects out of 1000 (max. 8388607)
- 140 compressed objects within 2 object streams
+ 206 PDF objects out of 1000 (max. 8388607)
+ 136 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  51 words of extra memory for PDF output out of 10000 (max. 10000000)
 

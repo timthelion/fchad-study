@@ -26,45 +26,45 @@ while executing---line 1484 of file csplainnat.bst
 `address' is a missing field, not a string, for entry velazquez2010wearable
 while executing---line 1484 of file csplainnat.bst
 Warning--empty year in whozakal
-You've used 24 entries,
+You've used 25 entries,
             2899 wiz_defined-function locations,
-            759 strings with 8843 characters,
-and the built_in function-call counts, 8895 in all, are:
-= -- 871
-> -- 311
-< -- 24
-+ -- 110
-- -- 86
-* -- 512
-:= -- 1366
-add.period$ -- 88
-call.type$ -- 24
-change.case$ -- 81
-chr.to.int$ -- 24
-cite$ -- 61
-duplicate$ -- 479
-empty$ -- 850
-format.name$ -- 142
-if$ -- 1962
+            765 strings with 9039 characters,
+and the built_in function-call counts, 9382 in all, are:
+= -- 921
+> -- 322
+< -- 26
++ -- 114
+- -- 89
+* -- 537
+:= -- 1434
+add.period$ -- 92
+call.type$ -- 25
+change.case$ -- 84
+chr.to.int$ -- 25
+cite$ -- 63
+duplicate$ -- 510
+empty$ -- 900
+format.name$ -- 147
+if$ -- 2077
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 18
-newline$ -- 127
-num.names$ -- 109
-pop$ -- 252
+missing$ -- 19
+newline$ -- 132
+num.names$ -- 114
+pop$ -- 264
 preamble$ -- 1
-purify$ -- 54
+purify$ -- 56
 quote$ -- 0
-skip$ -- 340
+skip$ -- 360
 stack$ -- 0
-substring$ -- 281
-swap$ -- 61
-text.length$ -- 4
+substring$ -- 307
+swap$ -- 70
+text.length$ -- 5
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 259
+type$ -- 270
 warning$ -- 11
-while$ -- 86
+while$ -- 92
 width$ -- 0
-write$ -- 299
+write$ -- 313
 (There were 3 error messages)

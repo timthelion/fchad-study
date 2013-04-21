@@ -66,7 +66,7 @@ Similar displays:
 - The "haptic" devices.  Very similar to mine...
  - [The praying mantis](http://bauhaus.ece.curtin.edu.au/~iain/PhD%20BU/A_Phd%20docs/To%20read/A_printed%20and%20refed/p37-ramstein.pdf)
 
-  Why do I use such a large cell?  "As a result, in the single cell case, the finger will not feel the transition from one character to the next, but only the configurational changes in the cell’s pins according to the following character.  Since the finger is not moving on the braille characters, speed performance will of course be slower th;m on a 20-, 40- or 8O-cell braille displays (46.1 wpm for fast readers and 12.0 wpm for slow readers)." Page 2 of 8.
+  Why do I use such a large cell?  "As a result, in the single cell case, the finger will not feel the transition from one character to the next, but only the configurational changes in the cell’s pins according to the following character.  Since the finger is not moving on the braille characters, speed performance will of course be slower than on 20-, 40- or 8O-cell braille displays (46.1 wpm for fast readers and 12.0 wpm for slow readers)." Page 2 of 8.
 
   - [Nice overview of different devices](http://www.esat.kuleuven.be/electa/publications/fulltexts/pub_1558.pdf)
 
