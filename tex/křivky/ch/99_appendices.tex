@@ -1,22 +1,20 @@
 \appendix
 \pagenumbering{Roman}
-\thispagestyle{empty}
-\renewcommand{\appendixname}{Apendix}%%přílohy, číslování římskými
+\thispagestyle{empty}  
+\renewcommand{\appendixname}{Appendix}%%přílohy, číslování římskými
 
 
-\chapter*{Apendix}
-\addcontentsline{toc}{chapter}{Apendix}
+\chapter*{Appendix}
+\addcontentsline{toc}{chapter}{Appendix}
 
-\section*{A1 Technické detaily}
-\addcontentsline{toc}{section}{A1   Technické detaily}
+\section{Technické detaily}
 
 The device comunicates with brltty with the UOBP driver found at \footnote{\url{https://github.com/timthelion/UOBP}}.  The arduino is to be flashed with the FCHAD firmware found at the same url.  The arduino is connected to 8 paralel solenoid circuites as described here \footnote{\url{http://playground.arduino.cc/uploads/Learning/solenoid_driver.pdf}}, using MOSFETs of type IRF530N.  The solenoid power circute is powered by a 6 volt 4 amp wall power supply of type "Smart Electronic Switching adapter Model:JGS1002-24060-2E".  Touches were detected using a 16 channel MUX of type CMOS4067 connected to 4 digital IO pins and one analog pin.  The analog pin was connected to ground with a 10k ohm resistor of type RM0207 "resistor with metalic layer 1\% TK50 0.5W RM 7.5mm".
 
 
 \clearpage
 \begin{figure}
-\section*{A2 Obrazky FCHADu}
-\addcontentsline{toc}{section}{A2   Obrazky FCHADu}
+\section{Obrazky FCHADu}
 \includegraphics[width=1\textwidth]{Device1}
 \begin{subfigure}{.5\textwidth}
   \centering
@@ -59,10 +57,8 @@ The device comunicates with brltty with the UOBP driver found at \footnote{\url{
 
 \clearpage
 
-\section*{A3 Texty}
-\addcontentsline{toc}{section}{A3   Texty}
-\subsection*{A3.1 Tisknutý text}
-\addcontentsline{toc}{subsection}{A3.1   Tisknutý text}
+\section{Texty}
+\subsection{Tisknutý text}
 \begin{verbatim}
 Děkuji za Vaši účast v této
 studii.
@@ -93,6 +89,9 @@ s úmyslem vytvořit nejlevnější možný
                                    1
 
 ---- konec stranky ----
+\end{verbatim}
+\clearpage
+\begin{verbatim}
 
 zobrazovač vůbec. Zobrazuje text po
 jednotlivých písmenech. Zobrazení
@@ -111,8 +110,7 @@ a poté vyzkoušíme nástroj.
 \end{verbatim}
 % 138 + 4 capitals 262 + 3 captials
 \clearpage
-\subsection*{A3.2 Text na FCHAD}
-\addcontentsline{toc}{subsection}{A3.2   Text na FCHAD}
+\subsection{Text na FCHAD}
 \begin{multicols}{3}
 \begin{verbatim}
 Braills

@@ -77,6 +77,8 @@ INPUT /usr/share/texmf-dist/tex/latex/natbib/natbib.sty
 INPUT /usr/share/texmf-dist/tex/latex/natbib/natbib.sty
 INPUT /usr/share/texmf-dist/tex/latex/tools/multicol.sty
 INPUT /usr/share/texmf-dist/tex/latex/tools/multicol.sty
+INPUT /usr/share/texmf-dist/tex/latex/setspace/setspace.sty
+INPUT /usr/share/texmf-dist/tex/latex/setspace/setspace.sty
 INPUT packages/bc-times.sty
 INPUT packages/bc-times.sty
 INPUT /usr/share/texmf-dist/tex/latex/psnfss/mathptmx.sty

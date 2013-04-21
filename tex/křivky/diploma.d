@@ -31,6 +31,7 @@ diploma.aux diploma.aux.make diploma.d diploma.pdf: $(call path-norm,/usr/share/
 diploma.aux diploma.aux.make diploma.d diploma.pdf: $(call path-norm,/usr/share/texmf-dist/tex/latex/oberdiek/grfext.sty)
 diploma.aux diploma.aux.make diploma.d diploma.pdf: $(call path-norm,/usr/share/texmf-dist/tex/latex/oberdiek/kvoptions.sty)
 diploma.aux diploma.aux.make diploma.d diploma.pdf: $(call path-norm,/usr/share/texmf-dist/tex/latex/psnfss/mathptmx.sty)
+diploma.aux diploma.aux.make diploma.d diploma.pdf: $(call path-norm,/usr/share/texmf-dist/tex/latex/setspace/setspace.sty)
 diploma.aux diploma.aux.make diploma.d diploma.pdf: $(call path-norm,/usr/share/texmf-dist/tex/latex/tex-gyre/tgtermes.sty)
 diploma.aux diploma.aux.make diploma.d diploma.pdf: $(call path-norm,/usr/share/texmf-dist/tex/latex/tools/multicol.sty)
 diploma.aux diploma.aux.make diploma.d diploma.pdf: $(call path-norm,/usr/share/texmf-dist/tex/latex/url/url.sty)
