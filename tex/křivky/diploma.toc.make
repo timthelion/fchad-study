@@ -31,25 +31,26 @@
 \contentsline {subsection}{\numberline {3.3.1}P\IeC {\v r}edb\IeC {\v e}\IeC {\v z}n\IeC {\'a} studie}{15}
 \contentsline {subsubsection}{\IeC {\v Z}\IeC {\'a}ci 1 a 2}{15}
 \contentsline {subsubsection}{\IeC {\v Z}\IeC {\'a}k 3}{16}
-\contentsline {subsubsection}{\IeC {\v Z}\IeC {\'a}k 4}{19}
-\contentsline {subsubsection}{\IeC {\v Z}\IeC {\'a}k 5}{19}
-\contentsline {subsection}{\numberline {3.3.2}B\IeC {\v e}\IeC {\v z}n\IeC {\'a} studie}{20}
-\contentsline {subsubsection}{\IeC {\v Z}\IeC {\'a}k 6}{20}
-\contentsline {subsubsection}{\IeC {\v Z}\IeC {\'a}k 7}{20}
-\contentsline {subsubsection}{\IeC {\v Z}\IeC {\'a}k 8}{20}
-\contentsline {subsubsection}{\IeC {\v Z}\IeC {\'a}k 9}{20}
-\contentsline {section}{\numberline {3.4}Shrnut\IeC {\'\i } v\IeC {\'y}sledk\IeC {\r u}}{20}
-\contentsline {chapter}{\numberline {4}Anal\IeC {\'y}za a srovn\IeC {\'a}n\IeC {\'\i }}{21}
-\contentsline {section}{\numberline {4.1}Vymezen\IeC {\'\i } fyziologick\IeC {\'e} schopnosti}{21}
-\contentsline {section}{\numberline {4.2}Podobn\IeC {\'e} nastroje}{23}
-\contentsline {section}{\numberline {4.3}Anal\IeC {\'y}za a srovn\IeC {\'a}n\IeC {\'\i } s podobn\IeC {\'y}mi studii}{23}
-\contentsline {subsection}{\numberline {4.3.1}Swift}{23}
-\contentsline {subsection}{\numberline {4.3.2}Anderson}{23}
-\contentsline {subsection}{\numberline {4.3.3}Vlastn\IeC {\'\i } model}{23}
-\contentsline {subsection}{\numberline {4.3.4}Optacon}{23}
-\contentsline {subsection}{\numberline {4.3.5}Patterson a Lee}{23}
-\contentsline {chapter}{\numberline {5}Z\IeC {\'a}v\IeC {\v e}r}{24}
-\contentsline {chapter}{Literatura}{26}
+\contentsline {subsubsection}{\IeC {\v Z}\IeC {\'a}k 4}{20}
+\contentsline {subsection}{\numberline {3.3.2}B\IeC {\v e}\IeC {\v z}n\IeC {\'a} studie}{22}
+\contentsline {subsubsection}{\IeC {\v Z}\IeC {\'a}k 5}{22}
+\contentsline {subsubsection}{\IeC {\v Z}\IeC {\'a}k 6}{22}
+\contentsline {subsubsection}{\IeC {\v Z}\IeC {\'a}k 7}{23}
+\contentsline {subsubsection}{\IeC {\v Z}\IeC {\'a}k 8}{23}
+\contentsline {subsubsection}{\IeC {\v Z}\IeC {\'a}k 9}{23}
+\contentsline {section}{\numberline {3.4}Shrnut\IeC {\'\i } v\IeC {\'y}sledk\IeC {\r u}}{23}
+\contentsline {chapter}{\numberline {4}Anal\IeC {\'y}za a srovn\IeC {\'a}n\IeC {\'\i }}{24}
+\contentsline {section}{\numberline {4.1}Obecn\IeC {\'e} dojmy autora}{24}
+\contentsline {section}{\numberline {4.2}Vymezen\IeC {\'\i } fyziologick\IeC {\'e} schopnosti}{24}
+\contentsline {section}{\numberline {4.3}Podobn\IeC {\'e} nastroje}{26}
+\contentsline {section}{\numberline {4.4}Anal\IeC {\'y}za a srovn\IeC {\'a}n\IeC {\'\i } s podobn\IeC {\'y}mi studii}{26}
+\contentsline {subsection}{\numberline {4.4.1}Swift}{26}
+\contentsline {subsection}{\numberline {4.4.2}Anderson}{26}
+\contentsline {subsection}{\numberline {4.4.3}Vlastn\IeC {\'\i } model}{26}
+\contentsline {subsection}{\numberline {4.4.4}Optacon}{26}
+\contentsline {subsection}{\numberline {4.4.5}Patterson a Lee}{26}
+\contentsline {chapter}{\numberline {5}Z\IeC {\'a}v\IeC {\v e}r}{27}
+\contentsline {chapter}{Literatura}{29}
 \contentsline {chapter}{Appendix}{I}
 \contentsline {section}{\numberline {.1}Technick\IeC {\'e} detaily}{I}
 \contentsline {section}{\numberline {.2}Obrazky FCHADu}{II}

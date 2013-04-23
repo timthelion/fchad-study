@@ -19,12 +19,12 @@
 \@writefile{lot}{\select@language{czech}}
 \@writefile{toc}{\contentsline {chapter}{Abstrakt}{iv}}
 \@writefile{toc}{\contentsline {chapter}{Appendix}{I}}
-\@writefile{toc}{\contentsline {chapter}{Literatura}{26}}
+\@writefile{toc}{\contentsline {chapter}{Literatura}{29}}
 \@writefile{toc}{\contentsline {chapter}{\numberline {1}\IeC {\'U}vod}{1}}
 \@writefile{toc}{\contentsline {chapter}{\numberline {2}Teorie}{6}}
 \@writefile{toc}{\contentsline {chapter}{\numberline {3}V\IeC {\'y}zkum}{12}}
-\@writefile{toc}{\contentsline {chapter}{\numberline {4}Anal\IeC {\'y}za a srovn\IeC {\'a}n\IeC {\'\i }}{21}}
-\@writefile{toc}{\contentsline {chapter}{\numberline {5}Z\IeC {\'a}v\IeC {\v e}r}{24}}
+\@writefile{toc}{\contentsline {chapter}{\numberline {4}Anal\IeC {\'y}za a srovn\IeC {\'a}n\IeC {\'\i }}{24}}
+\@writefile{toc}{\contentsline {chapter}{\numberline {5}Z\IeC {\'a}v\IeC {\v e}r}{27}}
 \@writefile{toc}{\contentsline {section}{\numberline {.1}Technick\IeC {\'e} detaily}{I}}
 \@writefile{toc}{\contentsline {section}{\numberline {.2}Obrazky FCHADu}{II}}
 \@writefile{toc}{\contentsline {section}{\numberline {.3}Texty}{IV}}
@@ -38,10 +38,11 @@
 \@writefile{toc}{\contentsline {section}{\numberline {3.1}Popis studie}{12}}
 \@writefile{toc}{\contentsline {section}{\numberline {3.2}Popis FCHADu}{13}}
 \@writefile{toc}{\contentsline {section}{\numberline {3.3}Moje \IeC {\v z}\IeC {\'a}ci}{15}}
-\@writefile{toc}{\contentsline {section}{\numberline {3.4}Shrnut\IeC {\'\i } v\IeC {\'y}sledk\IeC {\r u}}{20}}
-\@writefile{toc}{\contentsline {section}{\numberline {4.1}Vymezen\IeC {\'\i } fyziologick\IeC {\'e} schopnosti}{21}}
-\@writefile{toc}{\contentsline {section}{\numberline {4.2}Podobn\IeC {\'e} nastroje}{23}}
-\@writefile{toc}{\contentsline {section}{\numberline {4.3}Anal\IeC {\'y}za a srovn\IeC {\'a}n\IeC {\'\i } s podobn\IeC {\'y}mi studii}{23}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.4}Shrnut\IeC {\'\i } v\IeC {\'y}sledk\IeC {\r u}}{23}}
+\@writefile{toc}{\contentsline {section}{\numberline {4.1}Obecn\IeC {\'e} dojmy autora}{24}}
+\@writefile{toc}{\contentsline {section}{\numberline {4.2}Vymezen\IeC {\'\i } fyziologick\IeC {\'e} schopnosti}{24}}
+\@writefile{toc}{\contentsline {section}{\numberline {4.3}Podobn\IeC {\'e} nastroje}{26}}
+\@writefile{toc}{\contentsline {section}{\numberline {4.4}Anal\IeC {\'y}za a srovn\IeC {\'a}n\IeC {\'\i } s podobn\IeC {\'y}mi studii}{26}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {.3.1}Tisknut\IeC {\'y} text}{IV}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {.3.2}Text na FCHAD}{VI}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {1.3.1}Braillsk\IeC {\'y} \IeC {\v R}\IeC {\'a}dek}{3}}
@@ -60,20 +61,20 @@
 \@writefile{toc}{\contentsline {subsection}{\numberline {3.2.3}Zobrazova\IeC {\v c}}{14}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {3.2.4}Jak to jde dohromady}{14}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {3.3.1}P\IeC {\v r}edb\IeC {\v e}\IeC {\v z}n\IeC {\'a} studie}{15}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {3.3.2}B\IeC {\v e}\IeC {\v z}n\IeC {\'a} studie}{20}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.3.1}Swift}{23}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.3.2}Anderson}{23}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.3.3}Vlastn\IeC {\'\i } model}{23}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.3.4}Optacon}{23}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.3.5}Patterson a Lee}{23}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3.2}B\IeC {\v e}\IeC {\v z}n\IeC {\'a} studie}{22}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.4.1}Swift}{26}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.4.2}Anderson}{26}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.4.3}Vlastn\IeC {\'\i } model}{26}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.4.4}Optacon}{26}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.4.5}Patterson a Lee}{26}}
 \@writefile{toc}{\contentsline {subsubsection}{\IeC {\v Z}\IeC {\'a}ci 1 a 2}{15}}
 \@writefile{toc}{\contentsline {subsubsection}{\IeC {\v Z}\IeC {\'a}k 3}{16}}
-\@writefile{toc}{\contentsline {subsubsection}{\IeC {\v Z}\IeC {\'a}k 4}{19}}
-\@writefile{toc}{\contentsline {subsubsection}{\IeC {\v Z}\IeC {\'a}k 5}{19}}
-\@writefile{toc}{\contentsline {subsubsection}{\IeC {\v Z}\IeC {\'a}k 6}{20}}
-\@writefile{toc}{\contentsline {subsubsection}{\IeC {\v Z}\IeC {\'a}k 7}{20}}
-\@writefile{toc}{\contentsline {subsubsection}{\IeC {\v Z}\IeC {\'a}k 8}{20}}
-\@writefile{toc}{\contentsline {subsubsection}{\IeC {\v Z}\IeC {\'a}k 9}{20}}
+\@writefile{toc}{\contentsline {subsubsection}{\IeC {\v Z}\IeC {\'a}k 4}{20}}
+\@writefile{toc}{\contentsline {subsubsection}{\IeC {\v Z}\IeC {\'a}k 5}{22}}
+\@writefile{toc}{\contentsline {subsubsection}{\IeC {\v Z}\IeC {\'a}k 6}{22}}
+\@writefile{toc}{\contentsline {subsubsection}{\IeC {\v Z}\IeC {\'a}k 7}{23}}
+\@writefile{toc}{\contentsline {subsubsection}{\IeC {\v Z}\IeC {\'a}k 8}{23}}
+\@writefile{toc}{\contentsline {subsubsection}{\IeC {\v Z}\IeC {\'a}k 9}{23}}
 \@writefile{toc}{\select@language{czech}}
 \bibdata{references}
 \bibstyle{csplainnat}
@@ -189,9 +190,9 @@
 \setcounter{mpfootnote}{0}
 \setcounter{mpfootnote}{0}
 \setcounter{page}{12}
-\setcounter{page}{21}
 \setcounter{page}{24}
-\setcounter{page}{25}
+\setcounter{page}{27}
+\setcounter{page}{28}
 \setcounter{page}{6}
 \setcounter{page}{7}
 \setcounter{paragraph}{0}
@@ -209,7 +210,7 @@
 \setcounter{section}{0}
 \setcounter{section}{2}
 \setcounter{section}{3}
-\setcounter{section}{3}
+\setcounter{section}{4}
 \setcounter{section}{4}
 \setcounter{section}{5}
 \setcounter{subfigure}{0}

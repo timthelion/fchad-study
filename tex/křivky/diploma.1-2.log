@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Arch Linux) (format=pdflatex 2013.4.21)  21 APR 2013 22:52
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Arch Linux) (format=pdflatex 2013.4.21)  23 APR 2013 11:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -851,45 +851,45 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
 LaTeX Font Info:    Try loading font information for T1+qcr on input line 75.
 (/usr/share/texmf-dist/tex/latex/tex-gyre/t1qcr.fd
 File: t1qcr.fd 2009/09/25 v1.2 font definition file for T1/qcr
-) [14] [15] [16] [17] [18]) [19] [20]
+) [14] [15] [16] [17] [18] [19] [20] [21] [22]) [23]
 \openout2 = `ch/04_analysis.aux'.
 
 (./ch/04_analysis.tex
 Kapitola 4.
-[21
+[24
 
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 16--16
+Underfull \hbox (badness 10000) in paragraph at lines 25--25
 [][]$\T1/qcr/m/n/10 https : / / secure2 . convio . net / psb / site / Ecommerce
  ? FOLDER = 1180&store _ id =
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 16--16
+Underfull \hbox (badness 10000) in paragraph at lines 25--25
 \T1/qcr/m/n/10 1101&JServSessionIdr004 = 9p1uhglug2 . app246a& _ _utma = 184864
 936 . 426189431 .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 16--16
+Underfull \hbox (badness 10000) in paragraph at lines 25--25
 \T1/qcr/m/n/10 1365936556 . 1365946389 . 1366050996 . 3& _ _utmb = 184864936 . 
 1 . 10 . 1366050996& _
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 16--16
+Underfull \hbox (badness 10000) in paragraph at lines 25--25
 \T1/qcr/m/n/10 _utmc = 184864936& _ _utmx = -[]& _ _utmz = 184864936 . 13659365
 56 . 1 . 1 . utmcsr =
  []
 
-[22]) [23]
+[25]) [26]
 \openout2 = `ch/05_conclusion.aux'.
 
 (./ch/05_conclusion.tex
 Kapitola 5.
-) [24
+) [27
 
 
 
@@ -946,7 +946,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 82--86
 mv = -[]& _
  []
 
-[25
+[28
 
 
 ])
@@ -959,7 +959,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 302--304
 
  []
 
-[26]
+[29]
 \openout2 = `ch/99_appendices.aux'.
 
 (./ch/99_appendices.tex [1
@@ -977,7 +977,7 @@ Package epstopdf Info: Source file: <./img/Device1.eps>
 d-to.pdf ./img/Device1.eps>
 (epstopdf)             \includegraphics on input line 18.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Device1-eps-converted-to.pdf, id=126, 2601.72pt x 1951.29pt>
+<./img/Device1-eps-converted-to.pdf, id=136, 2601.72pt x 1951.29pt>
 File: ./img/Device1-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Device1-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Device1-eps-converted-to.pdf used on input line 
@@ -993,7 +993,7 @@ Package epstopdf Info: Source file: <./img/Device1-A.eps>
 ted-to.pdf ./img/Device1-A.eps>
 (epstopdf)             \includegraphics on input line 21.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Device1-A-eps-converted-to.pdf, id=127, 2601.72pt x 1951.29pt>
+<./img/Device1-A-eps-converted-to.pdf, id=137, 2601.72pt x 1951.29pt>
 File: ./img/Device1-A-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Device1-A-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Device1-A-eps-converted-to.pdf used on input lin
@@ -1009,7 +1009,7 @@ Package epstopdf Info: Source file: <./img/Device1-B.eps>
 ted-to.pdf ./img/Device1-B.eps>
 (epstopdf)             \includegraphics on input line 27.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Device1-B-eps-converted-to.pdf, id=128, 2601.72pt x 1951.29pt>
+<./img/Device1-B-eps-converted-to.pdf, id=138, 2601.72pt x 1951.29pt>
 File: ./img/Device1-B-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Device1-B-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Device1-B-eps-converted-to.pdf used on input lin
@@ -1025,7 +1025,7 @@ Package epstopdf Info: Source file: <./img/Device1-C.eps>
 ted-to.pdf ./img/Device1-C.eps>
 (epstopdf)             \includegraphics on input line 35.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Device1-C-eps-converted-to.pdf, id=129, 2601.72pt x 1951.29pt>
+<./img/Device1-C-eps-converted-to.pdf, id=139, 2601.72pt x 1951.29pt>
 File: ./img/Device1-C-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Device1-C-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Device1-C-eps-converted-to.pdf used on input lin
@@ -1041,7 +1041,7 @@ Package epstopdf Info: Source file: <./img/Device2.eps>
 d-to.pdf ./img/Device2.eps>
 (epstopdf)             \includegraphics on input line 44.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Device2-eps-converted-to.pdf, id=130, 1951.29pt x 2601.72pt>
+<./img/Device2-eps-converted-to.pdf, id=140, 1951.29pt x 2601.72pt>
 File: ./img/Device2-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Device2-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Device2-eps-converted-to.pdf used on input line 
@@ -1057,7 +1057,7 @@ Package epstopdf Info: Source file: <./img/Device3.eps>
 d-to.pdf ./img/Device3.eps>
 (epstopdf)             \includegraphics on input line 50.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Device3-eps-converted-to.pdf, id=131, 2601.72pt x 1951.29pt>
+<./img/Device3-eps-converted-to.pdf, id=141, 2601.72pt x 1951.29pt>
 File: ./img/Device3-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Device3-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Device3-eps-converted-to.pdf used on input line 
@@ -1081,10 +1081,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 6675 strings out of 493488
- 99122 string characters out of 3146892
- 213480 words of memory out of 3000000
- 9712 multiletter control sequences out of 15000+200000
+ 6673 strings out of 493488
+ 99093 string characters out of 3146892
+ 213472 words of memory out of 3000000
+ 9710 multiletter control sequences out of 15000+200000
  101648 words of font info for 100 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
  56i,18n,47p,1254b,469s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1098,10 +1098,10 @@ gyre/qhvr.pfb></usr/share/texmf-dist/fonts/type1/public/tex-gyre/qtmb.pfb></usr
 /share/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb></usr/share/texmf-dist/f
 onts/type1/public/tex-gyre/qtmri.pfb></usr/share/texmf-dist/fonts/type1/urw/tim
 es/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on diploma.pdf (39 pages, 6124251 bytes).
+Output written on diploma.pdf (42 pages, 6133452 bytes).
 PDF statistics:
- 206 PDF objects out of 1000 (max. 8388607)
- 136 compressed objects within 2 object streams
+ 215 PDF objects out of 1000 (max. 8388607)
+ 142 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  51 words of extra memory for PDF output out of 10000 (max. 10000000)
 
