@@ -1,0 +1,211 @@
+2013-04-23@14:07:26.980 BRLTTY 4.4 rev Unversioned directory [http://mielke.cc/brltty/]
+2013-04-23@14:07:26.980 Working Directory: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4
+2013-04-23@14:07:26.981 Writable Directory: /var/run/brltty
+2013-04-23@14:07:26.981 Configuration File: /etc/brltty.conf
+2013-04-23@14:07:26.981 Preferences File: brltty.prefs
+2013-04-23@14:07:26.981 regions: text=0.0 status=0.0
+2013-04-23@14:07:26.981 shifts: full=1 half=0 vertical=5
+2013-04-23@14:07:26.981 Drivers Directory: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../lib
+2013-04-23@14:07:26.981 Tables Directory: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables
+2013-04-23@14:07:26.982 checking for text table: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/cs_CZ.ttb
+2013-04-23@14:07:26.982 checking for text table: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/cs.ttb
+2013-04-23@14:07:26.982 compiling text table: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/cs.ttb
+2013-04-23@14:07:26.982 file opened: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/cs.ttb fd=4
+2013-04-23@14:07:26.982 including data file: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/cs.ttb
+2013-04-23@14:07:26.988 file opened: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/numbers-dot8.tti fd=5
+2013-04-23@14:07:26.988 including data file: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/numbers-dot8.tti
+2013-04-23@14:07:26.988 file opened: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/common.tti fd=5
+2013-04-23@14:07:26.988 including data file: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/common.tti
+2013-04-23@14:07:26.989 file opened: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/spaces.tti fd=6
+2013-04-23@14:07:26.989 including data file: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/spaces.tti
+2013-04-23@14:07:26.989 file opened: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/boxes.tti fd=6
+2013-04-23@14:07:26.989 including data file: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/boxes.tti
+2013-04-23@14:07:26.989 file opened: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/blocks.tti fd=6
+2013-04-23@14:07:26.989 including data file: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/blocks.tti
+2013-04-23@14:07:26.990 Text Table: cs
+2013-04-23@14:07:26.990 Attributes Table: attributes
+2013-04-23@14:07:26.990 Contraction Table: none
+2013-04-23@14:07:26.990 Key Table: none
+2013-04-23@14:07:26.990 Keyboard Property: type=
+2013-04-23@14:07:26.990 Keyboard Property: vendor=
+2013-04-23@14:07:26.990 Keyboard Property: product=
+2013-04-23@14:07:26.990 checking for screen driver: no
+2013-04-23@14:07:26.990 initializing screen driver: no
+2013-04-23@14:07:26.990 Screen Driver: no [NoScreen]
+2013-04-23@14:07:26.990 NoScreen Screen Driver:
+2013-04-23@14:07:26.990 BrlAPI Server: release 0.5.7
+2013-04-23@14:07:26.990 API Parameter: auth=
+2013-04-23@14:07:26.990 API Parameter: host=
+2013-04-23@14:07:26.990 API Parameter: stacksize=
+2013-04-23@14:07:26.991 checking braille device: /dev/ttyUSB0
+2013-04-23@14:07:26.991 checking for braille driver: ob
+2013-04-23@14:07:26.991 initializing braille driver: ob -> /dev/ttyUSB0
+2013-04-23@14:07:26.991 Initializing serial.
+2013-04-23@14:07:26.991 device directory: /dev
+2013-04-23@14:07:26.992 socket 1 established (fd 7)
+2013-04-23@14:07:26.992 linking local socket lock: Soubor již existuje
+2013-04-23@14:07:26.992 socket 0 established (fd 5)
+2013-04-23@14:07:27.002 serial device opened: /dev/ttyUSB0: fd=4
+2013-04-23@14:07:27.402 Serial initialized.
+2013-04-23@14:07:27.402 Initializing capability nodes.
+2013-04-23@14:07:27.402 0Preform initializing capability nodes.
+2013-04-23@14:07:27.403 1Preform initializing capability nodes.
+2013-04-23@14:07:27.403 ERROR: End of packet reached unexpectedly.  Malformed packet.
+2013-04-23@14:07:27.403 Sending start flag.
+2013-04-23@14:07:27.403 Start flag sent.
+2013-04-23@14:07:27.403 Packet sent.
+2013-04-23@14:07:27.403 Initialization packet sent.
+2013-04-23@14:07:27.403 Sending start flag.
+2013-04-23@14:07:27.404 Start flag sent.
+2013-04-23@14:07:27.404 Packet sent.
+2013-04-23@14:07:27.404 Initialization packet sent.
+2013-04-23@14:07:27.404 Sending start flag.
+2013-04-23@14:07:27.404 Start flag sent.
+2013-04-23@14:07:27.404 Packet sent.
+2013-04-23@14:07:27.405 Initialization packet sent.
+2013-04-23@14:07:27.405 Sending start flag.
+2013-04-23@14:07:27.405 Start flag sent.
+2013-04-23@14:07:27.405 Packet sent.
+2013-04-23@14:07:27.405 Initialization packet sent.
+2013-04-23@14:07:27.406 Sending start flag.
+2013-04-23@14:07:27.406 Start flag sent.
+2013-04-23@14:07:27.406 Packet sent.
+2013-04-23@14:07:27.406 Initialization packet sent.
+2013-04-23@14:07:27.407 Sending start flag.
+2013-04-23@14:07:27.407 Start flag sent.
+2013-04-23@14:07:27.407 Packet sent.
+2013-04-23@14:07:27.407 Initialization packet sent.
+2013-04-23@14:07:27.408 Calling frame handler. type:0,subType:1 First byte of information is 0
+2013-04-23@14:07:27.408 calling handler 0
+2013-04-23@14:07:27.408 Initializing capability nodes.
+2013-04-23@14:07:27.408 0Preform initializing capability nodes.
+2013-04-23@14:07:27.408 1Preform initializing capability nodes.
+2013-04-23@14:07:27.408 2 standard nodes to load.
+2013-04-23@14:07:27.409 Loading node of capability 3
+2013-04-23@14:07:27.409 Node # 0
+2013-04-23@14:07:27.409 Node info length: 13
+2013-04-23@14:07:27.409 Loading node of capability 4
+2013-04-23@14:07:27.409 Node # 0
+2013-04-23@14:07:27.409 Node info length: 16
+2013-04-23@14:07:27.409 Size of new node 1x12
+2013-04-23@14:07:27.409 Device initialized.
+2013-04-23@14:07:27.409 Initialized!
+2013-04-23@14:07:27.410 Braille Display Dimensions: 1 row, 12 columns
+2013-04-23@14:07:27.410 regions: text=0.12 status=0.0
+2013-04-23@14:07:27.410 shifts: full=12 half=6 vertical=5
+2013-04-23@14:07:27.410 Key Bindings: all
+2013-04-23@14:07:27.410 cannot open file: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/brl-ob-all.txt: Adresář nebo soubor neexistuje
+2013-04-23@14:07:27.410 cannot open help file: /home/timothy/works/2012/braille/everything/UOBP/brltty-4.4/Programs/../Tables/brl-ob-all.txt
+2013-04-23@14:07:27.410 api link
+2013-04-23@14:07:27.411 Braille Driver: ob [UOBP]
+2013-04-23@14:07:27.411 UOBP Braille Driver: version 0.0
+2013-04-23@14:07:27.411 Braille Device: /dev/ttyUSB0
+2013-04-23@14:07:27.411 Old Preferences File: /etc/brltty-ob.prefs
+2013-04-23@14:07:27.411 cannot open file: /etc/brltty-ob.prefs: Adresář nebo soubor neexistuje
+2013-04-23@14:07:27.411 regions: text=0.12 status=0.0
+2013-04-23@14:07:27.411 shifts: full=12 half=6 vertical=5
+2013-04-23@14:07:27.417 exit status: 0
+2013-04-23@14:07:27.417 console opened: fd=6
+2013-04-23@14:07:27.417 beeper enabled
+2013-04-23@14:07:27.417 tone: msec=60 note=64
+2013-04-23@14:07:27.478 tone: msec=100 note=69
+2013-04-23@14:07:27.578 api unlink
+2013-04-23@14:07:27.579 Resizing window from 0x0 to 1x12
+2013-04-23@14:07:27.620 Calling frame handler. type:0,subType:1 First byte of information is 0
+2013-04-23@14:07:27.620 calling handler 0
+2013-04-23@14:07:27.620 Initializing capability nodes.
+2013-04-23@14:07:27.621 0Preform initializing capability nodes.
+2013-04-23@14:07:27.621 Freeing capability 3 node 0 with standard free function.
+2013-04-23@14:07:27.621 Freed capability 3 node 0
+2013-04-23@14:07:27.621 Freeing capability 4 node 0 with custom free function.
+2013-04-23@14:07:27.621 Freed capability 4 node 0
+2013-04-23@14:07:27.621 1Preform initializing capability nodes.
+2013-04-23@14:07:27.621 2 standard nodes to load.
+2013-04-23@14:07:27.622 Loading node of capability 3
+2013-04-23@14:07:27.622 Node # 0
+2013-04-23@14:07:27.622 Node info length: 13
+2013-04-23@14:07:27.622 Loading node of capability 4
+2013-04-23@14:07:27.622 Node # 0
+2013-04-23@14:07:27.622 Node info length: 16
+2013-04-23@14:07:27.622 Size of new node 1x12
+2013-04-23@14:07:27.623 Device initialized.
+2013-04-23@14:07:27.664 Calling frame handler. type:0,subType:1 First byte of information is 0
+2013-04-23@14:07:27.664 calling handler 0
+2013-04-23@14:07:27.664 Initializing capability nodes.
+2013-04-23@14:07:27.664 0Preform initializing capability nodes.
+2013-04-23@14:07:27.665 Freeing capability 3 node 0 with standard free function.
+2013-04-23@14:07:27.665 Freed capability 3 node 0
+2013-04-23@14:07:27.665 Freeing capability 4 node 0 with custom free function.
+2013-04-23@14:07:27.665 Freed capability 4 node 0
+2013-04-23@14:07:27.665 1Preform initializing capability nodes.
+2013-04-23@14:07:27.665 2 standard nodes to load.
+2013-04-23@14:07:27.665 Loading node of capability 3
+2013-04-23@14:07:27.666 Node # 0
+2013-04-23@14:07:27.666 Node info length: 13
+2013-04-23@14:07:27.666 Loading node of capability 4
+2013-04-23@14:07:27.666 Node # 0
+2013-04-23@14:07:27.666 Node info length: 16
+2013-04-23@14:07:27.666 Size of new node 1x12
+2013-04-23@14:07:27.666 Device initialized.
+2013-04-23@14:07:27.707 Calling frame handler. type:0,subType:1 First byte of information is 0
+2013-04-23@14:07:27.707 calling handler 0
+2013-04-23@14:07:27.707 Initializing capability nodes.
+2013-04-23@14:07:27.707 0Preform initializing capability nodes.
+2013-04-23@14:07:27.708 Freeing capability 3 node 0 with standard free function.
+2013-04-23@14:07:27.708 Freed capability 3 node 0
+2013-04-23@14:07:27.708 Freeing capability 4 node 0 with custom free function.
+2013-04-23@14:07:27.708 Freed capability 4 node 0
+2013-04-23@14:07:27.708 1Preform initializing capability nodes.
+2013-04-23@14:07:27.708 2 standard nodes to load.
+2013-04-23@14:07:27.708 Loading node of capability 3
+2013-04-23@14:07:27.709 Node # 0
+2013-04-23@14:07:27.709 Node info length: 13
+2013-04-23@14:07:27.709 Loading node of capability 4
+2013-04-23@14:07:27.709 Node # 0
+2013-04-23@14:07:27.709 Node info length: 16
+2013-04-23@14:07:27.709 Size of new node 1x12
+2013-04-23@14:07:27.709 Device initialized.
+2013-04-23@14:07:27.751 Calling frame handler. type:0,subType:1 First byte of information is 0
+2013-04-23@14:07:27.751 calling handler 0
+2013-04-23@14:07:27.751 Initializing capability nodes.
+2013-04-23@14:07:27.751 0Preform initializing capability nodes.
+2013-04-23@14:07:27.752 Freeing capability 3 node 0 with standard free function.
+2013-04-23@14:07:27.752 Freed capability 3 node 0
+2013-04-23@14:07:27.752 Freeing capability 4 node 0 with custom free function.
+2013-04-23@14:07:27.752 Freed capability 4 node 0
+2013-04-23@14:07:27.752 1Preform initializing capability nodes.
+2013-04-23@14:07:27.752 2 standard nodes to load.
+2013-04-23@14:07:27.752 Loading node of capability 3
+2013-04-23@14:07:27.752 Node # 0
+2013-04-23@14:07:27.753 Node info length: 13
+2013-04-23@14:07:27.753 Loading node of capability 4
+2013-04-23@14:07:27.753 Node # 0
+2013-04-23@14:07:27.753 Node info length: 16
+2013-04-23@14:07:27.753 Size of new node 1x12
+2013-04-23@14:07:27.753 Device initialized.
+2013-04-23@14:07:27.794 Calling frame handler. type:0,subType:1 First byte of information is 0
+2013-04-23@14:07:27.794 calling handler 0
+2013-04-23@14:07:27.794 Initializing capability nodes.
+2013-04-23@14:07:27.794 0Preform initializing capability nodes.
+2013-04-23@14:07:27.795 Freeing capability 3 node 0 with standard free function.
+2013-04-23@14:07:27.795 Freed capability 3 node 0
+2013-04-23@14:07:27.795 Freeing capability 4 node 0 with custom free function.
+2013-04-23@14:07:27.795 Freed capability 4 node 0
+2013-04-23@14:07:27.795 1Preform initializing capability nodes.
+2013-04-23@14:07:27.795 2 standard nodes to load.
+2013-04-23@14:07:27.795 Loading node of capability 3
+2013-04-23@14:07:27.796 Node # 0
+2013-04-23@14:07:27.796 Node info length: 13
+2013-04-23@14:07:27.796 Loading node of capability 4
+2013-04-23@14:07:27.796 Node # 0
+2013-04-23@14:07:27.796 Node info length: 16
+2013-04-23@14:07:27.796 Size of new node 1x12
+2013-04-23@14:07:27.796 Device initialized.
+2013-04-23@14:07:43.992 api link
+2013-04-23@14:07:43.992 no autodetectable speech drivers
+2013-04-23@14:07:43.992 checking for speech driver: no
+2013-04-23@14:07:43.992 initializing speech driver: no
+2013-04-23@14:07:43.992 Speech Driver: no [NoSpeech]
+2013-04-23@14:07:43.992 NoSpeech Speech Driver:
+2013-04-23@14:07:43.998 Speech Input: none
+2013-04-23@14:07:46.007 beeper disabled
