@@ -43,102 +43,102 @@
 \contentsline {paragraph}{T\IeC {\v r}et\IeC {\'\i } \IeC {\v r}\IeC {\'a}dek}{22}
 \contentsline {subsection}{\numberline {3.3.2}B\IeC {\v e}\IeC {\v z}n\IeC {\'a} studie}{23}
 \contentsline {subsubsection}{\IeC {\v Z}\IeC {\'a}k 5}{23}
-\contentsline {paragraph}{Prvn\IeC {\'\i } \IeC {\v R}\IeC {\'a}dek}{23}
+\contentsline {paragraph}{Prvn\IeC {\'\i } \IeC {\v R}\IeC {\'a}dek}{24}
 \contentsline {paragraph}{Druh\IeC {\'y} \IeC {\v R}\IeC {\'a}dek}{24}
 \contentsline {paragraph}{T\IeC {\v r}et\IeC {\'\i } \IeC {\v R}\IeC {\'a}dek}{24}
 \contentsline {paragraph}{\IeC {\v C}tvrt\IeC {\'y} \IeC {\v R}\IeC {\'a}dek}{24}
 \contentsline {paragraph}{P\IeC {\'a}t\IeC {\'y} \IeC {\v R}\IeC {\'a}dek}{24}
-\contentsline {paragraph}{\IeC {\v S}est\IeC {\'y} \IeC {\v R}\IeC {\'a}dek}{24}
-\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 7}{24}
-\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 8}{24}
-\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 9}{24}
-\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 10}{24}
-\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 11}{24}
+\contentsline {paragraph}{\IeC {\v S}est\IeC {\'y} \IeC {\v R}\IeC {\'a}dek}{25}
+\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 7}{25}
+\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 8}{25}
+\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 9}{25}
+\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 10}{25}
+\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 11}{25}
 \contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 12}{25}
 \contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 13}{25}
-\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 14}{25}
-\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 15}{25}
-\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 16}{25}
-\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 17}{25}
-\contentsline {subsubsection}{\IeC {\v Z}\IeC {\'a}k 6}{25}
-\contentsline {paragraph}{Prvn\IeC {\'\i } \IeC {\v R}\IeC {\'a}dek}{25}
-\contentsline {paragraph}{Druh\IeC {\'y} \IeC {\v R}\IeC {\'a}dek}{26}
-\contentsline {paragraph}{T\IeC {\v r}et\IeC {\'\i } \IeC {\v R}\IeC {\'a}dek}{26}
-\contentsline {paragraph}{\IeC {\v C}tvrt\IeC {\'y} \IeC {\v R}\IeC {\'a}dek}{26}
-\contentsline {paragraph}{P\IeC {\'a}t\IeC {\'y} \IeC {\v R}\IeC {\'a}dek}{26}
-\contentsline {paragraph}{\IeC {\v S}est\IeC {\'y} \IeC {\v R}\IeC {\'a}dek}{26}
-\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 7}{26}
-\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 8}{26}
-\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 9}{26}
-\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 10}{26}
-\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 11}{26}
-\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 12}{27}
-\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 13}{27}
-\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 14}{27}
-\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 15}{27}
-\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 16}{27}
-\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 17}{27}
-\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 18}{27}
-\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 19}{27}
-\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 20}{27}
-\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 21}{27}
-\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 22}{28}
-\contentsline {subsubsection}{\IeC {\v Z}\IeC {\'a}k 7}{28}
-\contentsline {paragraph}{Prvn\IeC {\'\i } \IeC {\v r}\IeC {\'a}dek}{28}
-\contentsline {paragraph}{Druh\IeC {\'y} \IeC {\v r}\IeC {\'a}dek}{28}
-\contentsline {paragraph}{T\IeC {\v r}et\IeC {\'\i } \IeC {\v r}\IeC {\'a}dek}{29}
-\contentsline {paragraph}{\IeC {\v C}tvrt\IeC {\'y} \IeC {\v r}\IeC {\'a}dek}{29}
-\contentsline {paragraph}{P\IeC {\'a}t\IeC {\'y} \IeC {\v r}\IeC {\'a}dek}{29}
-\contentsline {paragraph}{\IeC {\v S}esti \IeC {\v r}\IeC {\'a}dek}{29}
-\contentsline {paragraph}{Sedmi \IeC {\v r}\IeC {\'a}dek}{29}
-\contentsline {paragraph}{Osmi \IeC {\v r}\IeC {\'a}dek}{30}
-\contentsline {paragraph}{Dev\IeC {\'a}t\IeC {\'y} \IeC {\v r}\IeC {\'a}dek}{30}
-\contentsline {paragraph}{Des\IeC {\'a}t\IeC {\'y} \IeC {\v r}\IeC {\'a}dek}{30}
-\contentsline {paragraph}{Jedenacti \IeC {\v r}\IeC {\'a}dek}{30}
-\contentsline {paragraph}{Dvan\IeC {\'a}cti \IeC {\v r}\IeC {\'a}dek}{30}
-\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 13}{30}
-\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 14}{31}
-\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 15}{31}
-\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 16}{31}
-\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 17}{31}
-\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 18}{31}
-\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 19}{31}
-\contentsline {subsubsection}{\IeC {\v Z}\IeC {\'a}k 8}{32}
-\contentsline {paragraph}{Prvn\IeC {\'\i } \IeC {\v r}\IeC {\'a}dek}{32}
-\contentsline {paragraph}{Druh\IeC {\'y} \IeC {\v r}\IeC {\'a}dek}{33}
-\contentsline {paragraph}{T\IeC {\v r}et\IeC {\'\i } \IeC {\v r}\IeC {\'a}dek}{34}
-\contentsline {paragraph}{\IeC {\v C}tvrt\IeC {\'y} \IeC {\v r}\IeC {\'a}dek}{34}
-\contentsline {paragraph}{P\IeC {\'a}t\IeC {\'y} \IeC {\v r}\IeC {\'a}dek}{35}
-\contentsline {subsubsection}{\IeC {\v Z}\IeC {\'a}k 9}{35}
-\contentsline {paragraph}{Prvn\IeC {\'\i } \IeC {\v r}\IeC {\'a}dek}{36}
-\contentsline {paragraph}{Druh\IeC {\'y} \IeC {\v r}\IeC {\'a}dek}{37}
+\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 14}{26}
+\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 15}{26}
+\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 16}{26}
+\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 17}{26}
+\contentsline {subsubsection}{\IeC {\v Z}\IeC {\'a}k 6}{26}
+\contentsline {paragraph}{Prvn\IeC {\'\i } \IeC {\v R}\IeC {\'a}dek}{26}
+\contentsline {paragraph}{Druh\IeC {\'y} \IeC {\v R}\IeC {\'a}dek}{27}
+\contentsline {paragraph}{T\IeC {\v r}et\IeC {\'\i } \IeC {\v R}\IeC {\'a}dek}{27}
+\contentsline {paragraph}{\IeC {\v C}tvrt\IeC {\'y} \IeC {\v R}\IeC {\'a}dek}{27}
+\contentsline {paragraph}{P\IeC {\'a}t\IeC {\'y} \IeC {\v R}\IeC {\'a}dek}{27}
+\contentsline {paragraph}{\IeC {\v S}est\IeC {\'y} \IeC {\v R}\IeC {\'a}dek}{28}
+\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 7}{28}
+\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 8}{28}
+\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 9}{28}
+\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 10}{28}
+\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 11}{28}
+\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 12}{29}
+\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 13}{29}
+\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 14}{29}
+\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 15}{29}
+\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 16}{29}
+\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 17}{29}
+\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 18}{30}
+\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 19}{30}
+\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 20}{30}
+\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 21}{30}
+\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 22}{30}
+\contentsline {subsubsection}{\IeC {\v Z}\IeC {\'a}k 7}{30}
+\contentsline {paragraph}{Prvn\IeC {\'\i } \IeC {\v r}\IeC {\'a}dek}{31}
+\contentsline {paragraph}{Druh\IeC {\'y} \IeC {\v r}\IeC {\'a}dek}{31}
+\contentsline {paragraph}{T\IeC {\v r}et\IeC {\'\i } \IeC {\v r}\IeC {\'a}dek}{31}
+\contentsline {paragraph}{\IeC {\v C}tvrt\IeC {\'y} \IeC {\v r}\IeC {\'a}dek}{32}
+\contentsline {paragraph}{P\IeC {\'a}t\IeC {\'y} \IeC {\v r}\IeC {\'a}dek}{32}
+\contentsline {paragraph}{\IeC {\v S}esti \IeC {\v r}\IeC {\'a}dek}{32}
+\contentsline {paragraph}{Sedmi \IeC {\v r}\IeC {\'a}dek}{32}
+\contentsline {paragraph}{Osmi \IeC {\v r}\IeC {\'a}dek}{32}
+\contentsline {paragraph}{Dev\IeC {\'a}t\IeC {\'y} \IeC {\v r}\IeC {\'a}dek}{32}
+\contentsline {paragraph}{Des\IeC {\'a}t\IeC {\'y} \IeC {\v r}\IeC {\'a}dek}{32}
+\contentsline {paragraph}{Jedenacti \IeC {\v r}\IeC {\'a}dek}{33}
+\contentsline {paragraph}{Dvan\IeC {\'a}cti \IeC {\v r}\IeC {\'a}dek}{33}
+\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 13}{33}
+\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 14}{33}
+\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 15}{33}
+\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 16}{33}
+\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 17}{34}
+\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 18}{34}
+\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 19}{34}
+\contentsline {subsubsection}{\IeC {\v Z}\IeC {\'a}k 8}{34}
+\contentsline {paragraph}{Prvn\IeC {\'\i } \IeC {\v r}\IeC {\'a}dek}{35}
+\contentsline {paragraph}{Druh\IeC {\'y} \IeC {\v r}\IeC {\'a}dek}{36}
 \contentsline {paragraph}{T\IeC {\v r}et\IeC {\'\i } \IeC {\v r}\IeC {\'a}dek}{37}
 \contentsline {paragraph}{\IeC {\v C}tvrt\IeC {\'y} \IeC {\v r}\IeC {\'a}dek}{37}
 \contentsline {paragraph}{P\IeC {\'a}t\IeC {\'y} \IeC {\v r}\IeC {\'a}dek}{38}
-\contentsline {paragraph}{\IeC {\v S}esti \IeC {\v r}\IeC {\'a}dek}{38}
-\contentsline {paragraph}{Sedmi \IeC {\v r}\IeC {\'a}dek}{38}
-\contentsline {paragraph}{Osmi \IeC {\v r}\IeC {\'a}dek}{38}
-\contentsline {paragraph}{Dev\IeC {\'a}t\IeC {\'y} \IeC {\v r}\IeC {\'a}dek}{39}
-\contentsline {paragraph}{Des\IeC {\'a}t\IeC {\'y} \IeC {\v r}\IeC {\'a}dek}{39}
-\contentsline {paragraph}{Jeden\IeC {\'a}ct\IeC {\'y} \IeC {\v r}\IeC {\'a}dek}{39}
-\contentsline {paragraph}{Dvan\IeC {\'a}ct\IeC {\'y} \IeC {\v r}\IeC {\'a}dek}{40}
-\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 13}{40}
-\contentsline {chapter}{\numberline {4}Anal\IeC {\'y}za a srovn\IeC {\'a}n\IeC {\'\i }}{41}
-\contentsline {section}{\numberline {4.1}Obecn\IeC {\'e} dojmy autora}{41}
-\contentsline {section}{\numberline {4.2}Vymezen\IeC {\'\i } fyziologick\IeC {\'e} schopnosti}{41}
-\contentsline {section}{\numberline {4.3}Anal\IeC {\'y}za rychlosti}{43}
-\contentsline {subsection}{\numberline {4.3.1}\IeC {\v Z}\IeC {\'a}k 5}{44}
-\contentsline {subsection}{\numberline {4.3.2}\IeC {\v Z}\IeC {\'a}k 6}{44}
-\contentsline {subsection}{\numberline {4.3.3}\IeC {\v Z}\IeC {\'a}k 7}{45}
-\contentsline {subsection}{\numberline {4.3.4}\IeC {\v Z}\IeC {\'a}k 9}{45}
-\contentsline {section}{\numberline {4.4}Anal\IeC {\'y}za a srovn\IeC {\'a}n\IeC {\'\i } s podobn\IeC {\'y}mi studii}{46}
-\contentsline {subsection}{\numberline {4.4.1}Swift}{46}
-\contentsline {subsection}{\numberline {4.4.2}Anderson}{46}
-\contentsline {subsection}{\numberline {4.4.3}Vlastn\IeC {\'\i } model}{46}
-\contentsline {subsection}{\numberline {4.4.4}Optacon}{46}
-\contentsline {subsection}{\numberline {4.4.5}Patterson a Lee}{46}
-\contentsline {chapter}{\numberline {5}Z\IeC {\'a}v\IeC {\v e}r}{47}
-\contentsline {chapter}{Literatura}{49}
+\contentsline {subsubsection}{\IeC {\v Z}\IeC {\'a}k 9}{38}
+\contentsline {paragraph}{Prvn\IeC {\'\i } \IeC {\v r}\IeC {\'a}dek}{39}
+\contentsline {paragraph}{Druh\IeC {\'y} \IeC {\v r}\IeC {\'a}dek}{39}
+\contentsline {paragraph}{T\IeC {\v r}et\IeC {\'\i } \IeC {\v r}\IeC {\'a}dek}{40}
+\contentsline {paragraph}{\IeC {\v C}tvrt\IeC {\'y} \IeC {\v r}\IeC {\'a}dek}{40}
+\contentsline {paragraph}{P\IeC {\'a}t\IeC {\'y} \IeC {\v r}\IeC {\'a}dek}{40}
+\contentsline {paragraph}{\IeC {\v S}esti \IeC {\v r}\IeC {\'a}dek}{41}
+\contentsline {paragraph}{Sedmi \IeC {\v r}\IeC {\'a}dek}{41}
+\contentsline {paragraph}{Osmi \IeC {\v r}\IeC {\'a}dek}{41}
+\contentsline {paragraph}{Dev\IeC {\'a}t\IeC {\'y} \IeC {\v r}\IeC {\'a}dek}{41}
+\contentsline {paragraph}{Des\IeC {\'a}t\IeC {\'y} \IeC {\v r}\IeC {\'a}dek}{42}
+\contentsline {paragraph}{Jeden\IeC {\'a}ct\IeC {\'y} \IeC {\v r}\IeC {\'a}dek}{42}
+\contentsline {paragraph}{Dvan\IeC {\'a}ct\IeC {\'y} \IeC {\v r}\IeC {\'a}dek}{42}
+\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 13}{43}
+\contentsline {chapter}{\numberline {4}Anal\IeC {\'y}za a srovn\IeC {\'a}n\IeC {\'\i }}{44}
+\contentsline {section}{\numberline {4.1}Obecn\IeC {\'e} dojmy autora}{44}
+\contentsline {section}{\numberline {4.2}Vymezen\IeC {\'\i } fyziologick\IeC {\'e} schopnosti}{44}
+\contentsline {section}{\numberline {4.3}Anal\IeC {\'y}za rychlosti}{46}
+\contentsline {subsection}{\numberline {4.3.1}\IeC {\v Z}\IeC {\'a}k 5}{47}
+\contentsline {subsection}{\numberline {4.3.2}\IeC {\v Z}\IeC {\'a}k 6}{47}
+\contentsline {subsection}{\numberline {4.3.3}\IeC {\v Z}\IeC {\'a}k 7}{48}
+\contentsline {subsection}{\numberline {4.3.4}\IeC {\v Z}\IeC {\'a}k 9}{48}
+\contentsline {section}{\numberline {4.4}Anal\IeC {\'y}za a srovn\IeC {\'a}n\IeC {\'\i } s podobn\IeC {\'y}mi studii}{49}
+\contentsline {subsection}{\numberline {4.4.1}Swift}{49}
+\contentsline {subsection}{\numberline {4.4.2}Anderson}{49}
+\contentsline {subsection}{\numberline {4.4.3}Vlastn\IeC {\'\i } model}{49}
+\contentsline {subsection}{\numberline {4.4.4}Optacon}{49}
+\contentsline {subsection}{\numberline {4.4.5}Patterson a Lee}{49}
+\contentsline {chapter}{\numberline {5}Z\IeC {\'a}v\IeC {\v e}r}{50}
+\contentsline {chapter}{Literatura}{52}
 \contentsline {chapter}{Appendix}{I}
 \contentsline {section}{\numberline {.1}Technick\IeC {\'e} detaily}{I}
 \contentsline {section}{\numberline {.2}Obrazky FCHADu}{II}
