@@ -45,6 +45,13 @@ diploma.aux diploma.aux.make diploma.d diploma.pdf: $(call path-norm,ch/04_analy
 diploma.aux diploma.aux.make diploma.d diploma.pdf: $(call path-norm,ch/05_conclusion.tex)
 diploma.aux diploma.aux.make diploma.d diploma.pdf: $(call path-norm,ch/99_appendices.tex)
 diploma.aux diploma.aux.make diploma.d diploma.pdf: $(call path-norm,ch/ucastnici/1-2.tex)
+diploma.aux diploma.aux.make diploma.d diploma.pdf: $(call path-norm,ch/ucastnici/3.tex)
+diploma.aux diploma.aux.make diploma.d diploma.pdf: $(call path-norm,ch/ucastnici/4.tex)
+diploma.aux diploma.aux.make diploma.d diploma.pdf: $(call path-norm,ch/ucastnici/5.tex)
+diploma.aux diploma.aux.make diploma.d diploma.pdf: $(call path-norm,ch/ucastnici/6.tex)
+diploma.aux diploma.aux.make diploma.d diploma.pdf: $(call path-norm,ch/ucastnici/7.tex)
+diploma.aux diploma.aux.make diploma.d diploma.pdf: $(call path-norm,ch/ucastnici/8.tex)
+diploma.aux diploma.aux.make diploma.d diploma.pdf: $(call path-norm,ch/ucastnici/9.tex)
 diploma.aux diploma.aux.make diploma.d diploma.pdf: $(call path-norm,diploma.tex)
 diploma.aux diploma.aux.make diploma.d diploma.pdf: $(call path-norm,packages/bc-times.sty)
 .SECONDEXPANSION:
