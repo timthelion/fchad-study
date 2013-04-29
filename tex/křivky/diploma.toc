@@ -133,14 +133,14 @@
 \contentsline {subsection}{\numberline {4.3.3}\IeC {\v Z}\IeC {\'a}k 7}{48}
 \contentsline {subsection}{\numberline {4.3.4}\IeC {\v Z}\IeC {\'a}k 9}{48}
 \contentsline {subsection}{\numberline {4.3.5}Anal\IeC {\'y}za chyb}{48}
-\contentsline {section}{\numberline {4.4}Anal\IeC {\'y}za a srovn\IeC {\'a}n\IeC {\'\i } s podobn\IeC {\'y}mi studii}{53}
-\contentsline {subsection}{\numberline {4.4.1}Swift}{53}
-\contentsline {subsection}{\numberline {4.4.2}Anderson}{53}
-\contentsline {subsection}{\numberline {4.4.3}Vlastn\IeC {\'\i } model}{53}
-\contentsline {subsection}{\numberline {4.4.4}Optacon}{53}
-\contentsline {subsection}{\numberline {4.4.5}Patterson a Lee}{53}
-\contentsline {chapter}{\numberline {5}Z\IeC {\'a}v\IeC {\v e}r}{54}
-\contentsline {chapter}{Literatura}{56}
+\contentsline {section}{\numberline {4.4}Anal\IeC {\'y}za a srovn\IeC {\'a}n\IeC {\'\i } s podobn\IeC {\'y}mi studii}{55}
+\contentsline {subsection}{\numberline {4.4.1}Swift}{55}
+\contentsline {subsection}{\numberline {4.4.2}Anderson}{55}
+\contentsline {subsection}{\numberline {4.4.3}Vlastn\IeC {\'\i } model}{55}
+\contentsline {subsection}{\numberline {4.4.4}Optacon}{56}
+\contentsline {subsection}{\numberline {4.4.5}Patterson a Lee}{56}
+\contentsline {chapter}{\numberline {5}Z\IeC {\'a}v\IeC {\v e}r}{57}
+\contentsline {chapter}{Literatura}{59}
 \contentsline {chapter}{Appendix}{I}
 \contentsline {section}{\numberline {.1}Technick\IeC {\'e} detaily}{I}
 \contentsline {section}{\numberline {.2}Obrazky FCHADu}{II}

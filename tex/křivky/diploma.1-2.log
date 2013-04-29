@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Arch Linux) (format=pdflatex 2013.4.27)  29 APR 2013 21:22
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Arch Linux) (format=pdflatex 2013.4.27)  29 APR 2013 21:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -976,12 +976,12 @@ Package pdftex.def Info: ./img/Location9-cut-eps-converted-to.pdf used on input
  line 54.
 (pdftex.def)             Requested size: 448.13095pt x 262.20572pt.
 [48 <./img/Location7-cut-eps-converted-to.pdf> <./img/Location9-cut-eps-convert
-ed-to.pdf>] [49] [50] [51] [52]) [53]
+ed-to.pdf>] [49] [50] [51] [52] [53] [54]) [55] [56]
 \openout2 = `ch/05_conclusion.aux'.
 
 (./ch/05_conclusion.tex
 Kapitola 5.
-) [54
+) [57
 
 
 
@@ -1038,7 +1038,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 82--86
 mv = -[]& _
  []
 
-[55
+[58
 
 
 ])
@@ -1051,7 +1051,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 302--304
 
  []
 
-[56]
+[59]
 \openout2 = `ch/99_appendices.aux'.
 
 (./ch/99_appendices.tex [1
@@ -1069,7 +1069,7 @@ Package epstopdf Info: Source file: <./img/Device1.eps>
 d-to.pdf ./img/Device1.eps>
 (epstopdf)             \includegraphics on input line 18.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Device1-eps-converted-to.pdf, id=238, 2601.72pt x 1951.29pt>
+<./img/Device1-eps-converted-to.pdf, id=248, 2601.72pt x 1951.29pt>
 File: ./img/Device1-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Device1-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Device1-eps-converted-to.pdf used on input line 
@@ -1085,7 +1085,7 @@ Package epstopdf Info: Source file: <./img/Device1-A.eps>
 ted-to.pdf ./img/Device1-A.eps>
 (epstopdf)             \includegraphics on input line 21.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Device1-A-eps-converted-to.pdf, id=239, 2601.72pt x 1951.29pt>
+<./img/Device1-A-eps-converted-to.pdf, id=249, 2601.72pt x 1951.29pt>
 File: ./img/Device1-A-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Device1-A-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Device1-A-eps-converted-to.pdf used on input lin
@@ -1101,7 +1101,7 @@ Package epstopdf Info: Source file: <./img/Device1-B.eps>
 ted-to.pdf ./img/Device1-B.eps>
 (epstopdf)             \includegraphics on input line 27.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Device1-B-eps-converted-to.pdf, id=240, 2601.72pt x 1951.29pt>
+<./img/Device1-B-eps-converted-to.pdf, id=250, 2601.72pt x 1951.29pt>
 File: ./img/Device1-B-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Device1-B-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Device1-B-eps-converted-to.pdf used on input lin
@@ -1117,7 +1117,7 @@ Package epstopdf Info: Source file: <./img/Device1-C.eps>
 ted-to.pdf ./img/Device1-C.eps>
 (epstopdf)             \includegraphics on input line 35.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Device1-C-eps-converted-to.pdf, id=241, 2601.72pt x 1951.29pt>
+<./img/Device1-C-eps-converted-to.pdf, id=251, 2601.72pt x 1951.29pt>
 File: ./img/Device1-C-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Device1-C-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Device1-C-eps-converted-to.pdf used on input lin
@@ -1133,7 +1133,7 @@ Package epstopdf Info: Source file: <./img/Device2.eps>
 d-to.pdf ./img/Device2.eps>
 (epstopdf)             \includegraphics on input line 44.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Device2-eps-converted-to.pdf, id=242, 1951.29pt x 2601.72pt>
+<./img/Device2-eps-converted-to.pdf, id=252, 1951.29pt x 2601.72pt>
 File: ./img/Device2-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Device2-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Device2-eps-converted-to.pdf used on input line 
@@ -1149,7 +1149,7 @@ Package epstopdf Info: Source file: <./img/Device3.eps>
 d-to.pdf ./img/Device3.eps>
 (epstopdf)             \includegraphics on input line 50.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Device3-eps-converted-to.pdf, id=243, 2601.72pt x 1951.29pt>
+<./img/Device3-eps-converted-to.pdf, id=253, 2601.72pt x 1951.29pt>
 File: ./img/Device3-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Device3-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Device3-eps-converted-to.pdf used on input line 
@@ -1168,7 +1168,7 @@ Package epstopdf Info: Source file: <./img/Gymnasium.eps>
 ted-to.pdf ./img/Gymnasium.eps>
 (epstopdf)             \includegraphics on input line 59.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Gymnasium-eps-converted-to.pdf, id=268, 1951.29pt x 2601.72pt>
+<./img/Gymnasium-eps-converted-to.pdf, id=278, 1951.29pt x 2601.72pt>
 File: ./img/Gymnasium-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Gymnasium-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Gymnasium-eps-converted-to.pdf used on input lin
@@ -1210,10 +1210,10 @@ gyre/qhvr.pfb></usr/share/texmf-dist/fonts/type1/public/tex-gyre/qtmb.pfb></usr
 /share/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb></usr/share/texmf-dist/f
 onts/type1/public/tex-gyre/qtmri.pfb></usr/share/texmf-dist/fonts/type1/urw/tim
 es/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on diploma.pdf (72 pages, 7272372 bytes).
+Output written on diploma.pdf (75 pages, 7277500 bytes).
 PDF statistics:
- 331 PDF objects out of 1000 (max. 8388607)
- 217 compressed objects within 3 object streams
+ 342 PDF objects out of 1000 (max. 8388607)
+ 225 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
  76 words of extra memory for PDF output out of 10000 (max. 10000000)
 
