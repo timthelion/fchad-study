@@ -124,21 +124,18 @@
 \contentsline {paragraph}{Dvan\IeC {\'a}ct\IeC {\'y} \IeC {\v r}\IeC {\'a}dek}{43}
 \contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 13}{43}
 \contentsline {chapter}{\numberline {4}Anal\IeC {\'y}za a srovn\IeC {\'a}n\IeC {\'\i }}{44}
-\contentsline {section}{\numberline {4.1}Obecn\IeC {\'e} dojmy autora}{44}
-\contentsline {section}{\numberline {4.2}Vymezen\IeC {\'\i } fyziologick\IeC {\'e} schopnosti}{44}
-\contentsline {section}{\numberline {4.3}Anal\IeC {\'y}za rychlosti}{46}
+\contentsline {section}{\numberline {4.1}Vymezen\IeC {\'\i } fyziologick\IeC {\'e} schopnosti}{44}
+\contentsline {section}{\numberline {4.2}Anal\IeC {\'y}za rychlosti}{45}
 \contentsline {paragraph}{Jak \IeC {\v c}tete grafy?}{46}
-\contentsline {subsection}{\numberline {4.3.1}\IeC {\v Z}\IeC {\'a}k 5}{47}
-\contentsline {subsection}{\numberline {4.3.2}\IeC {\v Z}\IeC {\'a}k 6}{47}
-\contentsline {subsection}{\numberline {4.3.3}\IeC {\v Z}\IeC {\'a}k 7}{48}
-\contentsline {subsection}{\numberline {4.3.4}\IeC {\v Z}\IeC {\'a}k 9}{48}
-\contentsline {subsection}{\numberline {4.3.5}Anal\IeC {\'y}za chyb}{48}
-\contentsline {section}{\numberline {4.4}Anal\IeC {\'y}za a srovn\IeC {\'a}n\IeC {\'\i } s podobn\IeC {\'y}mi studii}{55}
-\contentsline {subsection}{\numberline {4.4.1}Swift}{55}
-\contentsline {subsection}{\numberline {4.4.2}Anderson}{55}
-\contentsline {subsection}{\numberline {4.4.3}Vlastn\IeC {\'\i } model}{55}
-\contentsline {subsection}{\numberline {4.4.4}Optacon}{56}
-\contentsline {subsection}{\numberline {4.4.5}Patterson a Lee}{56}
+\contentsline {subsection}{\numberline {4.2.1}\IeC {\v Z}\IeC {\'a}k 5}{46}
+\contentsline {subsection}{\numberline {4.2.2}\IeC {\v Z}\IeC {\'a}k 6}{47}
+\contentsline {subsection}{\numberline {4.2.3}\IeC {\v Z}\IeC {\'a}k 7}{47}
+\contentsline {subsection}{\numberline {4.2.4}\IeC {\v Z}\IeC {\'a}k 9}{48}
+\contentsline {subsection}{\numberline {4.2.5}Anal\IeC {\'y}za chyb}{48}
+\contentsline {section}{\numberline {4.3}Anal\IeC {\'y}za podle d\IeC {\v r}\IeC {\'\i }v\IeC {\v e}j\IeC {\v s}\IeC {\'\i } uveden\IeC {\'e} modelu}{55}
+\contentsline {subsection}{\numberline {4.3.1}Swift}{55}
+\contentsline {subsection}{\numberline {4.3.2}Anderson}{56}
+\contentsline {subsection}{\numberline {4.3.3}Vlastn\IeC {\'\i } model}{56}
 \contentsline {chapter}{\numberline {5}Z\IeC {\'a}v\IeC {\v e}r}{57}
 \contentsline {chapter}{Literatura}{59}
 \contentsline {chapter}{Appendix}{I}
