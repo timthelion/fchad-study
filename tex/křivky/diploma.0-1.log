@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Arch Linux) (format=pdflatex 2013.4.27)  29 APR 2013 20:19
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Arch Linux) (format=pdflatex 2013.4.27)  29 APR 2013 21:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -859,12 +859,7 @@ Overfull \hbox (2.32018pt too wide) in paragraph at lines 127--133
  \T1/qhv/b/n/12 Je-denacti °á-dek[] [] 
  []
 
-[33]
-Overfull \hbox (1.82819pt too wide) in paragraph at lines 199--206
- \T1/qhv/b/n/12 á-dek 18[] [] \T1/qtm/m/n/12 ƒetl `h'
- []
-
-[34]) (./ch/ucastnici/8.tex [35] [36]
+[33] [34]) (./ch/ucastnici/8.tex [35] [36]
 Overfull \hbox (6.88017pt too wide) in paragraph at lines 84--91
  \T1/qhv/b/n/12 ƒtvrtý °á-dek[] [] \T1/qtm/m/n/12 ƒetl,
  []
@@ -1215,7 +1210,7 @@ gyre/qhvr.pfb></usr/share/texmf-dist/fonts/type1/public/tex-gyre/qtmb.pfb></usr
 /share/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb></usr/share/texmf-dist/f
 onts/type1/public/tex-gyre/qtmri.pfb></usr/share/texmf-dist/fonts/type1/urw/tim
 es/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on diploma.pdf (72 pages, 7272415 bytes).
+Output written on diploma.pdf (72 pages, 7272372 bytes).
 PDF statistics:
  331 PDF objects out of 1000 (max. 8388607)
  217 compressed objects within 3 object streams
