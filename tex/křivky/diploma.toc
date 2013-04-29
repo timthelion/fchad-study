@@ -90,13 +90,13 @@
 \contentsline {paragraph}{\IeC {\v C}tvrt\IeC {\'y} \IeC {\v r}\IeC {\'a}dek}{32}
 \contentsline {paragraph}{P\IeC {\'a}t\IeC {\'y} \IeC {\v r}\IeC {\'a}dek}{32}
 \contentsline {paragraph}{\IeC {\v S}esti \IeC {\v r}\IeC {\'a}dek}{32}
-\contentsline {paragraph}{Sedmi \IeC {\v r}\IeC {\'a}dek}{32}
+\contentsline {paragraph}{Sedmi \IeC {\v r}\IeC {\'a}dek}{33}
 \contentsline {paragraph}{Osmi \IeC {\v r}\IeC {\'a}dek}{33}
 \contentsline {paragraph}{Dev\IeC {\'a}t\IeC {\'y} \IeC {\v r}\IeC {\'a}dek}{33}
 \contentsline {paragraph}{Des\IeC {\'a}t\IeC {\'y} \IeC {\v r}\IeC {\'a}dek}{33}
 \contentsline {paragraph}{Jedenacti \IeC {\v r}\IeC {\'a}dek}{33}
 \contentsline {paragraph}{Dvan\IeC {\'a}cti \IeC {\v r}\IeC {\'a}dek}{33}
-\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 13}{33}
+\contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 13}{34}
 \contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 14}{34}
 \contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 15}{34}
 \contentsline {paragraph}{\IeC {\v R}\IeC {\'a}dek 16}{34}
@@ -107,7 +107,7 @@
 \contentsline {paragraph}{Prvn\IeC {\'\i } \IeC {\v r}\IeC {\'a}dek}{35}
 \contentsline {paragraph}{Druh\IeC {\'y} \IeC {\v r}\IeC {\'a}dek}{36}
 \contentsline {paragraph}{T\IeC {\v r}et\IeC {\'\i } \IeC {\v r}\IeC {\'a}dek}{37}
-\contentsline {paragraph}{\IeC {\v C}tvrt\IeC {\'y} \IeC {\v r}\IeC {\'a}dek}{37}
+\contentsline {paragraph}{\IeC {\v C}tvrt\IeC {\'y} \IeC {\v r}\IeC {\'a}dek}{38}
 \contentsline {paragraph}{P\IeC {\'a}t\IeC {\'y} \IeC {\v r}\IeC {\'a}dek}{38}
 \contentsline {subsubsection}{\IeC {\v Z}\IeC {\'a}k 9}{38}
 \contentsline {paragraph}{Prvn\IeC {\'\i } \IeC {\v r}\IeC {\'a}dek}{39}
@@ -117,7 +117,7 @@
 \contentsline {paragraph}{P\IeC {\'a}t\IeC {\'y} \IeC {\v r}\IeC {\'a}dek}{41}
 \contentsline {paragraph}{\IeC {\v S}esti \IeC {\v r}\IeC {\'a}dek}{41}
 \contentsline {paragraph}{Sedmi \IeC {\v r}\IeC {\'a}dek}{41}
-\contentsline {paragraph}{Osmi \IeC {\v r}\IeC {\'a}dek}{41}
+\contentsline {paragraph}{Osmi \IeC {\v r}\IeC {\'a}dek}{42}
 \contentsline {paragraph}{Dev\IeC {\'a}t\IeC {\'y} \IeC {\v r}\IeC {\'a}dek}{42}
 \contentsline {paragraph}{Des\IeC {\'a}t\IeC {\'y} \IeC {\v r}\IeC {\'a}dek}{42}
 \contentsline {paragraph}{Jeden\IeC {\'a}ct\IeC {\'y} \IeC {\v r}\IeC {\'a}dek}{42}
@@ -127,18 +127,20 @@
 \contentsline {section}{\numberline {4.1}Obecn\IeC {\'e} dojmy autora}{44}
 \contentsline {section}{\numberline {4.2}Vymezen\IeC {\'\i } fyziologick\IeC {\'e} schopnosti}{44}
 \contentsline {section}{\numberline {4.3}Anal\IeC {\'y}za rychlosti}{46}
+\contentsline {paragraph}{Jak \IeC {\v c}tete grafy?}{46}
 \contentsline {subsection}{\numberline {4.3.1}\IeC {\v Z}\IeC {\'a}k 5}{47}
 \contentsline {subsection}{\numberline {4.3.2}\IeC {\v Z}\IeC {\'a}k 6}{47}
 \contentsline {subsection}{\numberline {4.3.3}\IeC {\v Z}\IeC {\'a}k 7}{48}
 \contentsline {subsection}{\numberline {4.3.4}\IeC {\v Z}\IeC {\'a}k 9}{48}
-\contentsline {section}{\numberline {4.4}Anal\IeC {\'y}za a srovn\IeC {\'a}n\IeC {\'\i } s podobn\IeC {\'y}mi studii}{49}
-\contentsline {subsection}{\numberline {4.4.1}Swift}{49}
-\contentsline {subsection}{\numberline {4.4.2}Anderson}{49}
-\contentsline {subsection}{\numberline {4.4.3}Vlastn\IeC {\'\i } model}{49}
-\contentsline {subsection}{\numberline {4.4.4}Optacon}{49}
-\contentsline {subsection}{\numberline {4.4.5}Patterson a Lee}{49}
-\contentsline {chapter}{\numberline {5}Z\IeC {\'a}v\IeC {\v e}r}{50}
-\contentsline {chapter}{Literatura}{52}
+\contentsline {subsection}{\numberline {4.3.5}Anal\IeC {\'y}za chyb}{48}
+\contentsline {section}{\numberline {4.4}Anal\IeC {\'y}za a srovn\IeC {\'a}n\IeC {\'\i } s podobn\IeC {\'y}mi studii}{53}
+\contentsline {subsection}{\numberline {4.4.1}Swift}{53}
+\contentsline {subsection}{\numberline {4.4.2}Anderson}{53}
+\contentsline {subsection}{\numberline {4.4.3}Vlastn\IeC {\'\i } model}{53}
+\contentsline {subsection}{\numberline {4.4.4}Optacon}{53}
+\contentsline {subsection}{\numberline {4.4.5}Patterson a Lee}{53}
+\contentsline {chapter}{\numberline {5}Z\IeC {\'a}v\IeC {\v e}r}{54}
+\contentsline {chapter}{Literatura}{56}
 \contentsline {chapter}{Appendix}{I}
 \contentsline {section}{\numberline {.1}Technick\IeC {\'e} detaily}{I}
 \contentsline {section}{\numberline {.2}Obrazky FCHADu}{II}

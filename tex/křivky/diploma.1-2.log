@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Arch Linux) (format=pdflatex 2013.4.21)  26 APR 2013 21:29
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Arch Linux) (format=pdflatex 2013.4.27)  29 APR 2013 20:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -515,20 +515,21 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen104
 \Gin@req@width=\dimen105
 ) (/usr/share/texmf-dist/tex/latex/caption/caption.sty
-Package: caption 2012/02/19 v3.2f Customizing captions (AR)
+Package: caption 2013/02/03 v3.3-65 Customizing captions (AR)
 (/usr/share/texmf-dist/tex/latex/caption/caption3.sty
-Package: caption3 2012/01/12 v1.4b caption3 kernel (AR)
+Package: caption3 2013/02/03 v1.5-62 caption3 kernel (AR)
 \captionmargin=\dimen106
 \captionmargin@=\dimen107
 \captionwidth=\dimen108
-\caption@indent=\dimen109
-\caption@parindent=\dimen110
-\caption@hangindent=\dimen111
+\caption@tempdima=\dimen109
+\caption@indent=\dimen110
+\caption@parindent=\dimen111
+\caption@hangindent=\dimen112
 )
 Package caption Info: KOMA-Script document class.
 \c@ContinuedFloat=\count92
 ) (/usr/share/texmf-dist/tex/latex/caption/subcaption.sty
-Package: subcaption 2012/01/12 v1.1d Sub-captions (AR)
+Package: subcaption 2013/02/03 v1.1-62 Sub-captions (AR)
 \c@subfigure=\count93
 \c@subtable=\count94
 ) (/usr/share/texmf-dist/tex/latex/natbib/natbib.sty
@@ -541,16 +542,16 @@ LaTeX Info: Redefining \cite on input line 694.
 Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
 \c@tracingmulticols=\count96
 \mult@box=\box27
-\multicol@leftmargin=\dimen112
+\multicol@leftmargin=\dimen113
 \c@unbalance=\count97
 \c@collectmore=\count98
 \doublecol@number=\count99
 \multicoltolerance=\count100
 \multicolpretolerance=\count101
-\full@width=\dimen113
-\page@free=\dimen114
-\premulticols=\dimen115
-\postmulticols=\dimen116
+\full@width=\dimen114
+\page@free=\dimen115
+\premulticols=\dimen116
+\postmulticols=\dimen117
 \multicolsep=\skip50
 \multicolbaselineskip=\skip51
 \partial@page=\box28
@@ -578,9 +579,9 @@ Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
 \@tempa=\box50
 \c@columnbadness=\count102
 \c@finalcolumnbadness=\count103
-\last@try=\dimen117
-\multicolovershoot=\dimen118
-\multicolundershoot=\dimen119
+\last@try=\dimen118
+\multicolovershoot=\dimen119
+\multicolundershoot=\dimen120
 \mult@nat@firstbox=\box51
 \colbreak@box=\box52
 \multicol@sort@counter=\count104
@@ -691,13 +692,13 @@ File: t1qtm.fd 2009/09/25 v1.2 font definition file for T1/qtm
 )<<t1.cmap>> (/usr/share/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count105
-\scratchdimen=\dimen120
+\scratchdimen=\dimen121
 \scratchbox=\box53
 \nofMPsegments=\count106
 \nofMParguments=\count107
 \everyMPshowfont=\toks17
 \MPscratchCnt=\count108
-\MPscratchDim=\dimen121
+\MPscratchDim=\dimen122
 \MPnumerator=\count109
 \makeMPintoPDFobject=\count110
 \everyMPtoPDFconversion=\toks18
@@ -724,7 +725,7 @@ e
 ))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-\big@size=\dimen122
+\big@size=\dimen123
 LaTeX Font Info:    Try loading font information for T1+qhv on input line 160.
 (/usr/share/texmf-dist/tex/latex/tex-gyre/t1qhv.fd
 File: t1qhv.fd 2009/09/25 v1.2 font definition file for T1/qhv
@@ -863,7 +864,7 @@ Overfull \hbox (1.82819pt too wide) in paragraph at lines 199--206
  \T1/qhv/b/n/12 ê·-dek 18[] [] \T1/qtm/m/n/12 Éetl `h'
  []
 
-) (./ch/ucastnici/8.tex [34] [35] [36]
+[34]) (./ch/ucastnici/8.tex [35] [36]
 Overfull \hbox (6.88017pt too wide) in paragraph at lines 84--91
  \T1/qhv/b/n/12 Étvrt˝ ∞·-dek[] [] \T1/qtm/m/n/12 Éetl,
  []
@@ -920,13 +921,13 @@ Package epstopdf Info: Source file: <./img/Location5-cut.eps>
 (epstopdf)                    size: 46589 bytes
 (epstopdf)             Command: <repstopdf --outfile=./img/Location5-cut-eps-co
 nverted-to.pdf ./img/Location5-cut.eps>
-(epstopdf)             \includegraphics on input line 41.
+(epstopdf)             \includegraphics on input line 48.
 Package epstopdf Info: Output file is already uptodate.
 <./img/Location5-cut-eps-converted-to.pdf, id=184, 156.585pt x 92.345pt>
 File: ./img/Location5-cut-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Location5-cut-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Location5-cut-eps-converted-to.pdf used on input
- line 41.
+ line 48.
 (pdftex.def)             Requested size: 448.13095pt x 264.31882pt.
 [46]
 Package epstopdf Info: Source file: <./img/Location6-cut.eps>
@@ -937,13 +938,13 @@ Package epstopdf Info: Source file: <./img/Location6-cut.eps>
 (epstopdf)                    size: 41310 bytes
 (epstopdf)             Command: <repstopdf --outfile=./img/Location6-cut-eps-co
 nverted-to.pdf ./img/Location6-cut.eps>
-(epstopdf)             \includegraphics on input line 43.
+(epstopdf)             \includegraphics on input line 50.
 Package epstopdf Info: Output file is already uptodate.
 <./img/Location6-cut-eps-converted-to.pdf, id=188, 165.61874pt x 100.375pt>
 File: ./img/Location6-cut-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Location6-cut-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Location6-cut-eps-converted-to.pdf used on input
- line 43.
+ line 50.
 (pdftex.def)             Requested size: 448.13095pt x 271.63332pt.
 Package epstopdf Info: Source file: <./img/Location7-cut.eps>
 (epstopdf)                    date: 2013-04-26 14:28:15
@@ -953,13 +954,13 @@ Package epstopdf Info: Source file: <./img/Location7-cut.eps>
 (epstopdf)                    size: 54878 bytes
 (epstopdf)             Command: <repstopdf --outfile=./img/Location7-cut-eps-co
 nverted-to.pdf ./img/Location7-cut.eps>
-(epstopdf)             \includegraphics on input line 45.
+(epstopdf)             \includegraphics on input line 52.
 Package epstopdf Info: Output file is already uptodate.
 <./img/Location7-cut-eps-converted-to.pdf, id=189, 167.62625pt x 74.2775pt>
 File: ./img/Location7-cut-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Location7-cut-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Location7-cut-eps-converted-to.pdf used on input
- line 45.
+ line 52.
 (pdftex.def)             Requested size: 448.13095pt x 198.57303pt.
 [47 <./img/Location5-cut-eps-converted-to.pdf> <./img/Location6-cut-eps-convert
 ed-to.pdf>]
@@ -971,21 +972,21 @@ Package epstopdf Info: Source file: <./img/Location9-cut.eps>
 (epstopdf)                    size: 38569 bytes
 (epstopdf)             Command: <repstopdf --outfile=./img/Location9-cut-eps-co
 nverted-to.pdf ./img/Location9-cut.eps>
-(epstopdf)             \includegraphics on input line 47.
+(epstopdf)             \includegraphics on input line 54.
 Package epstopdf Info: Output file is already uptodate.
 <./img/Location9-cut-eps-converted-to.pdf, id=199, 147.55125pt x 86.3225pt>
 File: ./img/Location9-cut-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Location9-cut-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Location9-cut-eps-converted-to.pdf used on input
- line 47.
+ line 54.
 (pdftex.def)             Requested size: 448.13095pt x 262.20572pt.
 [48 <./img/Location7-cut-eps-converted-to.pdf> <./img/Location9-cut-eps-convert
-ed-to.pdf>]) [49]
+ed-to.pdf>] [49] [50] [51] [52]) [53]
 \openout2 = `ch/05_conclusion.aux'.
 
 (./ch/05_conclusion.tex
 Kapitola 5.
-) [50
+) [54
 
 
 
@@ -1042,7 +1043,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 82--86
 mv = -[]& _
  []
 
-[51
+[55
 
 
 ])
@@ -1055,7 +1056,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 302--304
 
  []
 
-[52]
+[56]
 \openout2 = `ch/99_appendices.aux'.
 
 (./ch/99_appendices.tex [1
@@ -1073,7 +1074,7 @@ Package epstopdf Info: Source file: <./img/Device1.eps>
 d-to.pdf ./img/Device1.eps>
 (epstopdf)             \includegraphics on input line 18.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Device1-eps-converted-to.pdf, id=225, 2601.72pt x 1951.29pt>
+<./img/Device1-eps-converted-to.pdf, id=238, 2601.72pt x 1951.29pt>
 File: ./img/Device1-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Device1-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Device1-eps-converted-to.pdf used on input line 
@@ -1089,7 +1090,7 @@ Package epstopdf Info: Source file: <./img/Device1-A.eps>
 ted-to.pdf ./img/Device1-A.eps>
 (epstopdf)             \includegraphics on input line 21.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Device1-A-eps-converted-to.pdf, id=226, 2601.72pt x 1951.29pt>
+<./img/Device1-A-eps-converted-to.pdf, id=239, 2601.72pt x 1951.29pt>
 File: ./img/Device1-A-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Device1-A-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Device1-A-eps-converted-to.pdf used on input lin
@@ -1105,7 +1106,7 @@ Package epstopdf Info: Source file: <./img/Device1-B.eps>
 ted-to.pdf ./img/Device1-B.eps>
 (epstopdf)             \includegraphics on input line 27.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Device1-B-eps-converted-to.pdf, id=227, 2601.72pt x 1951.29pt>
+<./img/Device1-B-eps-converted-to.pdf, id=240, 2601.72pt x 1951.29pt>
 File: ./img/Device1-B-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Device1-B-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Device1-B-eps-converted-to.pdf used on input lin
@@ -1121,7 +1122,7 @@ Package epstopdf Info: Source file: <./img/Device1-C.eps>
 ted-to.pdf ./img/Device1-C.eps>
 (epstopdf)             \includegraphics on input line 35.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Device1-C-eps-converted-to.pdf, id=228, 2601.72pt x 1951.29pt>
+<./img/Device1-C-eps-converted-to.pdf, id=241, 2601.72pt x 1951.29pt>
 File: ./img/Device1-C-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Device1-C-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Device1-C-eps-converted-to.pdf used on input lin
@@ -1137,7 +1138,7 @@ Package epstopdf Info: Source file: <./img/Device2.eps>
 d-to.pdf ./img/Device2.eps>
 (epstopdf)             \includegraphics on input line 44.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Device2-eps-converted-to.pdf, id=229, 1951.29pt x 2601.72pt>
+<./img/Device2-eps-converted-to.pdf, id=242, 1951.29pt x 2601.72pt>
 File: ./img/Device2-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Device2-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Device2-eps-converted-to.pdf used on input line 
@@ -1153,7 +1154,7 @@ Package epstopdf Info: Source file: <./img/Device3.eps>
 d-to.pdf ./img/Device3.eps>
 (epstopdf)             \includegraphics on input line 50.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Device3-eps-converted-to.pdf, id=230, 2601.72pt x 1951.29pt>
+<./img/Device3-eps-converted-to.pdf, id=243, 2601.72pt x 1951.29pt>
 File: ./img/Device3-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Device3-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Device3-eps-converted-to.pdf used on input line 
@@ -1172,7 +1173,7 @@ Package epstopdf Info: Source file: <./img/Gymnasium.eps>
 ted-to.pdf ./img/Gymnasium.eps>
 (epstopdf)             \includegraphics on input line 59.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Gymnasium-eps-converted-to.pdf, id=256, 1951.29pt x 2601.72pt>
+<./img/Gymnasium-eps-converted-to.pdf, id=268, 1951.29pt x 2601.72pt>
 File: ./img/Gymnasium-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Gymnasium-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Gymnasium-eps-converted-to.pdf used on input lin
@@ -1197,13 +1198,13 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 6747 strings out of 493488
- 100902 string characters out of 3146892
- 268473 words of memory out of 3000000
- 9754 multiletter control sequences out of 15000+200000
+ 6757 strings out of 493488
+ 101152 string characters out of 3146892
+ 268381 words of memory out of 3000000
+ 9764 multiletter control sequences out of 15000+200000
  101648 words of font info for 100 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 56i,18n,47p,1254b,469s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,18n,47p,1254b,470s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf-dist/fon
 ts/enc/dvips/tex-gyre/q-ec.enc}{/usr/share/texmf-dist/fonts/enc/dvips/tex-gyre/
 q-ec-sc.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></
@@ -1214,10 +1215,10 @@ gyre/qhvr.pfb></usr/share/texmf-dist/fonts/type1/public/tex-gyre/qtmb.pfb></usr
 /share/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb></usr/share/texmf-dist/f
 onts/type1/public/tex-gyre/qtmri.pfb></usr/share/texmf-dist/fonts/type1/urw/tim
 es/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on diploma.pdf (68 pages, 7255852 bytes).
+Output written on diploma.pdf (72 pages, 7272415 bytes).
 PDF statistics:
- 319 PDF objects out of 1000 (max. 8388607)
- 209 compressed objects within 3 object streams
+ 331 PDF objects out of 1000 (max. 8388607)
+ 217 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
  76 words of extra memory for PDF output out of 10000 (max. 10000000)
 
