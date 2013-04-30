@@ -222,6 +222,9 @@ INPUT /usr/share/texmf-dist/fonts/tfm/public/tex-gyre/ec-qtmb.tfm
 OUTPUT ch/03_experiment.aux
 INPUT ch/03_experiment.tex
 INPUT ch/03_experiment.tex
+INPUT /usr/share/texmf-dist/tex/latex/tex-gyre/t1qcr.fd
+INPUT /usr/share/texmf-dist/tex/latex/tex-gyre/t1qcr.fd
+INPUT /usr/share/texmf-dist/fonts/tfm/public/tex-gyre/ec-qcrr.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/tex-gyre/ec-qtmr.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/tex-gyre/ec-qtmr.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/adobe/times/zptmcm7t.tfm
@@ -237,8 +240,6 @@ INPUT /usr/share/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/tex-gyre/ec-qtmr.tfm
-INPUT /usr/share/texmf-dist/tex/latex/tex-gyre/t1qcr.fd
-INPUT /usr/share/texmf-dist/tex/latex/tex-gyre/t1qcr.fd
 INPUT /usr/share/texmf-dist/fonts/tfm/public/tex-gyre/ec-qcrr.tfm
 INPUT ch/ucastnici/1-2.tex
 INPUT ch/ucastnici/1-2.tex
@@ -313,7 +314,6 @@ INPUT ./img/Location9-cut-eps-converted-to.pdf
 OUTPUT ch/05_conclusion.aux
 INPUT ch/05_conclusion.tex
 INPUT ch/05_conclusion.tex
-INPUT /usr/share/texmf-dist/fonts/tfm/public/tex-gyre/ec-qcrr.tfm
 INPUT diploma.bbl
 INPUT diploma.bbl
 OUTPUT ch/99_appendices.aux

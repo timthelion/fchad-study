@@ -9,62 +9,51 @@ A level-1 auxiliary file: ch/05_conclusion.aux
 The style file: csplainnat.bst
 A level-1 auxiliary file: ch/99_appendices.aux
 Database file #1: references.bib
-Warning--to sort, need author or key in sonsklasifikace
-Warning--to sort, need author or key in brailleautority
-Warning--empty year in 6dotbraille
-Warning--empty year in anki
-Warning--empty year in biblio
-Warning--empty year in cataractsindia
-Warning--empty year in multicomp
-Warning--empty year in mlp
-Warning--empty year in perkinsdisplays
-Warning--empty year in perkins
 `address' is a missing field, not a string, for entry robert1994handbook
 while executing---line 1484 of file csplainnat.bst
 `address' is a missing field, not a string, for entry taylor2010theory
 while executing---line 1484 of file csplainnat.bst
 `address' is a missing field, not a string, for entry velazquez2010wearable
 while executing---line 1484 of file csplainnat.bst
-Warning--empty year in whozakal
 You've used 25 entries,
             2899 wiz_defined-function locations,
-            765 strings with 9039 characters,
-and the built_in function-call counts, 9382 in all, are:
-= -- 921
-> -- 322
-< -- 26
-+ -- 114
-- -- 89
-* -- 537
-:= -- 1434
-add.period$ -- 92
+            765 strings with 9012 characters,
+and the built_in function-call counts, 9258 in all, are:
+= -- 994
+> -- 344
+< -- 28
++ -- 120
+- -- 95
+* -- 570
+:= -- 1520
+add.period$ -- 94
 call.type$ -- 25
-change.case$ -- 84
+change.case$ -- 88
 chr.to.int$ -- 25
-cite$ -- 63
-duplicate$ -- 510
-empty$ -- 900
-format.name$ -- 147
-if$ -- 2077
+cite$ -- 50
+duplicate$ -- 477
+empty$ -- 720
+format.name$ -- 157
+if$ -- 2002
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 19
-newline$ -- 132
-num.names$ -- 114
-pop$ -- 264
+missing$ -- 49
+newline$ -- 134
+num.names$ -- 124
+pop$ -- 174
 preamble$ -- 1
-purify$ -- 56
+purify$ -- 58
 quote$ -- 0
-skip$ -- 360
+skip$ -- 343
 stack$ -- 0
-substring$ -- 307
+substring$ -- 305
 swap$ -- 70
 text.length$ -- 5
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 270
-warning$ -- 11
-while$ -- 92
+warning$ -- 0
+while$ -- 98
 width$ -- 0
-write$ -- 313
+write$ -- 316
 (There were 3 error messages)

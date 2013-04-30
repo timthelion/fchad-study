@@ -13,7 +13,7 @@ Když si čtu tisknutá Braillova písma se cítím, že je to určitý druh lec
 
 Publikace HCI sestavuje pro naše použity prahy rozlišený anebo v angličtině "Just Noticeable Differences(JND)". Neberu JNDy jako měřítku to co člověk dokáže cítit, ale spíš co nedokáže.  Nechtěl jsem aby nastroj pracoval na hranice citlivosti ale aby znaky byly bezpečně rozpoznatelné.
 
-Pocit hmatu je přesný do ${}1mm^2 - 2mm^2$ na konce prstů a až ${}45mm^2$ jinde na tělo.  Tisknutí Braillovo písmo má body vzdálené od sebe 2.3-2.5mm\citep{brailleautority}. To je až příliš blízko JND.  Však Perkins produkuje speciální velko-písmenové psací stroj kvůli tomu, že některé nevidomé nedokážou normální Braillovo písmo číst\footnote{\url{https://secure2.convio.net/psb/site/Ecommerce?FOLDER=1180&store_id=1101&JServSessionIdr004=9p1uhglug2.app246a&__utma=184864936.426189431.1365936556.1365946389.1366050996.3&__utmb=184864936.1.10.1366050996&__utmc=184864936&__utmx=-&__utmz=184864936.1365936556.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)&__utmv=-&__utmk=194396717}}.  Bohužel, když děláme větší písmo už to nevejde na koncem prstu a kůže jinde na tělo je méně citlivá.  Vzdálenost JND kůže na dlaně je 11mm a proto, hrozí se že zvětšení písmo zhoršuje čtení! Můj osobní pocit je, že optimální velikost pro Braillovo písmo je 500 x 300mm.  Když jsem vyrobil první FCHAD jsem nemohl dostat solenoidy tak malé, a proto v studie používal jsem daleko větší zobrazovač\citep[str. 30-32]{nielsen2008gesture}.
+Pocit hmatu je přesný do ${}1mm^2 - 2mm^2$ na konce prstů a až ${}45mm^2$ jinde na tělo.  Tisknutí Braillovo písmo má body vzdálené od sebe 2.3-2.5mm\citep{brailleauthority}. To je až příliš blízko JND.  Však Perkins produkuje speciální velko-písmenové psací stroj kvůli tomu, že některé nevidomé nedokážou normální Braillovo písmo číst\footnote{\url{https://secure2.convio.net/psb/site/Ecommerce?FOLDER=1180&store_id=1101&JServSessionIdr004=9p1uhglug2.app246a&__utma=184864936.426189431.1365936556.1365946389.1366050996.3&__utmb=184864936.1.10.1366050996&__utmc=184864936&__utmx=-&__utmz=184864936.1365936556.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)&__utmv=-&__utmk=194396717}}.  Bohužel, když děláme větší písmo už to nevejde na koncem prstu a kůže jinde na tělo je méně citlivá.  Vzdálenost JND kůže na dlaně je 11mm a proto, hrozí se že zvětšení písmo zhoršuje čtení! Můj osobní pocit je, že optimální velikost pro Braillovo písmo je 500 x 300mm.  Když jsem vyrobil první FCHAD jsem nemohl dostat solenoidy tak malé, a proto v studie používal jsem daleko větší zobrazovač\citep[str. 30-32]{nielsen2008gesture}.
 
 Další práh rozlišený je časový.  To není jen jak rychle něco cítíte ale kolik krát můžete něco cítit za sekund.  V angličtině "successiveness limen(SL)" je minimální čas dvě impulsy mohou mít aby člověk je rozlišil od sebe.  V našem studie žádný účastník nečetl tak rychle aby pobližil SL.  Stejně doufal jsem, že budou čist rychlejší, a doufám, že bude možní na FCHADu číst tak rychle jako tisknutí Braillovo písmo.  To je asi 7.9CPS\citep{wetzel2006studies}.  To znamená, že za každý 126ms musí čist jedno písmeno.  SL pro mechanoreceptory je 5 ms ale nás zajímá 20 ms, který je minimální čas aby člověk dvě pocity rozlišil ve správném pořady\citep[str. 32]{nielsen2008gesture}.
 
@@ -37,10 +37,45 @@ Není smysluplný analyzovat časy čtení první řádku protože jsem tak čas
 
 \subsection{Žák 5}
 \includegraphics[width=1\textwidth]{Location5-cut}
+
+Uvažoval jsem dlouho jak měřit rychlost čtení na FCHADu.  Sice mám hezké grafy ale neznamená to, že mohu měřit přesní rychlost čtení.  Nezpracování data pro první tří písmena druhý řádek je například(trojtečky jsem dal, kde byly změní dotykovaných senzorů ale se zobrazené písmeno nezměnilo):
+\begin{verbatim}
+2013-03-20@12:23:44.436 Dolu  1 0 0 0 0 0 0 0 0 0 0 0 0 'k'
+...
+2013-03-20@12:23:49.634 Dolu  1 1 1 0 0 0 0 0 0 0 0 0 0 'k'
+2013-03-20@12:23:49.964 Nahoru  0 1 1 0 0 0 0 0 0 0 0 0 1 'ý'
+2013-03-20@12:23:50.129 Nahoru  0 1 0 0 0 0 0 0 0 0 0 0 1 'ý'
+2013-03-20@12:23:50.212 Dolu  0 1 1 0 0 0 0 0 0 0 0 0 1 'ý'
+2013-03-20@12:23:50.748 Dolu  1 1 1 0 0 0 0 0 0 0 0 0 0 'k'
+2013-03-20@12:23:58.084 Nahoru 0 1 1 0 0 0 0 0 0 0 0 0 1 'ý'
+2013-03-20@12:24:03.483 Dolu  0 1 1 1 0 0 0 0 0 0 0 0 1 'ý'
+2013-03-20@12:24:03.525 Nahoru  0 0 1 1 0 0 0 0 0 0 0 0 2 ' '
+\end{verbatim}
+...
+\begin{verbatim}
+2013-03-20@12:24:11.233 Dolu  0 0 1 1 1 0 0 0 0 0 0 0 2 ' '
+
+\end{verbatim}
+
+Nuly a jedny naznačují jestli senzor byl dotýkaný. Například, řádek:
+\begin{verbatim}
+2013-03-20@12:24:11.233 Dolu  0 0 1 1 1 0 0 0 0 0 0 0 2 ' '
+\end{verbatim}
+
+znamená, že v 12:24:11.233 byl nový dotyk na pátý senzor, a že se zobrazovala mezera.  Jestli koukáte na čas 12:23:50.212 začíná se `ý' byt zobrazeno, ale v 12:23:50.748 se vrátil na `k'.  Není jasný, z toho kdy čtení jednoho písmeno končí a kdy čtený druhý začíná.  Celá sbírka dat je takhle rozmazaná.  Proto jsem si vybral způsob analýzou očima a s kružítkem.
+
+Pátý žák se značně zrychlil během naše setkání.
+První čtyři řádky se zrychlil každým řádkem.  
+
 \subsection{Žák 6}
 \includegraphics[width=1\textwidth]{Location6-cut}
+
+Žák 6 taky zrychlila ale ne tak pravidelně jako u pátého žáka.
+
 \subsection{Žák 7}
 \includegraphics[width=1\textwidth]{Location7-cut}
+
+
 \subsection{Žák 9}
 \includegraphics[width=1\textwidth]{Location9-cut}
 
@@ -462,11 +497,11 @@ Moc do toho jsme nevstoupily kvůli časové omezení ale některé účastnici 
 
 \subsection{Anderson}
 
-\textit{kognitivní stadium}:
+\textit{kognitivní stadium}: Začátek kognitivního stadiu byl přečtení návodu ale dále proběhla i během čtení.  Například jsem je dával novou instrukce kdy dostali na konce řádku anebo na písmeno, které nepochopili.  Rozdělení fázi není stoprocentní.
 
-\textit{asociativní stadium}:
+\textit{asociativní stadium}: Asociativní stadium bralo většina času teto studie.  To je jak žáci zdokonalili posun na selektoru a odstranili chyby pří čtení na zobrazovače.
 
-\textit{autonomní stadium}:
+\textit{autonomní stadium}: Účastnici autonomně nečetli.
 
 \subsection{Vlastní model}
 
@@ -479,3 +514,21 @@ Další překvapení bylo, že snad jenom jeden žák z běžného studie už m�
 Další překvapení bylo tím, jak snad žádný žák nepoznal čárku.
 
 Účastnici, které nepoužívají braillský řádek museli se učit daleko víc ale zase to neznamenalo, že dělali víc chyb. Individuální rozdíly jsou daleko značnější než rozdíl, mezi žáci, které řádky používají a ty, které nepoužívají.  I kdyby ty čísla byla jednoznačné neznamenalo by to, že měli horší výkon kvůli nedostatků před znalosti.  Je důvod proč ty před znalosti nemají, oni jsou neschopné či neochotné se učit!
+
+Já jsem značně přehodnocoval vyznám před znalosti v mém přípravu na studium.  Myslel jsem si, že sice Já čtu pomalu, protože moc dobře neumím číst rukama, ale lidí, které umějí budou schopní rychle číst i na FCHADu.  Překvapivě, jejích první pokusy nebyly o tolik úspěšnější než moje.
+
+\em Chápání úkolu\em : Způsob výklad byl hlavně čtením návodem.  Pomohl jsem je jako pedagog tím, že jsem je orientoval s nástrojem ústně a taktilně.  Ústní pomoc se neliší od psaním jenom tím, že je přes zvukovým mediem ale, tím že žáci se mohli zeptat otázky.
+
+Rozdělil bych chápání úkolu bych rozdělil na dvě části: Chápání \em jak \em dělat úkol a chápání co by měli dělat.  Protože žáci nebyly schopní \uv{číst} na FCHADu dělil jsem je konkrétnější zadání: \uv{číst první písmeno}.  Většina rozuměli \em jak \em číst první písmeno a jím to netrvalo moc dlouho rozumět jak přesunout na další písmeno použití selektor, ale jím to zkutečně trvalo dlouho s pojít oba mikro-úlohy dohromady a \uv{číst}.
+
+\em Obecný schopnost\em a \em Konkretní schopnosti\em :  Obecný schopnost, které jsem chtěl žákům naučit na FCHADu byl číst.  Konkretní schopnosti byly několik:
+
+Číst písmeno z zobrazovače, které sám má nějaké vlastní konkretní schopnosti: číst určité písmeno, například `e', a pochopit funkce body sedm a osm.
+
+Přesunout ruku na selektor aby se zobrazovalo další písmeno.
+
+Vrátit ruku do začátek selektoru kdy se začíná nový řádek.
+
+Z těch schopnosti snad jediný, který žáci dokázali rozvíjet na úrovni autonomní schopnosti byl přesun na selektor.
+
+\em Dosažené úroveň\em : V rámce teto studiu nemohu dojit k závěru o dosažené úrovní protože žádný účastník tak daleko nedospěl.
