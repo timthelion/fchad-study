@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Arch Linux) (format=pdflatex 2013.4.27)  1 MAY 2013 12:22
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Arch Linux) (format=pdflatex 2013.4.27)  2 MAY 2013 00:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -801,6 +801,12 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 
 (./ch/01_introduction.tex
 Kapitola 1.
+
+Overfull \hbox (2.37213pt too wide) in paragraph at lines 14--15
+[]\T1/qtm/m/n/12 Dal²ím d·-vo-dem nízké gra-mot-nosti ne-vi-do-mých je ome-zená
+ do-stup-nost ma-te-ri-ál· v Braillov¥
+ []
+
 [1
 
 
@@ -827,13 +833,7 @@ Kapitola 2.
 
 
 
-]
-Overfull \hbox (14.04898pt too wide) in paragraph at lines 31--32
-\T1/qtm/m/n/12 znatk·, do-ved-ností, po-stoj·, aj., ty-picky re-a-li-zo-vaný pr
-o-st°ed-nic-tvím ²kol-ního vy-u-£o-vání^^P(Pr·cha,
- []
-
-[7] [8] [9] [10]) [11]
+] [7] [8] [9] [10]) [11]
 \openout2 = `ch/03_experiment.aux'.
 
 (./ch/03_experiment.tex
@@ -847,12 +847,24 @@ File: t1qcr.fd 2009/09/25 v1.2 font definition file for T1/qcr
 
 ] [13] [14] [15]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 132.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 126.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 132.
-(./ch/ucastnici/1-2.tex [16]) (./ch/ucastnici/3.tex [17] [18] [19] [20] [21]) (
-./ch/ucastnici/4.tex [22] [23]) (./ch/ucastnici/5.tex [24] [25] [26] [27]) (./c
-h/ucastnici/6.tex [28] [29] [30] [31]) (./ch/ucastnici/7.tex [32] [33] [34]
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 126.
+[16] (./ch/ucastnici/1-2.tex
+Overfull \hbox (5.51614pt too wide) in paragraph at lines 7--8
+[]\T1/qtm/m/n/12 Kdyº jsem se £te-ním na FCHADu za-£í-nal, £etl jsem velmi po-m
+alu. Je²t¥ jsem ne-znal Braillovo
+ []
+
+) (./ch/ucastnici/3.tex [17] [18] [19] [20]
+Overfull \hbox (0.45113pt too wide) in paragraph at lines 135--136
+[]\T1/qtm/m/n/12 Po pá-tém °ádku jsme se-tkání ukon-£ili. šá-kyn¥ se je²t¥ cht¥
+la po-d¥-lit o své do-jmy. O FCHADu
+ []
+
+[21]) (./ch/ucastnici/4.tex [22] [23]) (./ch/ucastnici/5.tex [24] [25] [26] [27
+]) (./ch/ucastnici/6.tex [28] [29] [30] [31]) (./ch/ucastnici/7.tex [32] [33] [
+34]
 Overfull \hbox (2.32018pt too wide) in paragraph at lines 127--133
  \T1/qhv/b/n/12 Je-denacti °á-dek[] [] 
  []
@@ -916,7 +928,7 @@ Package epstopdf Info: Source file: <./img/Location5-cut.eps>
 nverted-to.pdf ./img/Location5-cut.eps>
 (epstopdf)             \includegraphics on input line 39.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Location5-cut-eps-converted-to.pdf, id=190, 156.585pt x 92.345pt>
+<./img/Location5-cut-eps-converted-to.pdf, id=191, 156.585pt x 92.345pt>
 File: ./img/Location5-cut-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Location5-cut-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Location5-cut-eps-converted-to.pdf used on input
@@ -933,7 +945,7 @@ Package epstopdf Info: Source file: <./img/Location6-cut.eps>
 nverted-to.pdf ./img/Location6-cut.eps>
 (epstopdf)             \includegraphics on input line 74.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Location6-cut-eps-converted-to.pdf, id=198, 165.61874pt x 100.375pt>
+<./img/Location6-cut-eps-converted-to.pdf, id=199, 165.61874pt x 100.375pt>
 File: ./img/Location6-cut-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Location6-cut-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Location6-cut-eps-converted-to.pdf used on input
@@ -950,7 +962,7 @@ Package epstopdf Info: Source file: <./img/Location7-cut.eps>
 nverted-to.pdf ./img/Location7-cut.eps>
 (epstopdf)             \includegraphics on input line 83.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Location7-cut-eps-converted-to.pdf, id=202, 167.62625pt x 74.2775pt>
+<./img/Location7-cut-eps-converted-to.pdf, id=203, 167.62625pt x 74.2775pt>
 File: ./img/Location7-cut-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Location7-cut-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Location7-cut-eps-converted-to.pdf used on input
@@ -967,7 +979,7 @@ Package epstopdf Info: Source file: <./img/Location9-cut.eps>
 nverted-to.pdf ./img/Location9-cut.eps>
 (epstopdf)             \includegraphics on input line 91.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Location9-cut-eps-converted-to.pdf, id=209, 147.55125pt x 86.3225pt>
+<./img/Location9-cut-eps-converted-to.pdf, id=210, 147.55125pt x 86.3225pt>
 File: ./img/Location9-cut-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Location9-cut-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Location9-cut-eps-converted-to.pdf used on input
@@ -1098,7 +1110,7 @@ Package epstopdf Info: Source file: <./img/Device1.eps>
 d-to.pdf ./img/Device1.eps>
 (epstopdf)             \includegraphics on input line 18.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Device1-eps-converted-to.pdf, id=276, 2601.72pt x 1951.29pt>
+<./img/Device1-eps-converted-to.pdf, id=277, 2601.72pt x 1951.29pt>
 File: ./img/Device1-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Device1-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Device1-eps-converted-to.pdf used on input line 
@@ -1114,7 +1126,7 @@ Package epstopdf Info: Source file: <./img/Device1-A.eps>
 ted-to.pdf ./img/Device1-A.eps>
 (epstopdf)             \includegraphics on input line 21.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Device1-A-eps-converted-to.pdf, id=277, 2601.72pt x 1951.29pt>
+<./img/Device1-A-eps-converted-to.pdf, id=278, 2601.72pt x 1951.29pt>
 File: ./img/Device1-A-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Device1-A-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Device1-A-eps-converted-to.pdf used on input lin
@@ -1130,7 +1142,7 @@ Package epstopdf Info: Source file: <./img/Device1-B.eps>
 ted-to.pdf ./img/Device1-B.eps>
 (epstopdf)             \includegraphics on input line 27.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Device1-B-eps-converted-to.pdf, id=278, 2601.72pt x 1951.29pt>
+<./img/Device1-B-eps-converted-to.pdf, id=279, 2601.72pt x 1951.29pt>
 File: ./img/Device1-B-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Device1-B-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Device1-B-eps-converted-to.pdf used on input lin
@@ -1146,7 +1158,7 @@ Package epstopdf Info: Source file: <./img/Device1-C.eps>
 ted-to.pdf ./img/Device1-C.eps>
 (epstopdf)             \includegraphics on input line 35.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Device1-C-eps-converted-to.pdf, id=279, 2601.72pt x 1951.29pt>
+<./img/Device1-C-eps-converted-to.pdf, id=280, 2601.72pt x 1951.29pt>
 File: ./img/Device1-C-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Device1-C-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Device1-C-eps-converted-to.pdf used on input lin
@@ -1162,7 +1174,7 @@ Package epstopdf Info: Source file: <./img/Device2.eps>
 d-to.pdf ./img/Device2.eps>
 (epstopdf)             \includegraphics on input line 44.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Device2-eps-converted-to.pdf, id=280, 1951.29pt x 2601.72pt>
+<./img/Device2-eps-converted-to.pdf, id=281, 1951.29pt x 2601.72pt>
 File: ./img/Device2-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Device2-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Device2-eps-converted-to.pdf used on input line 
@@ -1178,7 +1190,7 @@ Package epstopdf Info: Source file: <./img/Device3.eps>
 d-to.pdf ./img/Device3.eps>
 (epstopdf)             \includegraphics on input line 50.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Device3-eps-converted-to.pdf, id=281, 2601.72pt x 1951.29pt>
+<./img/Device3-eps-converted-to.pdf, id=282, 2601.72pt x 1951.29pt>
 File: ./img/Device3-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Device3-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Device3-eps-converted-to.pdf used on input line 
@@ -1197,7 +1209,7 @@ Package epstopdf Info: Source file: <./img/Gymnasium.eps>
 ted-to.pdf ./img/Gymnasium.eps>
 (epstopdf)             \includegraphics on input line 59.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Gymnasium-eps-converted-to.pdf, id=306, 1951.29pt x 2601.72pt>
+<./img/Gymnasium-eps-converted-to.pdf, id=307, 1951.29pt x 2601.72pt>
 File: ./img/Gymnasium-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Gymnasium-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Gymnasium-eps-converted-to.pdf used on input lin
@@ -1218,11 +1230,11 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 6748 strings out of 493488
- 101036 string characters out of 3146892
- 268500 words of memory out of 3000000
- 9755 multiletter control sequences out of 15000+200000
- 101648 words of font info for 100 fonts, out of 3000000 for 9000
+ 6756 strings out of 493488
+ 101139 string characters out of 3146892
+ 268665 words of memory out of 3000000
+ 9761 multiletter control sequences out of 15000+200000
+ 104492 words of font info for 101 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
  56i,18n,47p,1255b,470s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf-dist/fon
@@ -1232,13 +1244,14 @@ usr/share/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb></usr/sh
 are/texmf-dist/fonts/type1/public/tex-gyre/qcrr.pfb></usr/share/texmf-dist/font
 s/type1/public/tex-gyre/qhvb.pfb></usr/share/texmf-dist/fonts/type1/public/tex-
 gyre/qhvr.pfb></usr/share/texmf-dist/fonts/type1/public/tex-gyre/qtmb.pfb></usr
-/share/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb></usr/share/texmf-dist/f
-onts/type1/public/tex-gyre/qtmri.pfb></usr/share/texmf-dist/fonts/type1/urw/tim
-es/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on diploma.pdf (82 pages, 7297792 bytes).
+/share/texmf-dist/fonts/type1/public/tex-gyre/qtmbi.pfb></usr/share/texmf-dist/
+fonts/type1/public/tex-gyre/qtmr.pfb></usr/share/texmf-dist/fonts/type1/public/
+tex-gyre/qtmri.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></us
+r/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on diploma.pdf (82 pages, 7318016 bytes).
 PDF statistics:
- 364 PDF objects out of 1000 (max. 8388607)
- 240 compressed objects within 3 object streams
+ 368 PDF objects out of 1000 (max. 8388607)
+ 243 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
  76 words of extra memory for PDF output out of 10000 (max. 10000000)
 

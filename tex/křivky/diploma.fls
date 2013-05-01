@@ -225,6 +225,7 @@ INPUT ch/03_experiment.tex
 INPUT /usr/share/texmf-dist/tex/latex/tex-gyre/t1qcr.fd
 INPUT /usr/share/texmf-dist/tex/latex/tex-gyre/t1qcr.fd
 INPUT /usr/share/texmf-dist/fonts/tfm/public/tex-gyre/ec-qcrr.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/tex-gyre/ec-qtmbi.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/tex-gyre/ec-qtmr.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/tex-gyre/ec-qtmr.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/adobe/times/zptmcm7t.tfm
@@ -404,6 +405,7 @@ INPUT /usr/share/texmf-dist/fonts/type1/public/tex-gyre/qcrr.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/public/tex-gyre/qhvb.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/public/tex-gyre/qhvr.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/public/tex-gyre/qtmb.pfb
+INPUT /usr/share/texmf-dist/fonts/type1/public/tex-gyre/qtmbi.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/public/tex-gyre/qtmri.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb
