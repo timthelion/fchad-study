@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Arch Linux) (format=pdflatex 2013.4.27)  1 MAY 2013 11:53
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Arch Linux) (format=pdflatex 2013.4.27)  1 MAY 2013 11:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -975,7 +975,7 @@ Package pdftex.def Info: ./img/Location9-cut-eps-converted-to.pdf used on input
 (pdftex.def)             Requested size: 448.13095pt x 262.20572pt.
 [51 <./img/Location7-cut-eps-converted-to.pdf> <./img/Location9-cut-eps-convert
 ed-to.pdf>] [52] [53] [54] [55] [56] [57] [58] [59] [60] [61] [62] [63]
-Overfull \hbox (14.51608pt too wide) in paragraph at lines 651--653
+Overfull \hbox (14.51608pt too wide) in paragraph at lines 691--693
 []\T1/qtm/m/it/12 Získávání zna-lost, tré-no-vání sou-vis-lost \T1/qtm/m/n/12 :
  Ú£ast-nicí tré-no-vali sou-vis-lost mezi mezi malé Braillovo
  []
@@ -1222,7 +1222,7 @@ gyre/qhvr.pfb></usr/share/texmf-dist/fonts/type1/public/tex-gyre/qtmb.pfb></usr
 /share/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb></usr/share/texmf-dist/f
 onts/type1/public/tex-gyre/qtmri.pfb></usr/share/texmf-dist/fonts/type1/urw/tim
 es/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on diploma.pdf (84 pages, 7298068 bytes).
+Output written on diploma.pdf (84 pages, 7298109 bytes).
 PDF statistics:
  370 PDF objects out of 1000 (max. 8388607)
  244 compressed objects within 3 object streams
