@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Arch Linux) (format=pdflatex 2013.4.27)  1 MAY 2013 09:50
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Arch Linux) (format=pdflatex 2013.4.27)  1 MAY 2013 10:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -975,21 +975,21 @@ Package pdftex.def Info: ./img/Location9-cut-eps-converted-to.pdf used on input
 (pdftex.def)             Requested size: 448.13095pt x 262.20572pt.
 [51 <./img/Location7-cut-eps-converted-to.pdf> <./img/Location9-cut-eps-convert
 ed-to.pdf>] [52] [53] [54] [55] [56] [57] [58]
-Overfull \hbox (14.51608pt too wide) in paragraph at lines 497--499
+Overfull \hbox (14.51608pt too wide) in paragraph at lines 549--551
 []\T1/qtm/m/it/12 Získávání zna-lost, tré-no-vání sou-vis-lost \T1/qtm/m/n/12 :
  Ú£ast-nicí tré-no-vali sou-vis-lost mezi mezi malé Braillovo
  []
 
-[59] [60]) [61]
+[59] [60]) [61] [62]
 \openout2 = `ch/05_conclusion.aux'.
 
 (./ch/05_conclusion.tex
 Kapitola 5.
-[62
+[63
 
 
 
-]) [63] (./diploma.bbl
+]) [64] (./diploma.bbl
 Underfull \hbox (badness 1014) in paragraph at lines 9--12
 []\T1/qtm/m/n/12 6DOTBRAILLE.COM.  \T1/qtm/m/it/12 LouisBraille: 6 dot Braille 
 \T1/qtm/m/n/12 [on-line].  Do-stupné z: $\T1/qcr/m/n/12 http : / /
@@ -1054,7 +1054,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 80--84
  ) |utmccn =
  []
 
-[64
+[65
 
 
 ])
@@ -1067,7 +1067,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 302--304
 
  []
 
-[65]
+[66]
 \openout2 = `ch/99_appendices.aux'.
 
 (./ch/99_appendices.tex [1
@@ -1085,7 +1085,7 @@ Package epstopdf Info: Source file: <./img/Device1.eps>
 d-to.pdf ./img/Device1.eps>
 (epstopdf)             \includegraphics on input line 18.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Device1-eps-converted-to.pdf, id=267, 2601.72pt x 1951.29pt>
+<./img/Device1-eps-converted-to.pdf, id=270, 2601.72pt x 1951.29pt>
 File: ./img/Device1-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Device1-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Device1-eps-converted-to.pdf used on input line 
@@ -1101,7 +1101,7 @@ Package epstopdf Info: Source file: <./img/Device1-A.eps>
 ted-to.pdf ./img/Device1-A.eps>
 (epstopdf)             \includegraphics on input line 21.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Device1-A-eps-converted-to.pdf, id=268, 2601.72pt x 1951.29pt>
+<./img/Device1-A-eps-converted-to.pdf, id=271, 2601.72pt x 1951.29pt>
 File: ./img/Device1-A-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Device1-A-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Device1-A-eps-converted-to.pdf used on input lin
@@ -1117,7 +1117,7 @@ Package epstopdf Info: Source file: <./img/Device1-B.eps>
 ted-to.pdf ./img/Device1-B.eps>
 (epstopdf)             \includegraphics on input line 27.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Device1-B-eps-converted-to.pdf, id=269, 2601.72pt x 1951.29pt>
+<./img/Device1-B-eps-converted-to.pdf, id=272, 2601.72pt x 1951.29pt>
 File: ./img/Device1-B-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Device1-B-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Device1-B-eps-converted-to.pdf used on input lin
@@ -1133,7 +1133,7 @@ Package epstopdf Info: Source file: <./img/Device1-C.eps>
 ted-to.pdf ./img/Device1-C.eps>
 (epstopdf)             \includegraphics on input line 35.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Device1-C-eps-converted-to.pdf, id=270, 2601.72pt x 1951.29pt>
+<./img/Device1-C-eps-converted-to.pdf, id=273, 2601.72pt x 1951.29pt>
 File: ./img/Device1-C-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Device1-C-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Device1-C-eps-converted-to.pdf used on input lin
@@ -1149,7 +1149,7 @@ Package epstopdf Info: Source file: <./img/Device2.eps>
 d-to.pdf ./img/Device2.eps>
 (epstopdf)             \includegraphics on input line 44.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Device2-eps-converted-to.pdf, id=271, 1951.29pt x 2601.72pt>
+<./img/Device2-eps-converted-to.pdf, id=274, 1951.29pt x 2601.72pt>
 File: ./img/Device2-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Device2-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Device2-eps-converted-to.pdf used on input line 
@@ -1165,7 +1165,7 @@ Package epstopdf Info: Source file: <./img/Device3.eps>
 d-to.pdf ./img/Device3.eps>
 (epstopdf)             \includegraphics on input line 50.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Device3-eps-converted-to.pdf, id=272, 2601.72pt x 1951.29pt>
+<./img/Device3-eps-converted-to.pdf, id=275, 2601.72pt x 1951.29pt>
 File: ./img/Device3-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Device3-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Device3-eps-converted-to.pdf used on input line 
@@ -1184,7 +1184,7 @@ Package epstopdf Info: Source file: <./img/Gymnasium.eps>
 ted-to.pdf ./img/Gymnasium.eps>
 (epstopdf)             \includegraphics on input line 59.
 Package epstopdf Info: Output file is already uptodate.
-<./img/Gymnasium-eps-converted-to.pdf, id=297, 1951.29pt x 2601.72pt>
+<./img/Gymnasium-eps-converted-to.pdf, id=300, 1951.29pt x 2601.72pt>
 File: ./img/Gymnasium-eps-converted-to.pdf Graphic file (type pdf)
 <use ./img/Gymnasium-eps-converted-to.pdf>
 Package pdftex.def Info: ./img/Gymnasium-eps-converted-to.pdf used on input lin
@@ -1222,10 +1222,10 @@ gyre/qhvr.pfb></usr/share/texmf-dist/fonts/type1/public/tex-gyre/qtmb.pfb></usr
 /share/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb></usr/share/texmf-dist/f
 onts/type1/public/tex-gyre/qtmri.pfb></usr/share/texmf-dist/fonts/type1/urw/tim
 es/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on diploma.pdf (79 pages, 7289081 bytes).
+Output written on diploma.pdf (80 pages, 7292248 bytes).
 PDF statistics:
- 355 PDF objects out of 1000 (max. 8388607)
- 234 compressed objects within 3 object streams
+ 358 PDF objects out of 1000 (max. 8388607)
+ 236 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
  76 words of extra memory for PDF output out of 10000 (max. 10000000)
 

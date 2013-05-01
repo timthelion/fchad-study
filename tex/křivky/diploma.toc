@@ -132,12 +132,14 @@
 \contentsline {subsection}{\numberline {4.2.3}\IeC {\v Z}\IeC {\'a}k 7}{51}
 \contentsline {subsection}{\numberline {4.2.4}\IeC {\v Z}\IeC {\'a}k 9}{51}
 \contentsline {subsection}{\numberline {4.2.5}Anal\IeC {\'y}za chyb}{52}
-\contentsline {section}{\numberline {4.3}Anal\IeC {\'y}za podle d\IeC {\v r}\IeC {\'\i }v\IeC {\v e}j\IeC {\v s}\IeC {\'\i } uveden\IeC {\'e} modelu}{59}
-\contentsline {subsection}{\numberline {4.3.1}Swift}{59}
-\contentsline {subsection}{\numberline {4.3.2}Anderson}{60}
-\contentsline {subsection}{\numberline {4.3.3}Vlastn\IeC {\'\i } model}{60}
-\contentsline {chapter}{\numberline {5}Z\IeC {\'a}v\IeC {\v e}r}{62}
-\contentsline {chapter}{Literatura}{65}
+\contentsline {subsection}{\numberline {4.2.6}Druhy chyb}{59}
+\contentsline {subsection}{\numberline {4.2.7}Po\IeC {\v c}ty chyb}{61}
+\contentsline {section}{\numberline {4.3}Anal\IeC {\'y}za podle d\IeC {\v r}\IeC {\'\i }v\IeC {\v e}j\IeC {\v s}\IeC {\'\i } uveden\IeC {\'e} modelu}{63}
+\contentsline {subsection}{\numberline {4.3.1}Swift}{63}
+\contentsline {subsection}{\numberline {4.3.2}Anderson}{64}
+\contentsline {subsection}{\numberline {4.3.3}Vlastn\IeC {\'\i } model}{64}
+\contentsline {chapter}{\numberline {5}Z\IeC {\'a}v\IeC {\v e}r}{66}
+\contentsline {chapter}{Literatura}{69}
 \contentsline {chapter}{Appendix}{I}
 \contentsline {section}{\numberline {.1}Technick\IeC {\'e} detaily}{I}
 \contentsline {section}{\numberline {.2}Obrazky FCHADu}{II}
