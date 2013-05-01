@@ -110,7 +110,7 @@ NČ&Nečetl samostatně\\
 \hline
 *&Není poznat jestli byly chyby kvůli vádám audiu\\
 \hline
-!&Znak pro velké písmena\\
+ZVP&Znak pro velké písmena\\
 \hline
 --&Četl s pomoci\\
 \hline
@@ -278,7 +278,7 @@ NČ&Nečetl samostatně\\
 \hline
 7&&&&&&&&&&&&\\
 \hline
-9&(,!&&&&&&&&&&&\\
+9&(,ZVP&&&&&&&&&&&\\
 &\braillebox{236},\braillebox{6}&&&&&&&&&&&\\
 \hline
 \end{tabular}
@@ -478,8 +478,10 @@ NČ&Nečetl samostatně\\
 \hline
 \end{tabular}
 \clearpage
+\begin{figure}
 \subsection{Druhy chyb}
-
+\begin{subfigure}{.5\textwidth}
+\centering
 Zrcadlování - převažně u žáka 9
 
 \begin{tabular}{|c|c|c|}
@@ -502,17 +504,19 @@ Počet&Správné písmeno&Chyné Písmeno\\
 \hline
 2&j\braillebox{245}&h\braillebox{125}\\
 \hline
-1&.\braillebox{378}&Znak pro velké písmo\braillebox{6}\\
+1&.\braillebox{378}&ZVP\braillebox{6}\\
 \hline
 1&r\braillebox{1235}&ř\braillebox{2456}\\
 \hline
 \end{tabular}
-\clearpage
+\end{subfigure}
+\begin{subfigure}{.5\textwidth}
+\centering
 Nečetl dolní bod
 
 \begin{tabular}{|c|c|c|}
 \hline
-Počet&Správné písmeno&Chyné Písmeno\\
+Počet&Správné\newline písmeno&Chyné\newline Písmeno\\
 \hline
 2&r\braillebox{1235}&h\braillebox{125}\\
 \hline
@@ -545,7 +549,10 @@ Počet&Správné písmeno&Chyné Písmeno\\
 1&z\braillebox{1356}&e\braillebox{15}\\
 \hline
 \end{tabular}
+\end{subfigure}
 
+\begin{subfigure}{1\textwidth}
+\centering
 Body sedm a osm je mlatli
 
 \begin{tabular}{|c|c|c|}
@@ -563,7 +570,11 @@ Počet&Správné písmeno&Chyné Písmeno\\
 3&9\braillebox{248}&i\braillebox{24}\\
 \hline
 \end{tabular}
-\clearpage
+\end{subfigure}
+\end{figure}
+\begin{figure}
+\begin{subfigure}{.5\textwidth}
+\centering
 Nečetli pravý sloupec bodů
 
 \begin{tabular}{|c|c|c|}
@@ -589,7 +600,9 @@ Počet&Správné písmeno&Chyné Písmeno\\
 1&n\braillebox{1345}&k\braillebox{13}\\
 \hline
 \end{tabular}
-
+\end{subfigure}
+\begin{subfigure}{.5\textwidth}
+\centering
 Přídali nějaký bod
 
 \begin{tabular}{|c|c|c|}
@@ -613,7 +626,9 @@ Počet&Správné písmeno&Chyné Písmeno\\
 1&m\braillebox{134}&p\braillebox{1234}\\
 \hline
 \end{tabular}
-\clearpage
+\end{subfigure}
+\begin{subfigure}{1\textwidth}
+\centering
 Nemám vysvětlení/jiné
 
 \begin{tabular}{|c|c|c|}
@@ -641,7 +656,10 @@ Počet&Správné písmeno&Chyné Písmeno\\
 1&á\braillebox{16}&e\braillebox{15}\\
 \hline
 \end{tabular}
+\end{subfigure}
+\end{figure}
 
+\clearpage
 \subsection{Počty chyb}
 Žák 5 dělal 8 chyb za 196 přečtených znaků: jedna chyba za 24.5 znaků.
 
@@ -653,7 +671,7 @@ Počet&Správné písmeno&Chyné Písmeno\\
 
 Tady je tabulka počet chyb za znak:
 
-\begin{tabular}{|c|c|c|c|c|}
+\begin{tabular}[hb]{|c|c|c|c|c|}
 \hline
 Řádek&Žák 5&Žák 6&Žák 7&Žák 9\\
 \hline
