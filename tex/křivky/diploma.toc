@@ -129,15 +129,15 @@
 \contentsline {paragraph}{Jak \IeC {\v c}tete grafy?}{48}
 \contentsline {subsection}{\numberline {4.2.1}\IeC {\v Z}\IeC {\'a}k 5}{48}
 \contentsline {subsection}{\numberline {4.2.2}\IeC {\v Z}\IeC {\'a}k 6}{50}
-\contentsline {subsection}{\numberline {4.2.3}\IeC {\v Z}\IeC {\'a}k 7}{50}
+\contentsline {subsection}{\numberline {4.2.3}\IeC {\v Z}\IeC {\'a}k 7}{51}
 \contentsline {subsection}{\numberline {4.2.4}\IeC {\v Z}\IeC {\'a}k 9}{51}
-\contentsline {subsection}{\numberline {4.2.5}Anal\IeC {\'y}za chyb}{51}
-\contentsline {section}{\numberline {4.3}Anal\IeC {\'y}za podle d\IeC {\v r}\IeC {\'\i }v\IeC {\v e}j\IeC {\v s}\IeC {\'\i } uveden\IeC {\'e} modelu}{58}
-\contentsline {subsection}{\numberline {4.3.1}Swift}{58}
-\contentsline {subsection}{\numberline {4.3.2}Anderson}{59}
-\contentsline {subsection}{\numberline {4.3.3}Vlastn\IeC {\'\i } model}{59}
-\contentsline {chapter}{\numberline {5}Z\IeC {\'a}v\IeC {\v e}r}{61}
-\contentsline {chapter}{Literatura}{64}
+\contentsline {subsection}{\numberline {4.2.5}Anal\IeC {\'y}za chyb}{52}
+\contentsline {section}{\numberline {4.3}Anal\IeC {\'y}za podle d\IeC {\v r}\IeC {\'\i }v\IeC {\v e}j\IeC {\v s}\IeC {\'\i } uveden\IeC {\'e} modelu}{59}
+\contentsline {subsection}{\numberline {4.3.1}Swift}{59}
+\contentsline {subsection}{\numberline {4.3.2}Anderson}{60}
+\contentsline {subsection}{\numberline {4.3.3}Vlastn\IeC {\'\i } model}{60}
+\contentsline {chapter}{\numberline {5}Z\IeC {\'a}v\IeC {\v e}r}{62}
+\contentsline {chapter}{Literatura}{65}
 \contentsline {chapter}{Appendix}{I}
 \contentsline {section}{\numberline {.1}Technick\IeC {\'e} detaily}{I}
 \contentsline {section}{\numberline {.2}Obrazky FCHADu}{II}
