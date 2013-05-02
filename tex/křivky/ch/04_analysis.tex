@@ -1,46 +1,45 @@
 \chapter{Analýza a srovnání}
 
 \section{Vymezení fyziologické schopnosti}
-Když se zeptáme proč se někdo nějaký schopnost dokázal učit nebo ne musíme se zeptat jestli byly schopní se to naučit.  Protože děláme studium, který zabývá s citem hmatu, musíme najít omezení hmatu.
+Když se ptáme, proč se někdo dokázal něco naučit nebo naopak nedokázal, musíme se ptát, jestli byl schopný se to naučit.  V rámci studie, která se zabývá hmatem, musíme určit omezení hmatu.
 
-Abych zajistil, že můj FCHAD je fyzické použitelný jsem si přečetl kapitolu \em Haptic Interfaces\em  od knihy \em HCI Beyond the GUI\em. Člověk má šest druhů hmatových receptorů, volná nervová zakončení, Meissnerovo tělísko, Merkelova buňka, Paciniho tělíska, receptory vlasového folikulu, Ruffiniho tělíska. Různé hmatné receptory mají jiné citlivosti.  Například Paciniho tělíska cítí jenom vibrace.
+Abych zajistil, že můj FCHAD je fyzicky použitelný, přečetl jsem si kapitolu \em Haptic Interfaces\em  v knize \em HCI Beyond the GUI\em. Člověk má šest druhů hmatových receptorů: volná nervová zakončení, Meissnerovo tělísko, Merkelovy buňky, Paciniho tělíska, receptory vlasového folikulu a Ruffiniho tělíska. Různé hmatové receptory mají různou citlivost.  Například Paciniho tělíska cítí jenom vibrace.
 
-Pro účelu FCHADu, chceme spustit receptory, které reagují rychle a přesně.  Myslím si, že je to taky lepší spouštět vice druhů receptorů ale nejsem si jistý.  Prostorově nejpřesnější receptory jsou Meissnerovo tělísko a Merkelova buňka.  Ty jsou dost hluboké v kůže, proto používáme silné pohyblivé solenoidy.  Druhý verze FCHADu taky produkuje malou vibrace o 200Hz což je doporučený frekvence v publikace HCI \citep[str. 29-30]{nielsen2008gesture}.
+Pro účely FCHADu chceme spustit receptory, které reagují rychle a přesně.  Myslím si, že je také lepší spustit více druhů receptorů naráz, ale nejsem si jistý.  Prostorově nejpřesnější receptory jsou Meissnerova tělíska a Merkelovy buňky. Verze FCHADu použitá v hlavní studii produkuje malé vibrace o 200Hz, což je doporučená frekvence v publikace HCI \citep[str. 29-30]{nielsen2008gesture}.
 
-Autoři samy kapitole rozdělí čtyři subjektivní druhy hmatu: tlak, dotyk, vibrace a lechtání.  Myslím si, že lechtání se produkuje pohybem přes prsti.  Jeden hypotéza proč FCHADy nefungují moc dobře je, že pohyb bodů na prstech pomůže čtenář rozpoznat písmeno.  Christophe Ramstein v 1996 studie píše o FCHADech: \em \uv{Protože vice mechanorecoptorů jsou použití v hmatovém vnímání, pohyb prstu nad tvarem anebo zrnitosti zlepšuje vnímání.  V případě jedno-písmenové zobrazovače důsledkem je, že prst necítí přechod mezi písmenem ale jen změna uspořádání.  Protože prst nechybuje, rychlost je pomalejší než s 20ti, 40ti, anebo 80ti písmenová zobrazovače(46.1 slov za minut u rychlé čtenáři a 12.0 slov za minut pro pomalé čtenáři} \em  \citep[str. 38, přeložený z angličtiny]{ramstein1996combining}
+Autoři citované kapitoly rozlišují čtyři subjektivní druhy hmatu: tlak, dotyk, vibrace a lechtání.  Myslím, že lechtání vzniká pohybem přes prsty.  Jedna z hypotéz, proč FCHADy nefungují moc dobře, říká, že čtenáři pomůže rozpoznat písmeno pohyb bodů na prstech.  Christophe Ramstein ve studii z roku 1996 píše o FCHADech: \em \uv{Protože se na hmatovém vnímání podílí více mechanických receptorů, pohyb prstů nad strukturou zlepšuje vnímání.  V případě jednoznakového zobrazovače prst necítí přechod mezi písmeny, ale jen změnu uspořádání.  Protože se prst nepohybuje, rychlost čtení je pomalejší než na zobrazovačích o 20ti, 40ti, anebo 80ti znacích (46.1 slov za minut u rychlého čtenáře a 12.0 slov za minutu u pomalého čtenáře)} \em  \citep[str. 38, přeloženo z angličtiny]{ramstein1996combining}
 %"Because multiple mechanical receptors are involved in the tactile perception mechanism, the displacement of the finger over a form or texture improves perception and facilitates acknowledgement[7,14]. As a result, in the single cell case, the finger will not feel the transition from one character to the next, but only the configurational changes in the cell’s pins according to the following character.  Since the finger is not moving on the braille characters, speed performance will of course be slower than on 20-, 40- or 8O-cell braille displays (46.1 wpm for fast readers and 12.0 wpm for slow readers)."
-Když si čtu tisknutá Braillova písma se cítím, že je to určitý druh lechtání.  Abych přidal podobnou pocit u zobrazovače FCHADu dal jsem kus látky nad zobrazovačem.  Líbilo mě to ale nepoužíval jsem tu látku v studie. Myslel jsem si, že by věci jenom zkomplikovali pro moje účastnici.
+Když čtu tištěné Braillovo písmo, pociťuji lechtání.  Abych podobný pocit zajistil u zobrazovače FCHADu, pokrývám ho kusem látky.  Mně osobně to tak vyhovuje, během studie jsem však látku nepoužíval. Domníval jsem se, že by pro účastníky mohla představovat komplikaci.
 
-Publikace HCI sestavuje pro naše použity prahy rozlišený anebo v angličtině "Just Noticeable Differences(JND)". Neberu JNDy jako měřítku to co člověk dokáže cítit, ale spíš co nedokáže.  Nechtěl jsem aby nastroj pracoval na hranice citlivosti ale aby znaky byly bezpečně rozpoznatelné.
+Publikace HCI sestavuje pro naše použití prahy rozlišení, v angličtině "Just Noticeable Differences (JND)". Na JND nepohlížím jako na měřítko toho, co člověk dokáže cítit, ale spíš toho, co nedokáže.  Nechtěl jsem, aby nástroj pracoval na hranici citlivosti, ale aby znaky byly bezpečně rozpoznatelné.
 
-Pocit hmatu je přesný do ${}1mm^2 - 2mm^2$ na konce prstů a až ${}45mm^2$ jinde na tělo.  Tisknutí Braillovo písmo má body vzdálené od sebe 2.3-2.5mm \citep{brailleauthority}. To je až příliš blízko JND.  Však Perkins produkuje speciální velko-písmenové psací stroj kvůli tomu, že některé nevidomé nedokážou normální Braillovo písmo číst\footnote{\url{https://secure2.convio.net/psb/site/Ecommerce?FOLDER=1180&store_id=1101&JServSessionIdr004=9p1uhglug2.app246a&__utma=184864936.426189431.1365936556.1365946389.1366050996.3&__utmb=184864936.1.10.1366050996&__utmc=184864936&__utmx=-&__utmz=184864936.1365936556.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)&__utmv=-&__utmk=194396717}}.  Bohužel, když děláme větší písmo už to nevejde na koncem prstu a kůže jinde na tělo je méně citlivá.  Vzdálenost JND kůže na dlaně je 11mm a proto, hrozí se že zvětšení písmo zhoršuje čtení! Můj osobní pocit je, že optimální velikost pro Braillovo písmo je 500 x 300mm.  Když jsem vyrobil první FCHAD jsem nemohl dostat solenoidy tak malé, a proto v studie používal jsem daleko větší zobrazovač \citep[str. 30-32]{nielsen2008gesture}.
+Pocit hmatu je přesný do ${}1mm^2 - 2mm^2$ na bříškách prstů a až ${}45mm^2$ jinde na těle.  Tištěné Braillovo písmo má body vzdálené od sebe 2.3-2.5mm \citep{brailleauthority}. To je až příliš blízko JND.  Perkins vyrábí speciální velkopísmenové psací stroje, protože někteří nevidomí nedokážou normální Braillovo písmo číst\footnote{\url{https://secure2.convio.net/psb/site/Ecommerce?FOLDER=1180&store_id=1101&JServSessionIdr004=9p1uhglug2.app246a&__utma=184864936.426189431.1365936556.1365946389.1366050996.3&__utmb=184864936.1.10.1366050996&__utmc=184864936&__utmx=-&__utmz=184864936.1365936556.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)&__utmv=-&__utmk=194396717}}.  Bohužel, když se písmo zvětší, už se nevejde na bříško prstu a kůže jinde na těle je méně citlivá.  Vzdálenost JND je na kůži na dlani 11mm a proto hrozí, že se zvětšením písma zhorší čtení. Můj osobní pocit je, že optimální velikost pro Braillovo písmo je 500 x 300mm.  Když jsem však vyráběl první FCHAD, nemohl jsem sehnat tak malé cívky, a proto jsem ve studii používal daleko větší zobrazovač, než bych si přál \citep[str. 30-32]{nielsen2008gesture}.
 
-Další práh rozlišený je časový.  To není jen jak rychle něco cítíte ale kolik krát můžete něco cítit za sekund.  V angličtině "successiveness limen(SL)" je minimální čas dvě impulsy mohou mít aby člověk je rozlišil od sebe.  V našem studie žádný účastník nečetl tak rychle aby pobližil SL.  Stejně doufal jsem, že budou čist rychlejší, a doufám, že bude možní na FCHADu číst tak rychle jako tisknutí Braillovo písmo.  To je asi 7.9CPS \citep{wetzel2006studies}.  To znamená, že za každý 126ms musí čist jedno písmeno.  SL pro mechanoreceptory je 5 ms ale nás zajímá 20 ms, který je minimální čas aby člověk dvě pocity rozlišil ve správném pořady \citep[str. 32]{nielsen2008gesture}.
+Další práh rozlišení je časový, který udává, kolikrát něco můžete cítit za sekundu.  V angličtině "successiveness limen(SL)" je minimální interval mezi dvěma impulzy, při kterém člověk impulzy od sebe rozliší. V naší studii žádný účastník nečetl tak rychle, aby se přiblížil SL.  Doufal jsem, že budou číst rychleji, a stále doufám, že bude možné na FCHADu číst tak rychle jako tištěné Braillovo písmo, což je asi 7.9 CPS \citep{wetzel2006studies}.  To znamená, že se za každých 126ms musí přečíst jedno písmeno.  SL pro mechanické receptory je 5 ms, ale nás zajímá 20 ms, což je minimální interval, při kterém člověk rozliší dva impulzy ve správném pořadí \citep[str. 32]{nielsen2008gesture}.
 
-Další omezenost je absolutní velikost ruky.  Jestli ruka není dost velká nepokrývá celou zobrazovače.  Několik účastníků měli ruce dost malé aby nepokrývali zobrazovače pohodlně nikdo to nezvládl.
+Dalším omezením je absolutní velikost ruky.  Pokud ruka není dost velká, nepokrývá celý zobrazovač.  Několik účastníků mělo ruce tak malé, že zobrazovač nepokryli dlaní pohodlně. Naštěstí se nenašel nikdo, kdo by toho nebyl schopný vůbec.
 
-V závěru bych řekl, že účastnici studie byly fyzické schopní používat FCHAD správně a že citové hranici nehráli role v studie.
-
+Na závěr bych řekl, že účastníci studie byli fyzicky schopní používat FCHAD správně a že hranice citlivosti nehrála ve studii roli.
 
 \section{Analýza rychlosti}
-Kdyby to bylo čistě psychologické studium bych omezoval svůj vlastní přítomnost v zájmů srovnatelnost výsledků.  Dano, že to je pedagogický výzkum Já jsem jako pedagog a badatel nedělitelný součást výsledků.
+Kdyby toto byla čistě psychologická studie, omezoval bych svoji vlastní přítomnost v zájmu srovnatelnosti výsledků.  Protože je to však pedagogický výzkum, jsem já jako pedagog a badatel neoddělitelnou součástí výsledků.
 
-Nemůžeme koukat na rychlost čtení a křivky učení jako absolutní hodnoty v této studiu protože rychlost čtení je ovlivněn do velké míru to, jestli jsem Já rozhodl něco prodlouženě vysvětlit nebo ne, a jestli Já jsem si rozhodl nechat chybu byt anebo ji upravit.
+Nemůžeme v této studii nahlížet na rychlost čtení a křivky učení jako na absolutní hodnoty, protože rychlost čtení je ovlivněna do velké míry tím, jestli jsem já něco zdlouhavě vysvětloval nebo ne, a jestli jsem případné chyby opravil nebo ignoroval.
 
-Kvůli velké potíže s čtení, žák 8 je z toho analýzu vynechán.
+Kvůli velkým potížím se čtením je žák 8 z následující analýzy vynechán.
 
-\paragraph{Jak čtete grafy?}  Grafy ukazují, který senzor byl vybraný v daném časů.  Kdy nebyl žádný senzor vybraný, je nakreslen stejným způsobem jako když 11ti senzor je vybraný.  Škále není normalizované. Číslo na pod grafem jsou absolutní čas.  Když graf je podznačení jako 22m a je napsáno 20-Mar-13 12:00 to znamená v 12:22 3.4.2013 a NE 22m po začátku studii.  Kdy čára vypadá \uv{chlupatý}, znamená, že byl špatný kontakt mezi prstem a senzorem.
+\paragraph{Jak číst grafy}  Grafy ukazují, který senzor byl v daném momentě vybrán.  Když nebyl vybrán žádný senzor, je to znázorněno stejným způsobem, jako když je vybrán senzor č.0.  Škála není normalizovaná. Číslo pod grafem je absolutní čas, tj. minuty dané hodiny, kdy studie probíhala.  Číslo 22m v grafu označeném 20-Mar-13 12:00 tedy znamená, že v daný moment bylo 12:22 (a NE tedy 22m od začátku experimentu, jak by se mohlo na první pohled zdát).  Když čára vypadá \uv{chlupatá}, znamená to, že byl špatný kontakt mezi prstem a senzorem.
 
-Není smysluplný analyzovat časy čtení první řádku protože jsem tak často pomohl účastnicí a protože je kratší než ostatní.
+Nemá smysl analyzovat časy čtení prvního řádku, protože jsem často účastníkům pomáhal a protože je kratší než ostatní.
 
 % 3 = down 4 = up
 
 \subsection{Žák 5}
 \includegraphics[width=1\textwidth]{Location5-cut}
 
-Četl 17 řádků a jsou 17 trojúhelníky na grafu tak všechno je dobrý.
+Četl 17 řádků. Na grafu je 17 vrcholů, což odpovídá.
 
-Uvažoval jsem dlouho jak měřit rychlost čtení na FCHADu.  Sice mám hezké grafy ale neznamená to, že mohu měřit přesní rychlost čtení.  Nezpracování data pro první tří písmena druhý řádek je například(trojtečky jsem dal, kde byly změní dotykovaných senzorů ale se zobrazené písmeno nezměnilo):
+Dlouho jsem uvažoval, jak měřit rychlost čtení na FCHADu.  Sice mám hezké grafy, ale to neznamená, že mohu přesně měřit rychlost čtení.  Nezpracovaná data pro první tří písmena druhého řádku jsou (trojtečky značí, kde došlo ke změně dotýkaných senzorů, ale zobrazené písmeno se nezměnilo):
 \begin{verbatim}
 2013-03-20@12:23:44.436 Dolu  1 0 0 0 0 0 0 0 0 0 0 0 0 'k'
 ...
@@ -52,61 +51,60 @@ Uvažoval jsem dlouho jak měřit rychlost čtení na FCHADu.  Sice mám hezké 
 2013-03-20@12:23:58.084 Nahoru 0 1 1 0 0 0 0 0 0 0 0 0 1 'ý'
 2013-03-20@12:24:03.483 Dolu  0 1 1 1 0 0 0 0 0 0 0 0 1 'ý'
 2013-03-20@12:24:03.525 Nahoru  0 0 1 1 0 0 0 0 0 0 0 0 2 ' '
-\end{verbatim}
 ...
-\begin{verbatim}
 2013-03-20@12:24:11.233 Dolu  0 0 1 1 1 0 0 0 0 0 0 0 2 ' '
 
 \end{verbatim}
 
-Nuly a jedny naznačují jestli senzor byl dotýkaný. Například, řádek:
+Nuly a jedničky značí, zda byl senzor aktivní. Například řádek
 \begin{verbatim}
 2013-03-20@12:24:11.233 Dolu  0 0 1 1 1 0 0 0 0 0 0 0 2 ' '
 \end{verbatim}
 
-znamená, že v 12:24:11.233 byl nový dotyk na pátý senzor, a že se zobrazovala mezera.  Jestli koukáte na čas 12:23:50.212 začíná se `ý' byt zobrazeno, ale v 12:23:50.748 se vrátil na `k'.  Není jasný, z toho kdy čtení jednoho písmeno končí a kdy čtený druhý začíná.  Celá sbírka dat je takhle rozmazaná.  Proto jsem si vybral způsob analýzou očima a s kružítkem.
+znamená, že v 12:24:11.233 došlo k dotyku na třech senzorech a že se zobrazovala mezera.  Když se podíváte na čas 12:23:50.212, začíná se zobrazovat `ý', ale v 12:23:50.748 se vrací `k'.  Není z toho jasné, kdy čtení jednoho písmene končí a kdy čtení dalšího začíná.  Všechna shromážděná data jsou takto nejasná.  Proto jsem si vybral způsob analýzy očima za pomoci kružítka.
 
-Pátý žák se značně zrychlil během naše setkání.
+Pátý žák se během našeho setkání značně zrychlil.
 
-První pět řádky se zrychlil každým řádkem ale mezi pátým řádkem a šestým řádkem není rozdíl v rychlosti. Sedmi řádek četl zase pomaleji ale osmi řádek byl jeho nejrychlejší řádek a četl rychleji než i pátý a šestý.  Devátý řádek zase četl stejně rychle jako pátý.  A desátý řádek zpomalil.  Zbytek času či zrychlil anebo zpomalil ale nelze poznat sklon.
+Prvních pět řádků se zrychloval každým řádkem, ale mezi pátým řádkem a šestým řádkem není rozdíl v rychlosti. Sedmý řádek četl zase pomaleji, ale osmý řádek byl jeho nejrychlejší řádek vůbec. Devátý řádek zase četl stejně rychle jako pátý.  Na desátém řádku zpomalil.  Zbytek času zrychloval nebo zpomaloval bez rozpoznatelné tendence.
 
-Nelze přesně měřít čás čtení na FCHADu, ale jsem mohl najit čas mezi tím, kdy žák poprvé dal svou ruku na selektor a kdy ho posledně odstranil. Žák 5 četl na FCHAD jenom 17:02 minut a během tu dobu četl 196 znaků.  To je apx. 0.2 znak za sekund, když to srovnáme s jeho rychlosti četní tištění text(11.37 CPS) vidíme, že četl během naši setkání o kolo 60 krát pomalejší na FCHADu.
+Nelze přesně měřit čas čtení na FCHADu, ale mohl jsem měřit čas od chvíle, kdy žák poprvé umístil ruku na selektor, do chvíle, kdy ji naposledy stáhl. Žák 5 četl na FCHADu jenom 17:02 minut a za tu dobu přečetl 196 znaků.  To je přibližně 0.2 znaků za sekundu. Když to srovnáme s jeho rychlostí čtení tištěného textu (11.37 CPS), vidíme, že na FCHADu během našeho setkání četl až 60krát pomaleji.
 
 \subsection{Žák 6}
 \includegraphics[width=1\textwidth]{Location6-cut}
 
-Četla 22 řádků ale poslední četla jenom první 7 znaků.  Jsou 24 trojúhelníků na grafu ale rovná čára kolem 31 minut 20ti trojúhelník není čtení a předposlední řádek četla dva krát.
+Četla 22 řádků, přičemž z posledního jenom prvních 7 znaků.  Na grafu je 24 vrcholů: Vrchol s rovnou čárou kolem 31m není čtení (pouze přejetí prstem po senzorech) a předposlední řádek četla dvakrát.
 
-Žák 6 taky zrychlila ale ne tak pravidelně jako u pátého žáka.
+Žákyně 6 se také zrychlila, ale ne tak pravidelně jako žák 5.
 
-Druhý a třetí řádky četla stejně rychle.  Čtvrtý řádek četla rychlejší ale trochu zpomalila u pátého řádku. Už nebyl poznat sklon.  Mezi řádky 12 a 16 pomalu zrychlila ale řádek 17 je značně pomalejší.  Dále není poznat sklon.  Předposlední řádek, kde měla číst slova a ne písmena a četla podruhy četla značně rychlejší
+Druhý a třetí řádek četla stejně rychle.  Čtvrtý řádek četla rychleji, ale u pátého řádku trochu zpomalila. Dále nebyla tendence rozeznatelná.  Mezi řádky 12 a 16 se pomalu zrychlovala, ale na řádku 17 opět značně zpomalila.  Dále nelze rozeznat tendenci.  Předposlední řádek, kdy měla číst slova a ne písmena, a který četla podruhé, četla značně rychleji.
 
-Žák 6 četla 249 znáků během 44:42 minut na FCHADu.  To znamená, že četla kolem 0.09 znák za sekund, když to srovnáme s jeji rychlosti četní tištění text(6.7 CPS) vidíme, že četl během naši setkání o kolo 72 krát pomalejší na FCHADu.
+Žákyně 6 přečetla na FCHADu 249 znaků během 44:42 minut.  To je kolem 0.09 znaků za sekundu. Když to srovnáme s její rychlostí čtení tištěného textu (6.7 CPS), vidíme, že na FCHADu četla během našeho setkání až 72krát pomaleji.
 
 
 \subsection{Žák 7}
 \includegraphics[width=1\textwidth]{Location7-cut}
 
-Četl 19 řádků během setkání(ale četl desátý řádek dva krát a proto je na grafů dvacet trojúhelníků.
+Četl 19 řádků. Desátý řádek četl dvakrát, proto je na grafu dvacet vrcholů.
 
-První čtyři řádky četl stejným rychlosti.  Odstranil prst z selektoru během čtení pátého řádku a proto vypadá rozdělené. Šesti řádek četl rychlejší než ty první ale jeho až na třinácti řádek, kde zase zrychlil.  Čtrnáctý řádek je pomalý, ale jinak zrychlil zbytek dobu čtení.
+První čtyři řádky četl stejnou rychlostí. Během čtení pátého řádku odstranil prst ze selektoru, proto je vrchol na grafu rozdělený. Šestý řádek četl rychleji než ty první, ale pak se jeho rychlost nezměnila až do třináctého řádku, kdy zase zrychlil.  Čtrnáctý řádek je pomalý, ale zbytek doby zrychloval.
 
 
-Žák 7 četl 215 znáků během 48:48 minut na FCHADu.  To znamená, že četl kolem 0.07 znák za sekund, když to srovnáme s jeho rychlosti četní tištění text(8.24 CPS) vidíme, že četl během naši setkání o kolo 112 krát pomalejší na FCHADu.
+Žák 7 přečetl na FCHADu 215 znaků během 48:48 minut.  To je kolem 0.07 znaků za sekundu. Když to srovnáme s jeho rychlostí čtení tištěného textu (8.24 CPS), vidíme, že na FCHADu četl během našeho setkání až 112krát pomaleji.
+
 \subsection{Žák 9}
 \includegraphics[width=1\textwidth]{Location9-cut}
 
-Četl 13 řádků během setkání a jsou 13 trojúhelníků.
+Četl 13 řádků, na grafu je 13 vrcholů.
 
-První čtyři řádky četl stejným rychlosti, pátý řádek byl rychlejší a šestý stejně rychle jako pátý. Sedmý je pomalý, ale osmi až desátý zrychlil.  Velké zpomalený u jedenáctého řádku je snad tím, že jsou tam čísla. A poslední dva řádky jsou pomalé protože používal selektor samostatně.
+První čtyři řádky četl stejnou rychlostí, pátý řádek byl rychlejší a šestý stejně rychlý jako pátý. Sedmý je pomalý, ale na osmém až desátém zrychloval.  Velké zpomalení je vidět u jedenáctého řádku, snad proto, že jsou tam čísla. A poslední dva řádky jsou pomalé, protože používal selektor samostatně.
 
-Žák 9 četl 148 znáků během 39:12 minut na FCHADu.  To znamená, že četl kolem 0.06 znák za sekund, když to srovnáme s jeho rychlosti četní tištění text(5 CPS) vidíme, že četl během naši setkání o kolo 79 krát pomalejší na FCHADu.
+Žák 9 přečetl na FCHADu 148 znaků během 39:12 minut.  To je kolem 0.06 znaků za sekundu. Když to srovnáme s jeho rychlostí čtení tištěného textu (5 CPS), vidíme, že na FCHADu četl během našeho setkání až 79krát pomaleji.
 
-Je jasný, že když to jde o rychlosti je co vylepšít.
+Je jasné, že pokud jde o rychlost, je co zlepšovat.
 
 \subsection{Analýza chyb}
 
-Tady jsou shromážděné chyby účastníků běžného studie.  Zase neuvedu tady výsledky osmi účastníka.
+Zde uvádím shromážděné chyby účastníků hlavní studie.  Opět vynechávám výsledky účastníka 8.
 
 \begin{tabular}{|c|c|}
 \hline
@@ -114,15 +112,15 @@ Symbol&Význam\\
 \hline
 NČ&Nečetl samostatně\\
 \hline
-??&Chyba, ale nebyla poznat jaký na nahrávce\\
+??&Chyba, ale na nahrávce nebylo poznat jaká\\
 \hline
 >>&Přeskočil písmeno\\
 \hline
-*&Není poznat jestli byly chyby kvůli vádám audiu\\
+*&Na nahrávce není poznat, zda udělal chybu\\
 \hline
-ZVP&Znak pro velké písmena\\
+ZVP&Znak pro velká písmena\\
 \hline
---&Četl s pomoci\\
+--&Četl s pomocí\\
 \hline
 \end{tabular}
 
@@ -492,11 +490,11 @@ ZVP&Znak pro velké písmena\\
 \subsection{Druhy chyb}
 \begin{subfigure}{.5\textwidth}
 \centering
-Zrcadlování - převažně u žáka 9
+Zrcadlení - převážně u žáka 9
 
 \begin{tabular}{|c|c|c|}
 \hline
-Počet&Správné písmeno&Chyné Písmeno\\
+Počet&Správné písmeno&Chybné písmeno\\
 \hline
 1&ž\braillebox{2346}&z\braillebox{1356}\\
 \hline
@@ -530,7 +528,7 @@ Nečetl dolní bod
 
 \begin{tabular}{|c|c|c|}
 \hline
-Počet&Správné\newline písmeno&Chyné\newline Písmeno\\
+Počet&Správné\newline písmeno&Chybné písmeno\\
 \hline
 2&r\braillebox{1235}&h\braillebox{125}\\
 \hline
@@ -569,11 +567,11 @@ Počet&Správné\newline písmeno&Chyné\newline Písmeno\\
 
 \begin{subfigure}{1\textwidth}
 \centering
-Body sedm a osm je mlatli
+Body sedm a osm je mátly
 
 \begin{tabular}{|c|c|c|}
 \hline
-Počet&Správné písmeno&Chyné Písmeno\\
+Počet&Správné písmeno&Chybné písmeno\\
 \hline
 1&B\braillebox{1278}&v\braillebox{1236}\\
 \hline
@@ -597,7 +595,7 @@ Nečetli pravý sloupec bodů
 
 \begin{tabular}{|c|c|c|}
 \hline
-Počet&Správné písmeno&Chyné Písmeno\\
+Počet&Správné písmeno&Chybné písmeno\\
 \hline
 1&i\braillebox{24}&,\braillebox{2}\\
 \hline
@@ -623,11 +621,11 @@ Počet&Správné písmeno&Chyné Písmeno\\
 \end{subfigure}
 \begin{subfigure}{.5\textwidth}
 \centering
-Přídali nějaký bod
+Přidali nějaký bod
 
 \begin{tabular}{|c|c|c|}
 \hline
-Počet&Správné písmeno&Chyné Písmeno\\
+Počet&Správné písmeno&Chybné písmeno\\
 \hline
 2&i\braillebox{24}&s\braillebox{234}\\
 \hline
@@ -651,11 +649,11 @@ Počet&Správné písmeno&Chyné Písmeno\\
 \end{subfigure}
 \begin{subfigure}{1\textwidth}
 \centering
-Nemám vysvětlení/jiné
+Nemám vysvětlení / Jiné
 
 \begin{tabular}{|c|c|c|}
 \hline
-Počet&Správné písmeno&Chyné Písmeno\\
+Počet&Správné písmeno&Chybné písmeno\\
 \hline
 1&ř\braillebox{2456}&t\braillebox{2345}\\
 \hline
@@ -677,21 +675,23 @@ Počet&Správné písmeno&Chyné Písmeno\\
 \hline
 1&á\braillebox{16}&e\braillebox{15}\\
 \hline
+10\\
+\hline
 \end{tabular}
 \end{subfigure}
 \end{figure}
 
 \clearpage
 \subsection{Počty chyb}
-Žák 5 dělal 8 chyb za 196 přečtených znaků: jedna chyba za 24.5 znaků.
+Žák 5 udělal 8 chyb na 196 přečtených znaků: jedna chyba na 24.5 znaků.
 
-Žák 6 dělala 24 chyb za 249 přečtených znaků: jedna chyb za 10.375 znaků.
+Žákyně 6 udělala 24 chyb na 249 přečtených znaků: jedna chyba na 10.375 znaků.
 
-Žák 7 dělal 27 chyb za 215 přečtených znaků: jedna chyba za 7.963\_{} znaků
+Žák 7 udělal 27 chyb na 215 přečtených znaků: jedna chyba na 7.963\_{} znaků
 
-Žák 9 dělal 37 chyb za 148 přečtených znaků: jedna chyba za 4 znaků
+Žák 9 udělal 37 chyb na 148 přečtených znaků: jedna chyba na 4 znaky
 
-Tady je tabulka počet chyb za znak:
+Zde je tabulka počtů chyb na znak:
 
 \begin{tabular}[hb]{|c|c|c|c|c|}
 \hline
@@ -743,70 +743,70 @@ Tady je tabulka počet chyb za znak:
 \hline
 \end{tabular}
 
-Žák 5 dělal chyby během první čtyři řádky.  Potom už chyby nedělal, kromě u řádky 12 a 13 kde je skupina chyb.
+Žák 5 dělal chyby během prvních čtyř řádků.  Potom už chyby nedělal, kromě skupiny chyb v řádcích 12 a 13.
 
-Žák 6 taky děla většina chyb u začátku řádky jeden a dva.  Nebyla dokonala jako žák 5 ale dělala miň než jedna chyba za řádku až na řádek 11 kde taky má skupina řádků se zvýšenou chybovost.
+Žákyně 6 taky udělala většinu chyb na začátku čtení v řádcích jedna a dva.  Nebyla tak dokonalá jako žák 5, ale dělala méně chyb než jednu na řádek až po řádek 11, kde má taky skupinu řádků se zvýšenou chybovostí.
 
 Žáci 7 a 9 nemají žádnou strukturu chybovosti.
 
-\section{Analýza podle dřívější uvedené modelu}
+\section{Analýza podle dříve uvedeného modelu}
 
 \subsection{Swift}
-Vrátíme-li k Swiftův rozdělení druhů učení vidíme, že moje studie obsahovala všechní tři druhu učení.
+Vrátíme-li se ke Swiftovu rozdělení druhů učení, vidíme, že moje studie obsahovala všechny tři druhy.
 
-\textit{Získávání dovednost, naučit se dělat} :
-Účastnicí získali dovednost používat selektor.
+\textit{získání dovednosti, neboli naučit se něco dělat} :
+Účastníci získali dovednost používat selektor.
 
-\textit{Získávání znalost, trénování souvislost} :
-Účastnicí trénovali souvislost mezi mezi malé Braillovo písmo, které již znají a velké Braillovo, které se zobrazuje na zobrazovače FCHADu.
+\textit{získání znalostí, uvědomování souvislostí} :
+Účastníci trénovali souvislost mezi malým Braillovým písmem, které již znají, a velkým, které se zobrazuje na zobrazovači FCHADu.
 
-Účastnici taky získali úplně novou znalost.  Například, tím že Orca používá body sedm a osm dohromady aby naznačila začátek řádku je snad novinka pro všechní účastnici.  Oni na tu novou informace zvykly velmi rychle.  Stačil jím říct jeden nebo dva krát co ty body znamenají a to už pamatovali po celém setkání.
+Účastníci také získali úplně novou znalost.  Například to, že Orca používá body sedm a osm naráz pro označení začátku řádku, je snad novinkou pro všechny účastníky.  Na tuto novou informaci si zvykli velmi rychle.  Stačilo jím říct jednou nebo dvakrát, co ty body znamenají, a už si to pamatovali po celé setkání.
 
 
-\textit{Trénování inhibice a sebeovládání} :
+\textit{získání sebekontroly a potlačení reflexů } :
 
-Rozdělil bych Swiftův kategorie trénování inhibice na dvě subkategorii.  Inhibice reflexu a návyku a přeučení znalosti.
+Rozdělil bych Swiftovu kategorii získání sebekontroly a potlačení reflexů na dvě subkategorie:  potlačení reflexů a přeučení znalosti.
 
-Účastnicí odvykli od toho používat selektor jako piezoelektrický braillský řádek a tím pádem trénovali inhibice.  Viděli jsme to zvlášť moc u účastnici čtyři a pět.  Kdy oni vrátili na začátek selektoru pote co dočetli řádku, skoro vždy se vrátili příliš daleko, protože byli zvyklé na delší braillský řádek.  To je jev, který je docela podobný Swiftův blikání.
+Účastníci si odvykli používat selektor jako piezoelektrický braillský řádek a tím pádem trénovali potlačení reflexů.  To jsem obzvlášť viděl u účastníků čtyři a pět.  Když se vrátili na začátek selektoru poté, co dočetli řádek, skoro vždy se vrátili příliš daleko, protože byli zvyklí na delší braillský řádek.  To je jev, který je docela podobný Swiftovu mrkání.
 
-Ale sledoval jsem další projev odvyknutí, které přímo do první skupině nepatří. Kdy žák 9 četl `g'\braillebox{1245} jako `x'\braillebox{1346}. To je jasný, že je zvykly na menší písmo, a kdy cítí jak daleko od sebe jsou body na zobrazovače, tak myslí, že to musí odpovídat tomu, že nějaké ne-existující body jsou dolu.  Nejde to o reflexe ani návyk v chování ale návyk myšlení a paměti.  Zvyklost na menší písmo může vysvětlit mnoho chyb pří čtení.  Žáci četli `k'\braillebox{13} jako `a'\braillebox{1} tří krát, nemůže to byt protože oni jsou tak zvyklé na malý `a', že ten třetí bod dolu jím ani nevypadá jako samé písmeno?
+Sledoval jsem ještě další projev odvykání, který přímo do první skupiny nepatří, to když žák 9 četl `g'\braillebox{1245} jako `x'\braillebox{1346}. Je jasné, že je zvyklý na menší písmo, a když cítí, jak daleko od sebe jsou body na zobrazovači, tak myslí, že mezi nimi musí být nějaké neaktivní.  Nejedná se o reflex ani o návyk v chování, ale o návyk myšlení a paměti.  Návyk na menší písmo může vysvětlit mnoho chyb při čtení.  Žáci četli `k'\braillebox{13} jako `a'\braillebox{1} třikrát. Možná proto, že jsou zvyklí na o tolik menší `a', že ten třetí bod dole se jim ani nezdá být součástí toho samého písmena.
 
-Moc do toho jsme nevstoupily kvůli časové omezení ale některé účastnici nepoložili ruku rovně na zobrazovače.  Do jisté míru jejích neochota může byt vysvětlení tím, že není příjemní jak ty kovové tyče na něj skáčou.  To je velice podobní reakce jako to blikání.  Nemáme rady rychlé pohyby.
+Kvůli časovému omezení jsme se tím moc nezabývali, ale někteří účastníci nepoložili ruku na zobrazovač rovně.  Do jisté míry může být jejich neochota vysvětlena tím, že jim není příjemné, jak jim kovové tyčky vráží do dlaně.  To je velice podobná reakce jako Swiftovo mrkání:  Nemáme rádi rychlé pohyby.
 
 \subsection{Anderson}
 
-\textit{kognitivní stadium}: Začátek kognitivního stadiu byl přečtení návodu ale dále proběhla i během čtení.  Například jsem je dával novou instrukce kdy dostali na konce řádku anebo na písmeno, které nepochopili.  Rozdělení fázi není stoprocentní.
+\textit{kognitivní stadium}: Začátek kognitivního stadia představovalo přečtení návodu, ale probíhalo i později během čtení, například když jsem jim dával nové instrukce, když se dostali na konec řádku nebo na písmeno, které nepochopili.  Rozdělení fází není stoprocentní.
 
-\textit{asociativní stadium}: Asociativní stadium bralo většina času teto studie.  To je jak žáci zdokonalili posun na selektoru a odstranili chyby pří čtení na zobrazovače.
+\textit{asociativní stadium}: Asociativní stadium trvalo po většinu času této studie.  Žáci zdokonalovali posun na selektoru a odstraňovali chyby při čtení na zobrazovači.
 
-\textit{autonomní stadium}: Účastnici autonomně nečetli.
+\textit{autonomní stadium}: Nenastalo. Účastníci autonomně nečetli.
 
 \subsection{Vlastní model}
 
-\textit{Před znalost}:
-Role před znalosti se objevil hlavně v jejím nedostatku.
-Některé žáci nemohli říct, který písmo je "Jedná, dva, tři, pět"(`r') byla moje chyba jako pedagog jsem nesprávně odhadl před znalost.  Předpokládal jsem, že budou mít jako před znalosti, znalost číslování znaků. 
+\textit{Předznalost}:
+Jako pedagog jsem si všiml především nedostatku předznalosti.
+Někteří žáci nedovedli říct, které písmeno tvoří body "jedna, dva, tři, pět"(`r'). Bylo mojí chybou jako pedagoga, že jsem nesprávně odhadl předznalost.  Předpokládal jsem, že budou znát číslování znaků. 
 
-Další překvapení bylo, že snad jenom jeden žák z běžného studie už měl pochopení fungování body sedm a osm když to jde o velké a malé písmena a čísla.  Myslel jsem, že i když není standardní, budu hned pochopit o co jde.
+Dalším překvapením bylo, že snad jen jeden žák z hlavní studie už znal funkci bodů sedm a osm pro značení velkých písmen a číslic.  Myslel jsem, že i když tato funkce není standardizována, žáci hned pochopí, o co jde.
 
-Další překvapení bylo tím, jak snad žádný žák nepoznal čárku.
+Dalším překvapením bylo, že snad žádný žák nepoznal čárku.
 
-Účastnici, které nepoužívají braillský řádek museli se učit daleko víc ale zase to neznamenalo, že dělali víc chyb. Individuální rozdíly jsou daleko značnější než rozdíl, mezi žáci, které řádky používají a ty, které nepoužívají.  I kdyby ty čísla byla jednoznačné neznamenalo by to, že měli horší výkon kvůli nedostatků před znalosti.  Je důvod proč ty před znalosti nemají, oni jsou neschopné či neochotné se učit!
+Účastníci, kteří nepoužívají braillský řádek, se museli učit daleko víc, ale zase to neznamenalo, že by dělali víc chyb. Individuální rozdíly jsou daleko výraznější než rozdíly mezi žáky, kteří řádky používají, a těmi, kteří je nepoužívají.  I kdyby čísla byla jednoznačná, neznamenalo by to automaticky, že měli horší výkon kvůli nedostatku předznalostí. Důvodem, proč předznalosti nemají, může být to, že jsou neschopní či neochotní se učit!
 
-Já jsem značně přehodnocoval vyznám před znalosti v mém přípravu na studium.  Myslel jsem si, že sice Já čtu pomalu, protože moc dobře neumím číst rukama, ale lidí, které umějí budou schopní rychle číst i na FCHADu.  Překvapivě, jejích první pokusy nebyly o tolik úspěšnější než moje.
+Při přípravě studie jsem význam předznalosti značně nadhodnotil.  Myslel jsem si, že já čtu na FCHADu pomalu, protože obecně neumím moc dobře číst rukama, zato lidé, kteří to umějí, budou schopní rychle číst i na FCHADu.  K mému překvapení jejich první pokusy nebyly o tolik úspěšnější než moje.
 
-\em Chápání úkolu\em : Způsob výklad byl hlavně čtením návodem.  Pomohl jsem je jako pedagog tím, že jsem je orientoval s nástrojem ústně a taktilně.  Ústní pomoc se neliší od psaním jenom tím, že je přes zvukovým mediem ale, tím že žáci se mohli zeptat otázky.
+\em Chápání úkolu\em : Způsob výkladu byl hlavně čtení návodu.  Pomohl jsem jako pedagog tím, že jsem žáky při práci s nástrojem ústně a taktilně naváděl.  Ústní pomoc se od písemné neliší jenom tím, že probíhá přes zvukové medium, ale i tím, že žáci mohli klást otázky.
 
-Rozdělil bych chápání úkolu bych rozdělil na dvě části: Chápání \em jak \em dělat úkol a chápání co by měli dělat.  Protože žáci nebyly schopní \uv{číst} na FCHADu dělil jsem je konkrétnější zadání: \uv{číst první písmeno}.  Většina rozuměli \em jak \em číst první písmeno a jím to netrvalo moc dlouho rozumět jak přesunout na další písmeno použití selektor, ale jím to zkutečně trvalo dlouho s pojít oba mikro-úlohy dohromady a \uv{číst}.
+Protože žáci nebyli schopní \uv{číst} na FCHADu, rozdělil jsem úkol na konkrétnější zadání: \uv{číst první písmeno}.  Většina rozuměla, jak číst první písmeno, a ani jim netrvalo moc dlouho pochopit, jak postoupit na další písmeno za použití selektoru. Spojit oba podúkoly dohromady a skutečně číst jim však trvalo velmi dlouho.
 
-\em Obecný schopnost\em a \em Konkretní schopnosti\em :  Obecný schopnost, které jsem chtěl žákům naučit na FCHADu byl číst.  Konkretní schopnosti byly několik:
+\em Obecná schopnost\em a \em konkrétní schopnost\em :  Obecná schopnost, které jsem chtěl žáky naučit, byla číst na FCHADu.  Konkrétních schopností bylo několik:
 
-Číst písmeno z zobrazovače, které sám má nějaké vlastní konkretní schopnosti: číst určité písmeno, například `e', a pochopit funkce body sedm a osm.
+Číst písmeno ze zobrazovače, což se dá rozdělit na ještě další konkrétní schopnosti, jako je čtení určitého písmene, například `e', nebo pochopení funkcí bodů sedm a osm.
 
-Přesunout ruku na selektor aby se zobrazovalo další písmeno.
+Přesunout ruku na selektoru, aby se zobrazilo další písmeno.
 
-Vrátit ruku do začátek selektoru kdy se začíná nový řádek.
+Vrátit ruku na začátek selektoru, když začíná nový řádek.
 
-Z těch schopnosti snad jediný, který žáci dokázali rozvíjet na úrovni autonomní schopnosti byl přesun na selektor.
+Z těchto schopností byla snad jediná, kterou žáci dovedli rozvíjet na úrovni autonomní schopnosti, a to přesun ruky na selektoru.
 
-\em Dosažené úroveň\em : V rámce teto studiu nemohu dojit k závěru o dosažené úrovní protože žádný účastník tak daleko nedospěl.
+\em Dosažená úroveň\em : V rámci této studie nemohu dojít k závěru o dosažené úrovni, protože žádný účastník tak daleko nedospěl.
