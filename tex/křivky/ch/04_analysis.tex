@@ -5,17 +5,17 @@ Když se zeptáme proč se někdo nějaký schopnost dokázal učit nebo ne mus�
 
 Abych zajistil, že můj FCHAD je fyzické použitelný jsem si přečetl kapitolu \em Haptic Interfaces\em  od knihy \em HCI Beyond the GUI\em. Člověk má šest druhů hmatových receptorů, volná nervová zakončení, Meissnerovo tělísko, Merkelova buňka, Paciniho tělíska, receptory vlasového folikulu, Ruffiniho tělíska. Různé hmatné receptory mají jiné citlivosti.  Například Paciniho tělíska cítí jenom vibrace.
 
-Pro účelu FCHADu, chceme spustit receptory, které reagují rychle a přesně.  Myslím si, že je to taky lepší spouštět vice druhů receptorů ale nejsem si jistý.  Prostorově nejpřesnější receptory jsou Meissnerovo tělísko a Merkelova buňka.  Ty jsou dost hluboké v kůže, proto používáme silné pohyblivé solenoidy.  Druhý verze FCHADu taky produkuje malou vibrace o 200Hz což je doporučený frekvence v publikace HCI\citep[str. 29-30]{nielsen2008gesture}.
+Pro účelu FCHADu, chceme spustit receptory, které reagují rychle a přesně.  Myslím si, že je to taky lepší spouštět vice druhů receptorů ale nejsem si jistý.  Prostorově nejpřesnější receptory jsou Meissnerovo tělísko a Merkelova buňka.  Ty jsou dost hluboké v kůže, proto používáme silné pohyblivé solenoidy.  Druhý verze FCHADu taky produkuje malou vibrace o 200Hz což je doporučený frekvence v publikace HCI \citep[str. 29-30]{nielsen2008gesture}.
 
-Autoři samy kapitole rozdělí čtyři subjektivní druhy hmatu: tlak, dotyk, vibrace a lechtání.  Myslím si, že lechtání se produkuje pohybem přes prsti.  Jeden hypotéza proč FCHADy nefungují moc dobře je, že pohyb bodů na prstech pomůže čtenář rozpoznat písmeno.  Christophe Ramstein v 1996 studie píše o FCHADech: \em \uv{Protože vice mechanorecoptorů jsou použití v hmatovém vnímání, pohyb prstu nad tvarem anebo zrnitosti zlepšuje vnímání.  V případě jedno-písmenové zobrazovače důsledkem je, že prst necítí přechod mezi písmenem ale jen změna uspořádání.  Protože prst nechybuje, rychlost je pomalejší než s 20ti, 40ti, anebo 80ti písmenová zobrazovače(46.1 slov za minut u rychlé čtenáři a 12.0 slov za minut pro pomalé čtenáři} \em \citep[str. 38, přeložený z angličtiny]{ramstein1996combining}
+Autoři samy kapitole rozdělí čtyři subjektivní druhy hmatu: tlak, dotyk, vibrace a lechtání.  Myslím si, že lechtání se produkuje pohybem přes prsti.  Jeden hypotéza proč FCHADy nefungují moc dobře je, že pohyb bodů na prstech pomůže čtenář rozpoznat písmeno.  Christophe Ramstein v 1996 studie píše o FCHADech: \em \uv{Protože vice mechanorecoptorů jsou použití v hmatovém vnímání, pohyb prstu nad tvarem anebo zrnitosti zlepšuje vnímání.  V případě jedno-písmenové zobrazovače důsledkem je, že prst necítí přechod mezi písmenem ale jen změna uspořádání.  Protože prst nechybuje, rychlost je pomalejší než s 20ti, 40ti, anebo 80ti písmenová zobrazovače(46.1 slov za minut u rychlé čtenáři a 12.0 slov za minut pro pomalé čtenáři} \em  \citep[str. 38, přeložený z angličtiny]{ramstein1996combining}
 %"Because multiple mechanical receptors are involved in the tactile perception mechanism, the displacement of the finger over a form or texture improves perception and facilitates acknowledgement[7,14]. As a result, in the single cell case, the finger will not feel the transition from one character to the next, but only the configurational changes in the cell’s pins according to the following character.  Since the finger is not moving on the braille characters, speed performance will of course be slower than on 20-, 40- or 8O-cell braille displays (46.1 wpm for fast readers and 12.0 wpm for slow readers)."
 Když si čtu tisknutá Braillova písma se cítím, že je to určitý druh lechtání.  Abych přidal podobnou pocit u zobrazovače FCHADu dal jsem kus látky nad zobrazovačem.  Líbilo mě to ale nepoužíval jsem tu látku v studie. Myslel jsem si, že by věci jenom zkomplikovali pro moje účastnici.
 
 Publikace HCI sestavuje pro naše použity prahy rozlišený anebo v angličtině "Just Noticeable Differences(JND)". Neberu JNDy jako měřítku to co člověk dokáže cítit, ale spíš co nedokáže.  Nechtěl jsem aby nastroj pracoval na hranice citlivosti ale aby znaky byly bezpečně rozpoznatelné.
 
-Pocit hmatu je přesný do ${}1mm^2 - 2mm^2$ na konce prstů a až ${}45mm^2$ jinde na tělo.  Tisknutí Braillovo písmo má body vzdálené od sebe 2.3-2.5mm\citep{brailleauthority}. To je až příliš blízko JND.  Však Perkins produkuje speciální velko-písmenové psací stroj kvůli tomu, že některé nevidomé nedokážou normální Braillovo písmo číst\footnote{\url{https://secure2.convio.net/psb/site/Ecommerce?FOLDER=1180&store_id=1101&JServSessionIdr004=9p1uhglug2.app246a&__utma=184864936.426189431.1365936556.1365946389.1366050996.3&__utmb=184864936.1.10.1366050996&__utmc=184864936&__utmx=-&__utmz=184864936.1365936556.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)&__utmv=-&__utmk=194396717}}.  Bohužel, když děláme větší písmo už to nevejde na koncem prstu a kůže jinde na tělo je méně citlivá.  Vzdálenost JND kůže na dlaně je 11mm a proto, hrozí se že zvětšení písmo zhoršuje čtení! Můj osobní pocit je, že optimální velikost pro Braillovo písmo je 500 x 300mm.  Když jsem vyrobil první FCHAD jsem nemohl dostat solenoidy tak malé, a proto v studie používal jsem daleko větší zobrazovač\citep[str. 30-32]{nielsen2008gesture}.
+Pocit hmatu je přesný do ${}1mm^2 - 2mm^2$ na konce prstů a až ${}45mm^2$ jinde na tělo.  Tisknutí Braillovo písmo má body vzdálené od sebe 2.3-2.5mm \citep{brailleauthority}. To je až příliš blízko JND.  Však Perkins produkuje speciální velko-písmenové psací stroj kvůli tomu, že některé nevidomé nedokážou normální Braillovo písmo číst\footnote{\url{https://secure2.convio.net/psb/site/Ecommerce?FOLDER=1180&store_id=1101&JServSessionIdr004=9p1uhglug2.app246a&__utma=184864936.426189431.1365936556.1365946389.1366050996.3&__utmb=184864936.1.10.1366050996&__utmc=184864936&__utmx=-&__utmz=184864936.1365936556.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)&__utmv=-&__utmk=194396717}}.  Bohužel, když děláme větší písmo už to nevejde na koncem prstu a kůže jinde na tělo je méně citlivá.  Vzdálenost JND kůže na dlaně je 11mm a proto, hrozí se že zvětšení písmo zhoršuje čtení! Můj osobní pocit je, že optimální velikost pro Braillovo písmo je 500 x 300mm.  Když jsem vyrobil první FCHAD jsem nemohl dostat solenoidy tak malé, a proto v studie používal jsem daleko větší zobrazovač \citep[str. 30-32]{nielsen2008gesture}.
 
-Další práh rozlišený je časový.  To není jen jak rychle něco cítíte ale kolik krát můžete něco cítit za sekund.  V angličtině "successiveness limen(SL)" je minimální čas dvě impulsy mohou mít aby člověk je rozlišil od sebe.  V našem studie žádný účastník nečetl tak rychle aby pobližil SL.  Stejně doufal jsem, že budou čist rychlejší, a doufám, že bude možní na FCHADu číst tak rychle jako tisknutí Braillovo písmo.  To je asi 7.9CPS\citep{wetzel2006studies}.  To znamená, že za každý 126ms musí čist jedno písmeno.  SL pro mechanoreceptory je 5 ms ale nás zajímá 20 ms, který je minimální čas aby člověk dvě pocity rozlišil ve správném pořady\citep[str. 32]{nielsen2008gesture}.
+Další práh rozlišený je časový.  To není jen jak rychle něco cítíte ale kolik krát můžete něco cítit za sekund.  V angličtině "successiveness limen(SL)" je minimální čas dvě impulsy mohou mít aby člověk je rozlišil od sebe.  V našem studie žádný účastník nečetl tak rychle aby pobližil SL.  Stejně doufal jsem, že budou čist rychlejší, a doufám, že bude možní na FCHADu číst tak rychle jako tisknutí Braillovo písmo.  To je asi 7.9CPS \citep{wetzel2006studies}.  To znamená, že za každý 126ms musí čist jedno písmeno.  SL pro mechanoreceptory je 5 ms ale nás zajímá 20 ms, který je minimální čas aby člověk dvě pocity rozlišil ve správném pořady \citep[str. 32]{nielsen2008gesture}.
 
 Další omezenost je absolutní velikost ruky.  Jestli ruka není dost velká nepokrývá celou zobrazovače.  Několik účastníků měli ruce dost malé aby nepokrývali zobrazovače pohodlně nikdo to nezvládl.
 
@@ -70,6 +70,8 @@ Pátý žák se značně zrychlil během naše setkání.
 
 První pět řádky se zrychlil každým řádkem ale mezi pátým řádkem a šestým řádkem není rozdíl v rychlosti. Sedmi řádek četl zase pomaleji ale osmi řádek byl jeho nejrychlejší řádek a četl rychleji než i pátý a šestý.  Devátý řádek zase četl stejně rychle jako pátý.  A desátý řádek zpomalil.  Zbytek času či zrychlil anebo zpomalil ale nelze poznat sklon.
 
+Nelze přesně měřít čás čtení na FCHADu, ale jsem mohl najit čas mezi tím, kdy žák poprvé dal svou ruku na selektor a kdy ho posledně odstranil. Žák 5 četl na FCHAD jenom 17:02 minut a během tu dobu četl 196 znaků.  To je apx. 0.2 znak za sekund, když to srovnáme s jeho rychlosti četní tištění text(11.37 CPS) vidíme, že četl během naši setkání o kolo 60 krát pomalejší na FCHADu.
+
 \subsection{Žák 6}
 \includegraphics[width=1\textwidth]{Location6-cut}
 
@@ -79,6 +81,9 @@ První pět řádky se zrychlil každým řádkem ale mezi pátým řádkem a š
 
 Druhý a třetí řádky četla stejně rychle.  Čtvrtý řádek četla rychlejší ale trochu zpomalila u pátého řádku. Už nebyl poznat sklon.  Mezi řádky 12 a 16 pomalu zrychlila ale řádek 17 je značně pomalejší.  Dále není poznat sklon.  Předposlední řádek, kde měla číst slova a ne písmena a četla podruhy četla značně rychlejší
 
+Žák 6 četla 249 znáků během 44:42 minut na FCHADu.  To znamená, že četla kolem 0.09 znák za sekund, když to srovnáme s jeji rychlosti četní tištění text(6.7 CPS) vidíme, že četl během naši setkání o kolo 72 krát pomalejší na FCHADu.
+
+
 \subsection{Žák 7}
 \includegraphics[width=1\textwidth]{Location7-cut}
 
@@ -87,12 +92,17 @@ Druhý a třetí řádky četla stejně rychle.  Čtvrtý řádek četla rychlej
 První čtyři řádky četl stejným rychlosti.  Odstranil prst z selektoru během čtení pátého řádku a proto vypadá rozdělené. Šesti řádek četl rychlejší než ty první ale jeho až na třinácti řádek, kde zase zrychlil.  Čtrnáctý řádek je pomalý, ale jinak zrychlil zbytek dobu čtení.
 
 
+Žák 7 četl 215 znáků během 48:48 minut na FCHADu.  To znamená, že četl kolem 0.07 znák za sekund, když to srovnáme s jeho rychlosti četní tištění text(8.24 CPS) vidíme, že četl během naši setkání o kolo 112 krát pomalejší na FCHADu.
 \subsection{Žák 9}
 \includegraphics[width=1\textwidth]{Location9-cut}
 
 Četl 13 řádků během setkání a jsou 13 trojúhelníků.
 
 První čtyři řádky četl stejným rychlosti, pátý řádek byl rychlejší a šestý stejně rychle jako pátý. Sedmý je pomalý, ale osmi až desátý zrychlil.  Velké zpomalený u jedenáctého řádku je snad tím, že jsou tam čísla. A poslední dva řádky jsou pomalé protože používal selektor samostatně.
+
+Žák 9 četl 148 znáků během 39:12 minut na FCHADu.  To znamená, že četl kolem 0.06 znák za sekund, když to srovnáme s jeho rychlosti četní tištění text(5 CPS) vidíme, že četl během naši setkání o kolo 79 krát pomalejší na FCHADu.
+
+Je jasný, že když to jde o rychlosti je co vylepšít.
 
 \subsection{Analýza chyb}
 
@@ -178,7 +188,7 @@ ZVP&Znak pro velké písmena\\
 \begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|c|}
 \hline
 Žák&í&v&á&t&e&,& &n&e&n&í& \\
-&\braillebox{3478}&\braillebox{1236}&\braillebox{16}&\braillebox{2345}&\braillebox{15}&\braillebox{2}&\braillebox{}&\braillebox{1345}&\braillebox{15}&\braillebox{2345}&\braillebox{34}&\braillebox{}\\
+&\braillebox{3478}&\braillebox{1236}&\braillebox{16}&\braillebox{2345}&\braillebox{15}&\braillebox{2}&\braillebox{}&\braillebox{1345}&\braillebox{15}&\braillebox{1345}&\braillebox{34}&\braillebox{}\\
 \hline
 5&&&&j&&&&d&&&&\\
 &&&&\braillebox{245}&&&&\braillebox{145}&&&&\\
@@ -490,7 +500,9 @@ Počet&Správné písmeno&Chyné Písmeno\\
 \hline
 1&ž\braillebox{2346}&z\braillebox{1356}\\
 \hline
-4&í\braillebox{3478}&á\braillebox{16}\\
+1&í\braillebox{3478}&á\braillebox{16}\\
+\hline
+2&í\braillebox{34}&á\braillebox{16}\\
 \hline
 1&e\braillebox{15}&i\braillebox{24}\\
 \hline
@@ -500,13 +512,15 @@ Počet&Správné písmeno&Chyné Písmeno\\
 \hline
 1&z\braillebox{1356}&n\braillebox{1345}\\
 \hline
-1&z\braillebox{125678}&n\braillebox{1345}\\
+1&z\braillebox{135678}&n\braillebox{1345}\\
 \hline
 2&j\braillebox{245}&h\braillebox{125}\\
 \hline
 1&.\braillebox{378}&ZVP\braillebox{6}\\
 \hline
 1&r\braillebox{1235}&ř\braillebox{2456}\\
+\hline
+14\\
 \hline
 \end{tabular}
 \end{subfigure}
@@ -548,6 +562,8 @@ Počet&Správné\newline písmeno&Chyné\newline Písmeno\\
 \hline
 1&z\braillebox{1356}&e\braillebox{15}\\
 \hline
+30\\
+\hline
 \end{tabular}
 \end{subfigure}
 
@@ -561,13 +577,15 @@ Počet&Správné písmeno&Chyné Písmeno\\
 \hline
 1&B\braillebox{1278}&v\braillebox{1236}\\
 \hline
-1&B\braillebox{1278}&ě\braillebox{128}\\
+1&B\braillebox{1278}&ě\braillebox{126}\\
 \hline
 3&1\braillebox{18}&a\braillebox{1}\\
 \hline
 1&i\braillebox{24}&9\braillebox{248}\\
 \hline
 3&9\braillebox{248}&i\braillebox{24}\\
+\hline
+9\\
 \hline
 \end{tabular}
 \end{subfigure}
@@ -599,6 +617,8 @@ Počet&Správné písmeno&Chyné Písmeno\\
 \hline
 1&n\braillebox{1345}&k\braillebox{13}\\
 \hline
+11\\
+\hline
 \end{tabular}
 \end{subfigure}
 \begin{subfigure}{.5\textwidth}
@@ -624,6 +644,8 @@ Počet&Správné písmeno&Chyné Písmeno\\
 1&ě\braillebox{126}&v\braillebox{1236}\\
 \hline
 1&m\braillebox{134}&p\braillebox{1234}\\
+\hline
+14\\
 \hline
 \end{tabular}
 \end{subfigure}
@@ -763,7 +785,7 @@ Moc do toho jsme nevstoupily kvůli časové omezení ale některé účastnici 
 
 \textit{Před znalost}:
 Role před znalosti se objevil hlavně v jejím nedostatku.
-Je možný, že to jak žáci často nemohli říct, který písmo je "Jedná, dva, tři, pět" byla moje chyba jako pedagog jsem nesprávně odhadl před znalost.  Předpokládal jsem, že budou mít jako před znalosti, znalost číslování znaků. 
+Některé žáci nemohli říct, který písmo je "Jedná, dva, tři, pět"(`r') byla moje chyba jako pedagog jsem nesprávně odhadl před znalost.  Předpokládal jsem, že budou mít jako před znalosti, znalost číslování znaků. 
 
 Další překvapení bylo, že snad jenom jeden žák z běžného studie už měl pochopení fungování body sedm a osm když to jde o velké a malé písmena a čísla.  Myslel jsem, že i když není standardní, budu hned pochopit o co jde.
 
