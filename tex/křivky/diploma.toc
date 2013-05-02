@@ -115,9 +115,9 @@
 \contentsline {paragraph}{T\IeC {\v r}et\IeC {\'\i } \IeC {\v r}\IeC {\'a}dek}{42}
 \contentsline {paragraph}{\IeC {\v C}tvrt\IeC {\'y} \IeC {\v r}\IeC {\'a}dek}{42}
 \contentsline {paragraph}{P\IeC {\'a}t\IeC {\'y} \IeC {\v r}\IeC {\'a}dek}{42}
-\contentsline {paragraph}{\IeC {\v S}esti \IeC {\v r}\IeC {\'a}dek}{43}
-\contentsline {paragraph}{Sedmi \IeC {\v r}\IeC {\'a}dek}{43}
-\contentsline {paragraph}{Osmi \IeC {\v r}\IeC {\'a}dek}{43}
+\contentsline {paragraph}{\IeC {\v S}est\IeC {\'y} \IeC {\v r}\IeC {\'a}dek}{43}
+\contentsline {paragraph}{Sedm\IeC {\'y} \IeC {\v r}\IeC {\'a}dek}{43}
+\contentsline {paragraph}{Osm\IeC {\'y} \IeC {\v r}\IeC {\'a}dek}{43}
 \contentsline {paragraph}{Dev\IeC {\'a}t\IeC {\'y} \IeC {\v r}\IeC {\'a}dek}{43}
 \contentsline {paragraph}{Des\IeC {\'a}t\IeC {\'y} \IeC {\v r}\IeC {\'a}dek}{44}
 \contentsline {paragraph}{Jeden\IeC {\'a}ct\IeC {\'y} \IeC {\v r}\IeC {\'a}dek}{44}
@@ -126,7 +126,7 @@
 \contentsline {chapter}{\numberline {4}Anal\IeC {\'y}za a srovn\IeC {\'a}n\IeC {\'\i }}{46}
 \contentsline {section}{\numberline {4.1}Vymezen\IeC {\'\i } fyziologick\IeC {\'e} schopnosti}{46}
 \contentsline {section}{\numberline {4.2}Anal\IeC {\'y}za rychlosti}{47}
-\contentsline {paragraph}{Jak \IeC {\v c}tete grafy?}{48}
+\contentsline {paragraph}{Jak \IeC {\v c}\IeC {\'\i }st grafy}{48}
 \contentsline {subsection}{\numberline {4.2.1}\IeC {\v Z}\IeC {\'a}k 5}{48}
 \contentsline {subsection}{\numberline {4.2.2}\IeC {\v Z}\IeC {\'a}k 6}{50}
 \contentsline {subsection}{\numberline {4.2.3}\IeC {\v Z}\IeC {\'a}k 7}{51}
@@ -134,7 +134,7 @@
 \contentsline {subsection}{\numberline {4.2.5}Anal\IeC {\'y}za chyb}{52}
 \contentsline {subsection}{\numberline {4.2.6}Druhy chyb}{60}
 \contentsline {subsection}{\numberline {4.2.7}Po\IeC {\v c}ty chyb}{62}
-\contentsline {section}{\numberline {4.3}Anal\IeC {\'y}za podle d\IeC {\v r}\IeC {\'\i }v\IeC {\v e}j\IeC {\v s}\IeC {\'\i } uveden\IeC {\'e} modelu}{63}
+\contentsline {section}{\numberline {4.3}Anal\IeC {\'y}za podle d\IeC {\v r}\IeC {\'\i }ve uveden\IeC {\'e}ho modelu}{63}
 \contentsline {subsection}{\numberline {4.3.1}Swift}{63}
 \contentsline {subsection}{\numberline {4.3.2}Anderson}{64}
 \contentsline {subsection}{\numberline {4.3.3}Vlastn\IeC {\'\i } model}{64}
@@ -142,5 +142,5 @@
 \contentsline {chapter}{Literatura}{69}
 \contentsline {chapter}{Appendix}{I}
 \contentsline {section}{\numberline {.1}Technick\IeC {\'e} detaily}{I}
-\contentsline {section}{\numberline {.2}Obrazky FCHADu}{II}
+\contentsline {section}{\numberline {.2}Obr\IeC {\'a}zky FCHADu}{II}
 \contentsline {section}{\numberline {.3}Text na FCHAD}{V}
