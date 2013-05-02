@@ -1,0 +1,82 @@
+\subsubsection{Žák 4}
+
+Setkání 8.3.2013
+
+Čtvrtý žák je ve věku mezi 20 a 25 lety.  Jeho nejvyšší dosažené vzdělání je maturita.  Je můj spolužák na katedře angličtiny PedF UK. Je úplně nevidomý a také trpí problémy se sluchem.  Pracuje s Braillovým písmem od základní školy. Používá braillský řádek doma na počítači.
+
+Měl velké potíže s přesunem na selektoru.
+
+Když jsem mu dal číst tištěný návod, zeptal se mě, jestli má číst nahlas.  Řekl jsem, že ne. To byla chyba. První část listu se skutečně nahlas číst nemusí, a tak jsem čekal, až dorazí k větě \uv{Následující text čtěte prosím nahlas a bez přestání až do konce.} a začne číst nahlas. Jenže on četl dál potichu.  Z toho důvodu jsem měřil jeho rychlost čtení tištěného Braillova písma jenom od druhé strany listu. Je zajímavé, že žáci často nereagovali na příkazy psané ve textu. Když žák 4 skončil se čtením, potvrdil, že souhlasí se zveřejněním osobních údajů.  Oproti mým očekáváním žádný z mých žáků nedal svůj souhlas během čtení v momentě, když k tomu byl textem vyzván. Někteří z nich nepochopili z věty \uv{Než budeme pokračovat, potřebuji Váš souhlas se shromážděním a zveřejněním těchto dat.}, že by ten souhlas měli vůbec vyslovit nahlas.
+
+Žák 4 četl tištěný text oběma rukama.
+
+Čas čtení tištěného textu: 43 vteřin %169.2-126.1
+
+CPS: 9.46*
+
+Čas čtení tištěného textu po otočení listu:25.9 vteřin %169.2-143.3
+
+CPS: 10.23**
+
+*) Na moji žádost přečetl text dvakrát, abych ho mohl změřit. Jednou četl potichu a podruhé nahlas.
+
+**) Četl jenom nahlas.
+
+Poté, co jsem žákovi položil otázky, přemístil jsem před něj FCHAD.  Řekl jsem mu, ať nástroj prozkoumá.  On však seděl a nic nedělal.  Třeba jsem ho měl nechat sedět déle. Jak jsem tam s ním seděl, zdálo se mi, že tam sedíme velmi dlouho. Podle zvukové nahrávky jsem však čekal jenom deset vteřin.
+
+Protože žákyně 3 měla tolik problémů se selektorem, rozhodl jsem se čtvrtému žákovi lépe vysvětlit fungování selektoru.  Umístil jsem jeho ruku na selektor a vedl jeho prsty nad senzory. Tím, že se jeho prsty dotkly senzorů, zobrazovač cvakal jako obvykle při změně písmene.  Řekl jsem mu, že ten zvuk je zvuk změny písmene.  Až poté, co jsem mu vysvětlil fungování selektoru, jsem jeho levou ruku umístil na zobrazovač.
+
+Zrovna když jsem mu ukazoval zobrazovač, zobrazilo se na něm písmeno `o'. Zmínil jsem, které písmeno se zobrazuje.
+
+Ještě během ukázky přestal nástroj reagovat. Naše setkání bylo mnohokrát přerušeno technickými potížemi.  Katoda neměla dobrý kontakt, protože žák měl ochlupené zápěstí.  Body se proto strašně třásly.
+
+\paragraph{První řádek}
+
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+B&r&a&i&l&l&s&&&&&\\
+\braillebox{1278}&\braillebox{1235}&\braillebox{1}&\braillebox{24}&\braillebox{123}&\braillebox{123}&\braillebox{234}&\braillebox{}&\braillebox{2358}&\braillebox{123}&\braillebox{}&\braillebox{}\\
+\hline
+\end{tabular}
+
+Konečně jsme začali číst.  Žák 4 během čtení nepojmenovával body.  Odhadl nejdřív, že první písmeno je `l'\braillebox{123}, a když jsem mu řekl, že není, opravil se, že je to `b'.
+
+Když pokračoval ve čtení, katoda stále neměla dobrý spoj.  Protože jsem věděl, že budou s katodou problémy, měl jsem ještě jednu (ve formě měděné samolepicí pásky) nalepenou na zobrazovači. Snažil jsem se žákovi vysvětlit, že stroj bude fungovat lépe, když bude v kontaktu s druhou katodou.
+
+Přečetl `r' správně a stroj zase začal bláznit.  Vysvětlil jsem mu problém s kontaktem s katodou a poprosil ho, aby držel katodu v ruce.  Pak četl další dvě písmena správně a poté stroj zase nefungoval.
+
+Po pár pokusech resetování stroje už fungoval až do konce setkání. Žák četl znovu od začátku prvního řádku a četl první tři písmena správně. Přeskočil jedno písmeno na selektoru a já mu řekl, ať se vrátí zpět.  Četl `i'\braillebox{24} jako `c'\braillebox{14}. Když jsem mu řekl, že četl nesprávně, používal stejný způsob uvažování, který žákyně 3 používala po celou dobu - říkal nahlas, které body jsou zvýšené: \uv{To je bod jedna čtyři}. \uv{Není to bod jedna,} odpověděl jsem. Potom už se opravil správně sám.
+
+Na rozdíl od žákyně 3 pochopil hned, že čte česká slova.  Když viděl, že další písmeno je `l', vyslovil \uv{Brail}. Četl ještě `l' a `s' správně a doplnil \uv{Braills}.
+
+Než abych mu vysvětloval, jaké znaky používá Orca k označení konce řádku, jednoduše jsem mu řekl, ať se vrátí na začátek textu. Zpětně si myslím, že to byla chyba.
+
+\paragraph{Druhý řádek}
+
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+k&ý& &ř&á&d&e&k&,& &k&t\\
+\braillebox{1378}&\braillebox{12346}&\braillebox{}&\braillebox{2456}&\braillebox{16}&\braillebox{145}&\braillebox{15}&\braillebox{13}&\braillebox{2}&\braillebox{}&\braillebox{13}&\braillebox{2345}\\
+\hline
+\end{tabular}
+
+Když začal číst druhý řádek a dostal se k `s' a `ý', doplnil, že dočetl \uv{Braillský} a pak domýšlel, co se zobrazí dál (`ř'), aniž by přesouval ruku na selektoru.  Upozornil jsem ho, že stále zobrazuje `ý'.  Přesunul ruku na selektoru až k `ř' a řekl: \uv{Aha, tak tohle je opravdu `ř'}.  Přečetl slovo \uv{řádek} téměř plynule, kromě toho, že měl problém s přesunem na selektoru.
+
+\paragraph{Třetí řádek}
+
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+e&r&ý& &t&e&ď& &p&o&u&ž\\
+\braillebox{1578}&\braillebox{1235}&\braillebox{12346}&\braillebox{}&\braillebox{2345}&\braillebox{15}&\braillebox{1456}&\braillebox{}&\braillebox{1234}&\braillebox{135}&\braillebox{136}&\braillebox{2346}\\
+\hline
+\end{tabular}
+
+Vrátil se k začátku selektoru bez pomoci, ale první písmeno `e' četl jako `á'\braillebox{16}. Označil body jako jedna a šest a já ho upozornil, že šestý bod není nahoře.  Nahmatal prstem díry na zobrazovači a počítal, který bod skutečně nahoře je.  Pak se opravil sám.
+
+Kdy četl další slovo \uv{teď}, četl `t' správně ale zase původně četl `e' jako `á'.  Měl taky problém s písmenem `ď'\braillebox{1456}, který původně četl jako `č'\braillebox{146}.  Neříkal nahlas ani \uv{který} ani \uv{teď} po jejich čtení.  Četl `p' správně, měl trochu problém s posunem na selektor ale sám našel `o'.  Myslel si, že je u konce řádku.  Říkal jsem mu, že není. Přečetl `u' a pak už opravdu věřil, že je u konce řádku. Říkal jsem mu, že mu zbývá ještě jedno písmeno.  Snažil se pokračovat. Písmeno na zobrazovače začal vibrovat chaotickým způsobem. Říkal jsem mu, že musím zkusit jestli stroj teď funguje správně. Zkoušel jsem stroj a fungoval. Říkal jsem mu ať pokračuje. Četl `ž' jako `t'. Říkal jsem, že to není správní. Opravil se sám.
+
+Dokončili jsme u toho setkání.
+
+Kdy jsme dokončili setkání ještě jsme mluví o FCHADech.  Nabídl další spolupráce a říkal, že \uv{kdyby to bylo opravdu levná alternativa, tak by to bylo opravdu super}. Říkal mně, že \uv{by to bylo lepší kdyby ty body byly blíž k sobě}.
+
+

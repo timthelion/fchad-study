@@ -1,0 +1,140 @@
+\subsubsection{Žák 3}
+
+Setkání 6.3.2013
+
+Žák 3 je vysokoškolsky vzdělaná žena ve věku mezi 45 a 50 lety. Braillovo písmo čte od začátku školní docházky.  Pracuje jako vysokoškolská vyučující němčiny.  Je úplně nevidomá.
+
+Navštívil jsem ji během jejích konzultačních hodin odpoledne brzy po obědě.  Výzkum byl zpožděn tím, že jsme museli hledat prodlužovací kabel, neboť blízko pracovního stolu neměla zásuvku.  Zdála se mi čilá a zdravá.
+
+Než jsem nástroj nastavil, nedotýkala se ho. Během našeho setkání došlo k technickým problémům. Senzory někdy \uv{cítily} dotyky, ke kterým ve skutečnosti nedošlo.  Přestože FCHAD moc dobře nefungoval, žákyně byla schopná na něm číst.
+
+Začali jsme s tištěným návodem:
+
+Četla tištěný text oběma rukama.
+
+Čas čtení tištěného textu: 93.3 vteřin (údaj naměřený zpětně ručně pomocí nahrávek)
+
+Počet znaků: 407
+
+Rychlost čtení tištěného Braillova písma: 4.36 CPS (počet znaků za sekundu)
+
+Čas čtení tištěného textu po otočení listu: 51.8 vteřin
+
+Počet znaků: 265
+
+Rychlost čtení: 5.11 CPS
+
+Žákyně zřejmě není zvyklá číst tištěné Braillovo písmo.  Není divu, když má doma braillský řádek.  V tištěném Braillově písmu je řada velkých písmen označena speciálním znakem \braillebox{23} tak, že \uv{FCHAD} je psáno jako \braillebox{23}\braillebox{124}\braillebox{14}\braillebox{125}\braillebox{1}\braillebox{145}. Žákyně 3 znak označující řadu velkých písmen nevnímala.  Začala ji číst po jednotlivých písmenech a pak řekla \uv{To budou asi čísla} a četla je jako čísla.  Když se dostala na konec stránky, vypadala překvapeně.
+
+Kdy začala číst na FCHADu, katoda nebyla v dobrém kontaktu s rukou.  Musel jsem to upravit.  Četla správně, ale pomalu. Svírala tyčky prsty, aby cítila každou zvlášť.  To je sice dobrý způsob, jak bezpečně rozpoznat písmeno, ale velmi zdlouhavý. Snažil jsem se ji naučit používat zobrazovač správně.  Když jsem jí říkal, že by měla položit ruku rovně, a nastavil ji tak, namítla: \uv{Já nevím, jak ta ruka jen tak leží, mně to nevyhovuje, já si musím na ty body zvyknout a osahat si je trochu jinak.} %10:02.6
+
+Ruku na selektoru měla příliš daleko od sebe. Místo toho, aby se dotýkala napínáčků, pokládala prsty na dráty, které z nich vedou.  Okraje napínáčků necítila správně a proto velmi těžko odhadovala vzdálenost potřebnou k posunu mezi písmeny.  Nepochopila hned, že anody jsou dotykové a že silnější zmáčknutí na ně nemá vliv.  To je ale pochopitelné, protože často nefungovaly. Snad by stroji porozuměla lépe, kdybych mluvil lépe česky.  Opakovaně jsem dělal chyby, například jsem pletl slova \uv{písmo} a \uv{písmeno}.
+
+Občas udělala tu chybu, že při čtení písmene ze zobrazovače nahmatala jenom první sloupec bodů. Například když bylo zobrazené \braillebox{24} myslela, že se zobrazuje jenom \braillebox{2}.
+
+Protože anody jsou dotykové, stačí, aby se okraj prstů dotýkal napínáčku, a stroj už registruje dotyk.  Pokud se člověk současně dotýká více napínáčků, zobrazuje se písmeno toho nejvíce vlevo.  Žákyni dělalo velké potíže to, že si myslela, že už posunula ruku na selektoru dostatečně a že by se mělo zobrazit další písmeno, její prst však stále zůstával v kontaktu s předcházejícím napínáčkem a zobrazené písmeno se tedy nezměnilo.
+
+\paragraph{ První řádek:}
+
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+B&r&a&i&l&l&s&&&&&\\
+\braillebox{1278}&\braillebox{1235}&\braillebox{1}&\braillebox{24}&\braillebox{123}&\braillebox{123}&\braillebox{234}&\braillebox{}&\braillebox{2358}&\braillebox{123}&\braillebox{}&\braillebox{}\\
+\hline
+\end{tabular}
+
+První řádek textu, který žáci na FCHADu četli, byl kratší než selektor.  To byla určitě chyba na mojí straně.  Orca na konci řádku zobrazuje znaky \braillebox{2358}\braillebox{123}.  To znamená, že žáci dočetli \uv{Braills} a pak najednou byli konfrontováni se dvěma znaky, které nepoznali.  Řekl jsem jim, ať si jich nevšímají a pokračují na dalším řádku.
+
+FCHAD, který byl použitý ve studii, nemá žádná navigační tlačítka.  Aby žáci mohli pokračovat na dalším řádku, stačilo přesunout ruku na začátek selektoru a pokračovat. Změnu řádku jsem ovládal sám, často bez jejich vědomí.
+
+\paragraph{Druhý řádek:}
+
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+k&ý& &ř&á&d&e&k&,& &k&t\\
+\braillebox{1378}&\braillebox{12346}&\braillebox{}&\braillebox{2456}&\braillebox{16}&\braillebox{145}&\braillebox{15}&\braillebox{13}&\braillebox{2}&\braillebox{}&\braillebox{13}&\braillebox{2345}\\
+\hline
+\end{tabular}
+
+
+Další nezvyklost Orcy spočívá v tom, že podtrhává začátky řádků. Například `k' je na začátku řádku psáno jako \braillebox{1378} místo \braillebox{13}.  Do jisté míry to žáky mátlo.
+
+Dalším problémem pro žákyni 3 bylo čtení `ý' \braillebox{12346}. Nesevřela bod 6 a proto písmeno četla jako `p' \braillebox{1234}.  Když jsem jí říkal, že čte špatně a že jí chybí ještě jeden bod, našla ho, ale zase nesprávně odhadovala, že se jedná o písmeno `q' \braillebox{12345}, rychle se však sama opravila.
+
+Když dorazila k mezeře, \braillebox{} říkala \uv{Tady nemám nic}. Nebylo mi jasné, zda to pochopila jako mezeru, a tak jsem jí to vysvětlil.
+
+Věděla, že jsem Američan.  Když narazila na \braillebox{1235}, myslela, že je to `w' - jako podle anglické Braillovy abecedy - a ne `ř' jako podle české.  Snad si neuvědomila, že text zobrazený na FCHADu je český.
+
+Když dorazila k `á'\braillebox{16}, nahlas přemýšlela: \uv{To je první a šestý bod, to je a s čárkou}.  To znamená, že nebyla schopna pochopit význam přímo z tvarů znaků, ale musela o nich explicitně přemýšlet.  Také to znamená, že přemýšlení o číslech bodů jí pomohlo rozpoznat znak, v explicitní paměti tedy měla k dispozici informace o tom, které body má `á'.
+
+Tímto způsobem pokračovala - hlásila nejprve čísla bodů a teprve potom, o které písmeno se jedná.
+
+Když se dostala k čárce (`,')\braillebox{2}, správně poznala, který bod je nahoře, ale nedovedla říct, který znak to je, i když čárka je v Braillově písmu úplně obyčejný a standardní znak.  Když jsem jí vysvětlil, že to je čárka, ihned pochopila.
+
+\paragraph{Třetí řádek}
+
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+e&r&ý& &t&e&ď& &p&o&u&ž\\
+\braillebox{1578}&\braillebox{1235}&\braillebox{12346}&\braillebox{}&\braillebox{2345}&\braillebox{15}&\braillebox{1456}&\braillebox{}&\braillebox{1234}&\braillebox{135}&\braillebox{136}&\braillebox{2346}\\
+\hline
+\end{tabular}
+
+Když se po druhém řádku chtěla vrátit na začátek selektoru, vrátila se jen asi tak do poloviny.  Byl jsem tím překvapen, protože selektor má jasně citelný okraj a předpokládal jsem, že žákyně se bude řídit podle citu a ne odhadem.  Je možné, že se nechtěla dotýkat senzorů, když zrovna nečetla. Jinak nevidím důvod, proč by po selektoru nepřejela prstem na začátek.
+
+Na třetím řádku četla `e' tak, že pojmenovala nahlas čísla bodů, ale když se dostala k `r', stroj se začal střídavě vypínat a zapínat, protože její prst neměl dobrý kontakt se senzorem.  Ona však rozpoznala `r' i bez toho, aby hledala body.  Z toho usuzuji, že vibrace stroje jí spíše pomohla než zmátla.
+
+Je to zajímavé z pedagogického hlediska, protože já sám jsem se lekl, že stroj nefunguje, a snažil se jí vysvětlit, že prst není správně položen na senzoru, a to způsobuje vibraci.  Měl jsem ji nechat číst, protože četla správně.
+
+Když podruhé narazila na `ý', udělala stejnou chybu jako poprvé.
+
+Třetí `e' (ve slově \uv{teď}) už četla bez toho, že by nahlas říkala čísla bodů.  Znamená to, že při třetím opakování už vidíme autonomizaci konkrétní schopnosti?
+
+Když četla `ď'\braillebox{1456}, zmínila, že ho používá jako lomítko (normálně \braillebox{12456}).  Uznala, že ve standardním Braillově písmu to je `ď'.
+
+\paragraph{Čtvrtý řádek}
+
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+í&v&á&t&e&,& &n&e&n&í& \\
+\braillebox{3478}&\braillebox{1236}&\braillebox{16}&\braillebox{2345}&\braillebox{15}&\braillebox{2}&\braillebox{}&\braillebox{1345}&\braillebox{15}&\braillebox{2345}&\braillebox{34}&\braillebox{}\\
+\hline
+\end{tabular}
+
+Když se vracela na začátek selektoru ke čtvrtému řádku, prohlásila, že se v tom stále neorientuje.  Zase se nevrátila dostatečně, ale tentokrát jsem ji neopravil.
+
+I když předtím četla `e' bez problému, zase zapomněla sevřít body na druhém řádku a `e'\braillebox{15} četla jako `a'\braillebox{1}.
+
+Když pokračovala, ruku na selektoru posunula příliš daleko (až na `n'). Dal jsem jí za úkol vrátit se a hledat `t'.  Písmena, která už četla dříve, nyní četla bez počítání bodů a rychle.
+
+Když se znovu dostala k prvnímu `n'\braillebox{1345} na řádku, nejdříve ho odhadla jako `d'\braillebox{145}. `e' četla správně, ale když se dostala na následující `n', četla ho jako `m'\braillebox{134}.
+
+U předposledního písmena řádku, `í', si myslela, že už je poslední.  To proto, že střed jejího prstu byl na posledním napínáčku, ale okrajem prstu se ještě dotýkala předposledního.
+
+Je už obecně známo, že lidé se ve skutečnosti dotýkají jinde, než kde si myslí, že se dotýkají. Dotykové obrazovky používají speciální algoritmy, aby odhadly, kde se uživatel chtěl dotýkat. Bez takové "opravy" by dotyková technologie byla pro lidi nepřirozená. Psychologie dotyku je aktuální téma bádaní.
+
+Stávající algoritmy byly vyvinuty na základě pozorování zrakových vjemů. Člověk se obrazovky vždy dotýký po větší ploše, ale počítač reaguje, jako by se jednalo o jediný bod.  Počítač musí odhadnout, kterého bodu se uživatel chtěl dotknout\citep{holz2011understanding}. Rozlišení selektoru FCHADu je oproti rozlišení dotykové obrazovky velmi malé.  FCHAD neví, jestli je prst v plném kontaktu se senzorem, nebo se dotýká jen okraje.  A co je snad ještě důležitější, psychologie dotyku se u nevidomých samozřejmě zakládá na hmatu, ne na zraku. Stávající algoritmy tedy není možné na FCHAD aplikovat.
+
+\paragraph{Pátý řádek}
+
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+p&r&v&n&í& &ř&á&d&e&k&,\\
+\braillebox{123478}&\braillebox{1235}&\braillebox{1236}&\braillebox{1345}&\braillebox{34}&\braillebox{}&\braillebox{1235}&\braillebox{16}&\braillebox{145}&\braillebox{15}&\braillebox{13}&\braillebox{2}\\
+\hline
+\end{tabular}
+
+Na pátém řádku si žákyně myslela, že `v'\braillebox{1236} je `r'\braillebox{1235}, protože si zaměnila šestý bod za pátý.
+
+Stále neuměla posouvat ruku na selektoru. Posunula ji při čtení příliš daleko doprava, takže přeskočila několik písmem naráz.
+
+Během čtení pátého řádku přestal stroj fungovat a musel jsem restartovat ovládací software.  Žákyně byla extrémně trpělivá, za což jsem jí velice vděčný.
+
+Když jsem stroj opravil, žákyně začala číst pátý řádek zase od začátku. Opakovanou část řádku přečetla rychle a v rychlém čtení pokračovala, až dorazila ke slovu \uv{řádek}.  Začátek slova přečetla správně, ale `e'\braillebox{15} četla jako `á'\braillebox{16}.
+
+Po pátém řádku jsme setkání ukončili. Žákyně se ještě chtěla podělit o své dojmy.  O FCHADu řekla:
+
+%330
+\em \uv{Jistě víte sám, že ten běžný řádek je určitě komfortnější, ale určitě než nemít žádný řádek je lepší tenhle. Já si myslím, že na to zobrazování písmen bych si zvykla. Asi by bylo dobré, kdyby si každý uživatel mohl vybrat velikost. Například vy to tady máte rozděleno tou látkou, ale třeba já osobně bych chtěla mít ty dva sloupce bodů naopak blíž. Protože já mám tu ruku menší a užší. Za svou osobu, hlavní problém je v tom posunu, protože tam ty aktivní body se mi zatím velice špatně hledají. Za svojí osobu bych jako velikou překážku užívání viděla především hledání těch písmena} \em
+
+

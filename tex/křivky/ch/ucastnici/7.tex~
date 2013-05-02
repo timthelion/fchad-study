@@ -1,0 +1,219 @@
+\subsubsection{Žák 7}
+Setkání 13:40 20.3.2013
+
+Žák 7 je ve věku mezi 20 a 25 lety.  Braillovo písmo čte od začátku školní docházky.  Jeho nejvyšší dosažené vzdělání je základní škola.  Je úplně nevidomý.
+
+Četl tištěný text oběma rukama.
+
+% začátek 85.2 otočení 106.7 konec 134.6
+
+Čas čtení tištěného textu: 49.4 vteřin
+
+CPS: 8.24
+
+Čas čtení tištěného textu po otočení listu: 27.9 vteřin
+
+CPS: 9.5
+
+Ukazovák pravé ruky jsem žákovi namočil, aby lépe fungovaly senzory. Ukázal jsem mu selektor a pak zobrazovač stručně a bez delšího popsání.
+
+\paragraph{První řádek}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+B&r&a&i&l&l&s&&&&&\\
+\braillebox{1278}&\braillebox{1235}&\braillebox{1}&\braillebox{24}&\braillebox{123}&\braillebox{123}&\braillebox{234}&\braillebox{}&\braillebox{2358}&\braillebox{123}&\braillebox{}&\braillebox{}\\
+\hline
+\end{tabular}
+
+Řekl jsem žákovi, ať čte první \uv{písmo} a on namítl, že tam nic není.  Upozornil jsem ho, že musí mít ruku na selektoru. Položil ji na něj, ale ne na první senzor, jen náhodně.  Hádal `a', ale já jsem ho zastavil a vyzval, ať začne na prvním písmenu.  Nejdřív hádal `ě'\braillebox{126}, ale napodruhé uhádl správně.
+
+Nehledal body, jen položil ruku na selektor a říkal, co si myslí.  Často odstranil ruku ze zobrazovače a pohyboval hlavou monotónním pohybem tak, aby tvář směřovala nahoru a doleva. Hlavou takto pohyboval skoro po každém písmenu, ale ne proto, že by byl rozptýlený - samostatně se vrátil ke čtení poté, co tento pohyb vykonal jednou až třikrát.
+
+Druhé písmeno odhadl nejdříve jako `h', ale napodruhé odhadl správně. `a' četl správně. `i' přečetl na druhý pokus (napoprvé hádal čárku, ale opravil se, ještě něž to dořekl). `l' četl správně, další `l' přeskočil. Myslím si, že změnu písmena odhadoval podle cvaknutí zobrazovače a protože mezi `l' a `l' se nic nezměnilo, k žádnému cvaknutí nedošlo.  Neopravil jsem ho.  `s' četl správně.  Řekl jsem mu, ať se vrátí na začátek selektoru, abychom četli další řádek.
+
+\paragraph{Druhý řádek}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+k&ý& &ř&á&d&e&k&,& &k&t\\
+\braillebox{1378}&\braillebox{12346}&\braillebox{}&\braillebox{2456}&\braillebox{16}&\braillebox{145}&\braillebox{15}&\braillebox{13}&\braillebox{2}&\braillebox{}&\braillebox{13}&\braillebox{2345}\\
+\hline
+\end{tabular}
+
+Druhý řádek četl bez chyb kromě toho, že se jednou vrátil na začátek selektoru.  Udělal jsem dost vážnou chybu:  Opravil jsem ho nesprávně kvůli své nedostatečné znalosti češtiny. Nerozuměl jsem mu, když `ř' četl jako `eř', a tvrdil mu, že četl nesprávně.  Nikdy nevyslovoval mezery nahlas (nevyžadoval jsem to).
+
+\paragraph{Třetí řádek}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+e&r&ý& &t&e&ď& &p&o&u&ž\\
+\braillebox{1578}&\braillebox{1235}&\braillebox{12346}&\braillebox{}&\braillebox{2345}&\braillebox{15}&\braillebox{1456}&\braillebox{}&\braillebox{1234}&\braillebox{135}&\braillebox{136}&\braillebox{2346}\\
+\hline
+\end{tabular}
+
+Druhé `e' četl jako `o'.  To proto, že body nespadnou samy. Samostatně to pochopil a opravil se.  Poté, co přečetl `p', přeskočil několik písmen a četl správně `ž'. Když začal číst znovu od `p', četl `o' nejdřív jako `k', ale opravil se ještě dřív, než jsem  mu řekl, že to není správně.  Zbytek četl správně.
+
+\paragraph{Čtvrtý řádek}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+í&v&á&t&e&,& &n&e&n&í& \\
+\braillebox{3478}&\braillebox{1236}&\braillebox{16}&\braillebox{2345}&\braillebox{15}&\braillebox{2}&\braillebox{}&\braillebox{1345}&\braillebox{15}&\braillebox{2345}&\braillebox{34}&\braillebox{}\\
+\hline
+\end{tabular}
+
+První dvě písmena četl správně. `á' četl jako `u'\braillebox{136}.  Bál jsem se, že jeho chyba může být zapříčiněna vadným spojením v zobrazovači, ale zjistil jsem, že není.  Když se vrátil na začátek řádku, `v' četl jako `u'. `á' četl zase jako `u', ale nakonec správně uhádl `á'.  `e' četl jako `o'. Připomněl jsem mu, že body nespadnou samy.  Zbytek řádku četl správně až na `n', které četl jako `d', ale opravil se jedním dechem.
+
+\paragraph{Pátý řádek}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+p&r&v&n&í& &ř&á&d&e&k&,\\
+\braillebox{123478}&\braillebox{1235}&\braillebox{1236}&\braillebox{1345}&\braillebox{34}&\braillebox{}&\braillebox{1235}&\braillebox{16}&\braillebox{145}&\braillebox{15}&\braillebox{13}&\braillebox{2}\\
+\hline
+\end{tabular}
+
+Slovo \uv{první} četl bez chyb.  Audionahrávka se zasekla a nevím tedy, jak četl zbytek řádku.
+
+\paragraph{Šestý řádek}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+ &k&t&e&r&ý& &z&o&b&r&a\\
+\braillebox{78}&\braillebox{13}&\braillebox{2345}&\braillebox{15}&\braillebox{1235}&\braillebox{12346}&\braillebox{}&\braillebox{1356}&\braillebox{135}&\braillebox{12}&\braillebox{1235}&\braillebox{1}\\
+\hline
+\end{tabular}
+
+První část četl správně. `z' si spletl s `ř'. Zbytek četl správně.
+
+Přesouval ruku na selektoru úplně samostatně a správně.
+
+\paragraph{Sedmý řádek}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+z&u&j&e& &j&e&n&o&m& &j\\
+\braillebox{135678}&\braillebox{136}&\braillebox{245}&\braillebox{15}&\braillebox{}&\braillebox{245}&\braillebox{15}&\braillebox{1345}&\braillebox{135}&\braillebox{134}&\braillebox{}&\braillebox{245}\\
+\hline
+\end{tabular}
+
+Četl správně.
+
+\paragraph{Osmý řádek}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+e&d&n&o& &p&í&s&m&e&n&o\\
+\braillebox{1578}&\braillebox{145}&\braillebox{1345}&\braillebox{135}&\braillebox{}&\braillebox{1234}&\braillebox{34}&\braillebox{234}&\braillebox{134}&\braillebox{15}&\braillebox{1345}&\braillebox{135}\\
+\hline
+\end{tabular}
+
+Četl správně až na `s', kvůli špatné kvalitě zvuku nevím přesně, co odhadl napoprvé.  `o' četl nejdřív jako  `a', ale opravil se jedním dechem.
+
+\paragraph{Devátý řádek}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+.& & &P&r&v&n&í& &b&y&l\\
+\braillebox{378}&\braillebox{}&\braillebox{}&\braillebox{12347}&\braillebox{1235}&\braillebox{1236}&\braillebox{1345}&\braillebox{34}&\braillebox{}&\braillebox{12}&\braillebox{13456}&\braillebox{123}\\
+\hline
+\end{tabular}
+
+Četl bez chyb.
+
+\paragraph{Desátý řádek}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+ &v&y&n&a&l&e&z&e&n& &v\\
+\braillebox{78}&\braillebox{1236}&\braillebox{13456}&\braillebox{1345}&\braillebox{1}&\braillebox{123}&\braillebox{15}&\braillebox{1356}&\braillebox{15}&\braillebox{1345}&\braillebox{}&\braillebox{1236}\\
+\hline
+\end{tabular}
+
+`v' četl nejdřív nesprávně, ale kvalita zvuku mi nedovolí říct jak.  Četl až na `e' správně, ale selektor začal špatně fungovat. Spravil jsem to a řekl mu, ať čte od začátku řádku.  Četl správně kromě prvního `e', které četl nejdřív jako `o', a mezery, kterou chvíli považoval za tečku.
+
+\paragraph{Jedenáctý řádek}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+ &r&o&c&e& &1&9&1&3& &v\\
+\braillebox{78}&\braillebox{1235}&\braillebox{135}&\braillebox{14}&\braillebox{15}&\braillebox{}&\braillebox{18}&\braillebox{248}&\braillebox{18}&\braillebox{148}&\braillebox{}&\braillebox{1236}\\
+\hline
+\end{tabular}
+
+`c' četl nejdřív jako `n'.  Číslici `1' četl nejdřív jako `a'. Vysvětlil jsem mu, že osmý bod signalizuje čísla.  Nevím, zda to pochopil, protože `9' nejdříve četl jako `i'.  Když jsem ho upozornil, že `i' je nesprávně, četl zbytek čísel správně.  `v' četl jako `l', ale hned to odvolal.  Pak hádal `r' a konečně správně `v'.
+
+\paragraph{Dvanáctý řádek}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+ &A&n&g&l&i&i&.& & &J&m\\
+\braillebox{78}&\braillebox{17}&\braillebox{1345}&\braillebox{1245}&\braillebox{123}&\braillebox{24}&\braillebox{24}&\braillebox{3}&\braillebox{}&\braillebox{}&\braillebox{2457}&\braillebox{134}\\
+\hline
+\end{tabular}
+
+Na začátku řádku jsem řešil problém se selektorem.  Musím poznamenat, že žák poznal, že selektor nefunguje, a čekal na mně. `i' četl nejdřív jako `e'.  Vím, že už dobře rozuměl selektoru, protože poznal, že jsou v textu dvě `i' a dvě mezery po tečce.  Zbytek řádku četl správně.
+
+\paragraph{Řádek 13}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+e&n&o&v&a&l& &s&e& &O&p\\
+\braillebox{1578}&\braillebox{1345}&\braillebox{135}&\braillebox{1236}&\braillebox{1}&\braillebox{123}&\braillebox{}&\braillebox{234}&\braillebox{15}&\braillebox{}&\braillebox{1357}&\braillebox{1234}\\
+\hline
+\end{tabular}
+
+`v' četl nejdřív jako `l', ale opravil se jedním dechem. Jinak četl správně.
+
+\paragraph{Řádek 14}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+t&o&f&o&n& &a& &p&ř&e&v\\
+\braillebox{234578}&\braillebox{135}&\braillebox{124}&\braillebox{135}&\braillebox{1345}&\braillebox{}&\braillebox{1}&\braillebox{}&\braillebox{1234}&\braillebox{2456}&\braillebox{15}&\braillebox{1236}\\
+\hline
+\end{tabular}
+
+Jednou jsem si myslel, že selektor nefunguje, protože nějak rychle cvakl zobrazovač. Ale když jsem ho vyzkoušel, zjistil jsem, že skutečně funguje správně.  Žák četl bez chyb.
+
+\paragraph{Řádek 15}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+á&d&ě&l& &s&v&ě&t&l&o& \\
+\braillebox{1678}&\braillebox{145}&\braillebox{126}&\braillebox{123}&\braillebox{}&\braillebox{234}&\braillebox{1236}&\braillebox{126}&\braillebox{2345}&\braillebox{123}&\braillebox{135}&\braillebox{}\\
+\hline
+\end{tabular}
+
+Četl bez chyb.
+
+\paragraph{Řádek 16}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+n&a& &z&v&u&k&.& & &K&d\\
+\braillebox{134578}&\braillebox{1}&\braillebox{}&\braillebox{1356}&\braillebox{1236}&\braillebox{136}&\braillebox{13}&\braillebox{3}&\braillebox{}&\braillebox{}&\braillebox{137}&\braillebox{145}\\
+\hline
+\end{tabular}
+
+Četl bez chyb a poznal, že `K' je velké.
+
+\paragraph{Řádek 17}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+y&ž& &č&t&e&n&á&ř& &p&o\\
+\braillebox{1345678}&\braillebox{2346}&\braillebox{}&\braillebox{146}&\braillebox{2345}&\braillebox{15}&\braillebox{1345}&\braillebox{16}&\braillebox{2456}&\braillebox{}&\braillebox{1234}&\braillebox{135}\\
+\hline
+\end{tabular}
+
+Četl správně až na `ř'. Navrhl jsem, že zkusíme nový způsob použití zobrazovače, a snažil jsem se žáka naučit, aby nechal ruku položenou na zobrazovači.  Během toho senzory přestaly reagovat a opět jsem musel resetovat stroj.
+
+Začal číst znovu od začátku řádku. Audionahrávka je opět velmi nekvalitní, ale je slyšet, jak žák místo `y' hádá `ď'\braillebox{1456}, ale současně dává najevo, že si není jistý.  Ruku už nechal na zobrazovači.  Také nesprávně četl `č', ale není rozumět jak. Zbytek četl správně.
+
+\paragraph{Řádek 18}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+h&y&b&o&v&a&l& &s&p&e&c\\
+\braillebox{12578}&\braillebox{13456}&\braillebox{12}&\braillebox{135}&\braillebox{1236}&\braillebox{1}&\braillebox{123}&\braillebox{}&\braillebox{234}&\braillebox{1234}&\braillebox{15}&\braillebox{14}\\
+\hline
+\end{tabular}
+
+`h' četl správně na druhý pokus, prvnímu odhadu není rozumět.  `y' četl jako `d', ale ihned si uvědomil svoji chybu a na druhý pokus se opravil. Zbytek četl správně.
+
+\paragraph{Řádek 19}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+i&á&l&n&í&m& &p&e&r&e&m\\
+\braillebox{2478}&\braillebox{16}&\braillebox{123}&\braillebox{1345}&\braillebox{34}&\braillebox{134}&\braillebox{}&\braillebox{1234}&\braillebox{15}&\braillebox{1235}&\braillebox{15}&\braillebox{134}\\
+\hline
+\end{tabular}
+
+Četl `i' nejdřív jako `s'.  Četl `á' nejdřív jako `e'. Četl druhý `e' nejdřív jako `o'. Četl `m' jako `p' ale upravil se stejným dechem.
+
+U toho jsem končil setkání.  Zeptal jsem se ho \uv{myslíte, že byste se naučil to používat lip s praxi?} on odpovídal \uv{ne, to je těžký, já mám na to notebook, psací stroj.} Zeptal jsem se \uv{a používáte braillský řádek?} On: \uv{Ne, hlasový vystup.}
+

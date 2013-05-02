@@ -1,0 +1,311 @@
+%%*************************************************************************
+%%
+%% Učení novou neznamou technologie.
+%% V0.0
+%% 2012/11/28
+%% Timothy Hobbs
+%% timothyhobbs@seznam.cz
+%%
+%%*************************************************************************
+%%
+%% Legal Notice:
+%%
+%% This code is offered as-is without any warranty either expressed or
+%% implied; without even the implied warranty of MERCHANTABILITY or
+%% FITNESS FOR A PARTICULAR PURPOSE! 
+%% User assumes all risk.
+%%
+%% This work by Timothy Hobbs is licensed under a
+%% Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
+%% http://creativecommons.org/licenses/by-nc-sa/3.0/
+%%
+%% Loriem ipsum was from
+%% https://github.com/pborky/documents/tree/master/DIP
+%% by Peter Boraros
+%%*************************************************************************
+\documentclass[a4paper,12pt,czech,cleardoublepage=empty]{scrreprt}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{textcomp}
+\usepackage[puttinydots,useemptybox,8dots]{braille}
+\usepackage[czech]{babel}%počeštění názvů (Obsah, Kapitola, Literatura atp.)
+%<------------------------------ headers ------------------------------------>
+\newcommand{\SubjectCs}{Bakalářská práce}
+\newcommand{\TitleCs}{Vývoj alternativy Braillského řádku a analýza procesu čtení textového výstupu s podporou nového nástroje}
+\newcommand{\TitleEn}{Development of an alternative Braille display and analysis of reading with the help of the display}
+\newcommand{\KeywordsEn}{Braille, Reading Speed, Novel experiences, User interface design}
+\newcommand{\KeywordsCs}{Braillovo písmo, rychlost čtení, nové zkušenosti}
+\newcommand{\AuthorName}{Timothy Vladimir Hobbs}
+\newcommand{\SupervisorName}{Ing. Karolina Duschinská, Ph.D.}
+\newcommand{\SupervisorEmail}{karolina.duschinska@pedf.cuni.cz}
+\newcommand{\IssuedIn}{Praha}
+\newcommand{\DepartmentEn}{Department of Pedagogy}
+\newcommand{\DepartmentCs}{Katedra pedagogiky}
+\newcommand{\Thanks}{Poděkování
+
+Chtěl bych poděkovat Samuelu Thibaultovi, který se podílel na návrhu nízkoúrovňového protokolu, Davidovi Mielkemu, který vyvinul ovladač pro braillské řádky na Linuxu, a členům brmlab.cz, kteří pomohli s technickou stránkou návrhu.  Dále Christopheru Olahovi, který vyvinul knihovnu ImplicitCad, kterou jsem použil při navrhování plastových dílů FCHADu, členům freenode sítě IRC, zejména členům kanálů \#\#c, \#arduino, a \#haskell pro jejich podporu při práci na softwarové stránce této studie.  Dále Knihovně a tiskárně pro nevidomé K.E. Macana, která mi poskytla bezplatnou tiskařskou službu, a Gymnáziu pro zrakově postižené a Střední odborné škole pro zrakově postižené v Praze, kde tento výzkum probíhal. Na závěr bych rád poděkoval vedoucí mé bakalářské práce, Ing. Karolině Duschinské, Ph.D., za její čas a cenné rady, a Denise Novotné za jazykovou korekturu.}
+
+%<------------------------------         ------------------------------------>
+
+%\usepackage{array}
+%\usepackage{longtable}
+%\usepackage{varioref}
+%\usepackage{wrapfig}
+%\usepackage{fancybox}
+%\usepackage{framed}
+\usepackage{url}
+%\usepackage{amssymb,amsmath}
+
+%\usepackage{graphicx}
+
+\usepackage{ifpdf}
+\ifpdf
+\usepackage[pdftex]{graphicx}
+\graphicspath{{./img/}}
+\DeclareGraphicsExtensions{.pdf}
+\else
+\usepackage[dvips]{graphicx}
+\graphicspath{{./img/}}
+\DeclareGraphicsExtensions{.eps}
+\fi
+
+\usepackage{caption}
+\usepackage{subcaption}
+
+
+\makeatletter
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% LyX specific LaTeX commands.
+%\providecommand{\LyX}{L\kern-.1667em\lower.25em\hbox{Y}\kern-.125emX\@}
+\newcommand{\lyxline}[1][1pt]{%
+  \par\noindent%
+  \rule[.5ex]{\linewidth}{#1}\par}
+\newcommand{\noun}[1]{\textsc{#1}}
+% Special footnote code from the package 'stblftnt.sty'
+% Author: Robin Fairbairns -- Last revised Dec 13 1996
+%\let\SF@@footnote\footnote
+%\def\footnote{\ifx\protect\@typeset@protect
+%    \expandafter\SF@@footnote
+%  \else
+%    \expandafter\SF@gobble@opt
+%  \fi
+%}
+%\expandafter\def\csname SF@gobble@opt \endcsname{\@ifnextchar[%]
+%  \SF@gobble@twobracket
+%  \@gobble
+%}
+%\edef\SF@gobble@opt{\noexpand\protect
+%  \expandafter\noexpand\csname SF@gobble@opt \endcsname}
+%\def\SF@gobble@twobracket[#1]#2{}
+%% Because html converters don't know tabularnewline
+%\providecommand{\tabularnewline}{\\}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Textclass specific LaTeX commands.
+%\newenvironment{lyxcode}
+%{\begin{list}{}{
+%\setlength{\rightmargin}{\leftmargin}
+%\setlength{\listparindent}{0pt}% needed for AMS classes
+%\raggedright
+%\setlength{\itemsep}{0pt}
+%\setlength{\parsep}{0pt}
+%\normalfont\ttfamily}%
+% \item[]}
+%{\end{list}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% User specified LaTeX commands.
+%<-------------------------------společná nastavení------------------------------>
+%\usepackage[]{hyperref} %odkazy v  pdf jsou klikací s barevnými rámečky
+%\usepackage[urlcolor=blue]{hyperref}
+%\usepackage[colorlinks=true,urlcolor=blue]{hyperref}
+\usepackage{natbib} %balíček pro citace literatury  
+%\usepackage{hypernat}%interakce mezi hyperref a natbib
+%\newcommand{\BibTeX}{{\sc Bib}\TeX}%BibTeX logo
+%\hypersetup{   % Nastavení polí PDF dokumentu 
+%pdftitle={\TitleCs},%
+%pdfauthor={\AuthorName},%
+%pdfsubject={\SubjectCs},%
+%pdfkeywords={\KeywordsCs}%
+%}
+\usepackage{multicol}
+\usepackage{setspace}
+
+%<-----------------------------volání stylů----------------------------------------->
+% (znak % je označení komentáře: co je za ním, není aktivní)
+%<------------------------------------písmo----------------------------------------->
+%\usepackage{packages/bc-latinmodern}
+\usepackage{packages/bc-times}
+%\usepackage{packages/bc-palatino}
+%\usepackage{packages/bc-iwona}
+%\usepackage{packages/bc-helvetika}
+
+
+%<------------------------------záhlaví stránek------------------------------------>
+%\usepackage{packages/bc-headings}
+%\usepackage{packages/bc-fancyhdr}
+
+%<------------------------------hlavičky kapitol------------------------------------>
+%\usepackage{packages/bc-neueskapitel}
+%\usepackage{packages/bc-fancychap}
+
+\makeatother
+
+\begin{document}
+~\thispagestyle{empty}\vfill{}
+%Tato stránka je tzv. protititul a je graficky součástí titulní stránky.
+%Nechte ji prázdnou, nebo na ni umístěte vhodnou fotografii či ilustraci.
+
+%\csprimeson             % `` '' se budou sazet jako ceske
+\begin{center}
+\vspace{10mm}
+\textsf{\textsc{\noun{\LARGE Universita Karlova v Praze}}}\\
+\vspace{0.5em}
+\textsf{\textsc{\noun{\LARGE Pedagogická Fakulta}}}\\
+\vspace*{1em}
+\textsf{\textsc{\noun{\Large \DepartmentCs}}}\vspace{15mm}
+\vspace{30mm}
+
+\textsf{\textsc{\noun{\huge \SubjectCs}}}{\huge \par}
+
+\vspace{15mm}
+
+
+\vspace{10mm}
+
+\textsf{\textsc{\noun{\Large \AuthorName}}}
+
+\end{center}
+
+\vspace*{\fill}
+
+
+\vspace{10mm}
+
+\textsf{\large \IssuedIn, \the\year}
+
+
+\clearpage{}~\thispagestyle{empty}\begin{center}\pagenumbering{roman}\vspace{10mm}
+
+
+\textsf{\textsc{\noun{\LARGE Universita Karlova v Praze}}}\\
+\vspace{0.5em}
+\textsf{\textsc{\noun{\LARGE Pedagogická Fakulta}}}\\
+\vspace*{1em}
+\textsf{\textsc{\noun{\Large \DepartmentCs}}}\vspace{15mm}
+
+
+%\includegraphics[width=0.3\textwidth]{uk}
+\vspace{15mm}
+
+\textsf{\textsc{\noun{\huge \SubjectCs}}}{\huge \par}
+
+\vspace{15mm}
+
+
+\textsf{\textsc{\noun{\LARGE \TitleCs}}}{\LARGE \par}
+
+
+\vspace{10mm}
+
+
+\end{center} 
+
+\vspace*{\fill}
+
+
+\vspace{10mm}
+
+
+\begin{description}
+\item [{{\large Autor:}}] \noindent \textsf{\large \AuthorName}{\large \par}
+\item [{{\large Vedoucí}}] \noindent \textsf{\large \SupervisorName}%
+{\large \hfill{}}\textsf{\large \IssuedIn, \the\year}{\large{}
+}{\large \par}
+\end{description}
+
+\clearpage{}~\thispagestyle{empty}
+
+{\small %\setcounter{page}{3} % nastavení číslování stránek
+\ }{\small \par}
+
+\noindent {\small \vfill{}
+ % nastavuje dynamické umístění následujícího textu do spodní části stránky
+~}{\small \par}
+
+\noindent {\small Prohlašuji, že jsem svou diplomovou práci napsal(a)
+samostatně a výhradně s použitím citovaných pramenů. Souhlasím se
+zapůjčováním práce a jejím zveřejňováním. Reprodukce pod licence Creative Commons Zero je povolený. }{\small \par}
+
+{\small \bigskip{}
+}\noindent {\small{} V Praze dne \today\hspace{\fill} \AuthorName}\\
+{\small{} % doplňte patřičné datum, jméno a příjmení
+}{\small \par}
+
+{\small %%%   Výtisk pak na tomto míste nezapomeňte PODEPSAT!
+%%%                                         *********
+}{\small \par}
+
+
+\clearpage{}~\thispagestyle{empty}
+
+~\thispagestyle{empty}{\small ~\vfill{}
+}{\small \par}
+
+\noindent {\small \Thanks \newpage{}}{\small \par}
+
+\clearpage{}
+
+{\small \thispagestyle{plain}}{\small \par}
+
+\noindent {\small ~\vfill{}
+}{\small \par}
+
+\addcontentsline{toc}{chapter}{Abstrakt}
+
+\begin{description}
+\item [{{\small Název~práce:}}] \noindent {\small \TitleCs}{\small \par}
+\item [{{\small Autor:}}] \noindent {\small \AuthorName}{\small \par}
+\item [{{\small Katedra~(ústav):}}] \noindent {\small \DepartmentCs}{\small \par}
+\item [{{\small Vedoucí~diplomové~práce:}}] \noindent {\small \SupervisorName}
+\item [{{\small e-mail~vedoucího:}}] \noindent {\small \SupervisorEmail}\\
+{\small \par}
+\item [{{\small Abstrakt}}] \noindent {\small \input{ch/00_abstract_cs} }{\small \par}
+\item [{{\small Klíčová~slova:}}] \noindent {\small \KeywordsCs}\\
+{\small \lyxline{\small}}{\small \par}
+\item [{{\small Title:}}] \noindent {\small \TitleEn}{\small \par}
+\item [{{\small Author:}}] \noindent {\small \AuthorName}{\small \par}
+\item [{{\small Department:}}] \noindent {\small \DepartmentEn}{\small \par}
+\item [{{\small Supervisor:}}] \noindent {\small \SupervisorName}{\small \par}
+\item [{{\small Supervisor's~e-mail~address:}}] \noindent {\small \SupervisorEmail}\\
+{\small \par}
+\item [{{\small Abstract}}] \noindent {\small \input{ch/00_abstract} }{\small \par}
+\item [{{\small Keywords:}}] \noindent {\small \KeywordsEn}{\small \par}
+\end{description}
+%\thispagestyle{empty}~{\small \addcontentsline{toc}{chapter}{Assignment of the Work} }{\small \par}
+
+
+\thispagestyle{empty}{\small \tableofcontents{}% vkládá automaticky generovaný obsah dokumentu
+\cleardoublepage{}}{\small \par}
+\pagenumbering{arabic}%start arabic pagination from 1 
+\onehalfspacing
+\include{ch/01_introduction}
+
+\include{ch/02_theories_of_learning}
+
+\include{ch/03_experiment}
+
+\include{ch/04_analysis}
+
+\include{ch/05_conclusion}
+\singlespacing
+\bibliographystyle{csplainnat}
+\bibliography{references}
+~\\
+~\\
+
+\addcontentsline{toc}{chapter}{Literatura}
+
+\clearpage{}
+
+\include{ch/99_appendices}
+
+\end{document}

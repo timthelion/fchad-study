@@ -1,0 +1,159 @@
+
+\chapter{Úvod}
+
+\section{Nevidomost ve světě a význam Braillova písma}
+
+Nevidomost je fenomén rozvojových zemí a starších lidí. Na světě žije 39 milionů nevidomých. Devadesát procent z nich bydlí v rozvojových zemích a 65\% je starších padesáti let \citep{whodata}.
+
+Gramotnost nevidomých je schopnost číst Braillovo písmo.  Nevidomí sami říkají, že čtou rukama.
+
+Ve vyspělých zemích gramotnost souvisí se zaměstnaností. Podle statistiky zveřejněné ve Spojených státech je 90\% gramotných nevidomých zaměstnáno oproti pouhým 30 procentům negramotných nevidomých.
+
+Pro Českou republiku ani rozvojový svět jsem podobná čísla nenašel.  Do jisté míry jsou statistiky zkreslené.  Ve Spojených státech gramotnost značně poklesá.  V roce 1960 se učilo číst rukama padesát procent nevidomých amerických žáků. Dnes je to jen dvanáct procent.  Selhání školského systému není jediným důvodem. Dříve mnoho lidí ztratilo zrak kvůli infekčním nemocem, což se dnes už téměř nestává. Dále už umíme léčit bílý zákal a ve vyspělých zemích neexistuje nevidomost jím způsobená.  Je tedy méně nevidomých, ale zato jsou více nemocní.  Vysoké procento nevidomých ve vyspělém světě trpí další poruchou, která je příčinou jejich negramotnosti.  Mnoho nevidomých se narodilo předčasně nebo mají perinatální poruchu  \citep{perkins,whozakal,whodata}.  Dva z mých sedmi nevidomých účastníků trpěli poruchou sluchu.
+
+Dalším důvodem nízké gramotnosti nevidomých je omezená dostupnost materiálů v Braillově písmu.  V Knihovně a tiskárně pro nevidomé K.E. Macana je 5693 titulů tištěných v Braillově písmu \citep{biblio}. V Městské knihovně v Praze je naproti tomu 387625 knih pro vidomé  \citep{mlp}.
+
+Typové složení nevidomosti v rozvojových zemích je výrazně jiné než ve vyspělém světě. Nevidomost ve světě je z osmdesáti procent léčitelná nebo se jí dokonce dalo vyhnout prevencí \citep{whodata}.  Celých 50\% nevidomosti je totiž způsobeno bílým zákalem \citep{whozakal}, který je relativně snadno a levně léčitelný: Chirurgický zákrok stojí např. v Indii mezi 1 000 a 1 700 USD \citep{cataractsindia}. Z toho vyplývá, že většina nevidomých ve světě je velmi chudá.
+
+\section{Co to je Braillovo písmo}
+
+Braillovo písmo je hmatová abeceda, kterou lze číst a psát bez zraku.
+
+Každé písmeno má dva sloupce zvýšených bodů. Podle toho, kolik bodů je zvýšených a kde jsou mezi nimi mezery, poznáme, které písmeno je napsáno.
+
+Braillovo písmo se liší v každé zemi.  V České republice používáme šestibodové písmo pro tisk a osmibodové písmo pro počítače.  V Německu je písmo osmibodové pro obě použití.
+
+Abychom mohli braillská písmena popsat, jednotlivé body jsou označeny čísly.
+
+
+\begin{table}[!hb]
+\centering
+\makebox[0pt][c]{\parbox{1\textwidth}{%
+\begin{minipage}[b]{0.3\hsize}\centering
+% putStrLn $ utf8ToBrailleBox "1⠁2⠂3⠄4⠈5⠐6⠠7⡀8⢀"
+\begin{tabular}{|c|c|}
+\hline
+1\braillebox{1       }&4\braillebox{   4    }\\
+2\braillebox{ 2      }&5\braillebox{    5   }\\
+3\braillebox{  3     }&6\braillebox{     6  }\\
+7\braillebox{      7 }&8\braillebox{       8}\\
+\hline
+\end{tabular}
+
+číselné označení bodů
+
+\end{minipage}
+\hfill
+\begin{minipage}[b]{0.68\hsize}\centering
+
+%%%%%%%%%%%
+
+
+% putStrLn $ utf8ToBrailleBox "a ⠁ b ⠃ c ⠉ d ⠙ e ⠑ f ⠋ g ⠛ h ⠓ i ⠊ j ⠚ k ⠅ l ⠇ m ⠍ n ⠝ o ⠕ p ⠏ q ⠟ r ⠗ s ⠎ t ⠞ u ⠥ v ⠧ x ⠭ y ⠽ z ⠵ ý ⠯ w ⠷ ž ⠮ ů ⠾ á ⠡ ě ⠣ č ⠩ ď ⠹ š ⠳ ň ⠫  ť ⠳ ó ⠪ ř ⠺ í ⠌ é ⠜ ú ⠬ "
+\begin{tabular}{|c|c|c|c|c|c|c|c|}
+\hline
+a \braillebox{1       }&b \braillebox{12      }&c \braillebox{1  4    }&d \braillebox{1  45   }&e \braillebox{1   5   }&f \braillebox{12 4    }&g \braillebox{12 45   }&h \braillebox{12  5   }\\
+\hline
+i \braillebox{ 2 4    }&j \braillebox{ 2 45   }&k \braillebox{1 3     }&l \braillebox{123     }&m \braillebox{1 34    }&n \braillebox{1 345   }&o \braillebox{1 3 5   }&p \braillebox{1234    }\\
+\hline
+q \braillebox{12345   }&r \braillebox{123 5   }&s \braillebox{ 234    }&t \braillebox{ 2345   }&u \braillebox{1 3  6  }&v \braillebox{123  6  }&x \braillebox{1 34 6  }&y \braillebox{1 3456  }\\
+\hline
+z \braillebox{1 3 56  }&ý \braillebox{1234 6  }&w \braillebox{123 56  }&ž \braillebox{ 234 6  }&ů \braillebox{ 23456  }&á \braillebox{1    6  }&ě \braillebox{12   6  }&č \braillebox{1  4 6  }\\
+\hline
+ď \braillebox{1  456  }&š \braillebox{12  56  }&ň \braillebox{12 4 6  }&ť \braillebox{12  56  }&ó \braillebox{ 2 4 6  }&ř \braillebox{ 2 456  }&í \braillebox{  34    }&é \braillebox{  345   }\\
+\hline
+ú \braillebox{  34 6  }\\
+\hline
+\end{tabular}
+% -- https://github.com/timthelion/utf8-to-braillebo://github.com/timthelion/utf8-to-braillebox
+
+česká Braillova abeceda
+
+\end{minipage}%
+}}
+\end{table}
+
+
+V Braillově abecedě neexistují velká písmena ani čísla. V šestibodovém Braillově písmu se musí použít sekvence znaků. Velká písmena se značí tak, že se před dané písmeno umístí samotný šestý bod. Velké A je tedy psáno jako
+% putStrLn $ utf8ToBrailleBox "⠠⠁"
+\braillebox{     6  }\braillebox{1       }
+%%%%
+. Čísla jsou značena tak, že se před jedno z prvních deseti písmen abecedy umístí speciální znak podobný obrácenému L latinské abecedy
+% putStrLn $ utf8ToBrailleBox "⠼"
+\braillebox{  3456  }
+%%%%
+Čísla v šestibodovém Braillově písmu tedy vypadají takto:
+
+% putStrLn $ utf8ToBrailleBox "1⠼⠁2⠼⠃3⠼⠉4⠼⠙5⠼⠑6⠼⠋7⠼⠛8⠼⠓9⠼⠊0⠼⠚"
+1\braillebox{  3456  }\braillebox{1       }
+2\braillebox{  3456  }\braillebox{12      }
+3\braillebox{  3456  }\braillebox{1  4    }
+4\braillebox{  3456  }\braillebox{145    }
+5\braillebox{  3456  }\braillebox{1   5   }
+6\braillebox{  3456  }\braillebox{12 4    }
+7\braillebox{  3456  }\braillebox{12 45   }
+8\braillebox{  3456  }\braillebox{12  5   }
+9\braillebox{  3456  }\braillebox{ 2 4    }
+0\braillebox{  3456  }\braillebox{ 2 45   }
+%%%%
+
+Osmibodové Braillovo písmo má díky dalším dvěma bodům větší možnosti a není tedy nutné používat sekvence více znaků. K označení velkého písmene stačí současně použít sedmý bod. Velké A je tedy
+% putStrLn $ utf8ToBrailleBox "⡁"
+\braillebox{1     7 }
+%%%%
+. K označení čísel se používá osmý bod. 1 je tedy
+% putStrLn $ utf8ToBrailleBox "⢁"
+\braillebox{1      8}
+%%%%
+. Pro osmibodové Braillovo písmo neexistuje žádný standard \citep{6dotbraille}.  Protože se používá především na počítači, uživatelé si mohou nastavit vlastní kódování.
+
+Existuje Braillovo kódování pro hudební noty i matematické rovnice.
+
+\section{Jak funguje braillský řádek a jak funguje FCHAD}
+
+\subsection{Braillský řádek}
+
+Braillovo písmo se uplatní přdevším při práci na počítači.  Mnoho nevidomých používá hlasový výstup, aby však mohli pochopit a upravit složitě formátované texty, potřebují braillský řádek.
+
+Braillský řádek je elektromechanické zařízení, které zobrazuje jeden řádek braillského textu.  Běžný braillský řádek zobrazí 40 až 80 znaků a stojí dva až osm tisíc USD.  S vyšším počtem znaků cena obvykle stoupá a naopak.  Braillský řádek, který zobrazí jen 12 znaků, stojí jen tisíc dolarů \citep{perkinsdisplays}.
+
+Dnešní braillské řádky používají piezoelektrickou technologii.  Piezoelektrické krystaly jsou krystaly, jejichž velikost se změní, když jimi projde elektrický proud. Piezoelektrické řádky mají 16 dlouhých krystalů v každém znaku.  Samotné krystaly jsou dost drahé a to se odráží v ceně braillského řádku. To není jediný problém.  Ještě vyšší než cena samotného řádku je cena údržby.  Prach, který vnikne do malého otvoru v řádku, může poškodit piezoelektrický mechanismus.  Člověk, který koupí řádek od americké neziskové společnosti Perkins, má také možnost uzavřít smlouvu o údržbě. Ta však ročně stojí mezi 300 a 500 dolarů USD \citep{perkinsdisplays}.
+
+\subsection{FCHAD}
+
+Už několik let pracuji na novém vynálezu, který jsem pojmenoval FCHAD. FCHAD je jednodušší varianta braillského řádku, která je odolnější a levnější.  Součástky použité při výrobě exempláře, s nímž jsem pracoval při této studii, celkem stály méně než sto dolarů.
+
+FCHAD řádek je jednoznačně horší než peizoelektrický řádek.  Čte se na něm pomaleji a je nutné používat obě ruce.  Jeho hlavní předností je velmi nízká cena.
+
+V apendixu 2 najdete fotografie dvou verzí FCHADu, které byly použity během studie.
+
+FCHAD je zkratka pro \uv{Fast Character Display} tj. rychlý zobrazovač písmen.  FCHAD zobrazuje text po jednom písmenu. To však neznamená, že s ním nelze přečíst delší texty.  Jeho součástí je tzv. selektor, kterým se vybírá písmeno k zobrazení. Obrázek 1 B a C jsou dva různé selektory.  I počítačovou myš lze použít jako selektor.
+
+To, že by bylo levné vyrobit přístroje zobrazující text po jednom písmenu, už napadlo více lidí ale v literatuře neexistuje pro tento druh řádek název. V této studie pojmenuji všechní jednopísmenové řádky FCHAD.  Existuje tedy mnoho přístrojů typu FCHAD, ale žádné z nich nejsou na trhu.  Informace o některých z nich jsou k dispozici v angličtině na mých webových stránkách. Odkaz je uveden v závěru práce.
+
+\section{Význam pedagogiky v oblasti zařízení pro nevidomé}
+
+Sám nevím, proč tolik FCHADů bylo navrženo, aniž by se dostaly na trh.  Když jsem se zeptal několika lidí, kteří s Braillským písmem pracovali, na jejich názor, často jsem dostal cynickou odpověď, že je výnosnější vyrobit drahý piezo než něco levného.
+
+Mnoho vynálezců pracuje v rámci akademie. Sami nemají možnost založit firmu. Třeba vynalezli nástroje, ale nenašli nikoho, kdo by je chtěl vyrábět. K uvedení nového vynálezu na trh je třeba hodně trpělivosti. Sám na svém vynálezu pracuji již více než rok a ještě nejsem ani v polovině cesty.
+
+Velázquez, který píše o přenosných pomůckách pro nevidomé, má jiný názor na to, proč se tolik zařízení ztratí na cestě.  V závěru vlastní studie píše:
+\em
+\uv{Přes úsilí badatelů a širokou nabídku dostupných technologií je zájem nevidomých nízký. Audioknihy, braillské řádky, bílá hůl a vodicí pes jsou i nadále jejich nejoblíbenějšími pomůckami.
+
+Jakákoli jiná pomůcka je pro nevidomé velká výzva, přičemž kombinace motivace, spolupráce, optimismu a ochoty/schopnosti učit se novým věcem není samozřejmost.}\em  \citep[str. 15, přeložený z angičtiny]{velazquez2010wearable}%Despite efforts and the great variety of wearable assistive devices available, user acceptance is quite low. Audio books and Braille displays (for those who can read Braille) and the white cane and guide dog will continue to be the most popular reading/travel assistive devices for the blind.
+% Acceptance of any other portable or wearable assistive device is always a challenge in blind population. Motivation, cooperation, optimism, willingness/ability to learn or adapt new skills is not a combination that can be taken for granted.
+
+Neochotu nevidomých lidí znám z vlastní zkušenosti. První nevidomý člověk, kterému jsem ukazoval svůj nástroj, sice vůbec nepochopil, jak funguje, ale i tak si byl jistý, že není dobrý. Většina nevidomých naštěstí ochotná se učit je.
+
+Velké procento nových technologií musí čekat, až si na ně lidé zvyknou, než mohou být použité.  Například moje matka stále hledá cestu na papírové mapě, ačkoli by ji na internetu našla několikrát rychleji.  Ještě nedávno hledala kontakty v telefonním seznamu a po telefonu zjišťovala informace, které lze jednoduše najít na internetu.  Technologický vývoj není zpomalován omezenou schopností lidstva vyvíjet nové technologie, ale neochotou či neschopností naučit se je používat.  Pedagogové se nachází uprostřed velkých civilizačních pokroků.  Jejich úkolem je učit i přes neochotu žáka a pomáhat mu orientovat se ve světě, který je ve stavu trvalé změny.
+
+\section{Cíle práce}
+
+Cílem práce je vývoj levné alternativy Braillského řádku na principu Fact Character Display (FCHAD) a dále jeho ověření v praxi na vybraném vzorku nevidomých osob. Budu se zabývat analýzou procesu čtení textového výstupu s podporou tohoto nového neznámého nástroje. Ke splnění zvoleného cíle práce formuluji následující výzkumné otázky:
+
+Jakým způsobem lidé reagují na neznámý nástroj během prvních 45 minut používání?  Jak se novému nástroji přizpůsobují?  Jaké jsou jejich dojmy? Jaká je role pedagoga v procesu podpory učení práce s novým nástrojem?
+
+Zajímavým prvkem studie je to, že FCHAD je pro účastníky úplně neznámý.  Nikdy v životě neslyšeli zkratu FCHAD a nikdy se s podobnými nástroji nesetkali.  Použití FCHADu je složité motoricky a konceptuálně.
+
+Svůj FCHAD jsem vyzkoušel s osmi zrakově postiženými. Účastníci studie na něm četli krátký text a pak mi sdělili své dojmy.  V prvních čtyřech případech mi průběh experimentu zkomplikovaly technické potíže, ale z pěti sezení mám platné výsledky.
