@@ -140,7 +140,7 @@
 \contentsline {subsection}{\numberline {4.3.3}Vlastn\IeC {\'\i } model}{64}
 \contentsline {chapter}{\numberline {5}Z\IeC {\'a}v\IeC {\v e}r}{66}
 \contentsline {chapter}{Literatura}{69}
-\contentsline {chapter}{Appendix}{I}
-\contentsline {section}{\numberline {.1}Technick\IeC {\'e} detaily}{I}
-\contentsline {section}{\numberline {.2}Obr\IeC {\'a}zky FCHADu}{II}
-\contentsline {section}{\numberline {.3}Text na FCHAD}{V}
+\contentsline {chapter}{\numberline {A}Apendix}{I}
+\contentsline {section}{\numberline {A.1}Technick\IeC {\'e} detaily}{I}
+\contentsline {section}{\numberline {A.2}Obr\IeC {\'a}zky FCHADu}{II}
+\contentsline {section}{\numberline {A.3}Text na FCHAD}{V}

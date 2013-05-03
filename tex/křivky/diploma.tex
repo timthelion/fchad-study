@@ -33,17 +33,17 @@
 \newcommand{\SubjectCs}{Bakalářská práce}
 \newcommand{\TitleCs}{Vývoj alternativy Braillského řádku a analýza procesu čtení textového výstupu s podporou nového nástroje}
 \newcommand{\TitleEn}{Development of an alternative Braille display and analysis of reading with the help of the display}
-\newcommand{\KeywordsEn}{refreshable Braille displays, Braille, Textual output, learning curves}
+\newcommand{\KeywordsEn}{Refreshable braille displays, Braille, Textual output, Learning curves}
 \newcommand{\KeywordsCs}{Braillský řádek, Braillovo písmo, čtení textového výstupu, křivka učení}
 \newcommand{\AuthorName}{Timothy Vladimir Hobbs}
 \newcommand{\SupervisorName}{Ing. Karolina Duschinská, Ph.D.}
 \newcommand{\SupervisorEmail}{karolina.duschinska@pedf.cuni.cz}
 \newcommand{\IssuedIn}{Praha}
-\newcommand{\DepartmentEn}{Department of Pedagogy}
+\newcommand{\DepartmentEn}{Department of Education}
 \newcommand{\DepartmentCs}{Katedra pedagogiky}
 \newcommand{\Thanks}{Poděkování
 
-Chtěl bych poděkovat Samuelu Thibaultovi, který se podílel na návrhu nízkoúrovňového protokolu, Davidovi Mielkemu, který vyvinul ovladač pro braillské řádky na Linuxu, a členům brmlab.cz, kteří pomohli s technickou stránkou návrhu.  Dále Christopheru Olahovi, který vyvinul knihovnu ImplicitCad, kterou jsem použil při navrhování plastových dílů FCHADu, členům freenode sítě IRC, zejména členům kanálů \#\#c, \#arduino, a \#haskell pro jejich podporu při práci na softwarové stránce této studie.  Dále Knihovně a tiskárně pro nevidomé K.E. Macana, která mi poskytla bezplatnou tiskařskou službu, a Gymnáziu pro zrakově postižené a Střední odborné škole pro zrakově postižené v Praze, kde tento výzkum probíhal. Na závěr bych rád poděkoval vedoucí mé bakalářské práce, Ing. Karolině Duschinské, Ph.D., za její čas a cenné rady, a Denise Novotné za jazykovou korekturu.}
+Chtěl bych poděkovat Samuelu Thibaultovi, který se podílel na návrhu nízkoúrovňového protokolu, Davidovi Mielkemu, který vyvinul ovladač pro braillské řádky na Linuxu, a členům brmlab.cz, kteří pomohli s technickou stránkou návrhu.  Dále Christopheru Olahovi, který vyvinul knihovnu ImplicitCad, kterou jsem použil při navrhování plastových dílů FCHADu, členům freenode sítě IRC, zejména členům kanálů \#\#c, \#arduino, a \#haskell pro jejich podporu při práci na softwarové stránce této studie.  Dále Knihovně a tiskárně pro nevidomé K.E. Macana, která mi poskytla bezplatnou tiskařskou službu, Gymnáziu pro zrakově postižené a Střední odborné škole pro zrakově postižené v Praze, kde tento výzkum probíhal, a účastníkům studie. Na závěr bych rád poděkoval vedoucí mé bakalářské práce, Ing. Karolině Duschinské, Ph.D., za její čas a cenné rady, a Denise Novotné za jazykovou korekturu.}
 
 %<------------------------------         ------------------------------------>
 
@@ -157,7 +157,7 @@ Chtěl bych poděkovat Samuelu Thibaultovi, který se podílel na návrhu nízko
 %\csprimeson             % `` '' se budou sazet jako ceske
 \begin{center}
 \vspace{10mm}
-\textsf{\textsc{\noun{\LARGE Universita Karlova v Praze}}}\\
+\textsf{\textsc{\noun{\LARGE Univerzita Karlova v Praze}}}\\
 \vspace{0.5em}
 \textsf{\textsc{\noun{\LARGE Pedagogická Fakulta}}}\\
 \vspace*{1em}
@@ -186,7 +186,7 @@ Chtěl bych poděkovat Samuelu Thibaultovi, který se podílel na návrhu nízko
 \clearpage{}~\thispagestyle{empty}\begin{center}\pagenumbering{roman}\vspace{10mm}
 
 
-\textsf{\textsc{\noun{\LARGE Universita Karlova v Praze}}}\\
+\textsf{\textsc{\noun{\LARGE Univerzita Karlova v Praze}}}\\
 \vspace{0.5em}
 \textsf{\textsc{\noun{\LARGE Pedagogická Fakulta}}}\\
 \vspace*{1em}
@@ -217,7 +217,7 @@ Chtěl bych poděkovat Samuelu Thibaultovi, který se podílel na návrhu nízko
 
 \begin{description}
 \item [{{\large Autor:}}] \noindent \textsf{\large \AuthorName}{\large \par}
-\item [{{\large Vedoucí}}] \noindent \textsf{\large \SupervisorName}%
+\item [{{\large Vedoucí:}}] \noindent \textsf{\large \SupervisorName}%
 {\large \hfill{}}\textsf{\large \IssuedIn, \the\year}{\large{}
 }{\large \par}
 \end{description}
@@ -268,7 +268,7 @@ zapůjčováním práce a jejím zveřejňováním. Reprodukce pod licence Creat
 \item [{{\small Vedoucí~diplomové~práce:}}] \noindent {\small \SupervisorName}
 \item [{{\small e-mail~vedoucího:}}] \noindent {\small \SupervisorEmail}\\
 {\small \par}
-\item [{{\small Abstrakt}}] \noindent {\small \input{ch/00_abstract_cs} }{\small \par}
+\item [{{\small Anotace:}}] \noindent {\small \input{ch/00_abstract_cs} }{\small \par}
 \item [{{\small Klíčová~slova:}}] \noindent {\small \KeywordsCs}\\
 {\small \lyxline{\small}}{\small \par}
 \item [{{\small Title:}}] \noindent {\small \TitleEn}{\small \par}
@@ -277,7 +277,7 @@ zapůjčováním práce a jejím zveřejňováním. Reprodukce pod licence Creat
 \item [{{\small Supervisor:}}] \noindent {\small \SupervisorName}{\small \par}
 \item [{{\small Supervisor's~e-mail~address:}}] \noindent {\small \SupervisorEmail}\\
 {\small \par}
-\item [{{\small Abstract}}] \noindent {\small \input{ch/00_abstract} }{\small \par}
+\item [{{\small Anotation:}}] \noindent {\small \input{ch/00_abstract} }{\small \par}
 \item [{{\small Keywords:}}] \noindent {\small \KeywordsEn}{\small \par}
 \end{description}
 %\thispagestyle{empty}~{\small \addcontentsline{toc}{chapter}{Assignment of the Work} }{\small \par}

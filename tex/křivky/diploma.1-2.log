@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Arch Linux) (format=pdflatex 2013.4.27)  2 MAY 2013 22:09
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Arch Linux) (format=pdflatex 2013.4.27)  3 MAY 2013 06:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1136,7 +1136,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 302--304
 [69]
 \openout2 = `ch/99_appendices.aux'.
 
-(./ch/99_appendices.tex [1
+(./ch/99_appendices.tex
+Apendix A.
+[1
 
 
 
@@ -1273,7 +1275,7 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  6743 strings out of 493488
  100970 string characters out of 3146892
- 268702 words of memory out of 3000000
+ 268728 words of memory out of 3000000
  9748 multiletter control sequences out of 15000+200000
  104492 words of font info for 101 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
@@ -1289,7 +1291,7 @@ gyre/qhvr.pfb></usr/share/texmf-dist/fonts/type1/public/tex-gyre/qtmb.pfb></usr
 fonts/type1/public/tex-gyre/qtmr.pfb></usr/share/texmf-dist/fonts/type1/public/
 tex-gyre/qtmri.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></us
 r/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on diploma.pdf (83 pages, 7321011 bytes).
+Output written on diploma.pdf (83 pages, 7321126 bytes).
 PDF statistics:
  371 PDF objects out of 1000 (max. 8388607)
  245 compressed objects within 3 object streams
